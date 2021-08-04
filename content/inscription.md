@@ -7,18 +7,12 @@ aliases:
 ---
 
 {{% div class="well well-secondary" %}}
-## <span class="icon icon-star"></span> Inscription 2021 <span class="icon icon-star"></span>
+## <span class="icon icon-star"></span> Inscription 2021-2022 <span class="icon icon-info"></span>
 
-Les inscriptions pour la saison d’été sont maintenant ouvertes.
-Assurez-vous de prendre connaissance des **tarifs d’inscription** et de la **politique de bénévolat**, puis cliquez sur le lien d’inscription au bas de cette page.
+La saison 2020-2021 tire maintenant à sa fin.
+Surveillez notre site web pour la reprise de la saison 2021-2022 en **septembre** (date à venir).
 
 {{% /div %}}
-
-## Limites du nombre d’inscriptions
-- <span class="badge badge-primary">Nouveau!</span> Limite de **24 inscriptions** pour le groupe des colibris.
-- <span class="badge badge-primary">Nouveau!</span> Limite de **24 inscriptions** pour le groupe des minimes.
-
----
 
 
 {{% div class="well well-danger" %}}
@@ -98,5 +92,6 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
+<!--
 <a class="btn btn-primary btn--block -lg" href="https://www.trackie.com/online-registration/event/club-dathl-tisme-corsaire-chaparral/466906/">**Inscription 2020-2021** <span class="icon icon-pencil"></a>
-
+-->
