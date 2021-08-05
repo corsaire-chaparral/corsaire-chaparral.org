@@ -22,3 +22,13 @@ H7K 2S4
 ## Inscriptions
 
 Sur le site AVS-Sport : https://avs-sport.com/inscriptions.php?comp=517
+
+_Athlètes du Corsaire-Chaparral : veuillez vous inscrire via [NOTRE formulaire](/calendrier/rendez-vous-corsaire-chaparral/)._
+
+## Bénévolat
+
+Nous avons besoin de bénévoles!
+C’est aussi la chance des membres d’accomplir leurs [heures de bénévolat annuelles](/inscription/#benevolat).
+
+Formulaire (à remplir rapidement) :
+https://docs.google.com/forms/d/e/1FAIpQLSeXdgeGhqLdQS12nAHbhiiRFGjzBjMf1cZk6Uy6srzpwg8vMQ/viewform?usp=sf_link
