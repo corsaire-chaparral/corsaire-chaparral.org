@@ -113,6 +113,16 @@
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=97"></script>
 
 
+- id: "petit-pentathlon-nathalie-2021"
+  title: "Le petit pentathlon de Nathalie 2021"
+  information: "https://corsaire-chaparral.org/competitions/petit-pentathlon-de-nathalie/"
+  date: "2021-08-28"
+  limite: "2021-08-26"
+  emplacement: "Laval"
+  frais: "20.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=98"></script>
+
 # Template
 #- id: "2021"
 #  title: "2021"
