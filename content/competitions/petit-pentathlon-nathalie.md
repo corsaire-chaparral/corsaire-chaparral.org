@@ -7,11 +7,9 @@ images:
 
 ## Informations générales
 
-- **Date** : dimanche 28 août 2021
-- **Programme** : _à venir_ <!-- [document technique](https://fichiers.corsaire-chaparral.org/s/artwHa5cwwPjXmT) -->
+- **Date** : samedi 28 août 2021
 - **Responsable de la rencontre** : madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
-- [**Horaire de la journée**](https://assets.corsaire-chaparral.org/competitions/2020/petit-pentathlon-nathalie-horaire-final.pdf)
-- 
+- [**Document d’invitation**](https://fichiers.corsaire-chaparral.org/s/fk5MeWSWZPG2oe8)
 
 ## Emplacement
 
@@ -43,7 +41,7 @@ Aucune inscription sur place.
 
 Nous avons besoin de bénévoles!
 
-Inscrivez vos disponibilités jusqu’au **27 août 2020**.
+Inscrivez vos disponibilités jusqu’au **26 août 2021**.
 
 Le dîner sera offert à celles et ceux qui s’inscriront aux 2 blocs!
 
@@ -53,7 +51,13 @@ Le dîner sera offert à celles et ceux qui s’inscriront aux 2 blocs!
 ## À propos de l’événement
 
 **Le petit pentathlon de Nathalie** s’inscrit dans le _Circuit estival des jeunes_ de la Fédération québécoise d’athlétisme, un circuit d’initiation pour les athlètes de catégorie benjamine et plus jeune.
-Il consiste en un pentathlon pour chacune des catégories: 
+Il consiste en un pentathlon pour chacune des catégories :
+
+- un sprint (50m, 60m ou 80m)
+- le lancer du poids
+- saut en longueur (avec ou sans élan)
+- lancer du javelot (\*remplacé par le saut en hauteur pour les benjamins)
+- une course longue (de 100m à 300m)
 
 ## Résultats
 
