@@ -20,7 +20,9 @@ H7K 2S4
 
 ## Épreuves offertes
 
-Pentathlon pour tous!
+**Pentathlon** pour tous!
+
+**Relais** pour toutes les équipes sur place!
 
 Catégories:
 
@@ -29,24 +31,24 @@ Catégories:
 - Minime (2010-2011)
 - Benjamin (2008-2009)
 
+
 ## Inscription
 
-Inscription sur le iste [AVS-Sport](https://avs-sport.com/main.php) jusqu’au **25 août 2021 à 23h59**.
+Inscription sur le siste [AVS-Sport](https://avs-sport.com/main.php) jusqu’au **25 août 2021 à 23h59**.
 Aucune inscription après cette date.
 
 Aucune inscription sur place.
 
-<!-- 
-## Bénévolat
 
-Nous avons besoin de bénévoles!
+{{< div class="well well-primary" >}}
 
-Inscrivez vos disponibilités jusqu’au **26 août 2021**.
+### <span class="icon icon-assignment"></span> Inscription des athlètes COCH
 
-Le dîner sera offert à celles et ceux qui s’inscriront aux 2 blocs!
+Vous devez plutôt utiliser le **formulaire du club** :  
+https://corsaire-chaparral.org/calendrier/petit-pentathlon-nathalie-2021/
 
-<a href="https://campagnes.corsaire-chaparral.org/benevolat-petit-pentathlon-nathalie-2020" class="btn btn-tertiary -lg">Formulaire de bénévolat <span class="icon icon-pencil"></span></a>
--->
+{{< /div >}}
+
 
 ## À propos de l’événement
 
@@ -58,6 +60,23 @@ Il consiste en un pentathlon pour chacune des catégories :
 - saut en longueur (avec ou sans élan)
 - lancer du javelot (\*remplacé par le saut en hauteur pour les benjamins)
 - une course longue (de 100m à 300m)
+
+## Bénévolat
+
+Nous avons besoin de bénévoles!
+
+Inscrivez vos disponibilités jusqu’au **26 août 2021**.
+
+***Pssst, les parents…*** C’est une compétition à huis clos, sans spectateurs (rassemblements interdits au stade Claude-Ferragne de Laval), mais nous aimerions compter sur votre présence pour assurer le bon déroulement de la compétition de votre enfant pendant ses épreuves!
+
+{{< div class="well" >}}
+
+<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=99"></script>
+
+{{< /div >}}
+
+<!-- <a href="https://campagnes.corsaire-chaparral.org/benevolat-petit-pentathlon-nathalie-2020" class="btn btn-tertiary -lg">Formulaire de bénévolat <span class="icon icon-pencil"></span></a> -->
+
 
 ## Résultats
 
