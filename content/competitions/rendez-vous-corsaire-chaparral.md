@@ -7,8 +7,8 @@ date: 2021-08-21
 ## Informations générales
 
 - **Date** : samedi 21 août 2021
-- **Document d’invitation** : https://fichiers.corsaire-chaparral.org/s/jtLDN39pcwXDE6S
-- **Horaire final** :  https://fichiers.corsaire-chaparral.org/s/jtLDN39pcwXDE6S
+- [**Document d’invitation**](https://fichiers.corsaire-chaparral.org/s/jtLDN39pcwXDE6S)
+- [**Horaire final**](https://fichiers.corsaire-chaparral.org/s/jtLDN39pcwXDE6S)
 - **Directeur de la rencontre** : [Samuel Grondin-Bernier](grondin750@hotmail.com)
 - **Responsable des bénévoles** : [Nancy Boucher](mailto:nanzzou@outlook.com)
 - **Chronométrage et résultats** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
