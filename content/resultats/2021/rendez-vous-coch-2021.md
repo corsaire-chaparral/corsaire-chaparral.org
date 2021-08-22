@@ -1,7 +1,6 @@
 ---
 title: "Rendez-vous Corsaire-Chaparral 2021"
 date: 2021-08-21
-draft: true
 ---
 
 ```
@@ -354,7 +353,7 @@ Garçons Saut en longueur Benjamin
      3.44m(-0.9) 3.39m(-0.5) 3.68m(+0.0)           
   6 Germain, Renaud           09 Saint-Lauren             3.62m  +0.0 
      3.57m(+0.0) 3.34m(+0.0) 3.62m(+0.0)           
-  6 Herta, Daniel             10 Saint-Lauren             3.62m  +0.0 
+  7 Herta, Daniel             10 Saint-Lauren            J3.62m  +0.0 
      3.04m(-0.1) 3.25m(-0.1) 3.62m(+0.0)           
  
 Garçons Lancer du disque 750g Benjamin
@@ -533,8 +532,8 @@ Hommes 400 Mètre Sprint Ouvert
   3 Laguerre-Charest, Alexis  04 Vaudreuil-Do             55.44   1 
   4 Racette, Daniel           03 Vaudreuil-Do             55.75   1 
   5 Griffiths, Mark           80 Vainqueurs P             56.80   2 
-  6 Afkhar, Anas              06 Vainqueurs P           1:02.53   1 
-  7 Zahirovich, Mooshie       64 West Island            1:02.53   2 
+  6 Afkhar, Anas              06 Vainqueurs P           1:02.53   1  1:02.524
+  7 Zahirovich, Mooshie       64 West Island            1:02.53   2  1:02.526
   8 Patry, Justin             05 Rive-Sud               1:03.06   2 
   9 Patry, Alain              76 Rive-Sud               1:04.04   2 
  
@@ -561,19 +560,23 @@ Hommes 1600 Medley sprint Ouvert
     Équipe                                              Finales 
 ================================================================
   1 Vaudreuil-Dorion  'A'                               3:50.89  
+     1) Péladeau, Thomas 04             2) Racette, Daniel 03             
+     3) Domanski, Adam 01               4) Flipo, Cedrik 03               
  -- Vaudreuil-Dorion  'B'                                    DQ   tr 24.7
+     1) Chang, John Augusto 05          2) Laguerre-Charest, Alexis 04    
+     3) Robichaud, Mathias 06           4) Kearney, Alan 05               
  
 Hommes Saut en hauteur Ouvert
 ================================================================
   Provincial: P 2.34m  7/3/2000    Kwaku Boateng, Saint-Laurent Sélect         
     Nom                    Année Équipe                 Finales 
 ================================================================
-  1 Lavoie Beaulieu, Édouard  02 Drummondvill             1.99m  
-     1.75 1.80 1.85 1.90 1.93 1.96 1.99 2.02 
-        O    P    O   XO    P    O    O  XXX 
   1 St-Hilaire, Philippe      95 Athlétisme V             1.99m  
      1.90 1.93 1.96 1.99 2.02 
         O    P    O    O  XXX 
+  2 Lavoie Beaulieu, Édouard  02 Drummondvill            J1.99m  
+     1.75 1.80 1.85 1.90 1.93 1.96 1.99 2.02 
+        O    P    O   XO    P    O    O  XXX 
   3 Mihaljkovic, Tomislav     05 Dynamique De             1.80m  
      1.70 1.75 1.80 1.85 
         O    O    O  XXX 
@@ -586,13 +589,13 @@ Hommes Saut en hauteur Ouvert
   6 Blanchette, Philippe      05 Corsaire-Cha             1.60m  
      1.55 1.60 1.65 
        XO   XO  XXX 
-  7 Guerin, Kayin             05 Corsaire-Cha             1.55m  
-     1.45 1.50 1.55 1.60 
-       XO   XO    O  XXX 
   7 Portugais, Émile          05 Corsaire-Cha             1.55m  
      1.45 1.50 1.55 1.60 
         O    O    O  XXX 
-  7 Pépin, Thierry            07 Corsaire-Cha             1.55m  
+  8 Guerin, Kayin             05 Corsaire-Cha            J1.55m  
+     1.45 1.50 1.55 1.60 
+       XO   XO    O  XXX 
+  9 Pépin, Thierry            07 Corsaire-Cha            J1.55m  
      1.40 1.45 1.50 1.55 1.60 
         O    O    O  XXO  XXX 
  
@@ -634,9 +637,18 @@ Mixte 4x100 Mètre Relais Ouvert
     Équipe                                              Finales  H#
 ===================================================================
   1 West Island T. C.  'A'                                49.97   1 
+     1) Briggs, Kevwe 03                2) Crooks, Alexander 03           
+     3) Zahirovich, Mooshie 64          4) Baazov, Joseph-Jonathan 08     
   2 Corsaire-Chaparral  'B'                               53.43   1 
+     1) Gauthier, Thomas 06             2) Goupil, Clara-Jade 09          
+     3) Perron, Éloïse 06               4) Romulus, Freud Kersley 05      
   3 West Island T. C.  'B'                                55.89   1 
+     1) Zahirovich, Emily 03            2) Filipov, Gala 05               
+     3) Singer, Danica 08               4) Boucher, Kennedy 06            
   4 Corsaire-Chaparral  'A'                               56.98   1 
+     1) Dendani Ramirez, Sarah 08       2) Bellemare, Sabine 08           
+     3) De Léan, Ludovic 09             4) Beaudet, Mai-Ann 08            
   5 West Island T. C.  'C'                              1:02.17   2 
-
+     1) Iaciofano, Athena 08            2) Thorne, Sienna 09              
+     3) Al Mandil, Suad 06              4) Boucher, Kennedy (2) 03        
 ```
