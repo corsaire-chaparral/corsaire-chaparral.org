@@ -3,6 +3,8 @@ title: "Rendez-vous Corsaire-Chaparral 2021"
 date: 2021-08-21
 ---
 
+[Résultats PDF](https://fichiers.corsaire-chaparral.org/s/qNg8mY2N9wa9wd9)
+
 ```
 Licensed to Club D'Athletisme Corsaire - Chaparal         HY-TEK's Meet Manager
                   Rendez-vous Corsaire-Chaparral - 8/21/2021                   
