@@ -11,6 +11,7 @@ images:
 - **Responsable de la rencontre** : madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 - [**Document d’invitation**](https://fichiers.corsaire-chaparral.org/s/fk5MeWSWZPG2oe8)
 - [**Horaire final**](https://fichiers.corsaire-chaparral.org/s/FDGsAkqENooEj2q)
+- [**Résultats en temps réel**](https://avs-sport.com/comp_main.php?comp=518)
 
 ## COVID-19
 
