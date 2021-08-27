@@ -10,7 +10,7 @@ aliases:
 ## <span class="icon icon-star"></span> Inscription 2021-2022 <span class="icon icon-info"></span>
 
 La saison 2020-2021 tire maintenant à sa fin.
-Surveillez notre site web pour la reprise de la saison 2021-2022 en **septembre** (date à venir).
+Surveillez notre site web pour la reprise de la saison 2021-2022 en **septembre** (dates à venir).
 
 {{% /div %}}
 
