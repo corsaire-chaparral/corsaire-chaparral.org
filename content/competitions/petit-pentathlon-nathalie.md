@@ -10,6 +10,13 @@ images:
 - **Date** : samedi 28 août 2021
 - **Responsable de la rencontre** : madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 - [**Document d’invitation**](https://fichiers.corsaire-chaparral.org/s/fk5MeWSWZPG2oe8)
+- [**Horaire final**](https://fichiers.corsaire-chaparral.org/s/FDGsAkqENooEj2q)
+
+## COVID-19
+
+Toute personne présente sur le site (y compris les participant·e·s) doit remplir le formulaire de **reconnaissance de risque lié à la COVID-19**.
+
+<a href="/reconnaissance-risque-covid-19/" class="btn btn-tertiary"><span class="icon icon-assignment"></span>Formulaire de reconnaissance de risque</a>
 
 ## Emplacement
 
@@ -38,7 +45,6 @@ Inscription sur le siste [AVS-Sport](https://avs-sport.com/main.php) jusqu’au 
 Aucune inscription après cette date.
 
 Aucune inscription sur place.
-
 
 {{< div class="well well-primary" >}}
 
@@ -76,7 +82,6 @@ Inscrivez vos disponibilités jusqu’au **26 août 2021**.
 {{< /div >}}
 
 <!-- <a href="https://campagnes.corsaire-chaparral.org/benevolat-petit-pentathlon-nathalie-2020" class="btn btn-tertiary -lg">Formulaire de bénévolat <span class="icon icon-pencil"></span></a> -->
-
 
 ## Résultats
 
