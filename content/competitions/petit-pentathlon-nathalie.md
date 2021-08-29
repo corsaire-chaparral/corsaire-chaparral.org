@@ -87,4 +87,6 @@ Inscrivez vos disponibilités jusqu’au **26 août 2021**.
 
 ## Résultats
 
+[Résulats 2021]({{< ref "resultats/2021/petit-pentathlon-nathalie-2021" >}})
+
 [Résultats 2020]({{< ref "resultats/2020/petit-pentathlon-nathalie" >}})
