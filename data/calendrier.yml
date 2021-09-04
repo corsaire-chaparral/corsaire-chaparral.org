@@ -123,6 +123,16 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=98"></script>
 
+- id: "cadl-saute-2021"
+  title: "CADL Saute 2021"
+  information: "https://athletisme-quebec.ca/medias/cadl-saute-11-septembre-2021.pdf"
+  date: "2021-09-11"
+  limite: "2021-09-08"
+  emplacement: "Laval"
+  frais: "20.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=101"></script>
+
 # Template
 #- id: "2021"
 #  title: "2021"
