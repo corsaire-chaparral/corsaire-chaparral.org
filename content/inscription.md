@@ -6,20 +6,29 @@ aliases:
   - /club/inscription/
 ---
 
-{{% div class="well well-secondary" %}}
-## <span class="icon icon-star"></span> Inscription 2021-2022 <span class="icon icon-info"></span>
-
-La saison 2020-2021 tire maintenant à sa fin.
-Surveillez notre site web pour la reprise de la saison 2021-2022 en **septembre** (dates à venir).
-
-{{% /div %}}
-
-
 {{% div class="well well-danger" %}}
-**NOTE IMPORTANTE SUR LES COURRIELS**
+**<span class="icon icon-mail"></span> Note importante sur les courriels**
 
-Toutes les communications se font par courriel. Assurez-vous d’ajouter **info@corsaire-chaparral.org** à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
+Toutes les communications se font par courriel. Assurez-vous d’ajouter :
+
+**"Corsaire-Chaparral" \<info@corsaire-chaparral.org\>**
+
+à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{% /div %}}
+
+{{% div class="well well-tertiary" %}}
+**<span class="icon icon-assignment"></span> Passeport vaccinal**
+
+Le passeport vaccinal est obligatoire depuis le **1<sup>er</sup> septembre 2021**.
+
+Les activités physiques et sportives ayant lieu sur nos plateaux d'entrainement sont notamment identifiées comme une catégorie exigeant le passeport vaccinal. Ainsi, tous nos athlètes, spectateurs et participants à nos activités devront être adéquatement protégés pour avoir accès à nos plateaux.  Il est très important pour nous d'assurer la santé et la sécurité de nos membres ainsi que celle de notre équipe.
+
+Pour cette raison, nous demanderons à TOUTES les personnes âgées de 13 ans et plus de présenter une preuve d'immunisation et une pièce d'identité avant d'avoir accès à nos installations.
+
+Merci de votre collaboration.
+
+{{% /div %}}
+
 
 ## Informations générales et politiques d'inscription
 
@@ -36,26 +45,32 @@ Le tarif de la cotisation 2020-2021 est établi selon la catégorie d'âge, il e
 
 Les inscriptions mensuelles ne sont pas acceptées.
 
+| Catégorie            | Automne <br> <small>(27 sept. - 3 décembre)</small>  | Hiver  <br> <small>(10 janv. - 25 mars 2022)</small>  | Printemps <br> <small> (11 avril - 17 juin 2022)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
+| ------------------------ | ------ | ------ | ------ | ------ |
+| Colibri (2013-2014-2015) | 135 $  | 135 $  | 135 $  | 135 $  |
+| Minime (2011-2012)       | 175 $  | 175 $  | 175 $  | 175 $  |
+
+\* Saison d’été à valider.
+
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 21 août |
 | ----------------------- | ------------------ | ------ | ------ |
-| Colibri (2012-2013-2014)| 130 $ par session  | 130 $ par session | 130 $ par session |
-| Minime (2010-2011)      | 170 $ par session  | 170 $ par session | 170 $ par session |
-| Benjamin  (2008-2009)   | 610 $              | 392 $  | 244 $ |
-| Cadet (2006-2007)       | 725 $              | 575 $  | 319 $ |
-| Juvénile (2004-2005)    | 792 $              | 650 $  | 353 $ |
-| Junior (2002-2003)      | 792 $              | 770 $  | 353 $ |
-| Senior (1987-2001)      | 970 $              | 780 $  | 467 $ |
-| Vétéran (1986 et avant) | 792 $              | 650 $  | 353 $ |
+| Benjamin  (2009-2010)   | 620 $              | 495 $  | 262 $ |
+| Cadet (2007-2008)       | 775 $              | 600 $  | 355 $ |
+| Juvénile (2005-2006)    | 825 $              | 675 $  | 427 $ |
+| Junior (2003-2004)      | 970 $              | 783 $  | 524 $ |
+| Senior (1986-2002)      | 980 $              | 793 $  | 534 $ |
+| Vétéran (1985 et avant) | 800 $              | 660 $  | 400 $ |
 
 
 {{< note >}}
 ### Notes
 
-- **Chandail ou camisole obligatoire** : le port du vêtement officiel aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin.  Le coût de ce vêtement n’est pas inclus dans la cotisation.
-- **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
-- **Frais de piste** : les résidents de la ville de **Blainville** sont exemptés des frais d’infrastructure (50&nbsp;$), remboursés après l'inscription.
-- **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit annuellement au club.  L’inscription des membres d’une même famille doit être complétée en même temps.
-- **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
+- **Chandail ou camisole obligatoire** : le port du vêtement officiel aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin.  Le coût de ce vêtement n’est pas inclus dans la cotisation.
+- **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
+- **Frais de piste** : il n’y a plus de frais de piste pour les résidents des municipalités environnantes.  Ainsi, les résidents de la ville de Blainville ne sont plus exemptés des frais d’infrastructure.  Pour les résidents des municipalités de Laval et Montréal, des frais de piste pourraient s’ajouter à la facturation.
+- **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club. L’inscription des membres d’une même famille doit être complétée en même temps pour recevoir ce rabais.
+- **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
+- **Passeport vaccinal** <em class="badge badge-tertiary">Nouveau</em> : le passeport vaccinal sera obligatoire pour tous nos athlètes de 13 ans et plus.
 {{< /note >}}
 
 <!--
@@ -71,7 +86,7 @@ Les inscriptions mensuelles ne sont pas acceptées.
 ## Bénévolat et activités de financement {#benevolat}
 
 
-{{< note well-secondary >}}
+{{< note well-light >}}
 **Pour faire créditer son dépôt de bénévolat des années antérieures, [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
 {{< /note >}}
 
