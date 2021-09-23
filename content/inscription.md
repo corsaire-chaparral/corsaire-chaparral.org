@@ -103,7 +103,7 @@ La comptabilisation des heures de bénévolat se terminant le **31 août**, la c
 Consultez les [activités de bénévolat](/club/benevolat/).
 
 
-## Paiement et inscription {#inscription}
+## Inscription et paiement {#inscription}
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
