@@ -107,6 +107,6 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-<!--
-<a class="btn btn-primary btn--block -lg" href="https://www.trackie.com/online-registration/event/club-dathl-tisme-corsaire-chaparral/466906/">**Inscription 2020-2021** <span class="icon icon-pencil"></a>
--->
+
+<a class="btn btn-primary btn--block -lg" href="https://www.trackie.com/inscription/evenement/club-dathl-tisme-corsaire-chaparral/472493/">**Inscription 2021-2022** <span class="icon icon-pencil"></a>
+
