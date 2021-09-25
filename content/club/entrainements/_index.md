@@ -11,6 +11,11 @@ icon: stopwatch
 layout: single
 ---
 
+{{< div class="well well-tertiary" >}}
+<span class="icon icon-calendar"></span> **Saison 2021-2022**  
+Reprise des entraînements à partir du 27 septembre 2021.
+{{< /div >}}
+
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
 Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sportif de la **Polyvalente Sainte-Thérèse** qui lui est adjacent.
@@ -40,42 +45,27 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
+### Colibri (2013-2014) {#colibri}
 
-### Colibri (2012-2013-2014) {#colibri}
+- Samedi 9 h à 10 h 30
 
-- **Groupe #1** : Samedi 9 h à 10 h 30, du samedi 19 juin au samedi 28 août 2021
-- **Groupe #2** : Samedi 10 h 30 à 12 h, du samedi 19 juin au samedi 28 août 2021
+*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives).*
 
-Animatrices responsables :
-
-- Mélissa Bitar
-- Ève Finnerty
-- Anne Calestagne
-
-### Minime (2010-2011) {#minime}
-
-Du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
+### Minime (2011-2012) {#minime}
 
 - Samedi 9 h à 10 h 30, du samedi 19 juin au samedi 28 août 2021
 
-Animateur(trice)s responsables :
+*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives).*
 
-- Chloé Robitaille
-- Edward Robidoux
-- Mélodie Paré
-
-
-### Benjamin (2008-2009) {#benjamin}
-
-Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au samedi 28 août 2021.
+### Benjamin (2009-2010) {#benjamin}
 
 - Jeudi 18 h à 19 h 30
-- Samedi 9 h à 10 h 30
+- Samedi 11 h à 12 h 30
 
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).  
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
-### Cadet (2006-2007) {#cadet}
+### Cadet (2007-2008) {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
@@ -83,15 +73,13 @@ _Pour tout renseignement concernant les entraînements en athlétisme pour les j
 
 <!--Consultez le [calendrier](cadets) pour les cadets.-->
 
-Entraîneur responsable : Samuel Grondin-Bernier.
-
-### Juvénile (2004-2005), junior (2002-2003) et senior (1987-2001) {#juvenile-junior-senior}
+### Juvénile (2005-2006), junior (2003-2004) et senior (1986-2002) {#juvenile-junior-senior}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran (1986 et avant) {#veteran}
+### Vétéran (1985 et avant) {#veteran}
 
 Horaire à confirmer lors de l'inscription.
 
