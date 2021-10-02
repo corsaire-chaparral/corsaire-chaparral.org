@@ -49,13 +49,13 @@ Selon les catégories (voir ci-bas).
 
 - Samedi 9 h à 10 h 30
 
-*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives).*
+*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives) - **maximum de 10 athlètes**.*
 
 ### Minime (2011-2012) {#minime}
 
 - Samedi 9 h à 10 h 30, du samedi 19 juin au samedi 28 août 2021
 
-*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives).*
+*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives) - maximum de **30 athlètes**.*
 
 ### Benjamin (2009-2010) {#benjamin}
 
@@ -65,11 +65,15 @@ Selon les catégories (voir ci-bas).
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).  
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
+<em class="badge badge-danger">Attention</em> Maximum de 30 athlètes.
+
 ### Cadet (2007-2008) {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
+
+<em class="badge badge-danger">Attention</em> Maximum de 30 athlètes.
 
 <!--Consultez le [calendrier](cadets) pour les cadets.-->
 
