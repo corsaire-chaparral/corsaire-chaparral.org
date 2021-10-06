@@ -4,15 +4,6 @@
 {{- $competition := . -}}
 {{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.limite)) (time now) -}}
 <section>
-  <h3>
-    {{- if $limitCheck -}}
-    <s>
-    {{- $competition.title | markdownify -}}
-    </s>
-    {{- else -}}
-    {{- $competition.title | markdownify -}}
-    {{- end -}}
-  </h3>
   
   {{- with $competition.description -}}
   <p>{{ . | markdownify }}</p>
@@ -45,16 +36,16 @@
 
   {{- if $competition.frais -}}
   <section class="row-sm">
-    <h4>Étape 1. Paiement</h4>
+    <h4>Paiement</h4>
 
-    <p>
-      Le paiement doit être fait pour que l'inscription soit valide.
-    </p>
-    <p>
-      <strong>Instructions</strong> : Ajoutez toutes les épreuves auxquelles vous souhaitez participer, puis payez par carte de crédit. Notez le <strong>numéro de confirmation</strong> (ex. <code>COCH1234</code>) lorsque la transaction est complétée.
-    </p>
+<!--    <p>-->
+<!--      Le paiement doit être fait pour que l'inscription soit valide.-->
+<!--    </p>-->
+<!--    <p>-->
+<!--      <strong>Instructions</strong> : Ajoutez toutes les épreuves auxquelles vous souhaitez participer, puis payez par carte de crédit. Notez le <strong>numéro de confirmation</strong> (ex. <code>COCH1234</code>) lorsque la transaction est complétée.-->
+<!--    </p>-->
 
-    <p><strong class="badge badge-danger">ATTENTION!</strong> Après le paiement, il faut passer à <strong>l’étape 2</strong> (informations de l’athlète).</p>
+<!--    <p><strong class="badge badge-danger">ATTENTION!</strong> Après le paiement, il faut passer à <strong>l’étape 2</strong> (informations de l’athlète).</p>-->
 
     {{ range $nom, $frais := $competition.structureFrais }}
     <button

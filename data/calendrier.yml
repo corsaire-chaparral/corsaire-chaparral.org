@@ -133,6 +133,16 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=101"></script>
 
+
+- id: "camp-entrainement-automne-2021"
+  title: "Camp d’entraînement automne 2021"
+  information: ""
+  date: "2021-10-22"
+  limite: "2021-10-08"
+  emplacement: ""
+  frais: "180.38"
+  formulaire: >
+
 # Template
 #- id: "2021"
 #  title: "2021"
