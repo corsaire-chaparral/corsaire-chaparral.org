@@ -49,7 +49,7 @@ Selon les catégories (voir ci-bas).
 
 - Samedi 9 h à 10 h 30
 
-*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives) - **maximum de 10 athlètes**.*
+*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives) - **maximum de ~~10~~ <ins>16</ins> athlètes**.*
 
 ### Minime (2011-2012) {#minime}
 
