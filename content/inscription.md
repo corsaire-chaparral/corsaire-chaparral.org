@@ -47,7 +47,7 @@ Les inscriptions mensuelles ne sont pas acceptées.
 
 | Catégorie            | Automne <br> <small>(27 sept. - 3 décembre)</small>  | Hiver  <br> <small>(10 janv. - 25 mars 2022)</small>  | Printemps <br> <small> (11 avril - 17 juin 2022)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
 | ------------------------ | ------ | ------ | ------ | ------ |
-| Colibri (2013-2014-2015) | 135 $  | 135 $  | 135 $  | 135 $  |
+| Colibri (2013-2014) | 135 $  | 135 $  | 135 $  | 135 $  |
 | Minime (2011-2012)       | 175 $  | 175 $  | 175 $  | 175 $  |
 
 \* Saison d’été à valider.
