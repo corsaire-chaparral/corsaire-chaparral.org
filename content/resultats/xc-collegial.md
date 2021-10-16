@@ -118,11 +118,11 @@ Resultats - Femme
     Nom                     Year École                  Finales  Points
 =======================================================================
 Resultats - Homme                                                      
-  1 Xavier Lemaitre              St-Lambert            27:15.00    1   
-  2 Aidan Raynor                 John-Abott            27:20.00    2   
-  3 Samuel Hepworth              Dawson                27:30.00    3   
-  4 Louis Marchand               St-Lambert            27:40.00    4   
-  5 Jérôme Jacques               Montpetit             27:50.00    5   
+  1 Xavier Lemaitre              St-Lambert            27:15.0h    1   
+  2 Aidan Raynor                 John-Abott            27:20.0h    2   
+  3 Samuel Hepworth              Dawson                27:30.0h    3   
+  4 Louis Marchand               St-Lambert            27:40.0h    4   
+  5 Jérôme Jacques               Montpetit             27:50.0h    5   
   6 Daniel Cross                 John-Abott            28:01.22    6   
   7 Cedrick Flipo                Montpetit             28:12.97    7   
   8 Charles Grimard              St-Jérôme             28:36.39    8   
@@ -234,5 +234,5 @@ Resultats - Homme
  -- William Charbonneau          John-Abott                 DNS        
  -- Hyacinthe Lapierre           Vieux-Montréal             DNS        
  -- Thomas Brodeur               L’assomption               DNS        
- -- Danny Brunet                 John-Abott                 DNS           
+ -- Danny Brunet                 John-Abott                 DNS                
 ```
