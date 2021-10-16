@@ -1,7 +1,9 @@
 ---
-title: "Championnat de conférence - Cross-country collégial"
+title: "Championnat de conférence sud-ouest – Cross-country collégial"
 date: 2021-10-16
 ---
 
-- Résultats féminins
-- Résultats masculins
+Parc équestre de Blainville
+
+- Résultats féminins (6 km)
+- Résultats masculins (8km)
