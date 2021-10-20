@@ -143,6 +143,24 @@
   frais: "180.38"
   formulaire: >
 
+- id: "championnat-quebecois-xc-2021"
+  title: "Championnats québécois de cross-country 2021"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2815&mod=event"
+  date: "2021-10-30"
+  limite: "2021-10-21"
+  emplacement: "Québec"
+  frais: "Selon la catégorie – 22,00$ ou 28,00"
+  structureFrais:
+    "Benjamin": 22.00
+    "Cadet": 22.00
+    "Juvénile": 22.00
+    "Junior": 28.00
+    "Senior": 28.00
+    "Vétéran": 28.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=102"></script>
+
+
 # Template
 #- id: "2021"
 #  title: "2021"
