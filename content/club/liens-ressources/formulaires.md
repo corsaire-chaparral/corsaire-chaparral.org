@@ -15,6 +15,6 @@ icon: assignment
 
 ## Entraineurs et athlètes
 
-- <span class="badge badge-primary">Nouveau!</span> [Inscription des entraîneurs](http://trackiereg.com/coch)
+- [Inscription des entraîneurs 2021-2022](https://www.trackie.com/inscription/evenement/entra-neurs-corsaire-chaparral-2022/472674/)
 - [Formulaire de demande de remboursement](https://assets.corsaire-chaparral.org/formulaires/demande-de-remboursement.pdf)
 - [Formulaire de demande d’aide financière](https://assets.corsaire-chaparral.org/formulaires/demande-de-participation.pdf)
