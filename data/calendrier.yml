@@ -160,6 +160,16 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=102"></script>
 
+- id: "championnats-xc-canadiens-2021"
+  title: "Championnats canadiens de cross-country 2021"
+  information: "https://athletics.ca/events/2021-canadian-cross-country-championships/"
+  date: "2021-11-27"
+  limite: "2021-11-14"
+  emplacement: "Ottawa"
+  frais: 60.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=103"></script>
+
 
 # Template
 #- id: "2021"
