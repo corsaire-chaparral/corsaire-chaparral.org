@@ -170,6 +170,19 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=103"></script>
 
+- id: "rouge-et-or-invitation-2021"
+  title: "Rouge et Or Invitation 2021"
+  information: "https://athletisme-quebec.ca/medias/roinvitation2021-document-technique.pdf"
+  date: "2021-12-04"
+  limite: "2021-11-28"
+  emplacement: "Québec"
+  frais: "Cadets: 22,50$; ouvert: 27,50"
+  structureFrais:
+    "Cadet": 22.50
+    "Ouvert": 27.50
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=104"></script>
+
 
 # Template
 #- id: "2021"
