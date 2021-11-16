@@ -3,7 +3,7 @@ title: Ouverture du stade Richard-Garneau
 subtitle: "COVID-19"
 slug: covid19-ouverture-stade-richard-garneau
 images:
-- /nouvelles/2020/05/22/covid19-ouverture-stade-richard-garneau/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2020/05/22/covid19-ouverture-stade-richard-garneau/couverture.jpg
 date: 2020-05-22
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le stade Richard-Garneau (adjacent à la Polyvalente Ste-Thérèse) est désormais ouvert à partir d’aujourd’hui, sous certaines conditions.

@@ -3,7 +3,7 @@ title: Activités d’entraînement suspendues
 subtitle: "COVID-19"
 slug: covid-19-suspension-entrainements
 images:
-- /nouvelles/2020/03/13/covid-19-suspension-entrainements/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2020/03/13/covid-19-suspension-entrainements/couverture.jpg
 date: 2020-03-13
 author: Club d’athlétisme Corsaire-Chaparral
 description: "Toutes les activités du Corsaire-Chaparral sont suspendues pour une durée d’au moins deux semaines."

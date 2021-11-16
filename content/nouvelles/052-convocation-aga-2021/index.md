@@ -3,7 +3,7 @@ title: Convocation à l’AGA 2021
 subtitle: "Assemblée générale annuelle"
 slug: convocation-aga-2021
 images:
-- /nouvelles/2021/10/22/convocation-aga-2021/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2021/10/22/convocation-aga-2021/couverture.jpg
 date: 2021-10-22
 author: Membres du conseil d’administration, Club d’athlétisme Corsaire-Chaparral
 description: Tous les membres du Corsaire-Chaparral sont convoqués à l’assemblée générale annuelle 2021.

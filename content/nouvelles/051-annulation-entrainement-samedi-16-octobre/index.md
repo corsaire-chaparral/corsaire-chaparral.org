@@ -3,7 +3,7 @@ title: Annulation d’entrainement samedi 16 octobre
 subtitle: "Entraînements"
 slug: annulation-entrainement-samedi-16-octobre
 images:
-- /nouvelles/2021/10/15/annulation-entrainement-samedi-16-octobre/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2021/10/15/annulation-entrainement-samedi-16-octobre/couverture.jpg
 date: 2021-10-15
 author: Club d’athlétisme Corsaire-Chaparral
 description: En raison de la mauvaise météo annoncée par Environnement Canada, l’entraînement du samedi 16 octobre sera exceptionnellement annulé.

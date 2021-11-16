@@ -3,7 +3,7 @@ title: Mesures COVID-19 à partir du 8 février 2021
 subtitle: "COVID-19"
 slug: covid19-fevrier-2021
 images:
-- /nouvelles/2021/02/14/covid19-fevrier-2021/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2021/02/14/covid19-fevrier-2021/couverture.jpg
 date: 2021-02-14
 author: Club d’athlétisme Corsaire-Chaparral
 description: "Session de printemps annulée pour les colibris et minimes; certains assouplissements à compter du 8 février 2021."

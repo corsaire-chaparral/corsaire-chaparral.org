@@ -3,7 +3,7 @@ title: Réouverture des inscriptions
 subtitle: "Été 2021"
 slug: reouverture-des-inscriptions
 images:
-- /nouvelles/2021/06/06/reouverture-des-inscriptions/couverture.png
+- https://assets.corsaire-chaparral.org/nouvelles/2021/06/06/reouverture-des-inscriptions/couverture.png
 date: 2021-06-06
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le club annonce la réouverture des inscriptions pour la session d’été 2021.

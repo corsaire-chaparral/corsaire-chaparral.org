@@ -6,7 +6,7 @@ date: 2019-03-26
 author: Nathalie Prince et Louis-Olivier Brassard
 description: Plusieurs athlètes du Corsaire-Chaparral ont pris part au championnat canadien en salle Hershey les 16 et 17 mars 2019. Certains y ont d’ailleurs récolté des médailles.
 images:
-- /nouvelles/2019/03/26/championnat-canadien-hershey-2019/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/03/26/championnat-canadien-hershey-2019/couverture.jpg
 ---
 
 Parmi les faits saillants, on compte les lanceurs de marteau **Cédric Rolland** (2001) et **Ludwig Casaubon**, tous athlètes de la ville de Laval. L’équipe féminine du relais 4x200 s’est également démarquée en fracassant deux records.

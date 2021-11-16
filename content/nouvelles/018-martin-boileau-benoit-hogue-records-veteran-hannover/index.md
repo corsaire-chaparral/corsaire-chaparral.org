@@ -6,7 +6,7 @@ date: 2019-01-23
 author: Louis-Olivier Brassard et Nathalie Prince
 description: 2 athlètes du Corsaire-Chaparral pulvérisent un record québécois datant de 1998.
 images:
-- /nouvelles/2019/01/23/martin-boileau-benoit-hogue-records-veteran-hannover/martin-boileau-benoit-hogue-hannover-2019.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/01/23/martin-boileau-benoit-hogue-records-veteran-hannover/martin-boileau-benoit-hogue-hannover-2019.jpg
 ---
 
 MM Martin Boileau et Benoit Hogue ont participé le 13 janvier dernier à une rencontre d’athlétisme en stade intérieur à Hannover, au New Hampshire (É-U).

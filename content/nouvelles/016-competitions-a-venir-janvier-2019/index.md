@@ -6,7 +6,7 @@ slug: competitions-a-venir-janvier-2019
 author: Club d’athlétisme Corsaire-Chaparral
 description: Voici une liste sommaire des prochaines compétitions à venir cet hiver (d'autres pourront s'y ajouter). À mettre à votre agenda!
 images:
-- /nouvelles/2019/01/11/competitions-a-venir-janvier-2019/garcon-coch.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/01/11/competitions-a-venir-janvier-2019/garcon-coch.jpg
 ---
 
 Les prochaines compétitions sont les suivantes :

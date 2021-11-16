@@ -3,7 +3,7 @@ title: Reprise (progressive) des activités
 subtitle: "COVID-19"
 slug: reprise-des-activites-covid19
 images:
-- /nouvelles/2020/05/14/reprise-des-activites-covid19/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2020/05/14/reprise-des-activites-covid19/couverture.jpg
 date: 2020-05-14
 author: Club d’athlétisme Corsaire-Chaparral
 description: La pratique individuelle est autorisée.

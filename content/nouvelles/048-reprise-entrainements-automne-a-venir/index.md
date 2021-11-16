@@ -3,7 +3,7 @@ title: Reprise des entraînements à l’automne 2021 - date à venir
 subtitle: "Inscriptions"
 slug: reprise-entrainements-automne-a-venir
 images:
-- /nouvelles/2021/08/26/reprise-entrainements-automne-a-venir/couverture.png
+- https://assets.corsaire-chaparral.org/nouvelles/2021/08/26/reprise-entrainements-automne-a-venir/couverture.png
 date: 2021-08-26
 author: Club d’athlétisme Corsaire-Chaparral
 description: La reprise de la saison 2021-2022 sera annoncée au début du mois de septembre.

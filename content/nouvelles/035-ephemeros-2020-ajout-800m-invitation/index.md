@@ -3,7 +3,7 @@ title: Ajout d’un 800m haute performance à l’Ephemeros COCH du 8 août 2020
 subtitle: "Compétitions"
 slug: ephemeros-2020-ajout-800m-invitation
 images:
-- /nouvelles/2020/07/31/ephemeros-2020-ajout-800m-invitation/couverture.png
+- https://assets.corsaire-chaparral.org/nouvelles/2020/07/31/ephemeros-2020-ajout-800m-invitation/couverture.png
 date: 2020-07-31
 author: Club d’athlétisme Corsaire-Chaparral
 description: Des athlètes de calibre internationale seront à Ste-Thérèse le 8 août prochain. 

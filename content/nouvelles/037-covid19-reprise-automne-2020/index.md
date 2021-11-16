@@ -3,7 +3,7 @@ title: Informations importantes concernant la reprise à l’automne 2020
 subtitle: "Entraînements"
 slug: covid19-reprise-automne-2020
 images:
-- /nouvelles/2020/10/01/covid19-reprise-automne-2020/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2020/10/01/covid19-reprise-automne-2020/couverture.jpg
 date: 2020-10-01
 author: Club d’athlétisme Corsaire-Chaparral
 description: "Certains entraînements peuvent reprendre, annulations prévues pour les catégories plus jeunes."

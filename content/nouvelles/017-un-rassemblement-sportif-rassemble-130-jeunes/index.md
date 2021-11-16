@@ -6,7 +6,7 @@ date: 2019-01-21
 author: Nicolas T. Parent
 description: Le _Festival des jeunes Corsaire-Chaparral_, une compétition du circuit _Mes premières foulées Bruny Surin_ pour les 7 à 12 ans, a eu lieu le 15 décembre 2018.
 images:
-- /nouvelles/2019/01/21/un-rassemblement-sportif-rassemble-130-jeunes/jeunes-action-challenge-andre-harel.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/01/21/un-rassemblement-sportif-rassemble-130-jeunes/jeunes-action-challenge-andre-harel.jpg
 ---
 
 Les gymnases de la polyvalente Sainte-Thérèse étaient les lieux d’un rassemblement sportif, le samedi 15 décembre, alors que se tenait une compétition organisée par le club régional d’athlétisme Corsaire-Chaparral et sanctionnée par la Fédération québécoise d’athlétisme (FQA), accueillant 130 jeunes âgés de 12 ans et moins.

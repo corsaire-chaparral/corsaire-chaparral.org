@@ -6,7 +6,7 @@ description: >
   Le Corsaire-Chaparral participe à l'élaboration d'un programme de sports-études en athlétisme à l'école secondaire Saint-Gabriel en septembre 2019.
 date: 2018-11-15
 images:
-- /nouvelles/2018/11/15/sondage-sport-etudes-st-gabriel-2019-2020/athlete-coch-depart.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2018/11/15/sondage-sport-etudes-st-gabriel-2019-2020/athlete-coch-depart.jpg
 ---
 
 Cela vous intéresse? Répondez à ce très court [sondage](https://campagnes.corsaire-chaparral.org/sondage-sport-etudes-st-gabriel-2019-2020)!

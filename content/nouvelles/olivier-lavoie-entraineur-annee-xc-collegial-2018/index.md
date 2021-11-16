@@ -3,9 +3,9 @@ title: Olivier Lavoie, entraîneur de l’année ACSC en cross-country
 slug: olivier-lavoie-entraineur-annee-xc-collegial-2018
 images:
 - /img/nouvelles/olivier-lavoie2-blainville-2018.jpg
-- /nouvelles/2018/11/10/olivier-lavoie-entraineur-annee-xc-collegial-2018/olivier-lavoie-blainville-2018.jpg
-- /nouvelles/2018/11/10/olivier-lavoie-entraineur-annee-xc-collegial-2018/olivier-lavoie3-blainville-2018.jpg
-- /nouvelles/2018/11/10/olivier-lavoie-entraineur-annee-xc-collegial-2018/olivier-lavoie-xc-2018.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2018/11/10/olivier-lavoie-entraineur-annee-xc-collegial-2018/olivier-lavoie-blainville-2018.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2018/11/10/olivier-lavoie-entraineur-annee-xc-collegial-2018/olivier-lavoie3-blainville-2018.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2018/11/10/olivier-lavoie-entraineur-annee-xc-collegial-2018/olivier-lavoie-xc-2018.jpg
 subtitle: Cross-country
 date: 2018-11-10
 author: Association canadienne du sport collégial

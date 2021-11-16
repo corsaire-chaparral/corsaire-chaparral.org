@@ -7,7 +7,7 @@ author: Club d’athlétisme Corsaire-Chaparral
 description: >
   Les prochaines ventes de vêtements se tiendront le samedi 30 mars 2019 de 10 h à 12 h, ainsi que le jeudi 11 avril 2019 de 18 h 30 à 19 h 30.
 images:
-- /nouvelles/2019/03/29/prochaines-ventes-de-vetements/athlete-dos.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/03/29/prochaines-ventes-de-vetements/athlete-dos.jpg
 ---
 
 ## Nouveautés!

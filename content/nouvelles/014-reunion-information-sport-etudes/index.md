@@ -6,7 +6,7 @@ slug: reunion-information-sport-etudes
 author: Club d’athlétisme Corsaire-Chaparral
 description: Une réunion d’information pour le programme de sport-études aura lieu le mercredi 16 janvier à 19 h.
 images:
-- /nouvelles/2019/01/08/reunion-information-sport-etudes/christian-fregnan-339342-unsplash.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/01/08/reunion-information-sport-etudes/christian-fregnan-339342-unsplash.jpg
 ---
 
 Tous les parents dont les parents intéressés à inscrire leur enfant au programme de sport-études à l’École Saint-Gabriel sont invités à cette rencontre.

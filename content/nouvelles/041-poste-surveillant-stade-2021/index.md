@@ -3,7 +3,7 @@ title: Poste de surveillant·e de stade à combler
 subtitle: "Stade Richard-Garneau"
 slug: poste-surveillant-stade-2021
 images:
-- /nouvelles/2021/04/06/poste-surveillant-stade-2021/couverture.png
+- https://assets.corsaire-chaparral.org/nouvelles/2021/04/06/poste-surveillant-stade-2021/couverture.png
 date: 2021-04-06
 author: Club d’athlétisme Corsaire-Chaparral
 description: La ville de Sainte-Thérèse cherche un·e surveillant·e de stade à partir du 12 avril. 

@@ -3,7 +3,7 @@ title: Annonce de partenariat avec le Club Lions Sainte-Thérèse
 subtitle: "Partenariat"
 slug: partenariat-club-lions-ste-therese
 images:
-- /nouvelles/2019/04/28/partenariat-club-lions-ste-therese/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/04/28/partenariat-club-lions-ste-therese/couverture.jpg
 date: 2019-04-28
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le Corsaire-Chaparral est heureux d'annoncer un partenariat avec le Club Lions Sainte-Thérèse.

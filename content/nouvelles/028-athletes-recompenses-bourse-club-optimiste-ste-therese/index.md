@@ -3,7 +3,7 @@ title: Trois jeunes athlètes de Sainte-Thérèse récompensés pour leur excell
 subtitle: "Sport-études"
 slug: athletes-recompenses-bourse-club-optimiste-ste-therese
 images:
-- /nouvelles/2019/05/11/athletes-recompenses-bourse-club-optimiste-ste-therese/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/05/11/athletes-recompenses-bourse-club-optimiste-ste-therese/couverture.jpg
 date: 2019-05-11
 author: Club d’athlétisme Corsaire-Chaparral
 description: >

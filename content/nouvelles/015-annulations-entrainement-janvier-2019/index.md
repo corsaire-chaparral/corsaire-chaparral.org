@@ -6,7 +6,7 @@ slug: annulations-entrainement-janvier-2019
 author: Club d’athlétisme Corsaire-Chaparral
 description: Veuillez prendre note des annulation d'entraînements pour le mois de janvier 2019
 images:
-- /nouvelles/2019/01/10/annulations-entrainement-janvier-2019/course-festival-coch-christophe-barras.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/01/10/annulations-entrainement-janvier-2019/course-festival-coch-christophe-barras.jpg
 ---
 
 Les dates d'annulation d'entraînement sont les suivantes :

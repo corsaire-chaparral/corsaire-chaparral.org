@@ -3,7 +3,7 @@ title: Convocation à l’AGA 2020
 subtitle: "Assemblée générale annuelle"
 slug: convocation-aga-2020
 images:
-- /nouvelles/2020/10/20/convocation-aga-2020/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2020/10/20/convocation-aga-2020/couverture.jpg
 date: 2020-10-20
 author: Club d’athlétisme Corsaire-Chaparral
 description: >

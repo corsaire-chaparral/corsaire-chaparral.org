@@ -6,7 +6,7 @@ date: 2019-01-27
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le Corsaire-Chaparral tiendra sa compétition hivernale ce samedi 2 février au Complexe sportif Claude-Robillard (Montréal).
 images:
-- /nouvelles/2019/01/27/inscription-challenge-andre-harel/promo-challenge-andre-harel-2019.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/01/27/inscription-challenge-andre-harel/promo-challenge-andre-harel-2019.jpg
 ---
 
 

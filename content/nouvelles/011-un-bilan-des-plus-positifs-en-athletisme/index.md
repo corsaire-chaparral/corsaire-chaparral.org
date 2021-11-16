@@ -6,7 +6,7 @@ date: "2018-11-23"
 author: Club d’athlétisme Corsaire-Chaparral
 description: C’est dans une ambiance amicale que s’est déroulée l’assemblée générale annuelle du Club d’athlétisme Corsaire-Chaparral, tenue le samedi le 3 novembre à la polyvalente de Sainte-Thérèse.
 images:
-- /nouvelles/2018/11/23/un-bilan-des-plus-positifs-en-athletisme/ca-aga-corsaire-chaparral-2018.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2018/11/23/un-bilan-des-plus-positifs-en-athletisme/ca-aga-corsaire-chaparral-2018.jpg
 ---
 
 Le président Louis Lauzon s’est dit très fier de l’année écoulée, porteuse de beaucoup de dossiers. En plus d’ouvrir un club satellite à Lachute, de nouveaux vêtements ont été redessinés en fonction du nouveau logo. Le club a eu droit à une subvention pour deux emplois d’été, un nouveau site Web, une politique de gouvernance traitant des règlements généraux nécessaire à la progression du club, un comité a mis en place un code d’éthique tant pour les entraîneurs, les athlètes que pour les administrateurs et les parents, et le pique-nique annuel de fin de saison. M. Lauzon a tenu à remercier tous les parents bénévoles qui s’impliquent pour le club ainsi que les administrateurs pour les différents comités et suivis.

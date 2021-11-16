@@ -3,7 +3,7 @@ title: "Le passeport vaccinal est obligatoire pour la nouvelle saison 2021-2022.
 subtitle: "Saison 2021-2022"
 slug: passeport-vaccinal-obligatoire-saison-2021-2022
 images:
-- /nouvelles/2021/09/22/passeport-vaccinal-obligatoire-saison-2021-2022/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2021/09/22/passeport-vaccinal-obligatoire-saison-2021-2022/couverture.jpg
 date: 2021-09-22
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le passeport vaccinal est obligatoire depuis le 1er septembre 2021.

@@ -3,7 +3,7 @@ title: Deux nouvelles compétitions s’ajoutent au calendrier 2020!
 subtitle: "Compétitions"
 slug: covid19-deux-nouvelles-competitions-ajoutees
 images:
-- /nouvelles/2020/07/19/covid19-deux-nouvelles-competitions-ajoutees/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2020/07/19/covid19-deux-nouvelles-competitions-ajoutees/couverture.jpg
 date: 2020-07-19
 author: Club d’athlétisme Corsaire-Chaparral
 description: "Le club ajoute deux nouveaux événements au programme d’athlétisme québécois."

@@ -3,7 +3,7 @@ title: Athlètes identifiés par la FQA
 subtitle: "Relève régionale"
 slug: athletes-identifies-2020
 images:
-- /nouvelles/2020/10/08/athletes-identifies-2020/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2020/10/08/athletes-identifies-2020/couverture.jpg
 date: 2020-10-08
 author: Club d’athlétisme Corsaire-Chaparral
 description: En date du 1er octobre 2020, plusieurs athlètes du Corsaire-Chaparral ont été identifiés par la Fédération québécoise d’athlétisme à divers niveaux de performance.

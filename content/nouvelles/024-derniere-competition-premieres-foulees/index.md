@@ -3,7 +3,7 @@ title: Dernière compétition Mes Premières Foulées Bruny Surin
 subtitle: "Compétition"
 slug: derniere-competition-premieres-foulees
 images:
-- /nouvelles/2019/04/16/derniere-competition-premieres-foulees/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/04/16/derniere-competition-premieres-foulees/couverture.jpg
 date: 2019-04-16
 author: Club d’athlétisme Corsaire-Chaparral
 description: >

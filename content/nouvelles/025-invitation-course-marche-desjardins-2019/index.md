@@ -3,7 +3,7 @@ title: Invitation au Défi Course et Marche Desjardins, dimanche 5 mai 2019
 subtitle: "Course sur route"
 slug: invitation-course-marche-desjardins-2019
 images:
-- /nouvelles/2019/04/24/invitation-course-marche-desjardins-2019/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/04/24/invitation-course-marche-desjardins-2019/couverture.jpg
 date: 2019-04-24
 author: Club d’athlétisme Corsaire-Chaparral
 description: Les athlètes sont invités à s'inscrire au Défi Course et Marche Desjardins, qui aura lieu le dimanche 5 mai 2019 à Sainte-Thérèse.

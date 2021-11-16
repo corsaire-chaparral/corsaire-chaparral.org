@@ -6,7 +6,7 @@ date: 2019-01-07
 author: Club d’athlétisme Corsaire-Chaparral
 description: Les athlètes de catégorie cadette, juvénile et plus vieux sont invités à une conférence nutrition le jeudi 10 janvier à 18h.
 images:
-- /nouvelles/2019/01/07/conference-nutrition/mariana-medvedeva-379662-unsplash.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/01/07/conference-nutrition/mariana-medvedeva-379662-unsplash.jpg
 ---
 
 La conférence s’adresse aux athlètes de catégorie cadette et plus vieux.

@@ -3,7 +3,7 @@ title: Reprise à venir bientôt
 subtitle: "COVID-19"
 slug: annonce-reprise-ministre
 images:
-- /nouvelles/2021/05/21/annonce-reprise-ministre/couverture.png
+- https://assets.corsaire-chaparral.org/nouvelles/2021/05/21/annonce-reprise-ministre/couverture.png
 date: 2021-05-21
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le club est en attente du plan de déconfinement du gouvernement.

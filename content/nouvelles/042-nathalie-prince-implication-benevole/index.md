@@ -5,7 +5,7 @@ slug: nathalie-prince-implication-benevole
 date: 2021-04-25T12:51:37-04:00
 author: L’équipe du Corsaire-Chaparral
 images:
-- /nouvelles/2021/04/25/nathalie-prince-implication-benevole/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2021/04/25/nathalie-prince-implication-benevole/couverture.jpg
 ---
 
 Le trophée accompagné d'un certificat d'honneur lui a été remis par Monsieur Dang Thanh Bui, chef de mission de la région des Laurentides.

@@ -3,7 +3,7 @@ title: Annulation de la Corsaire-Chaparral Invitation 2021
 subtitle: "Compétitions"
 slug: annulation-corsaire-chaparral-invitation-2021
 images:
-- /nouvelles/2021/06/30/annulation-corsaire-chaparral-invitation-2021/couverture.png
+- https://assets.corsaire-chaparral.org/nouvelles/2021/06/30/annulation-corsaire-chaparral-invitation-2021/couverture.png
 date: 2021-06-30
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le club d’athlétisme Corsaire-Chaparral a le regret d’annoncer qu’il ne sera pas en mesure de tenir son évènement du 17 juillet prochain au stade d’athlétisme Richard-Garneau.

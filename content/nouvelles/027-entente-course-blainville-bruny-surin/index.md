@@ -3,7 +3,7 @@ title: "Le Demi-Marathon de Blainville sera organisé par le Corsaire-Chaparral"
 subtitle: "Communiqué"
 slug: entente-course-blainville-bruny-surin
 images:
-- /nouvelles/2019/05/13/entente-course-blainville-bruny-surin/couverture.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/05/13/entente-course-blainville-bruny-surin/couverture.jpg
 date: 2019-05-13
 author: Club d’athlétisme Corsaire-Chaparral
 description: >

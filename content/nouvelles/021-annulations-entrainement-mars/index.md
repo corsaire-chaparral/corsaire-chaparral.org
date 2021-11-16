@@ -6,7 +6,7 @@ date: 2019-03-15
 author: Club d’athlétisme Corsaire-Chaparral
 description: Veuillez prendre note des prochaines modifications à l’horaire d’entraînement pour le mois de mars.
 images:
-- /nouvelles/2019/03/15/annulations-entrainement-mars/sonja-langford-357-unsplash.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2019/03/15/annulations-entrainement-mars/sonja-langford-357-unsplash.jpg
 ---
 
 ## Lundi 18 mars

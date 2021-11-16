@@ -6,7 +6,7 @@ date: "2018-12-05"
 author: Club d’athlétisme Corsaire-Chaparral
 description: Les athlètes de catégorie cadette et juvénile sont invités à une journée style « camp d’entraînement » le samedi 8 décembre à la Polyvalente Ste-Thérèse.
 images:
-- /nouvelles/2018/12/05/camp-entrainement-8-decembre-2018/monter-marches.jpg
+- https://assets.corsaire-chaparral.org/nouvelles/2018/12/05/camp-entrainement-8-decembre-2018/monter-marches.jpg
 ---
 
 Comme vous le savez, il n’y a pas d’entrainement le jeudi 6 décembre 2018. Cependant, vos entraineurs proposent aux <mark>athlètes de catégorie cadette et juvénile</mark> une journée style camp d’entrainement le **samedi 8 décembre 2018**. La journée commencera à l’heure régulière (10 h 30) et se terminera vers 16 h, avec une prolongation au restaurant et aux quilles jusqu’à 20 h.
