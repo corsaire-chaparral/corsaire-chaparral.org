@@ -183,6 +183,16 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=104"></script>
 
+- id: "mcgill-martlet-open-2021"
+  title: "McGill Martlet Open"
+  information: "https://athletisme-quebec.ca/medias/roinvitation2021-document-technique.pdf"
+  date: "2021-11-27"
+  limite: "2021-11-22"
+  emplacement: "Montréal"
+  frais: 22.50
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=105"></script>
+
 
 # Template
 #- id: "2021"
