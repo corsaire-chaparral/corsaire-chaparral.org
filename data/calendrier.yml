@@ -174,7 +174,7 @@
   title: "Rouge et Or Invitation 2021"
   information: "https://athletisme-quebec.ca/medias/roinvitation2021-document-technique.pdf"
   date: "2021-12-04"
-  limite: "2021-11-28"
+  limite: "2021-12-04"
   emplacement: "Québec"
   frais: "Cadets: 22,50$; ouvert: 27,50"
   structureFrais:
@@ -200,6 +200,16 @@
   limite: "2021-12-03"
   emplacement: "Sherbrooke"
   frais: 22.50
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=106"></script>
+
+- id: "classique-heloise-montreal-2021"
+  title: "Classique Héloïse 2021"
+  information: "https://athletisme-quebec.ca/medias/4document-technique-foulees-bs-18-decembre-2021-1.pdf"
+  date: "2021-12-18"
+  limite: "2021-12-09"
+  emplacement: "Montréal"
+  frais: 27.50
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=106"></script>
 
