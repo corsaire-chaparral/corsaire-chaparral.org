@@ -193,6 +193,16 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=105"></script>
 
+- id: "classique-decembre-sherbrooke-2021"
+  title: "Classique de décembre Sherbrooke (Défi des champions)"
+  information: "https://athletisme-quebec.ca/medias/classiquedec2021-documenttechnique.pdf"
+  date: "2021-12-11"
+  limite: "2021-12-03"
+  emplacement: "Sherbrooke"
+  frais: 22.50
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=106"></script>
+
 
 # Template
 #- id: "2021"
