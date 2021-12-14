@@ -213,6 +213,21 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=107"></script>
 
+- id: "rencontre-invitation-vert-et-or-2022"
+  title: "Rencontre Invitation Vert & Or 2022"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2860&mod=event"
+  date: "2022-01-08"
+  limite: "2021-12-30"
+  emplacement: "Sherbrooke"
+  frais: "benjamin et juvénile: 17$; cadet: 20$; ouvert: 22"
+  structureFrais: 
+    "Benjamin": 17.00
+    "Cadet": 20.00
+    "Juvénile": 17.00
+    "Ouvert": 22.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=108"></script>
+
 
 # Template
 #- id: "2021"
