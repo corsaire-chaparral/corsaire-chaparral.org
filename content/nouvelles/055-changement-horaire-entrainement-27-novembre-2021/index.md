@@ -1,6 +1,7 @@
 ---
 title: Changement à l’horaire d’horaire d’entraînement du samedi 27 novembre 2021
 subtitle: "Entraînements"
+published: false
 slug: changement-horaire-entrainement-27-novembre-2021
 images:
 - /nouvelles/2021/11/26/changement-horaire-entrainement-27-novembre-2021/couverture.jpg
