@@ -45,6 +45,12 @@ Le tarif de la cotisation 2020-2021 est établi selon la catégorie d'âge, il e
 
 Les inscriptions mensuelles ne sont pas acceptées.
 
+{{% div class="well well-danger" %}}
+**<span class="icon icon-warning"></span> Suspension des inscriptions pour la session d’hiver**
+
+En attente de la réouverture des écoles (pour les plateaux sportifs) et des nouvelles consignes sanitaires, le club suspend la session d’hiver 2022 pour les colibris et minimes. Nous comptons néanmoins offrir une session de 10 semaines dès que cela est possible.
+{{% /div %}}
+
 | Catégorie            | Automne <br> <small>(27 sept. - 3 décembre)</small>  | Hiver  <br> <small>(10 janv. - 25 mars 2022)</small>  | Printemps <br> <small> (11 avril - 17 juin 2022)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
 | ------------------------ | ------ | ------ | ------ | ------ |
 | Colibri (2013-2014) | 135 $  | 135 $  | 135 $  | 135 $  |

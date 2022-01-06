@@ -11,27 +11,13 @@ Il est attendu que chaque athlète (et sa famille) accomplisse [**20 heures**](/
 
 ## Événements
 
+{{< note >}}
+_Il n’y a pas d’événements de bénévolat à venir pour l’instant._
+{{< /note >}}
+<!--
 | Date       | Événement                  |
 |------------|----------------------------|
 | 2020-08-08 | _Ephemeros COCH 2020_ - [Infos]({{< ref "resultats/2020/ephemeros" >}}) / [Bénévolat](/competitions/ephemeros/benevolat/) |
-| 2020-08-30 | _Le petit combiné de Nathalie_ - [Infos](/competitions/petit-pentathlon-nathalie/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-petit-pentathlon-nathalie-2020) |
-| 2020-09-13 | ~~_Demi-Marathon de Blainville_~~ – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
-
-<!--
-| 2018-10-05 | Cross-country École en forme et en santé |
-| 2018-10-28 | Demi-marathon Oasis de Blainville – [Infos](https://www.lacoursedeblainville.com/fr/Benevoles/) |
-| 2018-12-14 | Montage pour le Festival en salle des jeunes – [Infos](/competitions/festival-en-salle-des-jeunes) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018) |
-| 2018-12-15 | Festival des jeunes Corsaire-Chaparral – [Infos](/competitions/festival-en-salle-des-jeunes) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018) |
-| 2019-02-02 | Challenge André-Harel – [Infos](/competitions/challenge-andre-harel/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019) |
-| 2019-05-05 | Défi course et marche Desjardins de Ste-Thérèse – [Infos](http://www.circuitendurance.ca/defi-course-et-marche-desjardins/) |
-| 2019-05-22 | Crépuscule COCH #1 - [Infos](/competitions/crepuscules/crepuscule-1/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-1-2019) |
-| 2019-05-28 | Championnat régional scolaire d’athlétisme RSEQ-LL |
-| 2019-06-05 | Crépuscule COCH #2 - [Infos](/competitions/crepuscules/crepuscule-2/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-2-2019) |
-| 2019-06-15 | Mini-compétition colibri-minime au stade Richard-Garneau |
-| 2019-06-19 | Crépuscule COCH #3 - [Infos](/competitions/crepuscules/crepuscule-3/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-3-2019) |
-| 2019-06-29 | Corsaire-Chaparral Invitation 2019 – [Infos](/competitions/corsaire-chaparral-invitation) | [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019)
-| 2019-07-05 | Championnats canadiens vétéran 2019 – [Infos](/competitions/championnats-canadiens-veteran-2019/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019) |
-| 2019-07-06 | Championnats québécois 2019 – [Infos](/competitions/championnats-quebecois-junior-senior-para-2019) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019/) |
 -->
 
 ## Tâches régulières
