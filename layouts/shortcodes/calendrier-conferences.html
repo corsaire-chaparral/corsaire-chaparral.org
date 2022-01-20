@@ -1,0 +1,28 @@
+<ul class="list-unstyled">
+  {{- range $index,$item := $.Page.Site.Data.conferences_hiver_2022 }}
+  <li class="row-feature">
+    <div class="well">
+      <div class="row">
+
+        <div class="col col-3 tablet-col-12">
+          <div class="text-center hide-tablet">
+            <span class="h1 text--gray">
+              #{{add 1 $index}}
+            </span>
+          </div>
+        </div>
+
+        <div class="col col-9 tablet-col-12">
+          <p><span class="badge badge-primary">{{ .date }} {{ .heure }}</span></p>
+          <h3 class="h4">{{ .sujet }}</h3>
+
+          <p><strong>&rarr; Pour qui?</strong> {{ .public }}</p>
+        </div>
+      </div>
+      <div>
+        <a href="{{ .lien }}" target="_blank" class="btn btn-primary -sm btn--block" title="Lien d’invitation: {{ .lien }}">Lien d’invitation</a>
+      </div>
+    </div>
+  </li>
+  {{ end -}}
+</ul>
