@@ -11,11 +11,6 @@ icon: stopwatch
 layout: single
 ---
 
-{{< div class="well well-tertiary" >}}
-<span class="icon icon-calendar"></span> **Saison 2021-2022**  
-Reprise des entraînements à partir du 27 septembre 2021.
-{{< /div >}}
-
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
 Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sportif de la **Polyvalente Sainte-Thérèse** qui lui est adjacent.
@@ -47,15 +42,25 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2013-2014) {#colibri}
 
+{{< div class="well well-tertiary" >}}
+<span class="icon icon-calendar"></span> **Session d’hiver 2022**  
+Session de 10 semaines consécutives, du 26 février au 30 avril.
+{{< /div >}}
+
 - Samedi 9 h à 10 h 30
 
-*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives) - **maximum de ~~10~~ <ins>16</ins> athlètes**.*
+_Maximum de **16 jeunes**._
 
 ### Minime (2011-2012) {#minime}
 
+{{< div class="well well-tertiary" >}}
+<span class="icon icon-calendar"></span> **Session d’hiver 2022**  
+Session de 10 semaines consécutives, du 26 février au 30 avril.
+{{< /div >}}
+
 - Samedi 9 h à 10 h 30, du samedi 19 juin au samedi 28 août 2021
 
-*Nouvelle session d’automne débutant le **samedi 2 octobre 2021** (10 semaines consécutives) - maximum de **30 athlètes**.*
+_Maximum de **30 jeunes**._
 
 ### Benjamin (2009-2010) {#benjamin}
 
