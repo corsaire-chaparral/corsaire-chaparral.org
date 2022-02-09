@@ -48,13 +48,13 @@ Les inscriptions mensuelles ne sont pas acceptées.
 {{% div class="well well-tertiary" %}}
 **<span class="icon icon-calendar"></span> Session d’hiver 2022**
 
-La session d’hiver 2022 se tiendra du 26 février au 30 avril pour 10 semaines consécutives. Il n’y aura pas de session de printemps.
+La session d’hiver 2022 se tiendra du 26 février au 30 avril pour 10 semaines consécutives, pour les **minimes** seulement. Il n’y aura pas de session de printemps.
 {{% /div %}}
 
-| Catégorie           | Hiver  <br> <small><mark>(26 fév. - 30 avril 2022)</mark></small> | ~~Printemps~~ <br> <small>(fusionnée avec la session d’hiver)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
-| ------------------- |-------|-----------| ------ |
-| Colibri (2013-2014) | 135 $ | ~~135 $~~ | 135 $  |
-| Minime (2011-2012)  | 175 $ | ~~175 $~~ | 175 $  |
+| Catégorie           | Hiver  <br> <small>(26 fév. - 30 avril 2022)</small>           | ~~Printemps~~ <br> <small>(fusionnée avec la session d’hiver)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
+| ------------------- |----------------------------------------------------------------|-----------| ------ |
+| Colibri (2013-2014) | <span class="badge badge-danger">annulée</span>                | <span class="badge badge-danger">annulée</span> | 135 $  |
+| Minime (2011-2012)  | 175 $                                                          | <span class="badge badge-danger">annulée</span> | 175 $  |
 
 \* Saison d’été à valider.
 
@@ -115,4 +115,3 @@ Le paiement doit être fait en **intégralité** en ligne, au moment même de l�
 
 
 <a class="btn btn-primary btn--block -lg" href="https://www.trackie.com/inscription/evenement/club-dathl-tisme-corsaire-chaparral/472493/">**Inscription 2021-2022** <span class="icon icon-pencil"></a>
-
