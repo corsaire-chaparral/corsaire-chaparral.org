@@ -193,26 +193,6 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=105"></script>
 
-- id: "classique-decembre-sherbrooke-2021"
-  title: "Classique de décembre Sherbrooke (Défi des champions)"
-  information: "https://athletisme-quebec.ca/medias/classiquedec2021-documenttechnique.pdf"
-  date: "2021-12-11"
-  limite: "2021-12-03"
-  emplacement: "Sherbrooke"
-  frais: 22.50
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=106"></script>
-
-- id: "classique-heloise-montreal-2021"
-  title: "Classique Héloïse 2021"
-  information: "https://athletisme-quebec.ca/medias/4document-technique-foulees-bs-18-decembre-2021-1.pdf"
-  date: "2021-12-18"
-  limite: "2021-12-09"
-  emplacement: "Montréal"
-  frais: 27.50
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=107"></script>
-
 - id: "rencontre-invitation-vert-et-or-2022"
   title: "Rencontre Invitation Vert & Or 2022"
   information: "https://athletisme-quebec.ca/nouvelle?id=2860&mod=event"
@@ -220,13 +200,26 @@
   limite: "2021-12-30"
   emplacement: "Sherbrooke"
   frais: "benjamin et juvénile: 17$; cadet: 20$; ouvert: 22"
-  structureFrais: 
+  structureFrais:
     "Benjamin": 17.00
     "Cadet": 20.00
     "Juvénile": 17.00
     "Ouvert": 22.00
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=108"></script>
+
+- id: "classique-heloise-2022"
+  title: "Classique Héloïse 2022"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2975&mod=event"
+  date: "2022-03-06"
+  limite: "2022-02-27"
+  emplacement: "Montréal"
+  frais: "Première épreuve: 23$; épreuve supplémentaire: 12"
+  structureFrais:
+    "1ère épreuve": 22.50
+    "Épreuve supplémentaire": 12.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=109"></script>
 
 
 # Template

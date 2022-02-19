@@ -4,11 +4,11 @@
 {{- $competition := . -}}
 {{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.limite)) (time now) -}}
 <section>
-  
+
   {{- with $competition.description -}}
   <p>{{ . | markdownify }}</p>
   {{- end -}}
-  
+
   <ul>
     {{- if .date -}}
     <li><strong>Date</strong> : {{ (time .date).Format "2006-01-02" }}</li>
@@ -36,16 +36,11 @@
 
   {{- if $competition.frais -}}
   <section class="row-sm">
-    <h4>Paiement</h4>
+    <h4>Étape 1. Paiement</h4>
 
-<!--    <p>-->
-<!--      Le paiement doit être fait pour que l'inscription soit valide.-->
-<!--    </p>-->
-<!--    <p>-->
-<!--      <strong>Instructions</strong> : Ajoutez toutes les épreuves auxquelles vous souhaitez participer, puis payez par carte de crédit. Notez le <strong>numéro de confirmation</strong> (ex. <code>COCH1234</code>) lorsque la transaction est complétée.-->
-<!--    </p>-->
-
-<!--    <p><strong class="badge badge-danger">ATTENTION!</strong> Après le paiement, il faut passer à <strong>l’étape 2</strong> (informations de l’athlète).</p>-->
+    <p>
+      <em>ATTENTION! Après le paiement, il faut passer à <strong>l’étape 2</strong> (informations de l’athlète).</em>
+    </p>
 
     {{ range $nom, $frais := $competition.structureFrais }}
     <button
@@ -70,7 +65,7 @@
 
   </section>
   {{ end }}
-  
+
   {{ with .formulaire }}
   <section>
     <h4>
@@ -85,7 +80,7 @@
       Vous recevrez un courriel de confirmation.
       Avant la date limite, veuillez vérifier <strong>l’inscription officielle</strong> sur le site de l’événement pour vous assurer que les bonnes informations aient été transmises.
     </p>
-    
+
     <p>
       Les inscriptions sont non remboursables après la date limite.
     </p>
