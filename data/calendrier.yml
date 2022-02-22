@@ -221,6 +221,15 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=109"></script>
 
+- id: "vert-et-or-invitation-2022"
+  title: "Vert & Or Invitation 2022"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2860&mod=event"
+  date: "2022-03-04"
+  limite: "2022-02-24"
+  emplacement: "Sherbrooke"
+  frais: "25.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=110"></script>
 
 # Template
 #- id: "2021"
