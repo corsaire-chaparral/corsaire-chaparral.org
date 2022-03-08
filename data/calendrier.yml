@@ -231,6 +231,19 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=110"></script>
 
+- id: "relais-vaudreuil-dorion-2022"
+  title: "Les Relais Vaudreuil-Dorion"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2861&mod=event"
+  date: "2022-04-02"
+  limite: "2022-03-27"
+  emplacement: "Vaudreuil-Dorion"
+  frais: "Première épreuve: 25$; épreuve supplémentaire: 5"
+  structureFrais:
+    "1ère épreuve": 25.00
+    "Épreuve supplémentaire": 5.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=111"></script>
+
 # Template
 #- id: "2021"
 #  title: "2021"
