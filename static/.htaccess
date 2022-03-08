@@ -12,10 +12,12 @@ RewriteRule ^                   http://%1%{REQUEST_URI}  [R=301,L]
 
 RewriteRule ^accueil\/?$ / [R]
 
+# Encodings
 AddType image/svg+xml svg
 AddType image/svg+xml svgz
 AddEncoding x-gzip .svgz
 
+# Deflate
 <IfModule mod_deflate.c>
 	AddOutputFilterByType DEFLATE image/svg+xml
 	AddOutputFilterByType DEFLATE text/css
@@ -27,18 +29,29 @@ AddEncoding x-gzip .svgz
 	AddOutputFilterByType DEFLATE application/x-font-woff
 </IfModule>
 
+# Expires headers for client-side caching
 <IfModule mod_expires.c>
-ExpiresActive On
+  ExpiresActive On
 
-ExpiresByType text/html "access plus 1 hour"
-ExpiresByType image/svg+xml "access plus 1 week"
-ExpiresByType audio/ogg "access plus 1 week"
-ExpiresByType audio/mpeg "access plus 1 week"
-ExpiresByType audio/x-wav "access plus 1 week"
-# Default directive
-<FilesMatch "\.(png|woff|woff2|svg|jpg|jpeg|png|js|css)$">
-ExpiresDefault "access plus 1 month"
-</FilesMatch>
+  ExpiresByType text/html "access plus 1 minute"
+  ExpiresByType image/svg+xml "access plus 1 week"
+  ExpiresByType audio/ogg "access plus 1 week"
+  ExpiresByType audio/mpeg "access plus 1 week"
+  ExpiresByType audio/x-wav "access plus 1 week"
+  # Default directive
+  <FilesMatch "\.(png|woff|woff2|svg|jpg|jpeg)$">
+  ExpiresDefault "access plus 1 month"
+  </FilesMatch>
+
+  <filesMatch "\.(html|htm|js|css)$">
+    FileETag None
+    <ifModule mod_headers.c>
+       ExpiresActive Off
+       Header unset ETag
+       Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+       Header set Pragma "no-cache"
+    </ifModule>
+  </filesMatch>
 </IfModule>
 
 ########################################################
