@@ -16,20 +16,6 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{% /div %}}
 
-{{% div class="well well-tertiary" %}}
-**<span class="icon icon-assignment"></span> Passeport vaccinal**
-
-Le passeport vaccinal est obligatoire depuis le **1<sup>er</sup> septembre 2021**.
-
-Les activités physiques et sportives ayant lieu sur nos plateaux d'entrainement sont notamment identifiées comme une catégorie exigeant le passeport vaccinal. Ainsi, tous nos athlètes, spectateurs et participants à nos activités devront être adéquatement protégés pour avoir accès à nos plateaux.  Il est très important pour nous d'assurer la santé et la sécurité de nos membres ainsi que celle de notre équipe.
-
-Pour cette raison, nous demanderons à TOUTES les personnes âgées de 13 ans et plus de présenter une preuve d'immunisation et une pièce d'identité avant d'avoir accès à nos installations.
-
-Merci de votre collaboration.
-
-{{% /div %}}
-
-
 ## Informations générales et politiques d'inscription
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription. La cotisation de l’athlète comprend les frais d’entrainements, l’affiliation à la Fédération québécoise d'athlétisme et les frais de piste.
@@ -58,6 +44,13 @@ La session d’hiver 2022 se tiendra du 26 février au 30 avril pour 10 semaines
 
 \* Saison d’été à valider.
 
+{{% div class="well well-tertiary" %}}
+**<span class="icon icon-calendar"></span> Inscription mi-année 2022 (1<sup>er</sup> avril au 31 août)**
+
+L’inscription mi-année est désormais ouverte! Veuillez sélectionner l’option «&nbsp;**Mi-année**&nbsp;» au lieu de «&nbsp;Saison 2021-2022&nbsp;» au moment de choisir le type d’adhésion.
+
+{{% /div %}}
+
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 21 août |
 | ----------------------- | ------------------ | ------ | ------ |
 | Benjamin  (2009-2010)   | 620 $              | 495 $  | 262 $ |
@@ -76,7 +69,7 @@ La session d’hiver 2022 se tiendra du 26 février au 30 avril pour 10 semaines
 - **Frais de piste** : il n’y a plus de frais de piste pour les résidents des municipalités environnantes.  Ainsi, les résidents de la ville de Blainville ne sont plus exemptés des frais d’infrastructure.  Pour les résidents des municipalités de Laval et Montréal, des frais de piste pourraient s’ajouter à la facturation.
 - **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club. L’inscription des membres d’une même famille doit être complétée en même temps pour recevoir ce rabais.
 - **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
-- **Passeport vaccinal** <em class="badge badge-tertiary">Nouveau</em> : le passeport vaccinal sera obligatoire pour tous nos athlètes de 13 ans et plus.
+- ~~**Passeport vaccinal** : le passeport vaccinal sera obligatoire pour tous nos athlètes de 13 ans et plus.~~ <ins>En date du 14 mars 2022, le passeport n’est plus exigé pour la pratique des loisirs et du sport au Québec.</ins> https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/mesures-en-vigueur/loisir-et-sport
 {{< /note >}}
 
 <!--
@@ -93,7 +86,11 @@ La session d’hiver 2022 se tiendra du 26 février au 30 avril pour 10 semaines
 
 
 {{< note well-light >}}
-**Pour faire créditer son dépôt de bénévolat des années antérieures, [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
+
+### Notes
+
+- Pour faire créditer son dépôt de bénévolat des années antérieures, [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription.
+
 {{< /note >}}
 
 Une grande partie du financement du club provient des profits générés par les activités organisées annuellement. Afin d’assurer le bon déroulement ainsi que la réussite de ces événements, nous avons besoin de la participation des membres du club, c’est pourquoi un système de comptabilisation d’heures de bénévolat a été instauré.
