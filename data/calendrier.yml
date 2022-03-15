@@ -244,6 +244,19 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=111"></script>
 
+- id: "championnats-quebecois-en-salle-ben-cad-juv-2022"
+  title: "Championnats québécois en salle ben-cad-juv"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2999&mod=event"
+  date: "2022-04-09"
+  limite: "2022-03-31"
+  emplacement: "Québec"
+  frais: "Première épreuve: 30$; épreuve supplémentaire: 20"
+  structureFrais:
+    "1ère épreuve": 30.00
+    "Épreuve supplémentaire": 20.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=112"></script>
+
 # Template
 #- id: "2021"
 #  title: "2021"
