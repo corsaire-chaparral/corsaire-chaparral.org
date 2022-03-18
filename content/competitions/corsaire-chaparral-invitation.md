@@ -15,8 +15,8 @@ images:
 
 ## Informations générales
 
-- **Date** : samedi 17 juillet 2021
-- **Informations** : [document technique](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/document-technique-coch-invitation-2019.pdf)
+- **Date** : dimanche 29 mai 2022
+- **Informations** : _à venir_ <!-- [document technique](https://assets.corsaire-chaparral. org/competitions/2019/coch-invitation/document-technique-coch-invitation-2019.pdf) -->
 - **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
 - **Responsable, finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
 

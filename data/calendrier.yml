@@ -1,212 +1,212 @@
-- id: "rendez-vous-select-2021"
-  title: "Rendez-Vous Sélect 2021"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2766&mod=event"
-  date: "2021-06-27"
-  limite: "2021-06-24"
-  emplacement: "Saint-Laurent, Montréal"
-  frais: "25,00$ pour la première épreuve, épreuves suivantes à 10,00"
-  structureFrais:
-    "1<sup>ère</sup> épreuve" : 25.00
-    "Épreuve supplémentaire" : 10.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=89"></script>
-
-- id: "classique-mtl-2021"
-  title: "Classique d’athlétisme de Montréal 2021"
-  information: "https://www.classiquemtl.com/"
-  date: "2021-06-29"
-  limite: "2021-06-24"
-  emplacement: "Complexe sportif Claude-Robillard, Montréal"
-  frais: "25.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=90"></script>
-
-- id: "ian-hume-invitation-2021"
-  title: "Ian Hume Invitation 2021"
-  information: "https://athletisme-quebec.ca/medias/ian-hume-invitation-2021.pdf"
-  date: "2021-07-10"
-  limite: "2021-07-01"
-  emplacement: "Sherbrooke"
-  frais: "Épreuve benjamin-cadet-juvénile: 25$; épreuve junior-sénior-vétéran: 28"
-  structureFrais:
-    Épreuve BEN-CAD-JUV: 25.00
-    Épreuve JUN-SEN-VÉT: 28.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=91"></script>
-
-- id: "cadl-invitation-2021"
-  title: "CADL Invitation 2021 et championnats québécois de pentathlon benjamin-cadet"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2767&mod=event"
-  date: "2021-07-24"
-  limite: "2021-07-15"
-  emplacement: "Laval"
-  frais: "Première épreuve à 25,00$, épreuves supplémentaires à 15,00"
-  structureFrais:
-    Pentathlon BEN-CAD: 45.00
-    "Épreuve #1": 25.00
-    "Épreuve supplémentaire": 15.00
-  formulaire: >
-    <script type="text
-    /javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=92"></script>
-
-- id: "alliance-kronobar-2021"
-  title: "Alliance Kronobar 2021"
-  information: "https://athletisme-quebec.ca/medias/kronbar2021.pdf"
-  date: "2021-07-17"
-  limite: "2021-07-13"
-  emplacement: "St-Laurent"
-  frais: "Première épreuve à 25,00$, épreuves supplémentaires à 10,00"
-  structureFrais:
-    "Épreuve #1": 25.00
-    "Épreuve supplémentaire": 10.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=93"></script>
-
-- id: "championnats-quebecois-jun-sen-vet-para-2021"
-  title: "Championnats québécois Juniors, Séniors, Vétérans et Para 2021"
-  information: "https://athletisme-quebec.ca/medias/championnat-jr-sr-vet-para-31-juillet-et-1-aout-2021.pdf"
-  date: "2021-07-31"
-  limite: "2021-07-22"
-  emplacement: "Sherbrooke"
-  frais: "Première épreuve à 30,00$, épreuves supplémentaires à 20,00"
-  structureFrais:
-    "Épreuve #1": 30.00
-    "Épreuve supplémentaire": 20.00
-    "Heptathlon/décathlon": 50.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=94"></script>
-
-- id: "championnats-quebecois-ben-cad-juv-2021"
-  title: "Championnats québécois benjamins, cadets et juvéniles 2021"
-  information: "https://athletisme-quebec.ca/medias/cadl-championnats-ben-cad-juv-2021.pdf"
-  date: "2021-08-06"
-  limite: "2021-07-30"
-  emplacement: "Laval"
-  frais: "Première épreuve à 25,00$, chaque épreuve supplémentaire à 20,00"
-  structureFrais:
-    "Épreuve #1": 25.00
-    "Épreuve supplémentaire": 20.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=95"></script>
-
-- id: "5000m-yul-2021"
-  title: "5000m Run-fast Yul"
-  information: "https://athletisme-quebec.ca/medias/5000m-run-fast-yul-au-cadl.pdf"
-  date: "2021-08-06"
-  limite: "2021-08-05"
-  emplacement: "Laval"
-  frais: 20.00
-  #formulaire: >
-  #  <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=95"></script>
-
-- id: "rendez-vous-corsaire-chaparral"
-  title: "Rendez-vous Corsaire-Chaparral"
-  information: "https://athletisme-quebec.ca/"
-  date: "2021-08-21"
-  limite: "2021-08-16"
-  emplacement: "Laval"
-  frais: "Première épreuve à 25,00$, chaque épreuve supplémentaire à 20,00"
-  structureFrais:
-    "Épreuve #1": 25.00
-    "Épreuve supplémentaire": 20.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=97"></script>
-
-
-- id: "petit-pentathlon-nathalie-2021"
-  title: "Le petit pentathlon de Nathalie 2021"
-  information: "https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/"
-  date: "2021-08-28"
-  limite: "2021-08-25"
-  emplacement: "Laval"
-  frais: "20.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=98"></script>
-
-- id: "cadl-saute-2021"
-  title: "CADL Saute 2021"
-  information: "https://athletisme-quebec.ca/medias/cadl-saute-11-septembre-2021.pdf"
-  date: "2021-09-11"
-  limite: "2021-09-08"
-  emplacement: "Laval"
-  frais: "20.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=101"></script>
-
-
-- id: "camp-entrainement-automne-2021"
-  title: "Camp d’entraînement automne 2021"
-  information: ""
-  date: "2021-10-22"
-  limite: "2021-10-08"
-  emplacement: ""
-  frais: "180.38"
-  formulaire: >
-
-- id: "championnat-quebecois-xc-2021"
-  title: "Championnats québécois de cross-country 2021"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2815&mod=event"
-  date: "2021-10-30"
-  limite: "2021-10-21"
-  emplacement: "Québec"
-  frais: "Selon la catégorie – 22,00$ ou 28,00"
-  structureFrais:
-    "Benjamin": 22.00
-    "Cadet": 22.00
-    "Juvénile": 22.00
-    "Junior": 28.00
-    "Senior": 28.00
-    "Vétéran": 28.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=102"></script>
-
-- id: "championnats-xc-canadiens-2021"
-  title: "Championnats canadiens de cross-country 2021"
-  information: "https://athletics.ca/events/2021-canadian-cross-country-championships/"
-  date: "2021-11-27"
-  limite: "2021-11-14"
-  emplacement: "Ottawa"
-  frais: 65.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=103"></script>
-
-- id: "rouge-et-or-invitation-2021"
-  title: "Rouge et Or Invitation 2021"
-  information: "https://athletisme-quebec.ca/medias/roinvitation2021-document-technique.pdf"
-  date: "2021-12-04"
-  limite: "2021-11-27"
-  emplacement: "Québec"
-  frais: "Cadets: 22,50$; ouvert: 27,50"
-  structureFrais:
-    "Cadet": 22.50
-    "Ouvert": 27.50
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=104"></script>
-
-- id: "mcgill-martlet-open-2021"
-  title: "McGill Martlet Open"
-  information: "https://athletisme-quebec.ca/medias/roinvitation2021-document-technique.pdf"
-  date: "2021-11-27"
-  limite: "2021-11-22"
-  emplacement: "Montréal"
-  frais: 22.50
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=105"></script>
-
-- id: "rencontre-invitation-vert-et-or-2022"
-  title: "Rencontre Invitation Vert & Or 2022"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2860&mod=event"
-  date: "2022-01-08"
-  limite: "2021-12-30"
-  emplacement: "Sherbrooke"
-  frais: "benjamin et juvénile: 17$; cadet: 20$; ouvert: 22"
-  structureFrais:
-    "Benjamin": 17.00
-    "Cadet": 20.00
-    "Juvénile": 17.00
-    "Ouvert": 22.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=108"></script>
+#- id: "rendez-vous-select-2021"
+#  title: "Rendez-Vous Sélect 2021"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2766&mod=event"
+#  date: "2021-06-27"
+#  limite: "2021-06-24"
+#  emplacement: "Saint-Laurent, Montréal"
+#  frais: "25,00$ pour la première épreuve, épreuves suivantes à 10,00"
+#  structureFrais:
+#    "1<sup>ère</sup> épreuve" : 25.00
+#    "Épreuve supplémentaire" : 10.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=89"></script>
+#
+#- id: "classique-mtl-2021"
+#  title: "Classique d’athlétisme de Montréal 2021"
+#  information: "https://www.classiquemtl.com/"
+#  date: "2021-06-29"
+#  limite: "2021-06-24"
+#  emplacement: "Complexe sportif Claude-Robillard, Montréal"
+#  frais: "25.00"
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=90"></script>
+#
+#- id: "ian-hume-invitation-2021"
+#  title: "Ian Hume Invitation 2021"
+#  information: "https://athletisme-quebec.ca/medias/ian-hume-invitation-2021.pdf"
+#  date: "2021-07-10"
+#  limite: "2021-07-01"
+#  emplacement: "Sherbrooke"
+#  frais: "Épreuve benjamin-cadet-juvénile: 25$; épreuve junior-sénior-vétéran: 28"
+#  structureFrais:
+#    Épreuve BEN-CAD-JUV: 25.00
+#    Épreuve JUN-SEN-VÉT: 28.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=91"></script>
+#
+#- id: "cadl-invitation-2021"
+#  title: "CADL Invitation 2021 et championnats québécois de pentathlon benjamin-cadet"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2767&mod=event"
+#  date: "2021-07-24"
+#  limite: "2021-07-15"
+#  emplacement: "Laval"
+#  frais: "Première épreuve à 25,00$, épreuves supplémentaires à 15,00"
+#  structureFrais:
+#    Pentathlon BEN-CAD: 45.00
+#    "Épreuve #1": 25.00
+#    "Épreuve supplémentaire": 15.00
+#  formulaire: >
+#    <script type="text
+#    /javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=92"></script>
+#
+#- id: "alliance-kronobar-2021"
+#  title: "Alliance Kronobar 2021"
+#  information: "https://athletisme-quebec.ca/medias/kronbar2021.pdf"
+#  date: "2021-07-17"
+#  limite: "2021-07-13"
+#  emplacement: "St-Laurent"
+#  frais: "Première épreuve à 25,00$, épreuves supplémentaires à 10,00"
+#  structureFrais:
+#    "Épreuve #1": 25.00
+#    "Épreuve supplémentaire": 10.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=93"></script>
+#
+#- id: "championnats-quebecois-jun-sen-vet-para-2021"
+#  title: "Championnats québécois Juniors, Séniors, Vétérans et Para 2021"
+#  information: "https://athletisme-quebec.ca/medias/championnat-jr-sr-vet-para-31-juillet-et-1-aout-2021.pdf"
+#  date: "2021-07-31"
+#  limite: "2021-07-22"
+#  emplacement: "Sherbrooke"
+#  frais: "Première épreuve à 30,00$, épreuves supplémentaires à 20,00"
+#  structureFrais:
+#    "Épreuve #1": 30.00
+#    "Épreuve supplémentaire": 20.00
+#    "Heptathlon/décathlon": 50.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=94"></script>
+#
+#- id: "championnats-quebecois-ben-cad-juv-2021"
+#  title: "Championnats québécois benjamins, cadets et juvéniles 2021"
+#  information: "https://athletisme-quebec.ca/medias/cadl-championnats-ben-cad-juv-2021.pdf"
+#  date: "2021-08-06"
+#  limite: "2021-07-30"
+#  emplacement: "Laval"
+#  frais: "Première épreuve à 25,00$, chaque épreuve supplémentaire à 20,00"
+#  structureFrais:
+#    "Épreuve #1": 25.00
+#    "Épreuve supplémentaire": 20.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=95"></script>
+#
+#- id: "5000m-yul-2021"
+#  title: "5000m Run-fast Yul"
+#  information: "https://athletisme-quebec.ca/medias/5000m-run-fast-yul-au-cadl.pdf"
+#  date: "2021-08-06"
+#  limite: "2021-08-05"
+#  emplacement: "Laval"
+#  frais: 20.00
+#  #formulaire: >
+#  #  <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=95"></script>
+#
+#- id: "rendez-vous-corsaire-chaparral"
+#  title: "Rendez-vous Corsaire-Chaparral"
+#  information: "https://athletisme-quebec.ca/"
+#  date: "2021-08-21"
+#  limite: "2021-08-16"
+#  emplacement: "Laval"
+#  frais: "Première épreuve à 25,00$, chaque épreuve supplémentaire à 20,00"
+#  structureFrais:
+#    "Épreuve #1": 25.00
+#    "Épreuve supplémentaire": 20.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=97"></script>
+#
+#
+#- id: "petit-pentathlon-nathalie-2021"
+#  title: "Le petit pentathlon de Nathalie 2021"
+#  information: "https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/"
+#  date: "2021-08-28"
+#  limite: "2021-08-25"
+#  emplacement: "Laval"
+#  frais: "20.00"
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=98"></script>
+#
+#- id: "cadl-saute-2021"
+#  title: "CADL Saute 2021"
+#  information: "https://athletisme-quebec.ca/medias/cadl-saute-11-septembre-2021.pdf"
+#  date: "2021-09-11"
+#  limite: "2021-09-08"
+#  emplacement: "Laval"
+#  frais: "20.00"
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=101"></script>
+#
+#
+#- id: "camp-entrainement-automne-2021"
+#  title: "Camp d’entraînement automne 2021"
+#  information: ""
+#  date: "2021-10-22"
+#  limite: "2021-10-08"
+#  emplacement: ""
+#  frais: "180.38"
+#  formulaire: >
+#
+#- id: "championnat-quebecois-xc-2021"
+#  title: "Championnats québécois de cross-country 2021"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2815&mod=event"
+#  date: "2021-10-30"
+#  limite: "2021-10-21"
+#  emplacement: "Québec"
+#  frais: "Selon la catégorie – 22,00$ ou 28,00"
+#  structureFrais:
+#    "Benjamin": 22.00
+#    "Cadet": 22.00
+#    "Juvénile": 22.00
+#    "Junior": 28.00
+#    "Senior": 28.00
+#    "Vétéran": 28.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=102"></script>
+#
+#- id: "championnats-xc-canadiens-2021"
+#  title: "Championnats canadiens de cross-country 2021"
+#  information: "https://athletics.ca/events/2021-canadian-cross-country-championships/"
+#  date: "2021-11-27"
+#  limite: "2021-11-14"
+#  emplacement: "Ottawa"
+#  frais: 65.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=103"></script>
+#
+#- id: "rouge-et-or-invitation-2021"
+#  title: "Rouge et Or Invitation 2021"
+#  information: "https://athletisme-quebec.ca/medias/roinvitation2021-document-technique.pdf"
+#  date: "2021-12-04"
+#  limite: "2021-11-27"
+#  emplacement: "Québec"
+#  frais: "Cadets: 22,50$; ouvert: 27,50"
+#  structureFrais:
+#    "Cadet": 22.50
+#    "Ouvert": 27.50
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=104"></script>
+#
+#- id: "mcgill-martlet-open-2021"
+#  title: "McGill Martlet Open"
+#  information: "https://athletisme-quebec.ca/medias/roinvitation2021-document-technique.pdf"
+#  date: "2021-11-27"
+#  limite: "2021-11-22"
+#  emplacement: "Montréal"
+#  frais: 22.50
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=105"></script>
+#
+#- id: "rencontre-invitation-vert-et-or-2022"
+#  title: "Rencontre Invitation Vert & Or 2022"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2860&mod=event"
+#  date: "2022-01-08"
+#  limite: "2021-12-30"
+#  emplacement: "Sherbrooke"
+#  frais: "benjamin et juvénile: 17$; cadet: 20$; ouvert: 22"
+#  structureFrais:
+#    "Benjamin": 17.00
+#    "Cadet": 20.00
+#    "Juvénile": 17.00
+#    "Ouvert": 22.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=108"></script>
 
 - id: "classique-heloise-2022"
   title: "Classique Héloïse 2022"
