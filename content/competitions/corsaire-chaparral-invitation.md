@@ -1,6 +1,6 @@
 ---
 title: Corsaire-Chaparral Invitation
-date: "2021-07-17"
+date: "2022-05-29"
 icon: calendar
 description : >
   Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories benjamine à senior.
@@ -13,20 +13,12 @@ images:
 #    parent: competitions
 ---
 
-{{< div class="well well-danger" >}}
-
-## Édition 2021 annulée.
-
-L’événement de remplacement est l’*Alliance Kronobar* en collaboration avec le Saint-Laurent Sélect, le club d’athlétisme Vaudreuil-Dorion et le club des Vainqueurs.
-
-{{< /div >}}
-
 ## Informations générales
 
-- ~~**Date** : samedi 17 juillet 2021~~ **ANNULÉE**
+- **Date** : samedi 17 juillet 2021
 - **Informations** : [document technique](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/document-technique-coch-invitation-2019.pdf)
-- **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
-<!-- - **Responsable, finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca) -->
+- **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
+- **Responsable, finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
 
 
 ## Emplacement
