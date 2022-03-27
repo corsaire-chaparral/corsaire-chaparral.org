@@ -1,81 +1,68 @@
 ---
-title: "Camp de jour 2019"
-date: 2019-04-07T13:25:59-04:00
+title: "Camp de jour 2022"
 description: >
-  Le Corsaire-Chaparral offre un camp de jour spécialisé en athlétisme à l’été 2019, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
+  Le Corsaire-Chaparral offre un camp de jour spécialisé en athlétisme à l’été 2022, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 
+images: 
+- /img/camp-jour-athletisme.jpg
 ---
-
-{{< div class="well well-primary h2 text-center" >}}
-Merci, à l'été prochain! ☀️
-{{< /div >}}
-
-<!--
-
-## Inscription
-
-Veuillez vous inscrire en fonction de votre municipalité de résidence :
-
-<a href="https://campdejour2019.corsaire-chaparral.org/e/1/camp-de-jour-blainvilleste-therese" class="btn btn-primary">
-Citoyens de **Blainville/Ste-Thérèse**
-<span class="icon icon-angle-right"></span>
-</a>
-
-<a href="https://campdejour2019.corsaire-chaparral.org/e/2/camp-de-jour-villes-exterieures" class="btn btn-secondary">
-Citoyens des **villes extérieures**
-<span class="icon icon-angle-right"></span>
-</a>
-
----
-
-Service de garde (50$ / semaine) :
-
-
-<a href="https://campdejour2019.corsaire-chaparral.org/e/3/service-de-garde-du-camp-de-jour" class="btn btn-primary">
-Ajouter le service de garde
-<span class="icon icon-angle-right"></span>
-</a>
 
 ## Informations 
 
-Personne de contact : **Samuel Grondin-Bernier** – (438) 398-4049‬
+Vocation du camp de jour : initiation aux diverses disciplines de l’athlétisme.
 
-Vocation du camp de jour: initiation aux diverses disciplines de l’athlétisme.
+Personne de contact : **Nicolas Riopel**, coordonnateur du camp
 
-**Coût**  
-- 120 $ / semaine pour les résidents des villes de **Blainville** et de **Sainte-Thérèse**  
-- 150 $ / semaine pour les **non résidents**
+<campdejour@corsaire-chaparral.org>
+
+### Tarifs
+
+* **Camp de jour** : 170$ par semaine
+* **Service de garde** : 25$ par jour (en option)
+
+### Dates
+
+* **Semaine #1** – du 27 juin au 1 juillet 2022
+* **Semaine #2** – du 4 au 8 juillet 2022
+* **Semaine #3** – du 11 au 15 juillet 2022
+* **Semaine #4** – du 18 au 22 juillet 2022
+* **Semaine #5** – du 25 au 29 juillet 2022
+* **Semaine #6** – du 1 au 5 août 2022
+* **Semaine #7** – du 8 au 12 août 2022
+* **Semaine #8** – du 15 au 19 août 2022
+
+### Jour
+
+- du lundi au vendredi
+
+### Heure
+
+- **Camp de jour** : de 9h à 16h
+- **Service de garde** : de 6h30 à 9h et de 16h à 18h
+
+### Endroit
+
+Stade d’athlétisme Richard-Garneau / Polyvalente Ste-Thérèse  
+401 boul. du Domaine  
+Ste-Thérèse, Qc  
+J7E 4S4
+
+### Âge
+
+- 8-12 ans (l’enfant doit avoir l’âge au début du camp de jour)
 
 
-**Jour**  
-Lundi au vendredi
+{{< note >}}
+### Remarques
 
-**Heure**  
-9h à 16h
+- Chaque participant doit avoir des espadrilles.
+- Le port de vêtements appropriés selon la température est recommandé.
 
-**Service de garde**  
-50 $ / semaine (service de garde disponible entre 7h et 9h et
-16h et 18h)  
-Min-Max : 8/20 + liste d’attente
+{{< /note >}}
 
-**Lieu**  
-Stade d’athlétisme Richard-Garneau à Ste-Thérèse  
-Remarque : Chaque participant doit avoir des espadrilles.  
-Le port de vêtements appropriés selon la température est recommandé. 
+## Inscription
 
-**Âge**  
-8-12 ans (l’enfant doit avoir l’âge au début du camp de jour)
-
-**Semaines**  
-8 camps d’une semaine d’activités, soit :
-
-- Du 24 juin au 28 juin
-- Du 1 au 5 juillet
-- Du 8 au 12 juillet
-- Du 15 au 19 juillet
-- Du 22 au 26 juillet
-- Du 29 juillet au 2 aout
-- Du 5 au 9 aout
-- Du 12 au 16 aout
-
--->
+<a href="https://campdejour.corsaire-chaparral.org/e/1/le-camp-de-jour-2022" class="btn btn-primary btn--block">
+Inscription au camp de jour
+<span class="icon icon-angle-right"></span>
+</a>
