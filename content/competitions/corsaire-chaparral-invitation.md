@@ -46,7 +46,7 @@ Sainte-Thérèse, QC J7E 4S4
 - Chronométrage électronique
 - Stationnement gratuit sur le site de la polyvalente
 
-### Épreuves offertes
+### Épreuves offertes (tableau provisoire)
 
 |              | CadF | CadH | JuvF | JuvH | OuvF | OuvH |
 |--------------|------|------|------|------|------|------|
