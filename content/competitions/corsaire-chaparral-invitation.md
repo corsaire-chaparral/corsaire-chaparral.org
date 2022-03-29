@@ -3,7 +3,7 @@ title: Corsaire-Chaparral Invitation
 date: "2022-05-29"
 icon: calendar
 description : >
-  Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories cadet à senior.
+  Le club d'athlétisme Corsaire-Chaparral organise son annuelle compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories cadet à senior.
 images:
 - /competitions/coch-inv-banniere.jpg
 #menu:
@@ -17,7 +17,23 @@ images:
 
 - **Document d’invitation** : _à venir_ <!-- [document technique](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/document-technique-coch-invitation-2019.pdf) -->
 - **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
-- **Responsable de la finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
+
+{{< note >}}
+
+**Championnats nationaux de la Légion** <em class="badge badge-primary">Nouveau</em>
+
+Le Corsaire-Chaparral Invitation 2022 sera la première d'une série de quatre compétitions permettant aux cadets et juvéniles de se qualifier sur l'Équipe du Québec pour les **Championnats nationaux de la Légion**. [En savoir plus](https://athletisme-quebec.ca/equipes-du-quebec)
+
+{{< /note >}}
+
+
+{{< note >}}
+
+**Finale régionale des Jeux du Québec**
+
+Cette compétition est également désignée finale régionale des Jeux du Québec pour la région des Laurentides. [En savoir plus](#finale-regionale)
+
+{{< /note >}}
 
 ### Date
 
@@ -50,13 +66,13 @@ Sainte-Thérèse, QC J7E 4S4
 
 |              | CadF | CadH | JuvF | JuvH | OuvF | OuvH |
 |--------------|------|------|------|------|------|------|
-| 100m         | X    | X    | X    | X    | X    | X    |
+| 100m         | X    | X    | X    | X    |      |      |
 | 300m         | X    | X    |      |      |      |      |
 | 400m         |      |      | X    | X    | X    | X    |
 | 1200m        | X    | X    |      |      |      |      |
-| 1500m        |      |      | X    | X    |      |      |
-| 200m haies   | X    | X    |      |      |      |      |
-| 400m haies   |      |      | X    | X    | X    | X    |
+| 1500m        |      |      | X    | X    | X    | X    |
+| 200mH        | X    | X    |      |      |      |      |
+| 400mH        |      |      | X    | X    | X    | X    |
 | 1500m marche | X    | X    |      |      | X    | X    |
 | 3000m marche |      |      | X    | X    | X    | X    |
 | Hauteur      | X    | X    | X    | X    | X    | X    |
@@ -69,19 +85,19 @@ Sainte-Thérèse, QC J7E 4S4
 
 _À venir._
 
-## Finale régionale des Jeux du Québec
+## Finale régionale des Jeux du Québec {#finale-regionale}
 
 Cet événement est identifié finale régionale des Jeux du Québec pour la région des Laurentides.
 
-Informations : [www.athlaurentides.ca](https://www.athlaurentides.ca)
+Responsable de la finale régionale des Jeux du Québec&nbsp;: [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
+
+Informations&nbsp;: [www.athlaurentides.ca](https://www.athlaurentides.ca)
 
 ## Résultats antérieurs
 
-[Résultats 2019](/resultats/2019/coch-invitation/)
-
-[Résultats 2018](/resultats/2018/corsaire-chaparral-invitation/)
-
-[Résultats 2017](/resultats/2017/corsaire-chaparal-invitation/)
+- [Résultats 2019](/resultats/2019/coch-invitation/)
+- [Résultats 2018](/resultats/2018/corsaire-chaparral-invitation/)
+- [Résultats 2017](/resultats/2017/corsaire-chaparal-invitation/)
 
 <!--
 ## Partenaires
