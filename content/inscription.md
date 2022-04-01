@@ -11,7 +11,7 @@ aliases:
 
 Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
-**"Corsaire-Chaparral" \<info@corsaire-chaparral.org\>**
+**Corsaire-Chaparral \<info@corsaire-chaparral.org\>**
 
 à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{% /div %}}
