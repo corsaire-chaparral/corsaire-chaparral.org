@@ -16,6 +16,14 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{% /div %}}
 
+{{< div class="well" >}}
+
+**Vous cherchez le camp de jour pour l’été 2022?**
+
+Rendez-vous plutôt sur la <a href="/camp-de-jour/">page du camp de jour</a>.
+
+{{< /div >}}
+
 ## Informations générales et politiques d'inscription
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription. La cotisation de l’athlète comprend les frais d’entrainements, l’affiliation à la Fédération québécoise d'athlétisme et les frais de piste.
@@ -27,9 +35,11 @@ Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera aj
 
 ## Catégories d'âge et tarifs d'inscription {#tarifs}
 
-Le tarif de la cotisation 2020-2021 est établi selon la catégorie d'âge, il est très important de bien inscrire la date de naissance de l’athlète lors de l’inscription.
+Le tarif de la cotisation 2021-2022 est établi selon la catégorie d'âge, il est très important de bien inscrire la date de naissance de l’athlète lors de l’inscription.
 
 Les inscriptions mensuelles ne sont pas acceptées.
+
+<span class="badge badge-danger">Attention!</span> **Ceci n’est pas le camp de jour!** Rendez-vous plutôt à la [page](/camp-de-jour/) prévue à cet effet.
 
 {{% div class="well well-tertiary" %}}
 **<span class="icon icon-calendar"></span> Session d’hiver 2022**

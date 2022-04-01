@@ -42,7 +42,7 @@ menu:
 #    title: Accueil
 #    url: '/'
 #    weight: -110
-  
+
   - identifier: club
     title: Club
     url: '/club/'
@@ -131,17 +131,17 @@ menu:
 #    weight: 0
 #    parent: competitions
 
-#  - identifier: camp-de-jour-highlight
-#    title: Camp de jour 2019
-#    url: '/camp-de-jour/'
-#    weight: 5
-#    active: true
-#  
+  - identifier: camp-de-jour
+    title: Camp de jour
+    url: '/camp-de-jour/'
+    weight: 50
+    active: true
+#
 #  - identifier: photos
 #    title: Photos
 #    url: '/photos/'
 #    weight: 80
-  
+
 #  - identifier: partenaires
 #    title: Partenaires
 #    url: '/partenaires/'
