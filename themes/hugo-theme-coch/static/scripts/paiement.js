@@ -3,7 +3,7 @@
 
   /**
    * PAIEMENT INSCRIPTION
-   * 
+   *
    * steps:
    * 1. Gather contact input (name and email) and amount.
    * 2. Stripe Elements
@@ -215,7 +215,7 @@
           } else {
             // Otherwise, un-disable inputs.
             enableInputs(paymentForm);
-            
+
             // Stop loading
             paymentContainer.classList.remove('submitting');
             paymentContainer.querySelector('.form-error').classList.remove('none');
@@ -225,7 +225,7 @@
             console.error('Error retrieving a Stripe token.');
           }
         }, function (err) {
-          
+
           // Stop loading
           paymentContainer.classList.remove('submitting');
           console.error('Error creating a Stripe token.', err);
@@ -285,7 +285,7 @@
     submit.click();
     submit.remove();
   }
-  
+
   function goToStep1() {
     fieldsetStep1.removeAttribute('disabled');
     fieldsetStep2.classList.add('none');
@@ -345,7 +345,7 @@
   }
 
   /**
-   * 
+   *
    * @param   {string} input Amount string with comma decimal separator
    * @returns {number} Number without decimal separator (ex. 123,50 => 12350)
    */
@@ -355,7 +355,7 @@
 
   /**
    * Submit token, amount and contact info to attempt payment
-   * 
+   *
    * @param {object} token Stripe token retrieved from credit card info
    */
   function submitToken(token) {
@@ -373,7 +373,7 @@
         '&firstName=' + submitFirstName +
         '&lastName=' + submitLastName +
         '&email=' + submitEmail +
-        '&category=inscription2018-2019'
+        '&category=0'
 
     }, function (code) {
       // Stop loading!
@@ -403,7 +403,7 @@
         document.querySelector('.form-error').classList.remove('none');
 
         enableInputs();
-        
+
         fieldsetStep1.removeAttribute('disabled');
         fieldsetStep2.removeAttribute('disabled');
 
