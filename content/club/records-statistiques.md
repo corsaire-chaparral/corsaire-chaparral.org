@@ -15,7 +15,7 @@ _Les records ci-bas ont été compilés par Émile Brassard._
 Ces statistiques regroupent les meilleures performances de chaque catégorie pour chaque épreuve depuis les débuts du club.  
 _Dernière mise à jour : 24 août 2016._
 
-[Records du club](https://.assetscorsaire-chaparral.org/records/Records-Club.pdf)
+[Records du club](https://assets.corsaire-chaparral.org/records/Records-Club.pdf)
 
 ### Records comparatifs (1976-2016)
 
