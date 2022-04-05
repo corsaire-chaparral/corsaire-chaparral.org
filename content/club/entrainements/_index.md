@@ -58,7 +58,7 @@ _Maximum de **16 jeunes**._
 Session de 10 semaines consécutives, du 26 février au 30 avril.
 {{< /div >}}
 
-- Samedi 9 h à 10 h 30, du samedi 19 juin au samedi 28 août 2021
+- Samedi 9 h à 10 h 30
 
 _Maximum de **30 jeunes**._
 
