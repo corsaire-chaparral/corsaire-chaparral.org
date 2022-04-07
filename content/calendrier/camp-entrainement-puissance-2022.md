@@ -1,9 +1,9 @@
 ---
-title: Camp d’entraînement printanier (groupe puissance) - 13-15 mai 2022
-description: Ce camp d’entraînement est offert aux athlètes du groupe puissance.
+title: Camp d’entraînement printanier - 13-15 mai 2022
+description: Ce camp d’entraînement oriente puissance est offert à tous les athlètes du club.
 ---
 
-**Camp d’entraînement à Mont-Tremblant les 13, 14 et 15 mai 2022 pour les athlètes du groupe puissance.**
+**Camp d’entraînement puissance à Mont-Tremblant les 13, 14 et 15 mai 2022 pour tous les athlètes du club.**
 
 ## Ce que le camp comprend
 
