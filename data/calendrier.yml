@@ -257,6 +257,16 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=112"></script>
 
+- id: "camp-entrainement-puissance-2022"
+  title: "Camp d’entraînement printanier (groupe puissance)"
+  information: ""
+  date: "2022-05-13"
+  limite: "2022-04-30"
+  emplacement: "Mont-Tremblant"
+  frais: 220.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=113"></script>
+
 # Template
 #- id: "2021"
 #  title: "2021"
