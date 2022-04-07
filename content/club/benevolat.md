@@ -9,16 +9,23 @@ menu:
 
 Il est attendu que chaque athlète (et sa famille) accomplisse [**20 heures**](/inscription/#benevolat) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
 
+Inscrivez-vous à notre banque de bénévoles 2022&nbsp;:
+
+<a class="btn btn-primary btn--block -lg" href="https://docs.google.com/forms/d/e/1FAIpQLSet8H3-W4nDKtIq_ve5W47yl4Cqyhhz1zH2hhymB0uHWEB0FA/viewform">**Inscription des bénévoles** <span class="icon icon-pencil"></a>
+
 ## Événements
 
+<!--
 {{< note >}}
 _Il n’y a pas d’événements de bénévolat à venir pour l’instant._
 {{< /note >}}
-<!--
-| Date       | Événement                  |
-|------------|----------------------------|
-| 2020-08-08 | _Ephemeros COCH 2020_ - [Infos]({{< ref "resultats/2020/ephemeros" >}}) / [Bénévolat](/competitions/ephemeros/benevolat/) |
 -->
+| Date       | Événement                                                                                           |
+|------------|-----------------------------------------------------------------------------------------------------|
+| 2022-05-25 | _Mini-athlétisme RSEQ-LL_ - [Infos](https://ll.rseq.ca/athletisme-primaire/)                        |
+| 2022-05-26 | _Championnat régional scolaire RSEQ-LL + Laval_ - [Infos](https://ll.rseq.ca/athletisme/)           |
+| 2022-05-29 | _Corsaire-Chaparral Invitation_ - [Infos]({{< ref "competitions/corsaire-chaparral-invitation" >}}) |
+
 
 ## Tâches régulières
 
