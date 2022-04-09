@@ -17,8 +17,6 @@ Boisbriand, Québec<br />
 J7E 4J3
 </address>
 
-<!--<span class="icon icon-phone"></span>->
-
 ## Répertoire
 
 **Robert Lavoie**  
