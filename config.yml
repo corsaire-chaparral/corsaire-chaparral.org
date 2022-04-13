@@ -84,6 +84,11 @@ menu:
 #    url: '/club/records-statistiques/'
 #    title: Records et statistiques
 #    parent: club
+  - identifier: vetements
+    url: '/club/vetements/'
+    title: Vêtements
+    parent: club
+    weight: 50
 
   - identifier: competitions
     title: Compétitions

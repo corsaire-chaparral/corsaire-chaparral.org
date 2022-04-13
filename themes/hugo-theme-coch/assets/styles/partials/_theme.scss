@@ -134,6 +134,11 @@ ol a
   color: check-background($color-tertiary);
 }
 
+.badge-default {
+  background-color: $gray-lighter;
+  color: $gray-dark;
+}
+
 .badge-darker {
   background-color: $gray-darker;
   color: #fff;

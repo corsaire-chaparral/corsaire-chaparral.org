@@ -3,8 +3,7 @@ title: Formulaires
 icon: assignment
 ---
 
-
-## Inscription 2019–2020
+## Inscription 2021–2022
 
 - [Page d'inscription](/inscription/)
 

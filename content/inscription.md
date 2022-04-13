@@ -39,20 +39,23 @@ Le tarif de la cotisation 2021-2022 est établi selon la catégorie d'âge, il e
 
 Les inscriptions mensuelles ne sont pas acceptées.
 
-<span class="badge badge-danger">Attention!</span> **Ceci n’est pas le camp de jour!** Rendez-vous plutôt à la [page](/camp-de-jour/) prévue à cet effet.
-
 {{% div class="well well-tertiary" %}}
 **<span class="icon icon-calendar"></span> Session d’hiver 2022**
 
 La session d’hiver 2022 se tiendra du 26 février au 30 avril pour 10 semaines consécutives, pour les **minimes** seulement. Il n’y aura pas de session de printemps.
 {{% /div %}}
 
-| Catégorie           | Hiver  <br> <small>(26 fév. - 30 avril 2022)</small>           | ~~Printemps~~ <br> <small>(fusionnée avec la session d’hiver)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
-| ------------------- |----------------------------------------------------------------|-----------| ------ |
-| Colibri (2013-2014) | <span class="badge badge-danger">annulée</span>                | <span class="badge badge-danger">annulée</span> | 135 $  |
-| Minime (2011-2012)  | 175 $                                                          | <span class="badge badge-danger">annulée</span> | 175 $  |
+| Catégorie           | Hiver  <br> <small>(26 fév. - 30 avril 2022)</small> | ~~Printemps~~ <br> <small>(fusionnée avec la session d’hiver)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
+| ------------------- |------------------------------------------------------|-----------------------------------------------------------------------| ------ |
+| Colibri (2013-2014) | <span class="badge badge-default">annulée</span>     | <span class="badge badge-default">annulée</span>                      | 135 $  |
+| Minime (2011-2012)  | 175 $                                                | <span class="badge badge-default">annulée</span>                      | 175 $  |
 
 \* Saison d’été à valider.
+
+**Attention : ceci n’est pas le camp de jour!**  
+Rendez-vous plutôt sur la [page du camp de jour](/camp-de-jour/) prévue à cet effet.
+
+---
 
 {{% div class="well well-tertiary" %}}
 **<span class="icon icon-calendar"></span> Inscription mi-année 2022 (1<sup>er</sup> avril au 31 août)**
