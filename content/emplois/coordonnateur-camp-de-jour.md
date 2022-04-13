@@ -4,6 +4,9 @@ date: 2022-02-20T12:25:45-05:00
 description: "Le coordonnateur du camp de jour aura pour mandat de planifier la programmation des activités d’entrainement en athlétisme et des activités d’animation. Il encadrera les animateurs/entraineurs et supervisera la réalisation des activités. Le coordonnateur du camp devra procéder à la rédaction d’un bilan à la fin du camp et effectuer des recommandations."
 ---
 
+{{< note >}}
+Le poste de coordonnateur pour l’été 2022 a été comblé.
+{{< /note >}}
 
 ### Description des tâches
 

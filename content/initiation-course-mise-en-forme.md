@@ -4,6 +4,7 @@ slug: initiation-course-mise-en-forme
 images:
 - /img/steven-lelham-342930-unsplash.jpg
 
+published: false
 ---
 
 **Coût** : 100 $ / SESSION
