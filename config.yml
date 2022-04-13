@@ -165,10 +165,10 @@ menu:
       title: Photos
       url: https://photos.corsaire-chaparral.org/
       weight: 20
-    - identifier: fichiers
-      title: Fichiers
-      url: https://fichiers.corsaire-chaparral.org/
-      weight: 30
+#    - identifier: fichiers
+#      title: Fichiers
+#      url: https://fichiers.corsaire-chaparral.org/
+#      weight: 30
     - identifier: discussions
       title: Discussions d’équipe
       url: https://framateam.org/coch/

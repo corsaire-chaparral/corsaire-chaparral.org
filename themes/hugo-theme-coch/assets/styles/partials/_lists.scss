@@ -36,6 +36,16 @@ menu, ol, ul { padding: 0 0 0 $spacing-lg; }
   }
 }
 
+.list-by-date {
+  li {
+    margin-bottom: 1rem;
+  }
+  .date {
+    text-transform: uppercase;
+    font-size: .9375rem;
+  }
+}
+
 .container-main {
   li + li {
     margin-top: 0.5em;

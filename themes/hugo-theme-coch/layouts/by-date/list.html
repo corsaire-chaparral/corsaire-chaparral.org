@@ -6,17 +6,16 @@
 
   {{ .Content }}
   
-  <ul class="list-unstyled">
+  <ul class="list-unstyled list-by-date">
     {{ range sort .RegularPages "Date" $sort }}
     <li>
-      <h3>
-        {{ if .Date }}
-        <small><span class="icon icon-calendar"></span> {{ .Date.Format "2006-01-02" }}</small>
-        {{ else }}
-        <em>(Sans date)</em>
-        {{ end }}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h3>
+      {{ if .Date }}
+      <small class="date"><span class="icon icon-calendar"></span> {{ .Date.Format "2006-01-02" }}</small>
+      {{ else }}
+      <small class="date">(Sans date)</small>
+      {{ end }}
+      <br>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
   </ul>
@@ -27,18 +26,17 @@
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
 
-    <ul class="list-unstyled">
+    <ul class="list-unstyled list-by-date">
     {{ range sort .Pages "Date" $sort }}
-    <li>
-      <h3>
+      <li>
         {{ if .Date }}
-        <small><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
+        <small class="date"><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
         {{ else }}
-        <em>(Sans date)</em>
+        <small class="date">(Sans date)</small>
         {{ end }}
+        <br>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h3>
-    </li>
+      </li>
     {{ end }}
     </ul>
 
