@@ -267,6 +267,16 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=113"></script>
 
+- id: "combine-lanaudiere-olympique-2022"
+  title: "Combiné Lanaudière-Olympique"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2868&mod=event"
+  date: "2022-05-15"
+  limite: "2022-05-08"
+  emplacement: "Repentigny"
+  frais: 22
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=115"></script>
+
 # Template
 #- id: "2021"
 #  title: "2021"
