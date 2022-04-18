@@ -208,54 +208,54 @@
 #  formulaire: >
 #    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=108"></script>
 
-- id: "classique-heloise-2022"
-  title: "Classique Héloïse 2022"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2975&mod=event"
-  date: "2022-03-06"
-  limite: "2022-02-27"
-  emplacement: "Montréal"
-  frais: "Première épreuve: 23$; épreuve supplémentaire: 12"
-  structureFrais:
-    "1ère épreuve": 22.50
-    "Épreuve supplémentaire": 12.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=109"></script>
-
-- id: "vert-et-or-invitation-2022"
-  title: "Vert & Or Invitation 2022"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2860&mod=event"
-  date: "2022-03-04"
-  limite: "2022-02-24"
-  emplacement: "Sherbrooke"
-  frais: "25.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=110"></script>
-
-- id: "relais-vaudreuil-dorion-2022"
-  title: "Les Relais Vaudreuil-Dorion"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2861&mod=event"
-  date: "2022-04-02"
-  limite: "2022-03-27"
-  emplacement: "Vaudreuil-Dorion"
-  frais: "Première épreuve: 25$; épreuve supplémentaire: 5"
-  structureFrais:
-    "1ère épreuve": 25.00
-    "Épreuve supplémentaire": 5.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=111"></script>
-
-- id: "championnats-quebecois-en-salle-ben-cad-juv-2022"
-  title: "Championnats québécois en salle ben-cad-juv"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2999&mod=event"
-  date: "2022-04-09"
-  limite: "2022-03-31"
-  emplacement: "Québec"
-  frais: "Première épreuve: 30$; épreuve supplémentaire: 20"
-  structureFrais:
-    "1ère épreuve": 30.00
-    "Épreuve supplémentaire": 20.00
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=112"></script>
+#- id: "classique-heloise-2022"
+#  title: "Classique Héloïse 2022"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2975&mod=event"
+#  date: "2022-03-06"
+#  limite: "2022-02-27"
+#  emplacement: "Montréal"
+#  frais: "Première épreuve: 23$; épreuve supplémentaire: 12"
+#  structureFrais:
+#    "1ère épreuve": 22.50
+#    "Épreuve supplémentaire": 12.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=109"></script>
+#
+#- id: "vert-et-or-invitation-2022"
+#  title: "Vert & Or Invitation 2022"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2860&mod=event"
+#  date: "2022-03-04"
+#  limite: "2022-02-24"
+#  emplacement: "Sherbrooke"
+#  frais: "25.00"
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=110"></script>
+#
+#- id: "relais-vaudreuil-dorion-2022"
+#  title: "Les Relais Vaudreuil-Dorion"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2861&mod=event"
+#  date: "2022-04-02"
+#  limite: "2022-03-27"
+#  emplacement: "Vaudreuil-Dorion"
+#  frais: "Première épreuve: 25$; épreuve supplémentaire: 5"
+#  structureFrais:
+#    "1ère épreuve": 25.00
+#    "Épreuve supplémentaire": 5.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=111"></script>
+#
+#- id: "championnats-quebecois-en-salle-ben-cad-juv-2022"
+#  title: "Championnats québécois en salle ben-cad-juv"
+#  information: "https://athletisme-quebec.ca/nouvelle?id=2999&mod=event"
+#  date: "2022-04-09"
+#  limite: "2022-03-31"
+#  emplacement: "Québec"
+#  frais: "Première épreuve: 30$; épreuve supplémentaire: 20"
+#  structureFrais:
+#    "1ère épreuve": 30.00
+#    "Épreuve supplémentaire": 20.00
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=112"></script>
 
 - id: "camp-entrainement-puissance-2022"
   title: "Camp d’entraînement printanier"
@@ -269,13 +269,142 @@
 
 - id: "combine-lanaudiere-olympique-2022"
   title: "Combiné Lanaudière-Olympique"
-  information: "https://athletisme-quebec.ca/nouvelle?id=2868&mod=event"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2996&mod=event"
   date: "2022-05-15"
   limite: "2022-05-08"
   emplacement: "Repentigny"
   frais: 22
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=115"></script>
+
+-
+  id: soiree-select-1-2022
+  title: "Soirée Sélect #1"
+  information: https://athletisme-quebec.ca/nouvelle?id=2996&mod=event
+  date: 2022-05-21
+  limite: 2022-05-14
+  emplacement: Saint-Laurent
+  frais: 20
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=116"></script>
+
+-
+  id: soiree-select-2-2022
+  title: "Soirée Sélect #2"
+  information: https://athletisme-quebec.ca/nouvelle?id=2997&mod=event
+  date: 2022-05-28
+  limite: 2022-05-21
+  emplacement: Saint-Laurent
+  frais: 20
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=117"></script>
+-
+  id: corsaire-chaparral-2022
+  title: Corsaire-Chaparral Invitation
+  information: https://corsaire-chaparral.org/competitions/corsaire-chaparral-invitation/
+  date: 2022-05-29
+  limite: 2022-05-22
+  emplacement: Sainte-Thérèse
+  frais: 25
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=118"></script>
+
+-
+  id: soiree-rouge-et-or-3-juin-2022
+  title: Soirée Rouge et Or
+  information: https://athletisme-quebec.ca/nouvelle?id=2985&mod=event
+  date: 2022-06-03
+  limite: 2022-05-27
+  emplacement: Québec
+  frais: 28
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=119"></script>
+
+-
+  id: classique-athletisme-montreal-2022
+  title: La Classique d’athlétisme de Montréal
+  information: https://www.classiquemtl.com/programme
+  date: 2022-06-05
+  limite: 2022-05-30
+  emplacement: Montréal
+  frais: 28
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=120"></script>
+
+-
+  id: ian-hume-invitation-2022
+  title: Ian Hume Invitation
+  information: https://athletisme-quebec.ca/nouvelle?id=2986&mod=event
+  date: 2022-06-18
+  limite: 2022-06-11
+  emplacement: Sherbrooke
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=121"></script>
+
+-
+  id: championnats-canadiens-langley-2022
+  title: Championnats canadiens 2022
+  information: https://athletisme-quebec.ca/nouvelle?id=2778&mod=event
+  date: 2022-06-22
+  limite: 2022-06-14
+  emplacement: Langley, BC
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: crepuscule-cadl-2022
+  title: Crépuscule CADL 2022
+  information: https://athletisme-quebec.ca/nouvelle?id=2993&mod=event
+  date: 2022-07-01
+  limite: 2022-06-24
+  emplacement: Laval
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: championnats-quebecois-ben-cad-juv-laval-2022
+  title: Championnats québécois ben-cad-juv
+  information: https://athletisme-quebec.ca/nouvelle?id=2855&mod=event
+  date: 2022-07-02
+  limite: 2022-06-25
+  emplacement: Laval
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: selection-jeux-canada-2022
+  title: Sélection pour les Jeux du Canada
+  information: https://athletisme-quebec.ca/nouvelle?id=2857&mod=event
+  date: 2022-07-08
+  limite: 2022-07-01
+  emplacement: Montréal
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: soiree-rouge-et-orange-2022
+  title: Soirée Rouge et Orange 2022
+  information: https://athletisme-quebec.ca/nouvelle?id=2987&mod=event
+  date: 2022-07-16
+  limite: 2022-07-09
+  emplacement: Trois-Rivières
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: championnats-quebecois-jun-sen-vet-2022
+  title: Championnats québécois jun-sen-vet
+  information: https://athletisme-quebec.ca/nouvelle?id=2856&mod=event
+  date: 2022-07-30
+  limite: 2022-07-23
+  emplacement: Québec
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: petit-pentathlon-nathalie-2022
+  title: Le petit pentathlon de Nathalie
+  information: https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/
+  date: 2022-08-13
+  limite: 2022-08-06
+  emplacement: Sainte-Thérèse
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 # Template
 #- id: "2021"
