@@ -4,3 +4,4 @@ node_modules
 deploy*
 exclude.deploy
 resultats/direct
+resultats/realtime
