@@ -15,7 +15,7 @@ images:
 
 ## Informations générales
 
-- **Document d’invitation** : _à venir_ <!-- [document technique](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/document-technique-coch-invitation-2019.pdf) -->
+- **Document d’invitation** : [document technique](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-coch-invitation-2022-v01.pdf)
 - **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
 
 {{< note >}}
@@ -83,7 +83,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 ### Programme
 
-_À venir._
+[Télécharger l’horaire préliminaire (PDF)](https://assets.corsaire-chaparral.org/competitions/2022/horaire-coch-invitation-2022-v01.pdf)
 
 ## Finale régionale des Jeux du Québec {#finale-regionale}
 
