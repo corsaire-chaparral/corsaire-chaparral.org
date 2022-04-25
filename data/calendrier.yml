@@ -327,6 +327,16 @@
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=120"></script>
 
 -
+  id: festival-jeunesse-laval-2022
+  title: Festival de la jeunesse CADL
+  information: https://athletisme-quebec.ca/nouvelle?id=2872&mod=event
+  date: 2022-06-18
+  limite: 2022-06-11
+  emplacement: Laval
+  frais: null
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=123"></script>
+
+-
   id: ian-hume-invitation-2022
   title: Ian Hume Invitation
   information: https://athletisme-quebec.ca/nouvelle?id=2986&mod=event
