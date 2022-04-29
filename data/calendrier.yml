@@ -284,7 +284,10 @@
   date: 2022-05-21
   limite: 2022-05-14
   emplacement: Saint-Laurent
-  frais: 20
+  frais: "1ère épreuve: 25$; épreuve supplémentaire: 10$"
+  structureFrais:
+    "1ère épreuve": 25
+    "Épreuve supp.": 10
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=116"></script>
 
 -
@@ -294,7 +297,11 @@
   date: 2022-05-28
   limite: 2022-05-21
   emplacement: Saint-Laurent
-  frais: 20
+  frais: "1ère épreuve: 25$; épreuve supplémentaire: 10$"
+  structureFrais:
+    "1ère épreuve": 25
+    "Épreuve supp.": 10
+
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=117"></script>
 -
   id: corsaire-chaparral-invitation-2022
