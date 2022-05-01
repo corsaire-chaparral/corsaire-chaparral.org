@@ -277,6 +277,19 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=115"></script>
 
+- id: "crepuscule-montreal-laval-2022"
+  title: "Crépuscule Montréal/Laval 2022"
+  information: "https://athletisme-quebec.ca/nouvelle?id=3016&mod=event"
+  date: "2022-05-07"
+  limite: "2022-05-03"
+  emplacement: "Laval"
+  frais: "1ère épreuve: 20$; 2e épreuve: 15"
+  structureFrais:
+    "1ère épreuve": 20
+    "Épreuve suppl.": 15
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=124"></script>
+
 -
   id: soiree-select-1-2022
   title: "Soirée Sélect #1"
