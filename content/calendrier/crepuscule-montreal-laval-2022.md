@@ -1,3 +1,3 @@
 ---
-title: crepuscule-montreal-laval-2022
+title: Crépuscule Montréal/Laval 2022
 ---

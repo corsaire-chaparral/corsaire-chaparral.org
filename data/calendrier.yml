@@ -277,7 +277,8 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=115"></script>
 
-- id: "crepuscule-montreal-laval-2022"
+- 
+  id: "crepuscule-montreal-laval-2022"
   title: "Crépuscule Montréal/Laval 2022"
   information: "https://athletisme-quebec.ca/nouvelle?id=3016&mod=event"
   date: "2022-05-07"
@@ -289,6 +290,17 @@
     "Épreuve suppl.": 15
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=124"></script>
+
+- 
+  id: "battle-road-twilight-1-2022"
+  title: "Battle Road TC Twilight #1 2022"
+  information: "https://battleroadtc.org/twilight-series/twilight-meet-1/"
+  date: "2022-05-14"
+  limite: "2022-05-08"
+  emplacement: "Bentley University"
+  frais: 30
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=125"></script>
 
 -
   id: soiree-select-1-2022
