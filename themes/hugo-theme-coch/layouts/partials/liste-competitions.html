@@ -5,9 +5,9 @@
       <th>Date</th><th>Événement</th>
     </tr>
   </thead>
-  
+
   <tbody>
-    {{- range sort .Site.Data.calendrier "date" "desc" }}
+    {{- range sort .Site.Data.calendrier "date" "asc" }}
     {{- $competition := . -}}
     {{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.limite)) (time now) -}}
 
@@ -29,4 +29,3 @@
     {{- end -}}
   </tbody>
 </table>
-
