@@ -17,35 +17,36 @@ Boisbriand, Québec<br />
 J7E 4J3
 </address>
 
+**Questions et informations**  
+<span class="icon icon-mail"></span>
+<info@corsaire-chaparral.org
+
+**Administration et gestion des inscriptions**  
+<span class="icon icon-mail"></span>
+<admin@corsaire-chaparral.org>
+
+**Équipe de chronométrage**  
+<span class="icon icon-mail"></span>
+<chronometrage@corsaire-chaparral.org>
+
 ## Répertoire
 
-**Robert Lavoie**  
-Direction technique  
+**François-Éric Garant**  
+Président  
 <span class="icon icon-mail"></span>
-[robertlecoach@gmail.com](mailto:robertlecoach@gmail.com)
+<fegman13@hotmail.com>
 
 **Nancy Boucher**  
 Trésorière  
 <span class="icon icon-mail"></span>
-[nanzzou@outlook.com](mailto:nanzzou@outlook.com)
+<nanzzou@outlook.com>
 
 **Olivier Lavoie**  
 Entraîneur-chef  
 <span class="icon icon-mail"></span>
-[olivier.gabriel.lavoie@gmail.com](mailto:olivier.gabriel.lavoie@gmail.com)
-
-**Samuel Grondin-Bernier**  
-Direction technique  
-Assistant, entraîneur-chef  
-<span class="icon icon-mail"></span>
-[grondin750@hotmail.com](mailto:grondin750@hotmail.com)
+<olivier.gabriel.lavoie@gmail.com>
 
 **Louis-Olivier Brassard**  
-Administrateur système, chronométrage et résultats  
+Webmestre  
 <span class="icon icon-mail"></span>
-[louis@corsaire-chaparral.org](mailto:louis@corsaire-chaparral.org)
-
-**Équipe de chronométrage**  
-<span class="icon icon-mail"></span>
-[chronometrage@corsaire-chaparral.org](mailto:chronometrage@corsaire-chaparral.org)
-
+<louis@corsaire-chaparral.org>
