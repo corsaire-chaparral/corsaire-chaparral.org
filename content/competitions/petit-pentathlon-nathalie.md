@@ -2,7 +2,7 @@
 title: "Le petit pentathlon de Nathalie"
 date: 2022-08-13
 images: 
-- /img/banniere-petit-pentathlon-nathalie.png
+- /img/banniere-petit-pentathlon-nathalie.jpg
 ---
 
 ## Informations générales
