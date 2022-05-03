@@ -26,7 +26,7 @@ _Il n’y a pas d’événements de bénévolat à venir pour l’instant._
 | 2022-05-26   | _Championnat régional scolaire RSEQ-LL + Laval_ - [Infos](https://ll.rseq.ca/athletisme/)                                                                                             |
 | 2022-05-29   | _Corsaire-Chaparral Invitation_ - [Infos]({{< ref "competitions/corsaire-chaparral-invitation" >}})                                                                                       |
 | 2022-08-13   | _Le Petit pentathlon de Nathalie_ - [Infos]({{< ref "competitions/petit-pentathlon-nathalie" >}})                                                                                        |
-| 2022-09-11   | _Le Demi-marathon de Blainville_ - [Infos](https://www.demimarathondeblainville.com) - [Bénévolat](https://www.demimarathondeblainville.com/benevolat) |
+| 2022-09-11   | _Le Demi-marathon de Blainville_ - [Infos](https://www.demimarathondeblainville.com) - [Bénévolat](https://www.demimarathondeblainville.com/benevoles) |
 
 
 ## Tâches régulières
