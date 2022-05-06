@@ -40,17 +40,15 @@ Le tarif de la cotisation 2021-2022 est établi selon la catégorie d'âge, il e
 Les inscriptions mensuelles ne sont pas acceptées.
 
 {{% div class="well well-tertiary" %}}
-**<span class="icon icon-calendar"></span> Session d’hiver 2022**
+**<span class="icon icon-calendar"></span> Session d’été 2022 ☀️**
 
-La session d’hiver 2022 se tiendra du 26 février au 30 avril pour 10 semaines consécutives, pour les **minimes** seulement. Il n’y aura pas de session de printemps.
+C’est confirmé! La session d’été 2022 se tiendra du 4 juin au 6 août 2022 pour 10 semaines consécutives, pour les **colibris** et les **minimes**. La session se concluera avec le *Petit pentathlon de Nathalie* le samedi 13 août, au stade d’athlétisme Richard-Garneau. Merci de votre patience!
 {{% /div %}}
 
-| Catégorie           | Hiver  <br> <small>(26 fév. - 30 avril 2022)</small> | ~~Printemps~~ <br> <small>(fusionnée avec la session d’hiver)</small> | Été* <br> <small> (20 juin - 26 août)</small> |
-| ------------------- |------------------------------------------------------|-----------------------------------------------------------------------| ------ |
-| Colibri (2013-2014) | <span class="badge badge-default">annulée</span>     | <span class="badge badge-default">annulée</span>                      | 135 $  |
-| Minime (2011-2012)  | 175 $                                                | <span class="badge badge-default">annulée</span>                      | 175 $  |
-
-\* Saison d’été à valider.
+| Catégorie           | Hiver  <br> <small>(26 fév. - 30 avril 2022)</small> | ~~Printemps~~ <br> <small>(fusionnée avec la session d’hiver)</small> | Été* <br> <small> (4 juin - 6 août 2022)</small> |
+| ------------------- |------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------|
+| Colibri (2013-2014) | <span class="badge badge-default">annulée</span>     | <span class="badge badge-default">annulée</span>                      | 135 $                                            |
+| Minime (2011-2012)  | 175 $                                                | <span class="badge badge-default">annulée</span>                      | 175 $                                            |
 
 **Attention : ceci n’est pas le camp de jour!**  
 Rendez-vous plutôt sur la [page du camp de jour](/camp-de-jour/) prévue à cet effet.
