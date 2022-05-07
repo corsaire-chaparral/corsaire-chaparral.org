@@ -1,4 +1,4 @@
 ---
-title: Battle Road TC Twilight #1 2022
+title: "Battle Road TC Twilight #1 2022"
 
 ---

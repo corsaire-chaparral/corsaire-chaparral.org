@@ -1,3 +1,3 @@
 ---
-title: {{ .Name }}
+title: "{{ .Name }}"
 ---
