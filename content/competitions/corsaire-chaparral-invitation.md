@@ -83,7 +83,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 ### Programme
 
-[Télécharger l’horaire préliminaire (PDF)](https://assets.corsaire-chaparral.org/competitions/2022/horaire-coch-invitation-2022-v01.pdf)
+[Télécharger l’horaire préliminaire (PDF)](https://assets.corsaire-chaparral.org/competitions/2022/horaire-coch-invitation-2022-v02.pdf)
 
 ## Finale régionale des Jeux du Québec {#finale-regionale}
 
