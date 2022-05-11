@@ -62,7 +62,7 @@ L’inscription mi-année est désormais ouverte! Veuillez sélectionner l’opt
 
 {{% /div %}}
 
-| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 21 août |
+| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 31 août\* |
 | ----------------------- | ------------------ | ------ | ------ |
 | Benjamin  (2009-2010)   | 620 $              | 495 $  | 262 $ |
 | Cadet (2007-2008)       | 775 $              | 600 $  | 355 $ |
@@ -71,6 +71,7 @@ L’inscription mi-année est désormais ouverte! Veuillez sélectionner l’opt
 | Senior (1986-2002)      | 980 $              | 793 $  | 534 $ |
 | Vétéran (1985 et avant) | 800 $              | 660 $  | 400 $ |
 
+\* La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète.
 
 {{< note >}}
 ### Notes
