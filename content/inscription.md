@@ -62,7 +62,7 @@ L’inscription mi-année est désormais ouverte! Veuillez sélectionner l’opt
 
 {{% /div %}}
 
-| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 31 août\* |
+| Catégorie               | Du 1<sup>er</sup> sept. au 31 août\* | Du 1<sup>er</sup> avril au 31 août\* | Du 19 juin au 31 août\* |
 | ----------------------- | ------------------ | ------ | ------ |
 | Benjamin  (2009-2010)   | 620 $              | 495 $  | 262 $ |
 | Cadet (2007-2008)       | 775 $              | 600 $  | 355 $ |
