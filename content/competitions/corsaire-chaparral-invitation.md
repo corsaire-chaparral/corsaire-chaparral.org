@@ -17,7 +17,7 @@ images:
 
 **Document d’invitation** : [document technique](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-coch-invitation-2022-v01.pdf)  
 _Mise à jour du 3 mai : ajout de la région de Laval pour la sélection des Jeux du Québec_  
-_Mise à jour du 13 mai : ajout de responsables techniques_
+_Mise à jour du 13 mai : ajout de responsables techniques; limite de 20 athlètes par plateau de pelouse_
 
 
 **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
