@@ -76,6 +76,7 @@ Sainte-Thérèse, QC J7E 4S4
 | 1200m        | X    | X    |      |      |      |      |
 | 1500m        |      |      | X    | X    | X    | X    |
 | 200mH        | X    | X    |      |      |      |      |
+| 300mH        |      |      |      |      | Vét. | Vét. |
 | 400mH        |      |      | X    | X    | X    | X    |
 | 1500m marche | X    | X    |      |      | X    | X    |
 | 3000m marche |      |      | X    | X    | X    | X    |
