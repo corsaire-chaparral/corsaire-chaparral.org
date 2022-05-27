@@ -13,12 +13,19 @@ images:
 #    parent: competitions
 ---
 
+[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-horaire-coch-invitation-2022-vFINAL.pdf)
+
+[**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2022/Perflist__coch-inv.pdf)
+
+[**Composition des vagues**](https://assets.corsaire-chaparral.org/competitions/2022/MeetProgram__piste-coch-inv.pdf)
+
+[**Résultats en direct**](https://resultats.corsaire-chaparral.org/meets/coch-inv-2022)
+
 ## Informations générales
 
 **Document d’invitation** : [document technique](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-coch-invitation-2022-v01.pdf)  
 _Mise à jour du 3 mai : ajout de la région de Laval pour la sélection des Jeux du Québec_  
 _Mise à jour du 13 mai : ajout de responsables techniques; limite de 20 athlètes par plateau de pelouse_
-
 
 **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
 
@@ -85,10 +92,6 @@ Sainte-Thérèse, QC J7E 4S4
 | Longueur     | X    | X    | X    | X    |      |      |
 | Disque       | X    | X    | X    | X    | X    | X    |
 | Javelot      | X    | X    | X    | X    | X    | X    |
-
-### Programme
-
-[Télécharger l’horaire préliminaire (PDF)](https://assets.corsaire-chaparral.org/competitions/2022/horaire-coch-invitation-2022-v02.pdf)
 
 ## Finale régionale des Jeux du Québec {#finale-regionale}
 
