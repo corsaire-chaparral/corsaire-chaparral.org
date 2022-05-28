@@ -13,7 +13,7 @@ images:
 #    parent: competitions
 ---
 
-[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-horaire-coch-invitation-2022-vFINAL.pdf)
+[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-coch-invitation-2022-vFINAL.pdf)
 
 [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2022/Perflist__coch-inv.pdf)
 
