@@ -30,7 +30,6 @@ _Mise à jour du 13 mai : ajout de responsables techniques; limite de 20 athlèt
 **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
 
 {{< note >}}
-
 **Championnats nationaux de la Légion** <em class="badge badge-primary">Nouveau</em>
 
 Le Corsaire-Chaparral Invitation 2022 sera la première d'une série de quatre compétitions permettant aux cadets et juvéniles de se qualifier sur l'Équipe du Québec pour les **Championnats nationaux de la Légion**. [En savoir plus](https://athletisme-quebec.ca/equipes-du-quebec)
@@ -92,6 +91,14 @@ Sainte-Thérèse, QC J7E 4S4
 | Longueur     | X    | X    | X    | X    |      |      |
 | Disque       | X    | X    | X    | X    | X    | X    |
 | Javelot      | X    | X    | X    | X    | X    | X    |
+
+## Cantine
+
+La _Cantina de Andros_ sera sur place de 11h à 15h pour vos petites (et grosses!) fringales!
+
+Veuillez prendre note qu’il sera possible de payer en argent comptant, débit ou par carte de crédit.
+
+![Menu Cantina de Andros](/img/menu-andros-2022.jpg)
 
 ## Finale régionale des Jeux du Québec {#finale-regionale}
 
