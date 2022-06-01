@@ -44,23 +44,19 @@ Selon les catégories (voir ci-bas).
 
 {{< div class="well well-tertiary" >}}
 <span class="icon icon-calendar"></span> **Session d’hiver 2022**  
-Session de 10 semaines consécutives, du 26 février au 30 avril.
+Session de 10 semaines consécutives, du 4 juin au 6 août 2022.
 {{< /div >}}
 
 - Samedi 9 h à 10 h 30
-
-_Maximum de **16 jeunes**._
 
 ### Minime (2011-2012) {#minime}
 
 {{< div class="well well-tertiary" >}}
 <span class="icon icon-calendar"></span> **Session d’hiver 2022**  
-Session de 10 semaines consécutives, du 26 février au 30 avril.
+Session de 10 semaines consécutives, du 4 juin au 6 août 2022.
 {{< /div >}}
 
 - Samedi 9 h à 10 h 30
-
-_Maximum de **30 jeunes**._
 
 ### Benjamin (2009-2010) {#benjamin}
 

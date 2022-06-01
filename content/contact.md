@@ -17,11 +17,11 @@ Boisbriand, Québec<br />
 J7E 4J3
 </address>
 
-**Questions et informations**  
+**Questions et informations générales**  
 <span class="icon icon-mail"></span>
-<info@corsaire-chaparral.org
+<info@corsaire-chaparral.org>
 
-**Administration et gestion des inscriptions**  
+**Administration et traitement des inscriptions pour le secteur compétitif**  
 <span class="icon icon-mail"></span>
 <admin@corsaire-chaparral.org>
 
