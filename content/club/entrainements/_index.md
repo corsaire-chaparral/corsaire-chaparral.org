@@ -43,7 +43,7 @@ Selon les catégories (voir ci-bas).
 ### Colibri (2013-2014) {#colibri}
 
 {{< div class="well well-tertiary" >}}
-<span class="icon icon-calendar"></span> **Session d’hiver 2022**  
+<span class="icon icon-calendar"></span> **Session d’été 2022**  
 Session de 10 semaines consécutives, du 4 juin au 6 août 2022.
 {{< /div >}}
 
@@ -52,7 +52,7 @@ Session de 10 semaines consécutives, du 4 juin au 6 août 2022.
 ### Minime (2011-2012) {#minime}
 
 {{< div class="well well-tertiary" >}}
-<span class="icon icon-calendar"></span> **Session d’hiver 2022**  
+<span class="icon icon-calendar"></span> **Session d’été 2022**  
 Session de 10 semaines consécutives, du 4 juin au 6 août 2022.
 {{< /div >}}
 
