@@ -377,7 +377,10 @@
   date: 2022-06-18
   limite: 2022-06-11
   emplacement: Sherbrooke
-  frais: null
+  frais: "Chaque épreuve individuelle: 27; épreuves combinées (heptathlon, octathlon, ...): 55"
+  structureFrais:
+    "Épreuve individuelle": 27.00
+    "Épreuves combinées": 55.00
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=121"></script>
 
 -
