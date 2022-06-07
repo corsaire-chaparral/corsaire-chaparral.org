@@ -371,6 +371,16 @@
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=123"></script>
 
 -
+  id: ottawa-twilight-4-2022
+  title: "Ottawa Twilight #4 2022"
+  information: https://athletisme-quebec.ca/nouvelle?id=2987&mod=event
+  date: 2022-06-15
+  limite: 2022-06-13
+  emplacement: Ottawa
+  frais: null
+  formulaire: 
+
+-
   id: ian-hume-invitation-2022
   title: Ian Hume Invitation
   information: https://athletisme-quebec.ca/nouvelle?id=2986&mod=event
