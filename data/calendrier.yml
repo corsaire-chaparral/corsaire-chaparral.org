@@ -378,16 +378,16 @@
   limite: 2022-06-13
   emplacement: Ottawa
   frais: null
-  formulaire: 
+  formulaire:
 
 -
   id: ian-hume-invitation-2022
   title: Ian Hume Invitation
   information: https://athletisme-quebec.ca/nouvelle?id=2986&mod=event
   date: 2022-06-18
-  limite: 2022-06-11
+  limite: 2022-06-09
   emplacement: Sherbrooke
-  frais: "Chaque épreuve individuelle: 27; épreuves combinées (heptathlon, octathlon, ...): 55"
+  frais: "Chaque épreuve individuelle: 27; épreuves combinées (heptathlon, octathlon): 55"
   structureFrais:
     "Épreuve individuelle": 27.00
     "Épreuves combinées": 55.00
@@ -420,14 +420,26 @@
   date: 2022-07-02
   limite: 2022-06-25
   emplacement: Laval
-  frais: null
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  frais: "Chaque épreuve individuelle: 25"
+  structureFrais:
+    "Épreuve individuelle": 25.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=127"></script>
+
+#-
+#  id: selection-jeux-canada-2022
+#  title: Sélection pour les Jeux du Canada
+#  information: https://athletisme-quebec.ca/nouvelle?id=2857&mod=event
+#  date: 2022-07-08
+#  limite: 2022-07-01
+#  emplacement: Montréal
+#  frais: null
+#  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 -
   id: selection-jeux-canada-2022
-  title: Sélection pour les Jeux du Canada
-  information: https://athletisme-quebec.ca/nouvelle?id=2857&mod=event
-  date: 2022-07-08
+  title: "Champonnat québécois de pentathlon benjamin, cadet et vétéran"
+  information: https://athletisme-quebec.ca/nouvelle?id=3027&mod=event
+  date: 2022-07-09
   limite: 2022-07-01
   emplacement: Montréal
   frais: null
@@ -448,7 +460,7 @@
   title: Championnats québécois jun-sen-vet
   information: https://athletisme-quebec.ca/nouvelle?id=2856&mod=event
   date: 2022-07-30
-  limite: 2022-07-23
+  limite: 2022-07-22
   emplacement: Québec
   frais: null
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
@@ -461,7 +473,7 @@
   limite: 2022-08-06
   emplacement: Sainte-Thérèse
   frais: null
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=126"></script>
 
 # Template
 #- id: "2021"
