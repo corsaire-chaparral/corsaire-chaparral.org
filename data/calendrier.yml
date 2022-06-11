@@ -365,7 +365,7 @@
   title: Festival de la jeunesse CADL
   information: https://athletisme-quebec.ca/nouvelle?id=2872&mod=event
   date: 2022-06-18
-  limite: 2022-06-11
+  limite: 2022-06-12
   emplacement: Laval
   frais: 27.00
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=123"></script>
@@ -378,7 +378,7 @@
   limite: 2022-06-13
   emplacement: Ottawa
   frais: null
-  formulaire:
+  formulaire: null
 
 -
   id: ian-hume-invitation-2022
@@ -396,12 +396,12 @@
 -
   id: championnats-canadiens-langley-2022
   title: Championnats canadiens 2022
-  information: https://athletisme-quebec.ca/nouvelle?id=2778&mod=event
+  information: https://athletics.ca/fr/events/championnats-canadiens-dathletisme-2022/
   date: 2022-06-22
-  limite: 2022-06-14
+  limite: 2022-06-13
   emplacement: Langley, BC
   frais: null
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  formulaire: null
 
 -
   id: crepuscule-cadl-2022
@@ -425,15 +425,15 @@
     "Épreuve individuelle": 25.00
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=127"></script>
 
-#-
-#  id: selection-jeux-canada-2022
-#  title: Sélection pour les Jeux du Canada
-#  information: https://athletisme-quebec.ca/nouvelle?id=2857&mod=event
-#  date: 2022-07-08
-#  limite: 2022-07-01
-#  emplacement: Montréal
-#  frais: null
-#  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+-
+  id: selection-jeux-canada-2022
+  title: Sélection pour les Jeux du Canada
+  information: https://athletisme-quebec.ca/nouvelle?id=2857&mod=event
+  date: 2022-07-08
+  limite: 2022-06-30
+  emplacement: Montréal
+  frais: null
+  formulaire: null #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 -
   id: selection-jeux-canada-2022
@@ -443,7 +443,7 @@
   limite: 2022-07-01
   emplacement: Montréal
   frais: null
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  formulaire: null #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 -
   id: soiree-rouge-et-orange-2022
@@ -453,7 +453,7 @@
   limite: 2022-07-09
   emplacement: Trois-Rivières
   frais: null
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  formulaire: #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 -
   id: championnats-quebecois-jun-sen-vet-2022
@@ -463,7 +463,7 @@
   limite: 2022-07-22
   emplacement: Québec
   frais: null
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  formulaire: #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 -
   id: petit-pentathlon-nathalie-2022
