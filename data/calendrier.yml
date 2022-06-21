@@ -410,8 +410,10 @@
   date: 2022-07-01
   limite: 2022-06-24
   emplacement: Laval
-  frais: null
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  frais: "Chaque épreuve individuelle : 23"
+  structureFrais:
+    "Épreuve individuelle": 23.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=131"></script>
 
 -
   id: championnats-quebecois-ben-cad-juv-laval-2022
@@ -426,8 +428,20 @@
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=127"></script>
 
 -
-  id: selection-jeux-canada-2022
-  title: Sélection pour les Jeux du Canada
+  id: ottawa-twilight-7-2022
+  title: "Ottawa Twilight #7 2022"
+  information: https://www.ottawalions.com/wp-content/uploads/2022/05/2022-SUMMER-TWILIGHT-SERIES.pdf
+  date: 2022-07-06
+  limite: 2022-07-04
+  emplacement: Ottawa
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=128"></script>
+
+-
+  id: challenge-vainqueurs-plus-2022
+  title: Challenge Vainqueurs Plus et Sélection pour les Jeux du Canada
   information: https://athletisme-quebec.ca/nouvelle?id=2857&mod=event
   date: 2022-07-08
   limite: 2022-06-30
@@ -436,7 +450,7 @@
   formulaire: null #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 -
-  id: selection-jeux-canada-2022
+  id: championnats-quebecois-pentathlon-ben-cad-juv-2022
   title: "Champonnat québécois de pentathlon benjamin, cadet et vétéran"
   information: https://athletisme-quebec.ca/nouvelle?id=3027&mod=event
   date: 2022-07-09
@@ -444,6 +458,19 @@
   emplacement: Montréal
   frais: null
   formulaire: null #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: ottawa-twilight-8-2022
+  title: "Ottawa Twilight #8 2022"
+  information: https://www.ottawalions.com/wp-content/uploads/2022/05/2022-SUMMER-TWILIGHT-SERIES.pdf
+  date: 2022-07-13
+  limite: 2022-07-11
+  emplacement: Ottawa
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=129"></script>
+
 
 -
   id: soiree-rouge-et-orange-2022
