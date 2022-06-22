@@ -408,7 +408,7 @@
   title: Crépuscule CADL 2022
   information: https://athletisme-quebec.ca/nouvelle?id=2993&mod=event
   date: 2022-07-01
-  limite: 2022-06-24
+  limite: 2022-06-23
   emplacement: Laval
   frais: "Chaque épreuve individuelle : 23"
   structureFrais:
@@ -426,6 +426,18 @@
   structureFrais:
     "Épreuve individuelle": 25.00
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=127"></script>
+
+-
+  id: ottawa-twilight-6-2022
+  title: "Ottawa Twilight #6 2022"
+  information: https://www.ottawalions.com/wp-content/uploads/2022/05/2022-SUMMER-TWILIGHT-SERIES.pdf
+  date: 2022-06-29
+  limite: 2022-06-27
+  emplacement: Ottawa
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=132"></script>
 
 -
   id: ottawa-twilight-7-2022
@@ -483,6 +495,30 @@
   formulaire: #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 -
+  id: ottawa-twilight-9-2022
+  title: "Ottawa Twilight #9 2022"
+  information: https://www.ottawalions.com/wp-content/uploads/2022/05/2022-SUMMER-TWILIGHT-SERIES.pdf
+  date: 2022-07-20
+  limite: 2022-07-18
+  emplacement: Ottawa
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=133"></script>
+
+-
+  id: ottawa-twilight-10-2022
+  title: "Ottawa Twilight #10 2022"
+  information: https://www.ottawalions.com/wp-content/uploads/2022/05/2022-SUMMER-TWILIGHT-SERIES.pdf
+  date: 2022-07-27
+  limite: 2022-07-25
+  emplacement: Ottawa
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=134"></script>
+
+-
   id: championnats-quebecois-jun-sen-vet-2022
   title: Championnats québécois jun-sen-vet
   information: https://athletisme-quebec.ca/nouvelle?id=2856&mod=event
@@ -491,6 +527,30 @@
   emplacement: Québec
   frais: null
   formulaire: #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+-
+  id: ottawa-twilight-11-2022
+  title: "Ottawa Twilight #11 2022"
+  information: https://www.ottawalions.com/wp-content/uploads/2022/05/2022-SUMMER-TWILIGHT-SERIES.pdf
+  date: 2022-08-03
+  limite: 2022-08-01
+  emplacement: Ottawa
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=135"></script>
+
+-
+  id: ottawa-twilight-12-2022
+  title: "Ottawa Twilight #12 2022"
+  information: https://www.ottawalions.com/wp-content/uploads/2022/05/2022-SUMMER-TWILIGHT-SERIES.pdf
+  date: 2022-08-10
+  limite: 2022-08-08
+  emplacement: Ottawa
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=136"></script>
 
 -
   id: petit-pentathlon-nathalie-2022
