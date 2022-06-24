@@ -456,20 +456,24 @@
   title: Challenge Vainqueurs Plus et Sélection pour les Jeux du Canada
   information: https://athletisme-quebec.ca/nouvelle?id=2857&mod=event
   date: 2022-07-08
-  limite: 2022-06-30
+  limite: 2022-07-02
   emplacement: Montréal
-  frais: null
-  formulaire: null #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  frais: "Épreuve individuelle: 28$; pentathlon: 55"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=130"></script>
 
 -
-  id: championnats-quebecois-pentathlon-ben-cad-juv-2022
+  id: championnats-quebecois-pentathlon-ben-cad-vet-2022
   title: "Champonnat québécois de pentathlon benjamin, cadet et vétéran"
   information: https://athletisme-quebec.ca/nouvelle?id=3027&mod=event
   date: 2022-07-09
   limite: 2022-07-01
   emplacement: Montréal
-  frais: null
-  formulaire: null #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  frais: "Pentathlon: 55"
+  structureFrais:
+    "Pentathlon": 55.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=137"></script>
 
 -
   id: ottawa-twilight-8-2022
