@@ -468,7 +468,7 @@
   title: "Champonnat québécois de pentathlon benjamin, cadet et vétéran"
   information: https://athletisme-quebec.ca/nouvelle?id=3027&mod=event
   date: 2022-07-09
-  limite: 2022-07-01
+  limite: 2022-07-02
   emplacement: Montréal
   frais: "Pentathlon: 55"
   structureFrais:
@@ -493,10 +493,13 @@
   title: Soirée Rouge et Orange 2022
   information: https://athletisme-quebec.ca/nouvelle?id=2987&mod=event
   date: 2022-07-16
-  limite: 2022-07-09
+  limite: 2022-07-10
   emplacement: Trois-Rivières
-  frais: null
-  formulaire: #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  frais: "Chaque épreuve : 28"
+  structureFrais:
+    "Épreuve individuelle": 28.00
+
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=138"></script>
 
 -
   id: ottawa-twilight-9-2022
@@ -529,8 +532,11 @@
   date: 2022-07-30
   limite: 2022-07-22
   emplacement: Québec
-  frais: null
-  formulaire: #<script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  frais: "1ère épreuve: 30$; épreuve supplémentaire: 20"
+  structureFrais:
+    "1ere épreuve": 30
+    "Épreuve supplémentaire": 20
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=139"></script>
 
 -
   id: ottawa-twilight-11-2022
