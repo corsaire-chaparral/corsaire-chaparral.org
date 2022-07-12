@@ -20,12 +20,12 @@ Inscrivez-vous à notre banque de bénévoles 2022&nbsp;:
 _Il n’y a pas d’événements de bénévolat à venir pour l’instant._
 {{< /note >}}
 -->
-| Date         | Événement                                                                                                                                                                                 |
-| ------------ | -----------------------------------------------------------------------------------------------------                                                                                     |
-| 2022-05-25   | _Mini-athlétisme RSEQ-LL_ - [Infos](https://ll.rseq.ca/athletisme-primaire/)                                                                                                       |
-| 2022-05-26   | _Championnat régional scolaire RSEQ-LL + Laval_ - [Infos](https://ll.rseq.ca/athletisme/)                                                                                             |
-| 2022-05-29   | _Corsaire-Chaparral Invitation_ - [Infos]({{< ref "competitions/corsaire-chaparral-invitation" >}})                                                                                       |
-| 2022-08-13   | _Le Petit pentathlon de Nathalie_ - [Infos]({{< ref "competitions/petit-pentathlon-nathalie" >}})                                                                                        |
+| Date         | Événement                                                                                                                                              |
+| ------------ |--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2022-05-25   | _Mini-athlétisme RSEQ-LL_ - [Infos](https://ll.rseq.ca/athletisme-primaire/)                                                                           |
+| 2022-05-26   | _Championnat régional scolaire RSEQ-LL + Laval_ - [Infos](https://ll.rseq.ca/athletisme/)                                                              |
+| 2022-05-29   | _Corsaire-Chaparral Invitation_ - [Infos]({{< ref "competitions/corsaire-chaparral-invitation" >}})                                                    |
+| 2022-08-13   | _Les petits combinés du Corsaire-Chaparral_ - [Infos](/competitions/petits-combines-corsaire-chaparral/)                                               |
 | 2022-09-11   | _Le Demi-marathon de Blainville_ - [Infos](https://www.demimarathondeblainville.com) - [Bénévolat](https://www.demimarathondeblainville.com/benevoles) |
 
 
