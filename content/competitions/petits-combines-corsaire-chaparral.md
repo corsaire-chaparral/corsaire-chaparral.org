@@ -12,14 +12,13 @@ aliases:
 ## Informations générales
 
 - **Date** : samedi 13 août 2022
-
 - **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
 - **Directrice technique** : Madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 - **Chronométrage et résultats** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
 - **Bénévoles** : Lina Lalonde, Marie-Pierre Corbin
 - **Communications** : Stéphanie Parent
 - **Secrétariat** : Nancy Boucher
-<!-- - [**Document d’invitation**](https://fichiers.corsaire-chaparral.org/s/fk5MeWSWZPG2oe8) -->
+- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf)
 <!-- - [**Horaire final**](https://fichiers.corsaire-chaparral.org/s/FDGsAkqENooEj2q) -->
 <!-- - [**Liste des performances**](https://fichiers.corsaire-chaparral.org/s/aY3eeMnA2J3LZws) -->
 <!-- - [**Résultats en temps réel**](https://avs-sport.com/comp_main.php?comp=) -->
