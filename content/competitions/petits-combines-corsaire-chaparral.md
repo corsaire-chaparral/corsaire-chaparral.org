@@ -15,7 +15,7 @@ aliases:
 - **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
 - **Directrice technique** : Madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 - **Chronométrage et résultats** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
-- **Bénévoles** : Lina Lalonde, Marie-Pierre Corbin
+- **Bénévoles** : Lina Lalonde, Karine Beauséjour
 - **Communications** : Stéphanie Parent
 - **Secrétariat** : Nancy Boucher
 - [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf)
