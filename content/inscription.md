@@ -6,6 +6,11 @@ aliases:
   - /club/inscription/
 ---
 
+**Merci pour cette belle saison 2021-2022!**
+De retour en septembre 2022. Bonne fin d’été! (Dates de début des entraînements à venir.)
+
+---
+
 {{% div class="well well-danger" %}}
 **<span class="icon icon-mail"></span> Note importante sur les courriels**
 
@@ -122,5 +127,6 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-
+<!--
 <a class="btn btn-primary btn--block -lg" href="https://www.trackie.com/inscription/evenement/club-dathl-tisme-corsaire-chaparral/472493/">**Inscription 2021-2022** <span class="icon icon-pencil"></a>
+-->
