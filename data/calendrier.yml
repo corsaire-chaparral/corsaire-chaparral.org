@@ -562,6 +562,18 @@
     "Épreuve individuelle": 28.00
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=136"></script>
 
+- id: legions-2022
+  title: "Jeux de la Légion canadienne 2022"
+  information: https://www.legion.ca/fr/communautes-et-jeunes/leadership-et-sport-pour-les-jeunes/championnats-nationaux-d-athletisme-pour-jeunes
+  date: 2022-08-05
+  limite: 2022-08-01
+  emplacement: Sherbrooke
+  frais: "1re épreuve : 65$; 2e épreuve : 50$"
+  structureFrais:
+    "1re épreuve": 65.00
+    "2e épreuve": 50.00
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=142"></script>
+
 -
   id: petits-combines-corsaire-chaparral-2022
   title: Les petits combinés Corsaire-Chaparral
