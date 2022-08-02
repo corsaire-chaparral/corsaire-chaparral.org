@@ -589,6 +589,16 @@
     "Benjamin": 30
   formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=140"></script>
 
+-
+  id: mile-marche-2022
+  title: Le mile Corsaire-Chaparral
+  information: https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/
+  date: 2022-08-13
+  limite: 2022-08-07
+  emplacement: Sainte-Thérèse
+  frais: 45
+  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=143"></script>
+
 # Template
 #- id: "2021"
 #  title: "2021"
