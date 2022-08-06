@@ -27,6 +27,7 @@
 
 - name: "La Moisson"
   image: "/img/partenaires/logo-la-moisson.png"
+  url: "https://lamoisson.com/"
 
 ######################################################
 #         Partenaires de championnat 2019            #
