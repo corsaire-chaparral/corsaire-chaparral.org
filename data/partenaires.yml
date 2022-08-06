@@ -25,6 +25,9 @@
   image: "/img/partenaires/physio-atlas-rosemere.jpg"
   url: "https://www.physioatlas.com/"
 
+- name: "La Moisson"
+  image: "/img/partenaires/logo-la-moisson.png"
+
 ######################################################
 #         Partenaires de championnat 2019            #
 ######################################################
@@ -78,7 +81,7 @@
 - name: "Boston Pizza Sainte-Thérèse"
   url: "https://bostonpizza.com/fr"
   image: "/img/partenaires/boston-pizza.png"
-  
+
 - name: "Sports Experts Place Rosemère"
   url: "https://www.sportsexperts.ca"
   image: "/img/partenaires/sports-experts-place-rosemere.jpg"
@@ -86,18 +89,18 @@
 - name: "Rôtisserie Scores Sainte-Thérèse"
   url: "https://www.scores.ca/restaurant/28-rotisserie-scores-sainte-therese.html"
   image: "/img/partenaires/rotisserie-scores.jpg"
-  
+
 - name: "IGA Daigle"
   url: "http://igadaigle.com/"
   image: "/img/partenaires/iga-daigle.jpg"
-  
+
 - name: "Ramez Ayoub, député fédéral de Thérèse-de-Blainville"
   url: "http://rayoub.liberal.ca/"
   image: "/img/partenaires/ramez-ayoub.jpg"
 
 - name: "Municipalité d'Oka"
   url: "http://municipalite.oka.qc.ca/"
-  
+
 - name: "Ville de Boisbriand"
   url: "http://www.ville.boisbriand.qc.ca/"
   image: "/img/partenaires/ville-boisbriand.jpg"
@@ -145,8 +148,7 @@
 - name: "Performe Massothérapie"
   url: "https://www.facebook.com/Performe-Massothérapie-461000613984044/"
   image: "/img/partenaires/performe-massotherapie-logo.png"
-  
+
 - name: "CDESL – Conseil de développement de l’excellence sportive des Laurentides"
   url: "http://www.cdesl.ca/"
   image: "/img/partenaires/cdesl.png"
-
