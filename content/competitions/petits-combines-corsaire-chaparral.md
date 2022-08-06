@@ -65,6 +65,11 @@ Le club d’athlétisme Corsaire-Chaparral est fier de présenter la quatrième 
 
 Cette compétition amicale s’adresse aux athlètes de catégorie coccinelle (triathlon), colibri (quadrathlon), minime (quadrathlon) et benjamin (pentathlon).
 
+
+![La Moisson](/img/partenaires/logo-la-moisson.png)
+
+_La Moisson Ste-Thérèse est partenaire de cet événement._
+
 ## Résultats
 
 [Résulats 2021]({{< ref "resultats/2021/petit-pentathlon-nathalie-2021" >}})
