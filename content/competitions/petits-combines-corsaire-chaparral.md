@@ -21,7 +21,7 @@ aliases:
 - [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf)
 <!-- - [**Horaire final**](https://fichiers.corsaire-chaparral.org/s/FDGsAkqENooEj2q) -->
 <!-- - [**Liste des performances**](https://fichiers.corsaire-chaparral.org/s/aY3eeMnA2J3LZws) -->
-<!-- - [**Résultats en temps réel**](https://avs-sport.com/comp_main.php?comp=) -->
+- [**Résultats en temps réel**](https://resultats.corsaire-chaparral.org/meets/petits-combines-2022/)
 
 ## Emplacement
 
