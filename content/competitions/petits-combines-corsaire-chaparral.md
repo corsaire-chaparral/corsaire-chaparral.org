@@ -19,9 +19,9 @@ aliases:
 - **Communications** : Stéphanie Parent
 - **Secrétariat** : Nancy Boucher
 - [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf)
-<!-- - [**Horaire final**](https://fichiers.corsaire-chaparral.org/s/FDGsAkqENooEj2q) -->
-<!-- - [**Liste des performances**](https://fichiers.corsaire-chaparral.org/s/aY3eeMnA2J3LZws) -->
-- [**Résultats en temps réel**](https://resultats.corsaire-chaparral.org/meets/petits-combines-2022/)
+- [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-petits-combines-2022-vfinal.pdf)
+- [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf)
+- [**Résultats en ligne**](https://resultats.corsaire-chaparral.org/meets/petits-combines-2022/)
 
 ## Emplacement
 
@@ -37,7 +37,7 @@ Sainte-Thérèse, QC J7E 4S4
 - **Colibri (2013-2014)** – Quadrathlon  
   _maximum de 32 filles et 32 garçons_
 - **Minime (2011-2012)** – Quadrathlon  
-  _maximum de 40 filles et 40 garçons_
+  _maximum de 32 filles et 32 garçons_
 - **Benjamin (2009-2010)** – Pentathlon  
   _maximum de 40 filles et 40 garçons_
 
