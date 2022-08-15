@@ -3,6 +3,8 @@ title: "Le Mile Corsaire-Chaparral"
 date: 2022-08-13
 ---
 
+[Résultats PDF](https://fichiers.corsaire-chaparral.org/s/KX24LJr2NLxCCWb)
+
 ```
             Les petits combinés du Corsaire-Chaparral - 2022-08-13             
                       Stade d'athlétisme Richard-Garneau                       
