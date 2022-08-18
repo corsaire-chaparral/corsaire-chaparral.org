@@ -1,6 +1,5 @@
 ---
 title: Entraînements
-meta_title: 2016-2017
 categories: Club
 icon: stopwatch
 #menu:
@@ -9,6 +8,16 @@ icon: stopwatch
 #    parent: entrainements
 #    weight: 1
 layout: single
+---
+
+{{% div class="well well-primary" %}}
+
+## De retour en septembre
+
+**Merci pour cette belle saison 2021-2022!** Les entraînements reprendront vers la mi-septembre 2022 (date à venir). D’ici là, le club fait relâche tout le mois d’août!
+
+{{% /div %}}
+
 ---
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
@@ -40,25 +49,15 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2013-2014) {#colibri}
-
-{{< div class="well well-tertiary" >}}
-<span class="icon icon-calendar"></span> **Session d’été 2022**  
-Session de 10 semaines consécutives, du 4 juin au 6 août 2022.
-{{< /div >}}
+### Colibri 8-9 ans {#colibri}
 
 - Samedi 9 h à 10 h 30
 
-### Minime (2011-2012) {#minime}
-
-{{< div class="well well-tertiary" >}}
-<span class="icon icon-calendar"></span> **Session d’été 2022**  
-Session de 10 semaines consécutives, du 4 juin au 6 août 2022.
-{{< /div >}}
+### Minime 10-11 ans {#minime}
 
 - Samedi 9 h à 10 h 30
 
-### Benjamin (2009-2010) {#benjamin}
+### Benjamin 12-13 ans {#benjamin}
 
 - Jeudi 18 h à 19 h 30
 - Samedi 11 h à 12 h 30
@@ -68,7 +67,7 @@ _Pour tout renseignement concernant les entraînements en athlétisme pour les j
 
 <em class="badge badge-danger">Attention</em> Maximum de 30 athlètes.
 
-### Cadet (2007-2008) {#cadet}
+### Cadet 14-15 ans {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
@@ -78,13 +77,13 @@ _Pour tout renseignement concernant les entraînements en athlétisme pour les j
 
 <!--Consultez le [calendrier](cadets) pour les cadets.-->
 
-### Juvénile (2005-2006), junior (2003-2004) et senior (1986-2002) {#juvenile-junior-senior}
+### Juvénile 16-17 ans, junior 18-19 ans et sénior 20-34 ans {#juvenile-junior-senior}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran (1985 et avant) {#veteran}
+### Vétéran  35+ ans {#veteran}
 
 Horaire à confirmer lors de l'inscription.
 

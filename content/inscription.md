@@ -6,8 +6,13 @@ aliases:
   - /club/inscription/
 ---
 
-**Merci pour cette belle saison 2021-2022!**
-De retour en septembre 2022. Bonne fin d’été! (Dates de début des entraînements à venir.)
+{{% div class="well well-primary" %}}
+
+## De retour en septembre
+
+**Merci pour cette belle saison 2021-2022!** Les entraînements reprendront vers la mi-septembre 2022 (date à venir). D’ici là, le club fait relâche tout le mois d’août!
+
+{{% /div %}}
 
 ---
 
@@ -40,41 +45,16 @@ Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera aj
 
 ## Catégories d'âge et tarifs d'inscription {#tarifs}
 
-Le tarif de la cotisation 2021-2022 est établi selon la catégorie d'âge, il est très important de bien inscrire la date de naissance de l’athlète lors de l’inscription.
+Information à venir au début du mois de septembre 2022.
 
-Les inscriptions mensuelles ne sont pas acceptées.
-
-{{% div class="well well-tertiary" %}}
-**<span class="icon icon-calendar"></span> Session d’été 2022 ☀️**
-
-C’est confirmé! La session d’été 2022 se tiendra du 4 juin au 6 août 2022 pour 10 semaines consécutives, pour les **colibris** et les **minimes**. La session se concluera avec le *Petit pentathlon de Nathalie* le samedi 13 août, au stade d’athlétisme Richard-Garneau. Merci de votre patience!
-{{% /div %}}
-
-| Catégorie           | Hiver  <br> <small>(26 fév. - 30 avril 2022)</small> | ~~Printemps~~ <br> <small>(fusionnée avec la session d’hiver)</small> | Été* <br> <small> (4 juin - 6 août 2022)</small> |
-| ------------------- |------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------|
-| Colibri (2013-2014) | <span class="badge badge-default">annulée</span>     | <span class="badge badge-default">annulée</span>                      | 135 $                                            |
-| Minime (2011-2012)  | 175 $                                                | <span class="badge badge-default">annulée</span>                      | 175 $                                            |
-
-**Attention : ceci n’est pas le camp de jour!**  
-Rendez-vous plutôt sur la [page du camp de jour](/camp-de-jour/) prévue à cet effet.
-
----
-
-{{% div class="well well-tertiary" %}}
-**<span class="icon icon-calendar"></span> Inscription mi-année 2022 (1<sup>er</sup> avril au 31 août)**
-
-L’inscription mi-année est désormais ouverte! Veuillez sélectionner l’option «&nbsp;**Mi-année**&nbsp;» au lieu de «&nbsp;Saison 2021-2022&nbsp;» au moment de choisir le type d’adhésion.
-
-{{% /div %}}
-
-| Catégorie               | Du 1<sup>er</sup> sept. au 31 août\* | Du 1<sup>er</sup> avril au 31 août\* | Du 19 juin au 31 août\* |
-| ----------------------- | ------------------ | ------ | ------ |
-| Benjamin  (2009-2010)   | 620 $              | 495 $  | 262 $ |
-| Cadet (2007-2008)       | 775 $              | 600 $  | 355 $ |
-| Juvénile (2005-2006)    | 825 $              | 675 $  | 427 $ |
-| Junior (2003-2004)      | 970 $              | 783 $  | 524 $ |
-| Senior (1986-2002)      | 980 $              | 793 $  | 534 $ |
-| Vétéran (1985 et avant) | 800 $              | 660 $  | 400 $ |
+| Catégorie  | Tarif     |
+|------------|-----------|
+| Benjamin   | _à venir_ |
+| Cadet      | _à venir_ |
+| Juvénile   | _à venir_ |
+| Junior     | _à venir_ |
+| Senior     | _à venir_ |
+| Vétéran    | _à venir_ |
 
 \* La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète.
 
@@ -86,7 +66,6 @@ L’inscription mi-année est désormais ouverte! Veuillez sélectionner l’opt
 - **Frais de piste** : il n’y a plus de frais de piste pour les résidents des municipalités environnantes.  Ainsi, les résidents de la ville de Blainville ne sont plus exemptés des frais d’infrastructure.  Pour les résidents des municipalités de Laval et Montréal, des frais de piste pourraient s’ajouter à la facturation.
 - **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club. L’inscription des membres d’une même famille doit être complétée en même temps pour recevoir ce rabais.
 - **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
-- ~~**Passeport vaccinal** : le passeport vaccinal sera obligatoire pour tous nos athlètes de 13 ans et plus.~~ <ins>En date du 14 mars 2022, le passeport n’est plus exigé pour la pratique des loisirs et du sport au Québec.</ins> https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/mesures-en-vigueur/loisir-et-sport
 {{< /note >}}
 
 <!--

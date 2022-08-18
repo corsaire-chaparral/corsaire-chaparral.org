@@ -14,11 +14,11 @@
   justify-content: center;
   align-items: center;
   //background-image: linear-gradient(135deg, $color-primary, saturate(adjust-hue($color-primary, -12%), 10%));
-  background-image: linear-gradient(135deg, $color-primary, saturate(adjust-hue($color-primary, -12%), 10%));
+  background-image: linear-gradient(135deg, lighten(#212528, 20%), saturate(lighten(#212528, 5%), 5%));
   color: check-background($color-primary);
-  
+
   position: relative;
-  
+
   a:not(.btn) {
     color: check-background($color-primary);
     border-color: check-background($color-primary);
@@ -33,23 +33,23 @@
   left: 0;
   height: 100%;
   width: 100%;
-  
+
   // splash background
-  
+
   background-image: url('/img/COCH_Seul_4C.svg');
   background-repeat: no-repeat;
-  
+
   // mobile-first background layout
   background-position: 60vw 2rem;
   background-size: 90vw auto;
-  
-  
+
+
   @media (min-width: $tablet-breakpoint) {
     background-position: 60vw 1rem;
     background-size: 50vw auto;
   }
-  
-  opacity: 0.8;
+
+  opacity: 0.35;
 }
 .splash__content-layer {
   position: relative;
@@ -58,12 +58,12 @@
 }
 
 .splash__header {
-  
+
   > span {
     font-size: 44px; // mobile-first size
     margin: 0 0 25px;
     line-height: 0.88;
-    
+
 
     @media (min-width: $tablet-breakpoint) {
       max-width: 18ch;
@@ -74,7 +74,7 @@
 }
 
 .splash__lead {
-  
+
   @media (min-width: $tablet-breakpoint) {
     font-size: 1.25rem;
 
@@ -86,7 +86,7 @@
   .splash__buttons {
     margin-top: 8vh;
     margin-bottom: 8vh;
-    
+
     .btn + .btn {
       margin-top: .75em;
     }
@@ -95,7 +95,7 @@
 
 .section-large-type {
   font-size: 20px;
-  
+
   hr {
     background-color: $gray-light;
   }
@@ -104,7 +104,7 @@
       @include horizontal-padding(4vw);
     }
   }
-  
+
   p {
     > a {
       border-bottom-width: 0.1em;
@@ -113,7 +113,7 @@
 
   @media (min-width: $phone-breakpoint) {
     font-size: 3.75vh;
-    
+
     h1, .h1 {
       font-size: 1.8em;
     }
