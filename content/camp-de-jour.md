@@ -7,6 +7,12 @@ images:
 - /img/camp-jour-athletisme.jpg
 ---
 
+{{< div class="well well-primary" >}}
+
+**Le camp de jour 2022 est terminé, merci et à l’an prochain!**
+
+{{< /div >}}
+
 ## Informations 
 
 Vocation du camp de jour : initiation aux diverses disciplines de l’athlétisme.
@@ -62,9 +68,11 @@ J7E 4S4
 
 {{< /note >}}
 
+<!--
 ## Inscription
 
 <a href="https://campdejour.corsaire-chaparral.org/e/1/le-camp-de-jour-2022" class="btn btn-primary btn--block" target="_blank">
 Inscription au camp de jour
 <span class="icon icon-angle-right"></span>
 </a>
+-->

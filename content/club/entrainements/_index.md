@@ -10,16 +10,6 @@ icon: stopwatch
 layout: single
 ---
 
-{{< div class="well well-primary" >}}
-
-## De retour en septembre
-
-**Merci pour cette belle saison 2021-2022!** Les entraînements reprendront vers la mi-septembre 2022 (date à venir). D’ici là, le club fait relâche tout le mois d’août!
-
-{{< /div >}}
-
----
-
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
 Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sportif de la **Polyvalente Sainte-Thérèse** qui lui est adjacent.
@@ -45,17 +35,19 @@ Lachute, Quebec J8H 1W9
 ```
 -->
 
-\* La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète.
-
 ## <span class="icon icon-stopwatch"></span> Horaire d'entraînement {#horaire}
 
 Selon les catégories (voir ci-bas).
 
 ### Colibri (2014–2015) {#colibri}
 
+Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
+
 - Samedi 9 h à 10 h 30
 
 ### Minime (2012–2013) {#minime}
+
+Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
 
 - Samedi 9 h à 10 h 30
 

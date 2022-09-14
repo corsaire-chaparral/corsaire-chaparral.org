@@ -2,19 +2,21 @@
 title: Inscription
 categories: Club
 icon: pencil
+toc: true
 aliases:
   - /club/inscription/
 ---
 
-{{< div class="well well-primary" >}}
+## Informations générales et politiques d'inscription
 
-## De retour en septembre
+Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription.
+La cotisation de l’athlète comprend :
 
-**Merci pour cette belle saison 2021-2022!** Les entraînements reprendront vers la mi-septembre 2022 (date à venir). D’ici là, le club fait relâche tout le mois d’août!
+- les frais d’entraînements;
+- l’affiliation à la Fédération québécoise d'athlétisme;
+- <span class="badge badge-tertiary">Nouveau!</span> les frais de piste pour les résidents des municipalités partenaires _seulement_ (voir la section «&nbsp;Notes&nbsp;» suivant le tableau des tarifs)
 
-{{< /div >}}
-
----
+Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.
 
 {{< div class="well well-danger" >}}
 **<span class="icon icon-mail"></span> Note importante sur les courriels**
@@ -26,49 +28,61 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{< /div >}}
 
-## Informations générales et politiques d'inscription
-
-Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription.
-La cotisation de l’athlète comprend :
-
-- les frais d’entraînements
-- l’affiliation à la Fédération québécoise d'athlétisme
-- <span class="badge badge-tertiary">Nouveau!</span> les frais de piste pour les résidents des municipalités partenaires seulement (voir la section «Notes» ci-bas)
-
-Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.
-
 ## Catégories d'âge et tarifs d'inscription {#tarifs}
 
 ### Inscription annuelle
 
-Pour les catégories fonctionnant à la session (colibri et minime), l’inscription annuelle comprend toutes les sessions (automne, hiver et été).
+L’inscription annuelle est valide du 1<sup>er</sup> septembre au 31 août 2022.
 
-| Catégorie             | Tarif annuel | Été 2023 |
-|-----------------------|--------------|----------|
-| Colibri (2014–2015)   | 405 $        | 255 $    |
-| Minime (2012–2013)    | 525 $        | 315 $    |
-| Benjamin (2010–2011)  | 556 $        | 341 $    |
-| Cadet (2008–2009)     | 657 $        | 366 $    |
-| Juvénile (2006–2007)  | 667 $        | 371 $    |
-| Junior (2004–2005)    | 802 $        | 442 $    |
-| Senior (1988–2003)    | 812 $        | 452 $    |
-| Vétéran (–1987)       | 667 $        | 371 $    |
-| Affiliation seulement | 120 $        | 120 $    |  
+Pour les catégories fonctionnant à la session (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
 
-### Inscription par session
+{{< div class="well" >}}
+**Note :** La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète, généralement autour du 31 juillet (relâche pendant le mois d’août).
+{{< /div >}}
 
-| Catégorie            | Session |
-|----------------------|---------|
-| Colibri (2014–2015)  | 225 $   |
-| Minime (2012–2013)   | 315 $   |
+| Catégorie             | Cotisation |
+|-----------------------|------------|
+| Colibri (2014–2015)   | 405 $      |
+| Minime (2012–2013)    | 525 $      |
+| Benjamin (2010–2011)  | 556 $      |
+| Cadet (2008–2009)     | 657 $      |
+| Juvénile (2006–2007)  | 667 $      |
+| Junior (2004–2005)    | 802 $      |
+| Senior (1988–2003)    | 812 $      |
+| Vétéran (–1987)       | 667 $      |
+| Affiliation seulement | 120 $      |
+
+### Session en gymnase (colibri et minime seulement)
+
+Du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
+
+| Catégorie            | Cotisation |
+|----------------------|------------|
+| Colibri (2014–2015)  | 225 $      |
+| Minime (2012–2013)   | 315 $      |
+
+### Inscription estivale
+
+Du 1<sup>er</sup> mai 2023 au 31 juillet 2023.
+
+| Catégorie             | Cotisation |
+|-----------------------|------------|
+| Colibri (2014–2015)   | 255 $      |
+| Minime (2012–2013)    | 315 $      |
+| Benjamin (2010–2011)  | 341 $      |
+| Cadet (2008–2009)     | 366 $      |
+| Juvénile (2006–2007)  | 371 $      |
+| Junior (2004–2005)    | 442 $      |
+| Senior (1988–2003)    | 452 $      |
+| Vétéran (–1987)       | 371 $      |
 
 {{< note >}}
 ### Notes
 
-- **Chandail ou camisole obligatoire** : le port du vêtement officiel aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin.  Le coût de ce vêtement n’est pas inclus dans la cotisation.
+- **Chandail ou camisole obligatoire** : le port du [vêtement officiel](/club/vetements/) aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin. Le coût de ce vêtement n’est pas inclus dans la cotisation.
 - **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
 - **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste. Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente devront débourser des frais additionnels de **175 $**. Nous vous invitons à réclamer ce montant auprès de votre municipalité.
-- **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription doit être complété en même temps pour bénéficier de ce rabais). Le rabais se fait sur la cotisation de l’athlète le plus jeune.
+- **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription des membres de la famille doit être complétée en même temps pour bénéficier de ce rabais). Le rabais se fait sur la cotisation de l’athlète le plus jeune.
   - 2e enfant : 25%
   - 3e enfant : 50%
 - **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais de 50% sur sa cotisation annuelle à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
