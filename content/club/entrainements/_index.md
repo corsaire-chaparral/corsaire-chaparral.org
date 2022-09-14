@@ -10,13 +10,13 @@ icon: stopwatch
 layout: single
 ---
 
-{{% div class="well well-primary" %}}
+{{< div class="well well-primary" >}}
 
 ## De retour en septembre
 
 **Merci pour cette belle saison 2021-2022!** Les entraînements reprendront vers la mi-septembre 2022 (date à venir). D’ici là, le club fait relâche tout le mois d’août!
 
-{{% /div %}}
+{{< /div >}}
 
 ---
 
@@ -28,6 +28,7 @@ Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sport
 401 Boulevard du Domaine  
 Sainte-Thérèse, QC J7E 4S4
 ```
+
 <!--
 Dans le but d'alléger les plateaux sportifs de la polyvalente durant la session d'hiver, certains entraînements des athlètes de catégorie **juvénile et plus vieux** peuvent se donner à l'**école Saint-Pierre**.
 
@@ -44,46 +45,44 @@ Lachute, Quebec J8H 1W9
 ```
 -->
 
+\* La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète.
 
 ## <span class="icon icon-stopwatch"></span> Horaire d'entraînement {#horaire}
 
 Selon les catégories (voir ci-bas).
 
-### Colibri 8-9 ans {#colibri}
+### Colibri (2014–2015) {#colibri}
 
 - Samedi 9 h à 10 h 30
 
-### Minime 10-11 ans {#minime}
+### Minime (2012–2013) {#minime}
 
 - Samedi 9 h à 10 h 30
 
-### Benjamin 12-13 ans {#benjamin}
+### Benjamin (2010–2011) {#benjamin}
 
 - Jeudi 18 h à 19 h 30
 - Samedi 11 h à 12 h 30
 
-Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).  
+Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/). 
+
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
-<em class="badge badge-danger">Attention</em> Maximum de 30 athlètes.
-
-### Cadet 14-15 ans {#cadet}
+### Cadet (2008–2009) {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-<em class="badge badge-danger">Attention</em> Maximum de 30 athlètes.
-
 <!--Consultez le [calendrier](cadets) pour les cadets.-->
 
-### Juvénile 16-17 ans, junior 18-19 ans et sénior 20-34 ans {#juvenile-junior-senior}
+### Juvénile (2006–2007), junior (2004–2005) et sénior (1988–2003) {#juvenile-junior-senior}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran  35+ ans {#veteran}
+### Vétéran (–1987) {#veteran}
 
 Horaire à confirmer lors de l'inscription.
 

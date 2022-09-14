@@ -33,7 +33,10 @@ params:
 #   Championnats 2019 Champs <a href="/resultats/direct/" class="btn btn-primary -sm">Résultats 🔥</a>
 #sectionPagesMenu: main
 
-#markup:
+markup:
+  goldmark:
+    renderer:
+        unsafe: true
 #  defaultMarkdownHandler: blackfriday
 
 menu:

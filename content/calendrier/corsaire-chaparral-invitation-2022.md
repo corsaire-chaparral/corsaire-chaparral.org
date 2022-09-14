@@ -1,3 +1,0 @@
----
-title: Corsaire-Chaparral Invitation
----

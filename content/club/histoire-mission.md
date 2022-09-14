@@ -7,10 +7,6 @@ icon: logo-coch
 
 Fondé en 1976, le Club d'athlétisme Corsaire-Chaparral (le COCH) est un organisme sans but lucratif, géré par un conseil d'administration élu en assemblée générale, et dont la mission est de promouvoir l'athlétisme auprès d'une clientèle de 8 ans et plus, principalement dans le territoire situé au nord de la région métropolitaine de Montréal (Basses-Laurentides, Laurentides et Lanaudière).
 
-![Saut en longueur (Illustration par Raphaël Jean)](/img/illustration-saut-longueur.png)
-
-_Illustration par Raphaël Jean._
-
 ### Nos objectifs
 
 Former les jeunes à la compétition athlétique, spécifiquement dans les disciplines de piste et de pelouse, favoriser le développement humain, enseigner la poursuite d'objectifs personnels, et entraîner les athlètes de pointe au niveau national et international, tels sont les buts du COCH depuis ses débuts.

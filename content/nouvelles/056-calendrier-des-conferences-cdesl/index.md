@@ -11,7 +11,7 @@ description: Le CDESL offre une série de conférences pour les athlètes, paren
 
 Toutes les conférences seront données sur la plateforme Zoom.
 
-{{% calendrier-conferences %}}
+{{< calendrier-conferences >}}
 
 <!--
 | Date                     | Sujet                                                                                                        | Pour qui?             | Lien d’inscription                                                              |

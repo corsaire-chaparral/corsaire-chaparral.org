@@ -40,9 +40,9 @@ Pour confirmer votre présence en personne, présentez-vous à la chambre d’ap
 
 **Vous pouvez également confirmer par SMS**. Il suffit d’envoyer un message texte avec son numéro de dossard au :
 
-{{% div class="text-center h3" %}}
+{{< div class="text-center h3" >}}
 [(450) 912-2937](tel:+14509122937)
-{{% /div %}}
+{{< /div >}}
 
 **Exemple :**
 

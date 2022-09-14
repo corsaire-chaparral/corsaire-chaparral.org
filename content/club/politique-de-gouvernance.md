@@ -9,11 +9,11 @@ toc: true
 
 ---
 
-{{% note %}}
+{{< note >}}
 
 Télécharger ce document [en format PDF](/docs/politique-de-gouvernance-2018-2021.pdf)
 
-{{% /note %}}
+{{< /note >}}
 
 ## 1. La vision et la mission
 

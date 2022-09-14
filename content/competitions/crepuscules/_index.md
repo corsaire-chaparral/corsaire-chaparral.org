@@ -7,9 +7,9 @@ params:
 published: false
 ---
 
-{{% div class="well well-primary" %}}
+{{< div class="well well-primary" >}}
 Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle série de **3 crépuscules** pour la saison estivale 2019!
-{{% /div %}}
+{{< /div >}}
 
 ## Programmation
 

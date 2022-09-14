@@ -30,9 +30,9 @@ description: >
 
 Les 10 entraînements ont lieux à la polyvalente Sainte-Thérèse, du **samedi 13 octobre** au **samedi 15 décembre 2018**.
 
-{{% div class="well well-danger" %}}
+{{< div class="well well-danger" >}}
 **Note** : En raison de la non-disponibilité des plateaux d’entraînement, la séance du samedi 24 novembre sera reportée au **samedi 5 janvier 2019**.
-{{% /div %}}
+{{< /div >}}
 
 1. **samedi 13 octobre 2018** : piste extérieure 
 2. **samedi 20 octobre 2018** : piste extérieure
