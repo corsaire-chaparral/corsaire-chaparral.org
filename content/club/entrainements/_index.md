@@ -10,6 +10,14 @@ icon: stopwatch
 layout: single
 ---
 
+{{< div class="well well-primary" >}}
+**Reprise des entraînements 2022-2023**
+
+Reprise des entraînements à compter du samedi 17 septembre 2022 pour les catégories **benjamin** et plus vieux (l’inscription n’est pas nécessaire pour prendre part au premier entraînement).
+
+Pour les colibris et minimes, le premier cours de la session sera le samedi 1<sup>er</sup> octobre 2022.
+{{< /div >}}
+
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
 Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sportif de la **Polyvalente Sainte-Thérèse** qui lui est adjacent.

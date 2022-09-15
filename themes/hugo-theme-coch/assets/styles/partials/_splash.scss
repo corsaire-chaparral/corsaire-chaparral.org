@@ -14,7 +14,7 @@
   justify-content: center;
   align-items: center;
   //background-image: linear-gradient(135deg, $color-primary, saturate(adjust-hue($color-primary, -12%), 10%));
-  background-image: linear-gradient(135deg, lighten(#212528, 20%), saturate(lighten(#212528, 5%), 5%));
+  background-image: linear-gradient(135deg, lighten($color-primary, 20%), saturate(lighten($color-primary, 5%), 5%));
   color: check-background($color-primary);
 
   position: relative;
