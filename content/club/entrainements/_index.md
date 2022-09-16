@@ -13,7 +13,7 @@ layout: single
 {{< div class="well well-primary" >}}
 **Reprise des entraînements 2022-2023**
 
-Reprise des entraînements à compter du samedi 17 septembre 2022 pour les catégories **benjamin** et plus vieux (l’inscription n’est pas nécessaire pour prendre part au premier entraînement).
+Reprise des entraînements à compter du samedi 24 septembre 2022 pour les catégories **benjamin** et plus vieux (l’inscription n’est pas nécessaire pour prendre part au premier entraînement).
 
 Pour les colibris et minimes, le premier cours de la session sera le samedi 1<sup>er</sup> octobre 2022.
 {{< /div >}}
