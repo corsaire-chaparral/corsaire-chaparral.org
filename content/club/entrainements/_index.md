@@ -13,9 +13,11 @@ layout: single
 {{< div class="well well-primary" >}}
 **Reprise des entraînements 2022-2023**
 
-Reprise des entraînements à compter du samedi 24 septembre 2022 pour les catégories **benjamin** et plus vieux (l’inscription n’est pas nécessaire pour prendre part au premier entraînement).
+- Catégories colibris et minimes : le premier cours de la session sera le **samedi 1<sup>er</sup> octobre 2022**.
+- Catégories cadet, juvénile et plus vieux : reprise des entraînements à compter du **lundi 26 septembre 2022**.
+- Catégorie benjamin : reprise des entraînements à compter du **samedi 24 octobre 2022**.
 
-Pour les colibris et minimes, le premier cours de la session sera le samedi 1<sup>er</sup> octobre 2022.
+L’inscription n’est pas nécessaire pour prendre part au premier entraînement.
 {{< /div >}}
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
@@ -71,7 +73,7 @@ _Pour tout renseignement concernant les entraînements en athlétisme pour les j
 ### Cadet (2008–2009) {#cadet}
 
 - Lundi 18 h à 19 h 30
-- Jeudi 18 h à 19 h 30
+- Mercredi 18 h à 19 h 30 <strong class="badge badge-default">Changement <i class="icon icon-stopwatch"></i></strong>
 - Samedi 10 h 30 à 12 h
 
 <!--Consultez le [calendrier](cadets) pour les cadets.-->
