@@ -15,7 +15,7 @@ layout: single
 
 - Catégories colibris et minimes : le premier cours de la session sera le **samedi 1<sup>er</sup> octobre 2022**.
 - Catégories cadet, juvénile et plus vieux : reprise des entraînements à compter du **lundi 26 septembre 2022**.
-- Catégorie benjamin : reprise des entraînements à compter du **samedi 24 octobre 2022**.
+- Catégorie benjamin : reprise des entraînements à compter du **samedi 24 septembre 2022**.
 
 L’inscription n’est pas nécessaire pour prendre part au premier entraînement.
 {{< /div >}}
