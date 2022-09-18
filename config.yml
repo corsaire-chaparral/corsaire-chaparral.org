@@ -2,7 +2,7 @@ DefaultContentLanguage: 'fr'
 languageCode: 'fr'
 
 title: Club d’athlétisme Corsaire-Chaparral
-baseURL: "https://corsaire-chaparral.org" # the base hostname & protocol for your site
+baseURL: "https://www.corsaire-chaparral.org" # the base hostname & protocol for your site
 theme: hugo-theme-coch
 copyright: Tous droits réservés.
 
