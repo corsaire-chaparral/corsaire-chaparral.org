@@ -1,41 +1,50 @@
 <!DOCTYPE html>
-{{ "<!--[if lt IE 7]>" | safeHTML }}<html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"> {{ "<![endif]-->" | safeHTML }}
-{{ "<!--[if IE 7]>" | safeHTML }}<html lang="fr" class="no-js lt-ie9 lt-ie8"> {{ "<![endif]-->" | safeHTML }}
-{{ "<!--[if IE 8]>" | safeHTML }}<html lang="fr" class="no-js lt-ie9"> {{ "<![endif]-->" | safeHTML }}
-{{ "<!--[if gt IE 8]><!-->" | safeHTML }}<html class="no-js" lang="fr"> {{ "<!--<![endif]-->" | safeHTML }}
+<html class="no-js" lang="{{ .Lang }}">
   {{ partial "head.html" . }}
-  <body>
+  <body {{if .IsHome}} class="landing-page"{{end}} x-data="{ sidebarOpen: false }">
 
+    {{- if not .IsHome}}
     {{- partial "header.html" . -}}
-    
+    {{ end -}}
+
     {{- partial "navbar.html" . -}}
 
     {{- block "main" . }}
-    <main class="container container-main" role="main">
+      <main class="container container-main">
+        {{- if .IsHome }}
 
-      {{ block "header-page" . }}
-      {{- partial "header-page.html" . -}}
-      {{ end }}
+          {{- .Content -}}
 
-      <article class="container article-container">
+          {{ with .Site.Params.annonce }}
+          {{- partial "announcement.html" . -}}
+          {{ end }}
 
-        {{ block "article" . }}
-        {{ with .Params.description }}
-        <p class="article-lead">
-          {{ . }}
-        </p>
-        {{ end }}
+        {{- else -}}
 
-        {{ .Content }}
-        {{ end }}
-      </article>
-    </main>
+          {{ block "header-page" . }}
+          {{- partial "header-page.html" . -}}
+          {{ end }}
+
+          <article class="container article-container">
+
+            {{ block "article" . }}
+              {{ with .Params.description }}
+              <p class="article-lead">
+                {{ . }}
+              </p>
+              {{ end }}
+
+              {{ .Content }}
+            {{ end }}
+          {{ end -}}
+        </article>
+      </main>
     {{- end }}
 
     {{- partial "footer.html" . -}}
 
     {{- partial "aside.html" . -}}
-      
+
     {{ with .Site.Params.annonce }}
     {{- partial "announcement.html" . -}}
     {{ end }}
@@ -44,32 +53,6 @@
       // Globals
       window.STRIPE_PK = {{ $.Site.Params.stripePublicKey }};
       window.COCH_API_URL = {{ $.Site.Params.apiUrl }};
-
-      (function(head) {
-        head.load([
-          {{ $vendorJS := resources.Get "scripts/vendor.js" | resources.Minify }}
-          "{{ $vendorJS.Permalink }}",
-          {{ $mainJS := resources.Get "scripts/main.js" | resources.Minify }}
-          "{{ $mainJS.Permalink }}"
-          {{ range .Params.scripts }}
-          ,"{{ .}}"
-          {{- end -}}
-        ], function() {
-          console.log("loaded scripts");
-        });
-        head.load([
-          {{ $string := (printf "var rootURL: '%s'; var apiURL: '%s';" (absURL "/") (.Param "API_URL")) }}
-          {{- $targetPath := "styles/fonts.scss" -}}
-          {{- $fontsSASS := resources.Get $targetPath | resources.ToCSS | resources.PostCSS | resources.Minify -}}
-          {{- $fontsCSS := $fontsSASS.Permalink -}}
-          "{{ replace $fontsCSS "http://localhost:1313" "" }}"
-          {{ range .Params.styles }}
-          ,"{{ . }}"
-          {{- end -}}
-        ], function() {
-          console.log("loaded stylesheets");
-        });
-      })(window.headLoader);
     </script>
 
     <script type="text/javascript"> (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n; w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t), m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m) })(window,document,'script','https://campagnes.corsaire-chaparral.org/mtc.js','mt'); mt('send', 'pageview'); </script>

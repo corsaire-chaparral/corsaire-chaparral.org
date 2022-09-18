@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ .Lang }}">
+  {{ partial "head.html" . }}
+  <body class="landing-page">
+
+    {{- partial "navbar.html" . -}}
+
+    <main class="container container-full no-padding">
+      {{- block "main" . }}
+      {{- .Content -}}
+      {{- end }}
+
+      {{- partial "footer.html" . -}}
+
+      {{- partial "aside.html" . -}}
+
+      {{ with .Site.Params.annonce }}
+      {{- partial "announcement.html" . -}}
+      {{ end }}
+    </main>
+
+    <script>
+      // Globals
+      window.STRIPE_PK = {{ $.Site.Params.stripePublicKey }};
+      window.COCH_API_URL = {{ $.Site.Params.apiUrl }};
+    </script>
+    <script> (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n; w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t), m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m) })(window,document,'script','https://campagnes.corsaire-chaparral.org/mtc.js','mt'); mt('send', 'pageview'); </script>
+  </body>
+</html>

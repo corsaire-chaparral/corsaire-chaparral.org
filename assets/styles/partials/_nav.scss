@@ -31,7 +31,7 @@
       cursor: pointer;
     }
   }
-  
+
   &__link--home {
 //    background-image: url('/img/apple-touch-icon.png');
     background-position: 0 0;
@@ -41,7 +41,7 @@
     width: $height-navbar;
     display: block;
     padding: $spacing-xs !important;
-    
+
     > svg {
       height: 100%;
       width: 100%;
@@ -73,7 +73,7 @@
           color: check-background($color-primary);
         }
       }
-      
+
       &.highlight {
         background-color: $color-primary;
         color: check-background($color-primary);
@@ -117,7 +117,7 @@
       visibility: visible;
     }
   }
-  
+
   .caret {
     float: right;
   }
@@ -137,8 +137,8 @@
 .dropdown-list {
   @include list-reset;
   @include drop-shadow;
-  transition: transform .3s ease, opacity .3s ease, visibility 0s linear 0.4s;
-  @include opacity(0);
+  transition: transform .25s ease, opacity .25s ease, visibility 0s linear 0.4s;
+  opacity: 0;
   //overflow: hidden;
   position: absolute;
   visibility: hidden;
@@ -150,6 +150,12 @@
   text-align: left;
   color: $gray-lighter;
   z-index: $z-index-menu; // old IE needs a z-index on parent
+
+  li:hover > & {
+    opacity: 1;
+    visibility: visible;
+    transition: visibility 0s, opacity .25s;
+  }
 
   > li {
 
@@ -165,12 +171,30 @@
         color: check-background($color-primary);
       }
     }
-    
+
     // nested dropdowns
     .dropdown-list {
       top: 0;
       left: 100%;
     }
+  }
+}
+
+.toggle-sidebar {
+  background-color: transparent;
+  border: 0;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+
+  display: block;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  padding: $spacing;
+
+  &:hover {
+    color: #fff;
   }
 }
 
@@ -183,7 +207,7 @@
     .icon-hamburger {
       display: none;
     }
-    
+
     .icon-hamburger-toggled {
       display: inline;
     }

@@ -2,7 +2,7 @@
 // -----------------------------------
 
 .navbar-side {
-  display: none;
+  //display: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -14,8 +14,9 @@
   z-index: $z-index-menu;
   font-size: $font-size-sm;
   box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
+  animation: .5s slide;
 //  transition: transform .6s cubic-bezier(0.55, 0.055, 0.675, 0.19); // easeInCubic
-  
+
   @include mquery($tablet-breakpoint) {
 //    width: 480px;
 //    transform: translateY(100vh);
@@ -30,16 +31,6 @@
   a {
     color: $gray-lighter;
   }
-
-  .toggle-sidebar {
-    margin-right: $spacing-xs;
-    display: block;
-    cursor: pointer;
-
-    &:hover {
-      color: #fff;
-    }
-  }
 }
 
 .title-aside {
@@ -50,7 +41,7 @@
 .nav-side {
   display: flex;
   flex-wrap: wrap;
-  
+
   > li {
     float: none;
     flex-basis: 100%;
@@ -87,4 +78,9 @@
       }
     }
   }
+}
+
+@keyframes slide {
+  from { transform: translateY(-100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1 }
 }
