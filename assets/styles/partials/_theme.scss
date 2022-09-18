@@ -1,0 +1,197 @@
+// Theme
+// -----------------------------------
+
+body, html {
+  background-color: $gray-lighter;
+  color: $font-color;
+  //height: 100%;
+}
+
+// Applied on body
+.in-modal {
+//  overflow: hidden;
+
+//  .page-wrap {
+//    //@include transform(translateX(-50px));
+//    //opacity: 0.9;
+//  }
+}
+
+//.page-wrap {
+//  //@include transition(transform .6s $easeInOutCubic .2s);
+//}
+
+::selection {
+  background-color: $color-primary;
+  color: #fff;
+}
+
+::-moz-selection {
+  background-color: $color-primary;
+  color: #fff;
+}
+
+.styled-link {
+//  @extend .font-bold;
+  @include transition(border-color .3s);
+  padding: 0 2px;
+  border-bottom: 1px solid $color-link;
+
+  &:hover, &:focus {
+    border-bottom-color: rgba($color-link, 0.15);
+  }
+}
+
+p a,
+ul a,
+ol a
+{ // inline text links
+  @extend .styled-link;
+}
+
+.link-unstyled {
+  font-weight: normal;
+  color: $font-color;
+  border: 0;
+  padding: 0;
+}
+
+.container-main {
+  @include horizontal-padding(0);
+  position: relative;
+  margin-top: $spacing;
+  padding-bottom: $spacing-xl;
+  background-color: #fff;
+  @include box-shadow(0 5px 10px rgba(0,0,0,0.1));
+  
+  &.container-full {
+    @include vertical-margin(0);
+    @include vertical-padding(0);
+  }
+  
+  &.-wide {
+    max-width: 96%;
+  }
+  
+  img {
+	max-width: 100%;
+  }
+}
+
+.card {
+  margin-top: $spacing;
+  padding: $spacing-md;
+  background-color: #fff;
+  @include box-shadow(0 5px 10px rgba(0,0,0,0.1));
+  
+  &.container {
+    @include horizontal-padding($spacing-md);
+  }
+  
+  &__heading {
+    margin-top: 0;
+  }
+}
+
+.home-sidebar-container {
+  @include horizontal-padding($spacing);
+  background-color: $gray-lighter;
+  border-left: 4px solid $color-primary;
+}
+
+.container-landing {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  overflow-x: hidden;
+}
+
+.hr-sm {
+  max-width: 300px;
+  background-color: $gray-light;
+}
+
+.badge {
+  @include horizontal-margin(.15em);
+  border-radius: 1em;
+  display: inline-block;
+  padding: .15em .85em 0.12em;
+  text-transform: uppercase;
+  font-size: 0.72em;
+}
+
+.badge-primary {
+  background-color: $color-primary;
+  color: check-background($color-primary);
+}
+
+.badge-secondary {
+  background-color: $color-secondary;
+  color: check-background($color-secondary);
+}
+.badge-tertiary {
+  background-color: $color-tertiary;
+  color: check-background($color-tertiary);
+}
+
+.badge-default {
+  background-color: $gray-lighter;
+  color: $gray-dark;
+}
+
+.badge-darker {
+  background-color: $gray-darker;
+  color: #fff;
+}
+
+//.badge-lighter {
+//  background-color: $gray-lighter;
+//  color: $gray;
+//}
+
+.badge-tertiary {
+  background-color: $color-tertiary;
+  color: check-background($color-tertiary);
+}
+.badge-success {
+  background-color: $color-success;
+  color: check-background($color-success);
+}
+.badge-danger {
+  background-color: $color-danger;
+  color: check-background($color-danger);
+}
+
+.text--gray { color: $gray; }
+.text--primary { color: $color-primary; }
+.text--secondary { color: $color-secondary; }
+.text--danger { color: $color-danger; }
+
+.banner {
+  position: fixed;
+  z-index: $z-index-modal + 1;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: $spacing;
+}
+
+.banner-primary {
+  background-color: rgba($gray-darker, 0.85);
+  color: check-background($gray-darker);
+}
+
+.banner__close {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  padding: $spacing-xs;
+  cursor: pointer;
+}
+
+@import '_theme/partenaires';
+@import '_theme/rows';
+
+// Responsive
+@import '_theme/tablet';
+@import '_theme/phone';
