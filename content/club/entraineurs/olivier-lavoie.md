@@ -12,20 +12,16 @@ photo:
   caption: "Olivier Lavoie (photo : Mark Quévillon)"
 
 formation:
-
-  - Entraîneur spécialiste en lancers (poids, disque, marteau, javelot) et demi-fond
-  - Certificat d'entraîneur niveau 3 reconnu par l'Association canadienne d'athlétisme
-  - Ordre du Mérite Blainvillois
-  - Gérant de l'équipe du Québec en athlétisme aux Jeux de la Francophonie 2005
-  - Membre de l'équipe canadienne aux Jeux de la Francophonie 2009
-  - Directeur technique du club
   
   - Entraineur Cross Country ACSC de l'année en 2016 et 2018
   - Baccalauréat en Enseignement de l'Éducation Physique et de la Santé
   - Planification de l'Entrainement (Cours optionnel Université de Sherbrooke)
-  - Certifié Entraineur de Club - ENDURANCE
-  - Entraineur Sportif - Athlétisme
-  - Prise de Décisions Éthiques (Compétition - Développement) 
+  - Entraîneur professionnel agréé
+  - Certifié Entraîneur de Performance - ENDURANCE
+  - Certifié Entraîneur de Club - ENDURANCE
+  - Certifié Entraîneur Sportif - Athlétisme
+  - Formé Entraîneur de Club - Sprints, Haies et Sauts
+  - Personne-Ressource Responsable du développement des entraîneurs
 
 ---
 
