@@ -14,7 +14,7 @@ La cotisation de l’athlète comprend :
 
 - les frais d’entraînements;
 - l’affiliation à la Fédération québécoise d'athlétisme;
-- <span class="badge badge-tertiary">Nouveau!</span> les frais de piste pour les résidents des municipalités partenaires _seulement_ (voir la section «&nbsp;Notes&nbsp;» suivant le tableau des tarifs)
+- <span class="badge badge-tertiary">Nouveau!</span> les frais de piste pour les résidents des municipalités partenaires _seulement_ (voir la section «&nbsp;Notes&nbsp;» suivant le tableau des tarifs).
 
 Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.
 
@@ -81,12 +81,32 @@ Du 1<sup>er</sup> mai 2023 au 31 juillet 2023.
 
 - **Chandail ou camisole obligatoire** : le port du [vêtement officiel](/club/vetements/) aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin. Le coût de ce vêtement n’est pas inclus dans la cotisation.
 - **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
-- <em class="badge badge-tertiary">Nouveau!</em> **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste. Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels de **175 $**. Nous vous invitons à réclamer ce montant auprès de votre municipalité.
+- <em class="badge badge-tertiary">Nouveau!</em> **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste. Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels de **175 $** (non compris dans la cotisation). Nous vous invitons à réclamer ce montant auprès de votre municipalité.
 - **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription des membres de la famille doit être complétée en même temps pour bénéficier de ce rabais). Le rabais se fait sur la cotisation de l’athlète le plus jeune.
   - 2e enfant : 25%
   - 3e enfant : 50%
 - **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais de 50% sur sa cotisation annuelle à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
 {{< /note >}}
+
+
+{{< div class="well" >}}
+<h3>Villes faisant partie de l’entente intermunicipale</h3>
+
+Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
+
+- Blainville
+- Boisbriand
+- Lorraine
+- Pointe-Calumet
+- Rosemère
+- Saint-Jérôme
+- Saint-Joseph-du-Lac
+- Sainte-Marthe-sur-le-Lac
+- Saint-Placide
+- Saint-Sauveur
+- Sainte-Thérèse
+
+{{< /div >}}
 
 ## Bénévolat et activités de financement {#benevolat}
 
