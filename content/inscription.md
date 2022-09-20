@@ -81,7 +81,7 @@ Du 1<sup>er</sup> mai 2023 au 31 juillet 2023.
 
 - **Chandail ou camisole obligatoire** : le port du [vêtement officiel](/club/vetements/) aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin. Le coût de ce vêtement n’est pas inclus dans la cotisation.
 - **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
-- **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste. Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente devront débourser des frais additionnels de **175 $**. Nous vous invitons à réclamer ce montant auprès de votre municipalité.
+- <em class="badge badge-tertiary">Nouveau!</em> **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste. Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels de **175 $**. Nous vous invitons à réclamer ce montant auprès de votre municipalité.
 - **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription des membres de la famille doit être complétée en même temps pour bénéficier de ce rabais). Le rabais se fait sur la cotisation de l’athlète le plus jeune.
   - 2e enfant : 25%
   - 3e enfant : 50%
@@ -105,8 +105,23 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 ## Inscription et paiement {#inscription}
 
-Le paiement doit être fait en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
+Le paiement doit être fait en ligne, au moment même de l’inscription.
 
-<!--
-<a class="btn btn-primary btn--block -lg" href="https://www.trackie.com/inscription/evenement/club-dathl-tisme-corsaire-chaparral/472493/">**Inscription 2021-2022** <span class="icon icon-pencil"></a>
--->
+**Aucun paiement par argent comptant ou par chèque n’est accepté.**
+
+{{< div class="well" >}}
+### Nouveautés 2022-2023
+
+![](/img/logo-qidigo.png)
+
+- **Nouvelle plateforme** : l’inscription des membres se fait via Qidigo, une plateforme québécoise de gestion d’activités.
+- **Compte client** : vous devrez vous créer un compte pour utiliser la plateforme Qidigo. Il est recommandé d’utiliser un partenaire de connexion (compte Facebook, compte Google). Ce compte vous servira tout au long de l’année pour l’inscription à des activités ultérieures.
+- **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront **crédités** cette année (lorsque vous vous inscrirez à des compétitions, par exemple).
+- **Paiement par versements** : il est désormais possible de payer les inscriptions annuelles **en 2 versements** : le premier à l’automne (au moment de l’inscription), le deuxième en janvier 2023.
+
+
+{{< /div >}}
+
+<a class="btn btn-primary btn--block -lg" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships/1303">**Inscription 2022-2023** <span class="icon icon-pencil"></a>
+
+Pour les groupes colibri et minime, vous pouvez plutôt choisir [l’inscription à la session](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session) au lieu de l’inscription annuelle.
