@@ -34,11 +34,11 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
 L’inscription annuelle est valide du 1<sup>er</sup> septembre au 31 août 2022.
 
-Pour les catégories fonctionnant à la session (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
-
 {{< div class="well" >}}
 **Note :** La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète, généralement autour du 31 juillet (relâche pendant le mois d’août).
 {{< /div >}}
+
+Pour les catégories fonctionnant **à la session** (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
 
 | Catégorie             | Cotisation |
 |-----------------------|------------|
