@@ -112,7 +112,8 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
 Une grande partie du financement du club provient des profits générés par les activités organisées annuellement. Afin d’assurer le bon déroulement ainsi que la réussite de ces événements, nous avons besoin de la participation des membres du club, c’est pourquoi un système de comptabilisation d’heures de bénévolat a été instauré.
 
-Chaque **famille** doit accomplir un minimum de **10 heures** au cours de la saison, **c’est-à-dire entre le 1<sup>er</sup> septembre et le 31 août**.  Une contribution financière d’un montant de **200&nbsp;$** est demandée lors de l’inscription sur la facturation de l’athlète le plus _vieux_ de la famille.
+- **Inscriptions annuelles** : chaque famille doit accomplir un minimum de **10 heures** au cours de la saison, **c’est-à-dire entre le 1<sup>er</sup> septembre et le 31 août**.  Une contribution financière d’un montant de **200&nbsp;$** est ajoutée sur la facturation d’un enfant de la famille seulement.
+- **Inscriptions à la session** : la famille doit compléter **5 heures** ou assurer sa présence à 1 événement. Le dépôt est de **100&nbsp;$**.
 
 Les heures de bénévolat peuvent être accomplies par l’athlète et/ou par un parent de la même famille. Les heures de bénévolat effectuées par plusieurs membres d’une même famille seront additionnées ; par contre, elles ne peuvent être transférées à un autre athlète.
 
