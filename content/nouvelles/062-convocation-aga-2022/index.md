@@ -17,3 +17,5 @@ Vous désirez faire partie de l'action et être au centre des décisions concern
 L'équipe du Corsaire-Chaparral est actuellement à la recherche de gens intéressés à s'engager au sein de son conseil d'administration, donc n'hésitez pas à soumettre votre candidature.
 
 N’oubliez pas d’inscrire à votre agenda la date de l’assemblée générale qui se déroulera **samedi le 5 novembre à 10h** à la PST.
+
+![Avis de convocation](convocation-2022.jpg)
