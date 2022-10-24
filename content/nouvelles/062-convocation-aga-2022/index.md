@@ -6,7 +6,7 @@ images:
 - /nouvelles/2022/10/24/convocation-aga-2022/couverture.jpg
 date: 2022-10-24
 author: Club d’athlétisme Corsaire-Chaparral
-description: 
+description: Tous les membres du Corsaire-Chaparral sont convoqués à l’assemblée générale annuelle 2022.
 ---
 
 Bonjour chers membres,
