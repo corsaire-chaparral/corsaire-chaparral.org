@@ -1,5 +1,5 @@
 ---
-title: convocation-aga-2022
+title: "Convocation à l’AGA 2022"
 subtitle: "Assemblée générale annuelle"
 slug: convocation-aga-2022
 images:
