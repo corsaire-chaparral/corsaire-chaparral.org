@@ -3,7 +3,7 @@ title: Formulaires
 icon: assignment
 ---
 
-## Inscription 2021–2022
+## Inscription au club (athlète)
 
 - [Page d'inscription](/inscription/)
 
@@ -14,8 +14,6 @@ icon: assignment
 
 ## Entraineurs et athlètes
 
-- [Inscription des entraîneurs 2021-2022](https://www.trackie.com/inscription/evenement/entra-neurs-corsaire-chaparral-2022/472674/)
+- [Inscription des entraîneurs 2022-2023](https://www.trackie.com/inscription/evenement/entra-neurs-corsaire-chaparral-2022-23/483717/)
 - [Formulaire de demande de remboursement](https://assets.corsaire-chaparral.org/formulaires/demande-de-remboursement.pdf)
-- [Formulaire de demande d’aide financière](https://assets.corsaire-
-chaparral.org/formulaires/demande-de-participation.pdf)
-- [Formulaire de déclaration de l’athlète, JDQ2022](https://forms.gle/ArG12i9E5q8fr8Ma6)
+- [Formulaire de demande d’aide financière](https://assets.corsaire-chaparral.org/formulaires/demande-de-participation.pdf)
