@@ -1,13 +1,10 @@
 node_modules
-bower_components
 .DS_Store
-.sass-cache
 .tmp
 public
-photos-partage
-medias
 deploy-*
 averta
 resources/
-assets.list
 .idea
+.env
+!.env.example

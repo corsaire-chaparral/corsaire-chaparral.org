@@ -1,5 +1,7 @@
 .PHONY: build
 
+include .env
+
 help:
 	@echo "Usage: make <command>"
 	@echo "  serve  Runs a development webserver on port 1313"
@@ -12,11 +14,13 @@ serve:
 build:
 	hugo '--minify'
 
+deploy:
+	curl -X POST $(RENDER_DEPLOY_URL)
+
 build-staging:
 	hugo --config=config.yml,config.staging.yml --minify
 
 all-staging:
 	hugo --config=config.yml,config.staging.yml --minify && ./deploy-staging
 
-all:
-	make build && ./deploy-production
+all: build deploy
