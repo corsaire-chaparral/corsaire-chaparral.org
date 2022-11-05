@@ -1,6 +1,5 @@
 .PHONY: build
 
-include .env
 
 help:
 	@echo "Usage: make <command>"
@@ -15,12 +14,14 @@ build:
 	rm -rf ./public
 	hugo '--minify'
 
-deploy:
-	curl -X POST $(RENDER_DEPLOY_URL)
-
 build-staging:
 	rm -rf ./public
 	hugo --config=config.yml,config.staging.yml --minify
+
+include .env
+
+deploy:
+	curl -X POST $(RENDER_DEPLOY_URL)
 
 all-staging:
 	hugo --config=config.yml,config.staging.yml --minify && ./deploy-staging
