@@ -3,7 +3,6 @@ languageCode: 'fr'
 
 title: Club d’athlétisme Corsaire-Chaparral
 baseURL: "https://www.corsaire-chaparral.org" # the base hostname & protocol for your site
-theme: hugo-theme-coch
 copyright: Tous droits réservés.
 
 publishDir: public
@@ -62,20 +61,11 @@ menu:
     title: Inscription
     url: '/inscription/'
     weight: 20
-  - identifier: calendrier
-    parent: club
-    title: Calendrier
-    url: '/calendrier/'
-    weight: 30
   - identifier: entrainements
     url: '/club/entrainements/'
     title: Entraînements
     parent: club
-    weight: 40
-#  - identifier: inscription
-#    url: '/club/inscription/'
-#    title: Inscription
-#    parent: club
+    weight: 30
   - identifier: entraineurs
     url: '/club/entraineurs/'
     title: Entraîneurs
@@ -98,12 +88,12 @@ menu:
   - identifier: competitions
     title: Compétitions
     url: '/competitions/'
-    weight: 20
+    weight: 60
 
   - identifier: nouvelles
     url: '/nouvelles/'
     title: Nouvelles
-    weight: 40
+    weight: 20
 
   - identifier: plan
     url: '/plan-du-site/'
