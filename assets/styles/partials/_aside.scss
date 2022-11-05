@@ -2,7 +2,7 @@
 // -----------------------------------
 
 .navbar-side {
-  //display: none;
+  display: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -18,13 +18,8 @@
 //  transition: transform .6s cubic-bezier(0.55, 0.055, 0.675, 0.19); // easeInCubic
 
   @include mquery($tablet-breakpoint) {
-//    width: 480px;
-//    transform: translateY(100vh);
-//    visibility: hidden;
-    &.toggled {
+    &.is-visible {
       display: block;
-//      transition: transform .4s cubic-bezier(0.165, 0.84, 0.44, 1), //easeOutQuart
-//        .4s visibility 0s;
     }
   }
 
