@@ -19,7 +19,7 @@ La cotisation de l’athlète comprend :
 Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.
 
 {{< div class="well well-danger" >}}
-**{{< icon "envelope-solid" >}} Note importante sur les courriels**
+{{< icon "envelope-solid" >}} **Note importante sur les courriels**
 
 Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
