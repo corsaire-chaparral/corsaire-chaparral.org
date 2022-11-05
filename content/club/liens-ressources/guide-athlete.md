@@ -1,7 +1,7 @@
 ---
 title: Guide de l'athlète COCH
 meta_title: 2018
-icon: assignment
+icon: clipboard-solid
 ---
 
 # Guide de l’athlète 2018 : Première compétition d’athlétisme

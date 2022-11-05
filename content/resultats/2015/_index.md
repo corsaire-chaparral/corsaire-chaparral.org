@@ -1,6 +1,5 @@
 ---
 title: Résultats 2015
-icon: assignment
+icon: clipboard-solid
 type: "by-date"
 ---
-

@@ -2,7 +2,7 @@
 title: Challenge Jean-Paul-Baert
 date: "2015-08-01"
 categories: Résultats
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

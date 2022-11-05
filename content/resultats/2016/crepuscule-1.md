@@ -2,7 +2,7 @@
 title: "Crépuscule #1 2016"
 categories: Résultats
 date: "2016-05-18"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

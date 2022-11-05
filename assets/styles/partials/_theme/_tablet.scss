@@ -10,18 +10,6 @@
     padding-left: 2.5em; // preserve padding on the left
   }
 
-  .meta-header {
-    //box-shadow: none;
-    //left: 0;
-    //&:after { display: none }
-  }
-
-  .icon-header {
-    font-size: 200px;
-    top: 16px;
-    right: 16px;
-  }
-
   .container-main {
     width: auto;
     @include horizontal-margin($spacing-xs);
@@ -29,7 +17,7 @@
 //    margin-top: 0;
 //    margin-bottom: 0;
   }
-  
+
   .container-landing {
     margin: 0 auto;
     width: 100%;
@@ -55,10 +43,10 @@
   .slider-btn-controls-right {
     right: 0;
   }
-  
+
   .row-40e {
     background-size: auto 45%;
     background-position: 90% 10%;
   }
-  
+
 }

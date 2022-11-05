@@ -1,7 +1,7 @@
 ---
 title: "Corsaire-Chaparral Invitation 2018"
 date: "2018-06-30"
-icon: assignment
+icon: clipboard-solid
 ---
 
 _Résultats revus et corrigés en date du 3 juillet 2018._

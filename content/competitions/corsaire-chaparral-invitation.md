@@ -1,7 +1,7 @@
 ---
 title: Corsaire-Chaparral Invitation
 date: "2022-05-29"
-icon: calendar
+icon: calendar-days-solid
 description : >
   Le club d'athlétisme Corsaire-Chaparral organise son annuelle compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories cadet à senior.
 images:

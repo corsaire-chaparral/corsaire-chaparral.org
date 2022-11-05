@@ -2,7 +2,7 @@
 title: Championnats nationaux d'athlétisme pour jeunes 2015
 date: "2015-08-07"
 categories: Résultats
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

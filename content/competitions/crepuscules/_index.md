@@ -1,7 +1,7 @@
 ---
 title: "Crépuscules 2019"
 date: 2019-05-22
-icon: calendar
+icon: calendar-days-solid
 params:
   sortDate: "asc"
 published: false

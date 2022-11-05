@@ -1,6 +1,6 @@
 ---
 title: Entraîneurs
-icon: assignment_ind
+icon: id-badge-solid
 #menu:
 #  main:
 #    identifier: entraineurs-all

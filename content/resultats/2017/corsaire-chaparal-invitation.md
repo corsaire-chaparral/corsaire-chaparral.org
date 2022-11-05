@@ -2,7 +2,7 @@
 title: "Corsaire-Chaparal Invitation"
 categories: Résultats
 date: "2017-07-01"
-icon: assignment
+icon: clipboard-solid
 ---
 
 

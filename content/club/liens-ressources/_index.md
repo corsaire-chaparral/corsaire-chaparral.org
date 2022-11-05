@@ -1,6 +1,6 @@
 ---
 title: Liens et ressources
-icon: list
+icon: list-solid
 menu:
   main:
     identifier: liens-ressources

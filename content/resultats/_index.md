@@ -1,6 +1,6 @@
 ---
 title: "Résultats"
-icon: assignment
+icon: clipboard-solid
 type: "by-date"
 menu:
   main:

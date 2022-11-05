@@ -1,7 +1,7 @@
 ---
 title: "Championnats nationaux pour jeunes"
 date: "2016-08-05"
-icon: calendar
+icon: calendar-days-solid
 #menu:
 #  main:
 #    identifier: championnats-nationaux-pour-jeunes

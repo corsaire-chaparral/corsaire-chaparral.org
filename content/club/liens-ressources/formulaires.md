@@ -1,6 +1,6 @@
 ---
 title: Formulaires
-icon: assignment
+icon: clipboard-solid
 ---
 
 ## Inscription au club (athlète)

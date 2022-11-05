@@ -2,7 +2,7 @@
 title: "Championnats québécois junior-senior-para 2019"
 slug: championnats-quebecois-junior-senior-para-2019
 date: 2019-07-06
-icon: calendar
+icon: calendar-days-solid
 description: >
   Les championnats québécois junior, senior et para se tiendront à Sainte-Thérèse du 6 au 7 juillet 2019, ainsi que les [Championnats canadiens vétéran](/competitions/championnats-canadiens-veteran-2019) du 5 au 7 juillet 2019 et les [Championnats québécois de pentathlon benjamin-cadet](/competitions/championnats-quebecois-pentathlon-2019/).
 #menu:

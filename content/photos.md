@@ -1,6 +1,6 @@
 ---
 title: Photos
-icon: cup
+icon: trophy-solid
 
 scripts:
   - "/scripts/photos.vendor.js"

@@ -1,7 +1,7 @@
 ---
 title: "Finale régionale des Jeux du Québec"
 date: 2022-05-29
-icon: calendar
+icon: calendar-days-solid
 #menu:
 #  main:
 #    identifier: finale-regionale

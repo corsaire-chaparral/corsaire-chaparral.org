@@ -1,7 +1,7 @@
 ---
 title: "Corsaire-Chaparral Invitation 2019"
 date: 2019-06-29
-icon: assignment
+icon: clipboard-solid
 ---
 
 ```

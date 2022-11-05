@@ -1,7 +1,7 @@
 ---
 title: Compétitions
 meta_title: Corsaire-Chaparal
-icon: calendar
+icon: calendar-days-solid
 type: "by-date"
 params:
   sortDate: "asc"

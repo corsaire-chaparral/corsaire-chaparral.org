@@ -1,7 +1,7 @@
 ---
 title: "École en forme et en santé"
 date: "2017-10-13"
-icon: assignment
+icon: clipboard-solid
 ---
 
 ## Édition 2017
@@ -18,4 +18,3 @@ Ce cross-country s'est déroulé au Parc équestre de Blainville.
 * [5e année, garçons](https://assets.corsaire-chaparral.org/competitions/2017/xc-ecole-en-forme-et-en-sante/5G.pdf)
 * [6e année, filles](https://assets.corsaire-chaparral.org/competitions/2017/xc-ecole-en-forme-et-en-sante/6F.pdf)
 * [6e année, garçons](https://assets.corsaire-chaparral.org/competitions/2017/xc-ecole-en-forme-et-en-sante/6G.pdf)
-

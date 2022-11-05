@@ -2,7 +2,7 @@
 title: "Championnats québécois de pentathlon benjamin-cadet 2019"
 slug: championnats-quebecois-pentathlon-2019
 date: 2019-07-06
-icon: calendar
+icon: calendar-days-solid
 description: >
   Les championnats québécois de pentathlon pour les benjamins et cadets se tiendront à Sainte-Thérèse le 6 juillet 2019, en même temps que les [Championnats québécois junior-senior-para](/competitions/championnats-quebecois-junior-senior-para-2019/) du 6 au 7 juillet 2019.
 #menu:

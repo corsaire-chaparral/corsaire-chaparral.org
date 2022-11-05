@@ -2,7 +2,7 @@
 title: Résultats - Festival en salle pour jeunes Corsaire-Chaparral 2017
 date: "2017-12-16"
 categories: Résultats
-icon: assignment
+icon: clipboard-solid
 layout: single
 ---
 

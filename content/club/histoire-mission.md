@@ -1,6 +1,6 @@
 ---
 title: Histoire et mission
-icon: logo-coch
+icon: logo-coch-ancien
 ---
 
 ### Qui sommes-nous?
@@ -21,7 +21,7 @@ Les entraînements ont lieu au stade d’athlétisme Richard-Garneau Sainte-Thé
 
 _Initiation au lancer du turbo javelot (photo Louis-Olivier Brassard)._
 
-### Les disciplines <span class="icon icon-athletics-3"></span>
+### Les disciplines {{< icon "3-disciplines">}}
 
 Le COCH est un des seuls clubs au Québec à posséder une expertise dans l'ensemble des épreuves d'athlétisme sur piste et sur pelouse:
 

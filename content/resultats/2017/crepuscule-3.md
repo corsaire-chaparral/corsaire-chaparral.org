@@ -2,7 +2,7 @@
 title: "Crépuscule COCH #3"
 categories: Résultats
 date: "2017-06-28"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

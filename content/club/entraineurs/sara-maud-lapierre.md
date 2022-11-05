@@ -1,6 +1,6 @@
 ---
 title: "Sara-Maud Lapierre"
-icon: assignment_ind
+icon: id-badge-solid
 layout: entraineur
 
 courriel: saramaudlapierre@gmail.com

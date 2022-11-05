@@ -1,6 +1,6 @@
 ---
 title: Samuel Grondin-Bernier
-icon: assignment_ind
+icon: id-badge-solid
 layout: entraineur
 #menu:
 #  main:

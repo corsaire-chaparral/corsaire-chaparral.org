@@ -2,7 +2,7 @@
 title: "Championnats provinciaux benjamins-cadets-juvéniles"
 categories: Résultats
 date: "2017-07-15"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

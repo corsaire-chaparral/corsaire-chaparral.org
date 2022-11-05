@@ -1,4 +1,4 @@
 ---
 title: Le club
-icon: logo-coch
+icon: logo-coch-ancien
 ---

@@ -1,7 +1,7 @@
 ---
 title: Partenaires
 meta_title: 2014-2015
-icon: partenaire
+icon: handshake-solid
 layout: partenaires
 menu:
   main:

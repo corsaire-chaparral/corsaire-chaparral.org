@@ -1,6 +1,6 @@
 ---
 title: Charles-Olivier Roy
-icon: assignment_ind
+icon: id-badge-solid
 layout: entraineur
 #menu:
 #  main:

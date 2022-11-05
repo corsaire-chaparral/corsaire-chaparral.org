@@ -1,6 +1,6 @@
 ---
 title: Records et statistiques
-icon: stopwatch
+icon: stopwatch-solid
 menu:
   main:
     identifier: records-statistiques

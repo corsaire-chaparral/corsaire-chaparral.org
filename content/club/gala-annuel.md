@@ -1,7 +1,7 @@
 ---
 title: Gala annuel 2018
 date: 2018-10-20
-icon: calendar
+icon: calendar-days-solid
 description: >
   Le premier gala annuel du club Corsaire-Chaparral se tiendra le samedi 20 octobre 2018 au Centre culturel et communautaire Thérèse-de-Blainville.
 images:

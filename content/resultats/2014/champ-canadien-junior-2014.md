@@ -2,7 +2,7 @@
 title: Championnat canadien junior 2014
 date: "2014-07-04"
 categories: Résultats
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

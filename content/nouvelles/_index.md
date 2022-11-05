@@ -1,4 +1,4 @@
 ---
 title: Nouvelles
-icon: hamburger
+icon: newspaper-regular
 ---

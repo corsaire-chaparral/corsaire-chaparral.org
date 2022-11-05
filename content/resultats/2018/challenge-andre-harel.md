@@ -1,7 +1,7 @@
 ---
 title: Challenge André-Harel 2018
 date: "2018-02-03"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

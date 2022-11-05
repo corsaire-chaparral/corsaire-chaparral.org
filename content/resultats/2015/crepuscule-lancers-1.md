@@ -2,7 +2,7 @@
 title: "Crépuscule de lancers #1 2015"
 categories: Résultats
 date: "2015-06-04"
-icon: assignment
+icon: clipboard-solid
 ---
 
 Téléchargez les résultats en [format pdf](http://corsaire-chaparal.org/medias/competitions/2015/crepuscule-lancers-4-juin-resultat.pdf).

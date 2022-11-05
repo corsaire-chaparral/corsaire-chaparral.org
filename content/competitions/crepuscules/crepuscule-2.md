@@ -1,7 +1,7 @@
 ---
 title: "Crépuscule #2"
 date: "2019-06-05"
-icon: calendar
+icon: calendar-days-solid
 images:
 - /competitions/crepuscules/crepuscule2-coch.png
 #menu:

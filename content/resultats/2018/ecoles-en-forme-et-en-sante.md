@@ -3,7 +3,7 @@ title: "Écoles en forme et en santé"
 aliases:
 - /resultats/2018/ecole-en-forme-et-en-sante/
 date: 2018-10-05
-icon: assignment
+icon: clipboard-solid
 type: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Contact
-icon: phone
+icon: phone-solid
 menu:
   main:
     identifier: contact

@@ -1,5 +1,5 @@
 ---
 title: "Résultats 2021"
-icon: assignment
+icon: clipboard-solid
 type: "by-date"
 ---

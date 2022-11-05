@@ -1,5 +1,5 @@
 ---
 title: "Résultats 2018"
-icon: assignment
+icon: clipboard-solid
 type: "by-date"
 ---

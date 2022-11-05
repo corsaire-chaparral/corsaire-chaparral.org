@@ -4,19 +4,6 @@
   <header class="header-landing row-primary" style="background-image:url({{ .Params.backgroundImg }})">
     <div class="swipe landing-slider" id="landing-slider">
       <div class="swipe-wrap">
-<!--
-        <section>
-          <div class="container">
-            <div class="row text-center">
-              <h1>{{ .Site.Title }}</h1>
-
-              <p class="lead">{{ .Site.Params.description }}</p>
-                <a href="/club/histoire-mission/" class="btn btn-default">En savoir plus {{ partial "icon.html" (dict "name" "chevron-right-solid") >}}</a>
-              <a href="/club/inscription/" class="btn btn-secondary">Inscription <span class="icon icon-pencil"></span></a>
-            </div>
-          </div>
-        </section>
--->
 
         {{ range .Params.slides }}
 
@@ -77,14 +64,14 @@
           <div class="row row-sm">
             <a href="/nouvelles/" class="btn btn-secondary -sm">
               Toutes les nouvelles
-              <span class="icon icon-hamburger"></span>
+              {{ partial "icon.html" (dict "name" "bars-solid") -}}
             </a>
           </div>
         </section>
 
         {{ if isset .Params "announcement" }}
           <div class="alert -primary phone-text-center">
-              <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
+              <span class="h1 alert__heading">{{ .Params.announcement.title }} {{ partial "icon.html" (dict "name" "pencil-solid") }}</span>
               <p>
                 {{ .body | markdownify }}
               </p>
@@ -137,7 +124,7 @@
         </div>
         <div class="col col-6 tablet-col-8 phone-col-12">
           <div class="container no-margin">
-            <h2>Infolettre <span class="icon icon-mail"></span></h2>
+            <h2>Infolettre {{ partial "icon.html" (dict "name" "envelope-solid") >}}</h2>
 
             <p>Parents et athlètes, ajoutez votre adresse courriel pour recevoir toutes les informations. Si vous vous êtes inscrit(e) au club pour la saison 2018–2019, vous avez déjà été ajouté(e) à l’infolettre!</p>
 

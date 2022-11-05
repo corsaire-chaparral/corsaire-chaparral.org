@@ -1,6 +1,6 @@
 ---
 title: Marjolaine Lalande
-icon: assignment_ind
+icon: id-badge-solid
 layout: entraineur
 published: false
 

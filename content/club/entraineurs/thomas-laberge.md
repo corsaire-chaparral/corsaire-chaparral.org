@@ -1,6 +1,6 @@
 ---
 title: Thomas Laberge
-icon: assignment_ind
+icon: id-badge-solid
 layout: entraineur
 #menu:
 #  main:

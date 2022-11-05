@@ -1,5 +1,11 @@
 <header class="header-page">
-  <span class="icon icon-{{ .Params.Icon }} icon-lg icon-header"></span>
+
+  <div class="icon-header">
+    {{- if .Params.icon }}
+    {{- partial "icon.html" (dict "name" .Params.icon "size" "170") -}}
+    {{ end -}}
+  </div>
+
   <div class="container">
     <div class="row row-sm">
       <div class="meta-header">
@@ -22,7 +28,7 @@
         {{ with .Params.date }}
         <div>
           <small>
-            <span class="icon icon-calendar"></span> {{ partial "date.html" . }}
+            {{ partial "icon.html" (dict "name" "calendar-days-solid" "size" 13) }} {{ partial "date.html" . }}
           </small>
         </div>
         {{ end }}
@@ -34,7 +40,7 @@
       </div>
     </div>
   </div>
-  
+
   {{ with .Params.images }}
   {{ range first 1 . }}
   <figure class="header-banner">

@@ -1,6 +1,6 @@
 ---
 title: David Montreuil-Jean-Pois
-icon: assignment_ind
+icon: id-badge-solid
 layout: entraineur
 #menu:
 #  main:

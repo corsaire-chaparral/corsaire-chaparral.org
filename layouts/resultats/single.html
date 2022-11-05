@@ -26,7 +26,7 @@
           {{ with .Params.date }}
           <div>
             <small>
-              <span class="icon icon-calendar"></span> {{ partial "date.html" . }}
+              {{ partial "icon.html" (dict "name" "calendar-solid") }} {{ partial "date.html" . }}
             </small>
           </div>
           {{ end }}
@@ -38,7 +38,7 @@
         </div>
       </div>
     </div>
-    
+
   </header>
   {{ end }}
 

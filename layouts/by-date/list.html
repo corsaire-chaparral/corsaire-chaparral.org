@@ -5,12 +5,12 @@
   {{ end }}
 
   {{ .Content }}
-  
+
   <ul class="list-unstyled list-by-date">
     {{ range sort .RegularPages "Date" $sort }}
     <li>
       {{ if .Date }}
-      <small class="date"><span class="icon icon-calendar"></span> {{ .Date.Format "2006-01-02" }}</small>
+      <small class="date">{{ partial "icon.html" (dict "name" "calendar-days-solid") }} {{ .Date.Format "2006-01-02" }}</small>
       {{ else }}
       <small class="date">(Sans date)</small>
       {{ end }}
@@ -30,7 +30,7 @@
     {{ range sort .Pages "Date" $sort }}
       <li>
         {{ if .Date }}
-        <small class="date"><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
+        <small class="date">{{ partial "icon.html" (dict "name" "calendar-days-solid") }}{{ .Date.Format "2006-01-02" }}</small>
         {{ else }}
         <small class="date">(Sans date)</small>
         {{ end }}

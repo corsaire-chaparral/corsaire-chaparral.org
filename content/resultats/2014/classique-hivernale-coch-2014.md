@@ -2,7 +2,7 @@
 title: Classique hivernale COCH 2014
 categories: Résultats
 date: "2014-02-01"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

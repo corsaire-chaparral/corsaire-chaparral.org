@@ -2,7 +2,7 @@
 title: "Finale régionale des Jeux du Québec"
 categories: Résultats
 date: "2016-06-04"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

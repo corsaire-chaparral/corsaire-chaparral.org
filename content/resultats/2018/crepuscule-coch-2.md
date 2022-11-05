@@ -1,7 +1,7 @@
 ---
 title: "Crépuscule COCH #2 2018"
 date: "2018-06-06"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

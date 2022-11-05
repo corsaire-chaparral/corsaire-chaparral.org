@@ -2,7 +2,7 @@
 title: "Mini-athlétisme colibris, minimes et benjamins"
 categories: Résultats
 date: "2017-06-24"
-icon: assignment
+icon: clipboard-solid
 ---
 
 Voici les résultats de la compétition amicale de fin de saison à l'occasion du dernier entraînement des colibris et des minimes. Au plaisir de se revoir à l'automne!

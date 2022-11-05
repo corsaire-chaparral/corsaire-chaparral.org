@@ -1,7 +1,7 @@
 ---
 title: "Mini-athlétisme RSEQ-LL Primaire 2019"
 date: 2019-06-03
-icon: assignment
+icon: clipboard-solid
 ---
 
 ```
@@ -2185,4 +2185,3 @@ Epreuve 28  Hommes Lancer du poids 3kg 6e année
       FOUL    x             
 
 ```
-

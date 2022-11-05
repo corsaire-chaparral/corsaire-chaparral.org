@@ -1,7 +1,7 @@
 ---
 title: "Le festival en salle des jeunes Corsaire-Chaparral"
 date: "2022-12-03"
-icon: calendar
+icon: calendar-days-solid
 #menu:
 #  main:
 #    identifier: festival-jeunes

@@ -2,7 +2,7 @@
 title: "Écoles en forme et en santé"
 date: 2019-10-18
 type: single
-icon: assignment
+icon: clipboard-solid
 ---
 
 

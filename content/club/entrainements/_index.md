@@ -1,7 +1,7 @@
 ---
 title: Entraînements
 categories: Club
-icon: stopwatch
+icon: stopwatch-solid
 #menu:
 #  main:
 #    identifier: entrainements-info

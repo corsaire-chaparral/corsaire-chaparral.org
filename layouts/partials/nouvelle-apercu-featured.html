@@ -26,7 +26,7 @@
     {{- end -}}
 
     <small class="title-meta">
-      <span class="icon icon-calendar"></span>
+      {{ partial "icon.html" (dict "name" "calendar-solid") }}
       {{ with .Date }}
       {{ .Format "2006-01-02" }}
       {{ end }}

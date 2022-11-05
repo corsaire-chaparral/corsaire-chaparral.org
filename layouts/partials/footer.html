@@ -50,15 +50,15 @@
       <div class="col col-4 phone-col-6">
         <div class="h5 footer__heading">Réseaux sociaux</div>
         <ul class="list-footer list-footer-social">
-          <li><a href="https://facebook.com/{{ .Site.Params.facebook }}" target="_blank"><span class="icon icon-facebook"></span> Facebook</a></li>
-          <li><a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank"><span class="icon icon-twitter"></span> Twitter</a></li>
+          <li><a href="https://facebook.com/{{ .Site.Params.facebook }}" target="_blank">{{ partial "icon.html" (dict "name" "facebook" "size" 13) }} Facebook</a></li>
+          <li><a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank">{{ partial "icon.html" (dict "name" "twitter" "size" 13) }} Twitter</a></li>
           {{ if .Site.Params.instagram }}
-          <li><a href="https://instagram.com/{{ .Site.Params.instagram }}" target="_blank"><span class="icon icon-star"></span> Instagram</a></li>
+          <li><a href="https://instagram.com/{{ .Site.Params.instagram }}" target="_blank">{{ partial "icon.html" (dict "name" "instagram" "size" 13) }} Instagram</a></li>
           {{ end }}
-          <li><a href="mailto:{{ .Site.Params.email }}" target="_blank"><span class="icon icon-mail"></span> Courriel</a></li>
+          <li><a href="mailto:{{ .Site.Params.email }}" target="_blank">{{ partial "icon.html" (dict "name" "envelope-solid" "size" 13) }} Courriel</a></li>
         </ul>
       </div>
-      
+
       <div class="col col-4 phone-col-6">
         <div class="h5 footer__heading">Espace membres</div>
         <ul class="list-footer">

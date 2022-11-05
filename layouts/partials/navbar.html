@@ -32,7 +32,19 @@
       <li>
         <button class="toggle-sidebar" id="toggle-sidebar" title="Menu" x-on:click="sidebarOpen = !sidebarOpen">
           MENU
-          <span class="icon icon-hamburger"></span><span class="icon icon-close icon-hamburger-toggled"></span></button>
+          <span
+            class="toggle-sidebar-icon"
+            :class="sidebarOpen ? 'none' : ''"
+          >
+            {{- partial "icon.html" (dict "name" "bars-solid" "size" 14) -}}
+          </span>
+          <span
+            class="toggle-sidebar-icon"
+            :class="!sidebarOpen ? 'none' : ''"
+          >
+            {{- partial "icon.html" (dict "name" "xmark-solid" "size" 14) -}}
+          </span>
+        </button>
       </li>
     </ul>
     <ul class="nav nav-break">
@@ -40,12 +52,12 @@
       {{ range .Site.Menus.main.ByWeight }}
       <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}{{ if .HasChildren }} dropdown{{ end }}
         {{ if findRE "highlight" .Identifier }} highlight{{ end }}">
-        <a {{ if not .HasChildren}}href="{{ .URL }}"{{end}}>{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-down-solid") }}{{ end }}</a>
+        <a {{ if not .HasChildren}}href="{{ .URL }}"{{end}}>{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-down-solid" "size" 12) }}{{ end }}</a>
         {{ if .HasChildren }}
         <ul class="dropdown-list">
           {{ range .Children.ByWeight }}
           <li {{ if .HasChildren }}class="dropdown"{{end}}>
-            <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-right-solid") }}{{ end }}</a>
+            <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-right-solid" "size" 12) }}{{ end }}</a>
             {{ if .HasChildren }}
             <ul class="dropdown-list">
               {{ range .Children.ByWeight }}

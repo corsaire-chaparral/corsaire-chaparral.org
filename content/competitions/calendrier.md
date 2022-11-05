@@ -1,7 +1,7 @@
 ---
 title: Calendrier des compétitions
 date: "2018"
-icon: calendar
+icon: calendar-days-solid
 published: false
 ---
 

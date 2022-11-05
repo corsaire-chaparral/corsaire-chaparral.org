@@ -2,7 +2,7 @@
 title: Classique hivernale COCH 2016
 categories: Résultats
 date: "2016-02-06"
-icon: assignment
+icon: clipboard-solid
 ---
 
 <pre>

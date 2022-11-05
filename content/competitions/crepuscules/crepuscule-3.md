@@ -1,7 +1,7 @@
 ---
 title: "Crépuscule #3"
 date: "2019-06-19"
-icon: calendar
+icon: calendar-days-solid
 images:
   - /competitions/crepuscules/crepuscule3-banner.jpg
 #menu:

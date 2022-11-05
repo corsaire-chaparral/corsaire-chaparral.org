@@ -27,9 +27,9 @@
       {{ . | markdownify }}
       </article>
     {{- end -}}
-    
+
     <small class="title-meta">
-      <span class="icon icon-calendar"></span>
+      {{ partial "icon.html" (dict "name" "calendar-days-solid" "size" 13) }}
       {{ with .Date }}
       {{ .Format "2006-01-02" }}
       {{ end }}

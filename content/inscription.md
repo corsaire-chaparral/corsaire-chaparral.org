@@ -1,7 +1,7 @@
 ---
 title: Inscription
 categories: Club
-icon: pencil
+icon: pencil-solid
 toc: true
 aliases:
   - /club/inscription/

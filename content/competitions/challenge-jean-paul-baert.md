@@ -1,6 +1,6 @@
 ---
 title: Challenge Jean-Paul Baert
-icon: calendar
+icon: calendar-days-solid
 ---
 
 > Si vous trouvez amusant de voir un lanceur de marteau lancer le javelot, attendez de voir l'inverse!

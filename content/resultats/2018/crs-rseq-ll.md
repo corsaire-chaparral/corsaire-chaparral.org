@@ -1,7 +1,7 @@
 ---
 title: "CRS athlétisme RSEQ-LL 2018"
 date: "2018-05-29"
-icon: assignment
+icon: clipboard-solid
 ---
 
 [Bannières](#bannières)

@@ -1,7 +1,7 @@
 ---
 title: "Challenge André-Harel"
 date: "2020-02-01"
-icon: calendar
+icon: calendar-days-solid
 #menu:
 #  main:
 #    identifier: challenge-andre-harel

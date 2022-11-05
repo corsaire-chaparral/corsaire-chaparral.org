@@ -29,7 +29,7 @@
 
   {{- if $limitCheck -}}
   <div class="well">
-    <span class="icon icon-warning"></span>
+    {{ partial "icon.html" (dict "name" "triangle-exclamation-solid") }}
     <em>La date d'inscription pour cette compétition est passée; le formulaire n'est plus disponible.</em>
   </div>
   {{- else -}}

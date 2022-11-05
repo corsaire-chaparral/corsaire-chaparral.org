@@ -2,7 +2,7 @@
 title: "École en forme et en santé"
 categories: Résultats
 date: "2016-10-07"
-icon: assignment
+icon: clipboard-solid
 ---
 
 ## Cross-country École en forme et en santé
@@ -22,5 +22,3 @@ Parc équestre, édition 2016
 * [Par école](/medias/competitions/2016/xc-ecole-en-forme-et-en-sante/par_ecole.pdf)
 
 [Certificats de participation](/medias/competitions/2016/xc-ecole-en-forme-et-en-sante/certificat.pdf)
-
-

@@ -1,7 +1,7 @@
 ---
 title: "Championnats provinciaux benjamins-cadets-juvéniles"
 date: "2017-07-15"
-icon: calendar
+icon: calendar-days-solid
 #menu:
 #  main:
 #    identifier: championnats-provinciaux
@@ -50,4 +50,3 @@ Le Corsaire-Chaparral tient à remercier ses principaux partenaires lors de l'é
 {{#each partenaires_champ_prov }}
 {{> partenaire}}
 {{/each}}
-
