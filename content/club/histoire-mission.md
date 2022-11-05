@@ -21,7 +21,7 @@ Les entraînements ont lieu au stade d’athlétisme Richard-Garneau Sainte-Thé
 
 _Initiation au lancer du turbo javelot (photo Louis-Olivier Brassard)._
 
-### Les disciplines {{< icon "3-disciplines">}}
+### Les disciplines {{< icon "3-disciplines" 36 >}}
 
 Le COCH est un des seuls clubs au Québec à posséder une expertise dans l'ensemble des épreuves d'athlétisme sur piste et sur pelouse:
 
@@ -38,7 +38,7 @@ Le COCH est un des seuls clubs au Québec à posséder une expertise dans l'ense
 
 Le Club organise annuellement, depuis ses débuts, plusieurs [compétions](/competitions/) auxquelles participent des athlètes en provenance des différentes régions du Québec, de l'Ontario, du Nouveau-Brunswick et des États-Unis :
 
-- Le [_Challenge André-Harel_](/competitions/challenge-andre-harel/) (anciennement la ~~_Classique hivernale Corsaire-Chaparral_~~) : habituellement tenue en février, cette compétition recueille plus de 1000 inscriptions, pour plus de 500 athlètes, à une centaine d'épreuves supervisées par une cinquantaine d'officiels et de bénévoles.
+- Le [_Challenge André-Harel_](/competitions/challenge-andre-harel/) (anciennement la _Classique hivernale Corsaire-Chaparral_) : habituellement tenue en février, cette compétition recueille plus de 1000 inscriptions, pour plus de 500 athlètes, à une centaine d'épreuves supervisées par une cinquantaine d'officiels et de bénévoles.
 - La [_Corsaire-Chaparral Invitation_](/competitions/corsaire-chaparral-invitation/) : organisée habituellement en juillet, cette compétition attire près de 700 athlètes, générant plus de douze cents inscriptions aux épreuves encadrées par plus de 70 officiels et bénévoles.
 - Le [_Festival des jeunes_](/competitions/festival-en-salle-des-jeunes/) : cette compétition en gymnase fait partie du circuit d’initiation _Mes premières foulées Bruny Surin_ de la Fédération québécoise d’athlétisme.
 - Les [_Crépuscules estivaux_](/competitions/crepuscules/) : le Corsaire-Chaparral est fier d’offrir chaque été une série de rencontres en soirée en proposant un éventail d’épreuves – allant de la marche au steeple, en passant par l’ensemble des sauts et des lancers.
