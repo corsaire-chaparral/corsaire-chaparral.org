@@ -42,7 +42,7 @@ Les membres des clubs autres que Corsaire-Chaparral doivent s’inscrire sur le 
 
 ## Résultats antérieurs
 
-- [Résultats 2019 (PDF)](https://assets.corsaire-chaparral.org/competitions/2019/resultats-festival-jeunes-coch-2019.pdf)
+- [Résultats 2019](https://assets.corsaire-chaparral.org/competitions/2019/resultats-festival-jeunes-coch-2019.pdf)
 - [Résultats 2018](https://avs-sport.com/comp_main.php?comp=331)
 - [Résultats 2017](/resultats/2017/festival-en-salle-pour-jeunes/)
 - [Résultats 2016](https://assets.corsaire-chaparral.org/competitions/2016/resultats-festival-en-salle-coch-2016.pdf)
