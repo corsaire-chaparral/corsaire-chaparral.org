@@ -59,7 +59,7 @@ J7E 4S4
 
 **Les inscriptions sont fermées.**
 
-<a href="http://www.trackiereg.com/masters2019" class="btn btn-default disabled" disabled>Inscription <span class="icon icon-pencil"></span></a>
+<a href="http://www.trackiereg.com/masters2019" class="btn btn-default disabled" disabled>Inscription {{< icon "pencil-solid" >}}</a>
 
 ## Bénévolat
 
@@ -70,6 +70,6 @@ Pour cet événement d’envergure, nous aurons grandement besoin de bénévoles
 Inscrivez-vous via notre formulaire en ligne :
 
 <a href="https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019" target="_blank" class="btn btn-primary">
-<span class="icon icon-assignment"></span>
+{{< icon "clipboard-solid" >}}
 Formulaire de bénévolat
 </a>

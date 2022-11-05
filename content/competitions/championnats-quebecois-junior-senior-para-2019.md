@@ -48,7 +48,7 @@ Téléchargez le [document technique](https://assets.corsaire-chaparral.org/comp
 
 **Les inscriptions sont fermées.**
 
-<a href="https://avs-sport.com/inscriptions.php?comp=400" class="btn btn-default disabled" disabled>Inscription <span class="icon icon-pencil"></span></a>
+<a href="https://avs-sport.com/inscriptions.php?comp=400" class="btn btn-default disabled" disabled>Inscription {{< icon "pencil-solid" >}}</a>
 
 ## Bénévolat
 
@@ -59,6 +59,6 @@ Pour cet événement d’envergure, nous aurons grandement besoin de bénévoles
 Inscrivez-vous via notre formulaire en ligne :
 
 <a href="https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019" target="_blank" class="btn btn-primary">
-<span class="icon icon-assignment"></span>
+{{< icon "clipboard-solid" >}}
 Formulaire de bénévolat
 </a>

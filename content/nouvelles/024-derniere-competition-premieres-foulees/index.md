@@ -35,4 +35,4 @@ Cette compétition prend la forme d’un **pentathlon** pour toutes les catégor
 
 S’inscrire à une compétition, c’est s’engager à être présent lors de chacune de ses épreuves! *Merci d’aviser vos entraîneurs à l’avance pour toute absence (pour éviter qu’on s’inquiète pour rien!).*
 
-<a href="https://campagnes.corsaire-chaparral.org/inscription-combine-lanaudiere-olympique-2019" class="btn btn-primary">Formulaire d'inscription <span class="icon icon-assignment"></span></a>
+<a href="https://campagnes.corsaire-chaparral.org/inscription-combine-lanaudiere-olympique-2019" class="btn btn-primary">Formulaire d'inscription {{< icon "clipboard-solid" >}}</a>

@@ -1,6 +1,27 @@
 // Icons
 // -----------------------------------
 
+.svg-icon {
+  --size: 16px;
+
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  vertical-align: middle;
+  line-height: 1;
+  margin: .1em;
+
+
+  > svg {
+    height: var(--size);
+    width: var(--size);
+
+    fill: currentColor;
+  }
+}
+
+/* below is legacy code for icon font */
+
 @font-face {
 	font-family: 'coch-icons';
   src:url('#{$assets-url}fonts/coch-icons/coch-icons.eot?-fmkj5x');

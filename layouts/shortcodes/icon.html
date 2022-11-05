@@ -1,0 +1,16 @@
+{{- $name := "" -}}
+{{- $size := 16 -}}
+
+{{- if .IsNamedParams -}}
+  {{- $name = .Get "name" -}}
+  {{- with .Get "size"}}
+    {{- $size = . -}}
+  {{- end -}}
+{{- else -}}
+  {{- $name = .Get 0 -}}
+  {{- with .Get 1}}
+    {{- $size = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{ partial "icon.html" (dict "name" $name "size" $size) }}

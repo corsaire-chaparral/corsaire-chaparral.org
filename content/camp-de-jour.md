@@ -73,6 +73,6 @@ J7E 4S4
 
 <a href="https://campdejour.corsaire-chaparral.org/e/1/le-camp-de-jour-2022" class="btn btn-primary btn--block" target="_blank">
 Inscription au camp de jour
-<span class="icon icon-angle-right"></span>
+{{< icon "chevron-right-solid" >}}
 </a>
 -->

@@ -10,4 +10,4 @@ images:
 
 Répondez à ce super court sondage – 2 questions! – pour nous aider à faire mieux l’an prochain. Vos réponses sont anonymes, dites-nous donc ce que vous en avez pensé!
 
-<a href="https://campagnes.corsaire-chaparral.org/feedback-gala-2018" class="btn btn-primary">Je partage mes impressions! <span class="icon icon-angle-right"></span></a>
+<a href="https://campagnes.corsaire-chaparral.org/feedback-gala-2018" class="btn btn-primary">Je partage mes impressions! {{< icon "chevron-right-solid" >}}</a>

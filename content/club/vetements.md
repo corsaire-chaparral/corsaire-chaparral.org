@@ -8,4 +8,4 @@ images:
 
 Visitez le catalogue en ligne et commandez directement. Les délais de livraison sont à la discrétion du fournisseur.
 
-<a href="https://boutiqueldfs.ca/collections/club-dathletisme-corsaire-chaparral" target="_blank" class="btn btn-primary btn--block">Boutique en ligne <i class="icon icon-angle-right"></i></a>
+<a href="https://boutiqueldfs.ca/collections/club-dathletisme-corsaire-chaparral" target="_blank" class="btn btn-primary btn--block">Boutique en ligne {{< icon "chevron-right-solid" >}}</a>

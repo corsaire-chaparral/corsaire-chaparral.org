@@ -18,35 +18,35 @@ J7E 4J3
 </address>
 
 **Questions et informations générales**  
-<span class="icon icon-mail"></span>
+{{< icon "envelope-solid" >}}
 <info@corsaire-chaparral.org>
 
 **Administration et traitement des inscriptions pour le secteur compétitif**  
-<span class="icon icon-mail"></span>
+{{< icon "envelope-solid" >}}
 <admin@corsaire-chaparral.org>
 
 **Équipe de chronométrage**  
-<span class="icon icon-mail"></span>
+{{< icon "envelope-solid" >}}
 <chronometrage@corsaire-chaparral.org>
 
 ## Répertoire
 
 **François-Éric Garant**  
 Président  
-<span class="icon icon-mail"></span>
+{{< icon "envelope-solid" >}}
 <fegman13@hotmail.com>
 
 **Nancy Boucher**  
 Trésorière  
-<span class="icon icon-mail"></span>
+{{< icon "envelope-solid" >}}
 <nanzzou@outlook.com>
 
 **Olivier Lavoie**  
 Entraîneur-chef  
-<span class="icon icon-mail"></span>
+{{< icon "envelope-solid" >}}
 <olivier.gabriel.lavoie@gmail.com>
 
 **Louis-Olivier Brassard**  
 Webmestre  
-<span class="icon icon-mail"></span>
+{{< icon "envelope-solid" >}}
 <louis@corsaire-chaparral.org>

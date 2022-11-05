@@ -35,7 +35,7 @@ Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle séri
 - En ligne : **15,00 $** par épreuve individuelle _(date limite lundi 20 mai 23 h 59)_
 - Sur place : **20,00 $** par épreuve individuelle _(jusqu’à 18h00, argent comptant seulement)_
 
-<a href="http://avs-sport.com/main.php" class="btn btn-primary" target="_blank">Inscription <span class="icon icon-angle-right"></span></a>
+<a href="http://avs-sport.com/main.php" class="btn btn-primary" target="_blank">Inscription {{< icon "chevron-right-solid" >}}</a>
 
 ## Informations générales
 

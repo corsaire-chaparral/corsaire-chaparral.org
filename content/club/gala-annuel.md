@@ -18,7 +18,7 @@ menu:
 
 ## Billets
 
-<em class="badge badge-primary">Prolongation! <span class="icon icon-stopwatch"></span></em> Procurez-vous vos billets jusqu'au ~~9 octobre~~ **14 octobre 2018, 23h59**!
+<em class="badge badge-primary">Prolongation! {{< icon "stopwatch-solid" >}}</em> Procurez-vous vos billets jusqu'au ~~9 octobre~~ **14 octobre 2018, 23h59**!
 
 Vous devez vous procurer vos [billets](https://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025) en ligne. Aucun billet ne sera vendu à la porte.
 

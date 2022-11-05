@@ -27,7 +27,7 @@ images:
 - En ligne : **15,00 $** par épreuve individuelle _(date limite lundi 3 juin 23 h 59)_
 - Sur place : **20,00 $** par épreuve individuelle _(jusqu’à 18h00, argent comptant seulement)_
 
-<a class="btn btn-primary" href="https://avs-sport.com/inscriptions.php?comp=390" target="_blank">Inscription <span class="icon icon-pencil"></span></a>
+<a class="btn btn-primary" href="https://avs-sport.com/inscriptions.php?comp=390" target="_blank">Inscription {{< icon "pencil-solid" >}}</a>
 
 
 _\*Athlètes du Corsaire-Chaparral, veuillez vous inscrire via [**ce formulaire**](https://campagnes.corsaire-chaparral.org/inscription-crepuscule-2-2019)_.
@@ -49,4 +49,4 @@ _\*Athlètes du Corsaire-Chaparral, veuillez vous inscrire via [**ce formulaire*
 
 **Pas de bénévoles, pas de compétition!** Athlètes, parents et amis, chaque personne compte.
 
-<a href="https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-2-2019" class="btn btn-primary" target="_blank">Bénévolat <span class="icon icon-angle-right"></span></a>
+<a href="https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-2-2019" class="btn btn-primary" target="_blank">Bénévolat {{< icon "chevron-right-solid" >}}</a>
