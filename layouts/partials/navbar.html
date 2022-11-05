@@ -40,12 +40,12 @@
       {{ range .Site.Menus.main.ByWeight }}
       <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}{{ if .HasChildren }} dropdown{{ end }}
         {{ if findRE "highlight" .Identifier }} highlight{{ end }}">
-        <a {{ if not .HasChildren}}href="{{ .URL }}"{{end}}>{{ .Title }}{{ if .HasChildren }} <span class="icon icon-angle-down"></span>{{ end }}</a>
+        <a {{ if not .HasChildren}}href="{{ .URL }}"{{end}}>{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-down-solid") }}{{ end }}</a>
         {{ if .HasChildren }}
         <ul class="dropdown-list">
           {{ range .Children.ByWeight }}
           <li {{ if .HasChildren }}class="dropdown"{{end}}>
-            <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} <span class="icon icon-angle-right caret"></span>{{ end }}</a>
+            <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-right-solid") }}{{ end }}</a>
             {{ if .HasChildren }}
             <ul class="dropdown-list">
               {{ range .Children.ByWeight }}

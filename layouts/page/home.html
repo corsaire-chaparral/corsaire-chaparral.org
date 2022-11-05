@@ -11,13 +11,13 @@
               <h1>{{ .Site.Title }}</h1>
 
               <p class="lead">{{ .Site.Params.description }}</p>
-                <a href="/club/histoire-mission/" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a>
+                <a href="/club/histoire-mission/" class="btn btn-default">En savoir plus {{ partial "icon.html" (dict "name" "chevron-right-solid") >}}</a>
               <a href="/club/inscription/" class="btn btn-secondary">Inscription <span class="icon icon-pencil"></span></a>
             </div>
           </div>
         </section>
 -->
-        
+
         {{ range .Params.slides }}
 
         <section class="text-center">
@@ -42,17 +42,17 @@
             </div>
           </div>
         </section>
-        
+
         {{ end }}
       </div>
 
-      <a href="#" class="slider-btn-controls slider-btn-controls-left" id="landing-slider-btn-controls-left"><span class="icon icon-angle-left"></span></a>
-      <a href="#" class="slider-btn-controls slider-btn-controls-right" id="landing-slider-btn-controls-right"><span class="icon icon-angle-right"></span></a>
+      <a href="#" class="slider-btn-controls slider-btn-controls-left" id="landing-slider-btn-controls-left">{{ partial "icon.html" (dict "name" "chevron-left-solid") >}}</a>
+      <a href="#" class="slider-btn-controls slider-btn-controls-right" id="landing-slider-btn-controls-right">{{ partial "icon.html" (dict "name" "chevron-right-solid") >}}</a>
       <ul class="slider-bullets" id="landing-slider-bullets"></ul>
 
     </div>
   </header>
-  
+
   <div class="container container-full">
 
     <h2>Quoi de neuf</h2>
@@ -94,7 +94,7 @@
       </article>
     </div>
   </div>
-  
+
   <section class="row-lg" id="photos">
     <div class="container container-full">
       <h2>Dernières photos</h2>
@@ -113,11 +113,11 @@
         </div>
         {{ end }}
       </div>
-      
-      <a href="{{ .Params.featuredPhotosUrl }}" class="btn btn-primary">Voir plus de photos <span class="icon icon-angle-right"></span></a>
+
+      <a href="{{ .Params.featuredPhotosUrl }}" class="btn btn-primary">Voir plus de photos {{ partial "icon.html" (dict "name" "chevron-right-solid") >}}</a>
     </div>
   </section>
-  
+
   <section id="partenaires" class="row">
     <div class="container">
       <h2>Partenaires de championnat 2019</h2>
@@ -126,7 +126,7 @@
       {{ end }}
     </div>
   </section>
-  
+
   <section class="row-lg" id="infolettre">
     <div class="container container-full">
       <div class="row">
