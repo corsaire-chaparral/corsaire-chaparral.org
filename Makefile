@@ -18,10 +18,8 @@ build-staging:
 	rm -rf ./public
 	hugo --config=config.yml,config.staging.yml --minify
 
-include .env
-
 deploy:
-	curl -X POST $(RENDER_DEPLOY_URL)
+	source .env && curl -X POST $(RENDER_DEPLOY_URL)
 
 all-staging:
 	hugo --config=config.yml,config.staging.yml --minify && ./deploy-staging
