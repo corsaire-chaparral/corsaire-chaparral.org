@@ -12,12 +12,14 @@ serve:
 	hugo serve --disableFastRender --config=config.yml,config.staging.yml
 
 build:
+	rm -rf ./public
 	hugo '--minify'
 
 deploy:
 	curl -X POST $(RENDER_DEPLOY_URL)
 
 build-staging:
+	rm -rf ./public
 	hugo --config=config.yml,config.staging.yml --minify
 
 all-staging:
