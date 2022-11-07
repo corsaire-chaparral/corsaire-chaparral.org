@@ -20,7 +20,7 @@ layout: single
 L’inscription n’est pas nécessaire pour prendre part au premier entraînement.
 {{< /div >}}
 
-## {{< icon "map-solid" >}} Lieux d'entraînement
+## {{< icon name="map-solid" size="28" >}} Lieux d'entraînement
 
 Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sportif de la **Polyvalente Sainte-Thérèse** qui lui est adjacent.
 
@@ -45,7 +45,7 @@ Lachute, Quebec J8H 1W9
 ```
 -->
 
-## {{< icon "stopwatch-solid" >}} Horaire d'entraînement {#horaire}
+## {{< icon name="stopwatch-solid" size="28" >}} Horaire d'entraînement {#horaire}
 
 Selon les catégories (voir ci-bas).
 
@@ -73,7 +73,7 @@ _Pour tout renseignement concernant les entraînements en athlétisme pour les j
 ### Cadet (2008–2009) {#cadet}
 
 - Lundi 18 h à 19 h 30
-- Mercredi 18 h à 19 h 30 <strong class="badge badge-default">Changement {{< icon "stopwatch-solid" >}}</strong>
+- Mercredi 18 h à 19 h 30 <strong class="badge badge-default">Changement {{< icon name="stopwatch-solid" size="14" >}}</strong>
 - Samedi 10 h 30 à 12 h
 
 <!--Consultez le [calendrier](cadets) pour les cadets.-->
