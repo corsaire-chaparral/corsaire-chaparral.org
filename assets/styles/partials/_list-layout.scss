@@ -1,0 +1,15 @@
+.list-layout {
+  font-size: $font-size-sm;
+
+  &-pagination {
+    padding: 1.25rem;
+
+    &-inner {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      row-gap: .5rem;
+    }
+  }
+}

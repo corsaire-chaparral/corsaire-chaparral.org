@@ -1,7 +1,32 @@
 {{ define "article" }}
-  {{ range .Pages }}
+  {{ range .Paginator.Pages }}
   {{ partial "nouvelle-apercu.html" . }}
   {{ end }}
+
+  {{- with .Paginator }}
+  <footer class="list-layout-pagination">
+    {{- $currentPageNumber := .PageNumber }}
+
+    <div class="list-layout-pagination-inner">
+      {{- with .Prev }}
+      <a href="{{ .URL }}">{{ partial "icon.html" (dict "name" "chevron-left-solid" "size" "14") }}Page précédente</a>
+      {{- else -}}
+      <span></span>
+      {{ end -}}
+
+      Page {{ $currentPageNumber }} de {{ .TotalPages }}
+
+      {{- with .Next }}
+      <a href="{{ .URL }}">
+        Page suivante
+        {{ partial "icon.html" (dict "name" "chevron-right-solid" "size" "14") }}
+      </a>
+      {{- else -}}
+      <span></span>
+      {{ end -}}
+    </div>
+  </footer>
+  {{ end -}}
 
   {{ .Content }}
 {{ end }}

@@ -32,6 +32,9 @@ params:
 #   Championnats 2019 Champs <a href="/resultats/direct/" class="btn btn-primary -sm">Résultats 🔥</a>
 #sectionPagesMenu: main
 
+paginate: 12
+paginatePath: page
+
 markup:
   tableOfContents:
     endLevel: 2
