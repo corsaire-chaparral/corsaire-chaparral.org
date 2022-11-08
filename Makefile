@@ -19,7 +19,9 @@ build-staging:
 	hugo --config=config.yml,config.staging.yml --minify
 
 deploy:
-	source .env && curl -X POST $(RENDER_DEPLOY_URL)
+	@echo ""
+	@echo " NOTE: To deploy, source .env, then run ./deploy.sh"
+	@echo ""
 
 all-staging:
 	hugo --config=config.yml,config.staging.yml --minify && ./deploy-staging
