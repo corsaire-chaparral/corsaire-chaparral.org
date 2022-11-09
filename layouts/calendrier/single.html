@@ -3,8 +3,75 @@
   <a href="{{ .Page.CurrentSection.Permalink }}" class="calendrier-nav-item">{{ partial "icon.html" (dict "name" "arrow-left-solid" "size" 11) }} Retour au calendrier</a>
 </nav>
 
-
 {{ .Content }}
 
-{{ partial "competition-single.html" . }}
+{{- $competition := . -}}
+{{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.Params.limite)) (time now) -}}
+<section>
+  <div class="calendrier-info-section">
+
+    {{- with $competition.Params.description -}}
+    <p>{{ . | markdownify }}</p>
+    {{- end -}}
+
+    <ul>
+      {{- if $competition.Params.date -}}
+      <li><strong>Date</strong> : {{ (time $competition.Params.date).Format "2006-01-02" }}</li>
+      {{- end -}}
+      {{- if $competition.Params.limite -}}
+      <li><strong>Date limite d'inscription</strong> : <mark>{{ (time .Params.limite).Format "2006-01-02" }}</mark></li>
+      {{ end }}
+      {{ with $competition.Params.emplacement }}
+      <li><strong>Emplacement</strong> : {{ .  | markdownify }}</li>
+      {{ end }}
+      {{ with $competition.Params.frais }}
+      <li><strong>Frais</strong> : {{ replace . "." "," }}$</li>
+      {{- end -}}
+      {{- with $competition.Params.information -}}
+      <li><strong><a href="{{ . }}" tagget="_blank">Informations sur la compétition</a></strong></li>
+      {{- end -}}
+    </ul>
+  </div>
+
+  <p>
+    <strong>Consignes</strong> : remplissez le formulaire avec les informations de l’athlète. Vous recevrez une facture à régler via votre compte Qidigo du club.
+  </p>
+
+  {{- if $limitCheck -}}
+  <div class="well">
+    {{ partial "icon.html" (dict "name" "triangle-exclamation-solid") }}
+    <em>La date d'inscription pour cette compétition est passée; le formulaire n'est plus disponible.</em>
+  </div>
+  {{- else -}}
+
+  {{ with $competition.Params.formulaireId }}
+  <section>
+    <h2>
+      Étape 1. Informations de l'athlète
+    </h2>
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id={{.}}"></script>
+
+    <h2>
+      Étape 2. Envoyer
+    </h2>
+    <p>
+      Les inscriptions sont <strong>non remboursables</strong> après la date limite.
+    </p>
+
+    <h2>Étape 3. Vérification</h2>
+    <p>
+      Avant la date limite, veuillez vérifier <strong>l’inscription officielle</strong> sur le site de l’événement pour vous assurer que les bonnes informations aient été transmises.
+    </p>
+
+    <div class="well">
+      <p>
+        {{ partial "icon.html" (dict "name" "triangle-exclamation-solid" "size" 16) }}Il est de <strong>votre responsabilité</strong> de vérifier sur la page de l’événement si vous avez été inscrit correctement, et ce avant la date limite établie par les organisateurs.
+      </p>
+    </div>
+  </section>
+  {{ end }}{{/* with */}}
+  {{ end }}{{/* if */}}
+
+</section>
+
 {{ end }}

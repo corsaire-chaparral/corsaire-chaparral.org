@@ -27,6 +27,10 @@
     </ul>
   </div>
 
+  <p>
+    <strong>Consignes</strong> : remplissez le formulaire avec les informations de l’athlète. Vous recevrez une facture à régler via votre compte Qidigo du club.
+  </p>
+
   {{- if $limitCheck -}}
   <div class="well">
     {{ partial "icon.html" (dict "name" "triangle-exclamation-solid") }}
@@ -52,9 +56,12 @@
     <p>
       Avant la date limite, veuillez vérifier <strong>l’inscription officielle</strong> sur le site de l’événement pour vous assurer que les bonnes informations aient été transmises.
     </p>
-    <p>
-      <strong>Il est de votre responsabilité de vérifier sur la page de l’événement si vous avez été inscrit correctement, et ce avant la date limite.</strong>
-    </p>
+
+    <div class="well">
+      <p>
+        {{ partial "icon.html" (dict "name" "triangle-exclamation-solid" "size" 13) }}Il est de <strong>votre responsabilité</strong> de vérifier sur la page de l’événement si vous avez été inscrit correctement, et ce avant la date limite établie par les organisateurs.
+      </p>
+    </div>
   </section>
   {{ end }}{{/* with */}}
   {{ end }}{{/* if */}}
