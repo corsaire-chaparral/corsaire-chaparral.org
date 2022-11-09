@@ -27,49 +27,65 @@
       {{ with $competition.Params.frais }}
       <li><strong>Frais</strong> : {{ replace . "." "," }}$</li>
       {{- end -}}
-      {{- with $competition.Params.information -}}
-      <li><strong><a href="{{ . }}" tagget="_blank">Informations sur la compétition</a></strong></li>
-      {{- end -}}
     </ul>
-  </div>
 
-  <p>
-    <strong>Consignes</strong> : remplissez le formulaire avec les informations de l’athlète. Vous recevrez une facture à régler via votre compte Qidigo du club.
-  </p>
+    {{- with $competition.Params.information -}}
+    <a
+      href="{{ . }}"
+      target="_blank"
+      rel="noreferrer"
+      class="btn btn-primary"
+    >Informations sur la compétition
+      {{ partial "icon.html" (dict "name" "arrow-up-right-from-square-solid" )}}
+    </a>
+    {{- end -}}
+  </div>
 
   {{- if $limitCheck -}}
-  <div class="well">
-    {{ partial "icon.html" (dict "name" "triangle-exclamation-solid") }}
-    <em>La date d'inscription pour cette compétition est passée; le formulaire n'est plus disponible.</em>
-  </div>
-  {{- else -}}
-
-  {{ with $competition.Params.formulaireId }}
-  <section>
-    <h2>
-      Étape 1. Informations de l'athlète
-    </h2>
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id={{.}}"></script>
-
-    <h2>
-      Étape 2. Envoyer
-    </h2>
-    <p>
-      Les inscriptions sont <strong>non remboursables</strong> après la date limite.
-    </p>
-
-    <h2>Étape 3. Vérification</h2>
-    <p>
-      Avant la date limite, veuillez vérifier <strong>l’inscription officielle</strong> sur le site de l’événement pour vous assurer que les bonnes informations aient été transmises.
-    </p>
-
     <div class="well">
+      <h5>
+        {{ partial "icon.html" (dict "name" "circle-info-solid") }}
+        Inscription terminée
+      </h5>
       <p>
-        {{ partial "icon.html" (dict "name" "triangle-exclamation-solid" "size" 16) }}Il est de <strong>votre responsabilité</strong> de vérifier sur la page de l’événement si vous avez été inscrit correctement, et ce avant la date limite établie par les organisateurs.
+        <em>La date d'inscription pour cette compétition est passée; le formulaire n’est plus disponible.</em>
       </p>
     </div>
-  </section>
-  {{ end }}{{/* with */}}
+  {{- else -}}
+
+    {{ with $competition.Params.formulaireId }}
+
+      <section>
+        <small class="text--gray">{{ partial "icon.html" (dict "name" "circle-info-solid" "size" 11) }} Instructions</small>
+        <p class="text--gray">
+          Remplissez le formulaire avec les informations de l’athlète. Vous recevrez une facture à régler via votre compte Qidigo du club.
+        </p>
+        <h2>
+          Étape 1. Informations de l'athlète
+        </h2>
+        <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id={{.}}"></script>
+
+        <h2>
+          Étape 2. Envoyer
+        </h2>
+        <p>
+          Les inscriptions sont <strong>non remboursables</strong> après la date limite.
+        </p>
+
+        <h2>Étape 3. Vérification</h2>
+        <p>
+          Avant la date limite, veuillez vérifier <strong>l’inscription officielle</strong> sur le site de l’événement pour vous assurer que les bonnes informations aient été transmises.
+        </p>
+
+        <div class="well">
+          <p>
+            {{ partial "icon.html" (dict "name" "triangle-exclamation-solid" "size" 16) }}Il est de <strong>votre responsabilité</strong> de vérifier sur la page de l’événement si vous avez été inscrit correctement, et ce avant la date limite établie par les organisateurs.
+          </p>
+        </div>
+      </section>
+    {{- else}}
+      <p><em>Inscription à venir.</em></p>
+    {{ end }}{{/* with */}}
   {{ end }}{{/* if */}}
 
 </section>

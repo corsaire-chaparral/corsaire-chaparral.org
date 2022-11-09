@@ -52,7 +52,7 @@ hr {
 }
 
 // Small, Sub and Sup
-small { font-size: $font-size-sm; }
+small, .small { font-size: $font-size-sm; }
 
 sub, sup {
   font-size: 75%;
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6,
   @extend .font-bold;
   font-family: $font-family-h;
   display: block;
-  
+
   // reset awkward top margin inside wells
   .well & {
     &:first-child {
@@ -86,20 +86,20 @@ h1, h2, h3, h4, h5, h6,
 h1, .h1 {
   font-size: $h1;
 }
-h2, .h2 { 
+h2, .h2 {
   font-size: $h2;
 }
-h3, .h3 { 
+h3, .h3 {
   font-size: $h3;
 }
-h4, .h4 { 
+h4, .h4 {
   font-size: $h4;
   font-style: italic;
 }
-h5, .h5 { 
+h5, .h5 {
   font-size: $h5;
 }
-h6, .h6 { 
+h6, .h6 {
   font-size: $h6;
 }
 
