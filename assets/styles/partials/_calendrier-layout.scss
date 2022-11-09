@@ -1,0 +1,19 @@
+.calendrier-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+  gap: 1rem;
+}
+
+.calendrier-nav-item {
+  font-size: $font-size-sm;
+}
+
+.calendrier-info-section {
+  margin: 1rem 0 3rem;
+  padding: 1.5rem .25rem;
+  border: 1px solid $gray-light;
+  border-radius: 1rem;
+}

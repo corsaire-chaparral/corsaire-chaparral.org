@@ -1,31 +1,31 @@
-{{- $context := $.Page.Site.Params -}}
-{{- $id := $.Page.File.BaseFileName -}}
-{{- range where .Site.Data.calendrier "id" "eq" $id -}}
+
 {{- $competition := . -}}
-{{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.limite)) (time now) -}}
+{{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.Params.limite)) (time now) -}}
 <section>
+  <div class="calendrier-info-section">
 
-  {{- with $competition.description -}}
-  <p>{{ . | markdownify }}</p>
-  {{- end -}}
+    {{- with $competition.Params.description -}}
+    <p>{{ . | markdownify }}</p>
+    {{- end -}}
 
-  <ul>
-    {{- if .date -}}
-    <li><strong>Date</strong> : {{ (time .date).Format "2006-01-02" }}</li>
-    {{- end -}}
-    {{- if .limite -}}
-    <li><strong>Date limite d'inscription</strong> : <mark>{{ (time .limite).Format "2006-01-02" }}</mark></li>
-    {{ end }}
-    {{ with .emplacement }}
-    <li><strong>Emplacement</strong> : {{ .  | markdownify }}</li>
-    {{ end }}
-    {{ with $competition.frais }}
-    <li><strong>Frais</strong> : {{ replace . "." "," }}$</li>
-    {{- end -}}
-    {{- with $competition.information -}}
-    <li><strong><a href="{{ . }}" tagget="_blank">Informations sur la compétition</a></strong></li>
-    {{- end -}}
-  </ul>
+    <ul>
+      {{- if $competition.Params.date -}}
+      <li><strong>Date</strong> : {{ (time $competition.Params.date).Format "2006-01-02" }}</li>
+      {{- end -}}
+      {{- if $competition.Params.limite -}}
+      <li><strong>Date limite d'inscription</strong> : <mark>{{ (time .Params.limite).Format "2006-01-02" }}</mark></li>
+      {{ end }}
+      {{ with $competition.Params.emplacement }}
+      <li><strong>Emplacement</strong> : {{ .  | markdownify }}</li>
+      {{ end }}
+      {{ with $competition.Params.frais }}
+      <li><strong>Frais</strong> : {{ replace . "." "," }}$</li>
+      {{- end -}}
+      {{- with $competition.Params.information -}}
+      <li><strong><a href="{{ . }}" tagget="_blank">Informations sur la compétition</a></strong></li>
+      {{- end -}}
+    </ul>
+  </div>
 
   {{- if $limitCheck -}}
   <div class="well">
@@ -34,59 +34,29 @@
   </div>
   {{- else -}}
 
-  {{- if $competition.frais -}}
-  <section class="row-sm">
-    <h4>Étape 1. Paiement</h4>
-
-    <p>
-      <em>ATTENTION! Après le paiement, il faut passer à <strong>l’étape 2</strong> (informations de l’athlète).</em>
-    </p>
-
-    {{ range $nom, $frais := $competition.structureFrais }}
-    <button
-      class="btn btn-primary snipcart-add-item"
-      data-item-id="{{ $competition.id }}-{{ $nom }}"
-      data-item-name="{{ $competition.title }} ({{ $nom }})"
-      data-item-price="{{ $frais }}"
-      data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/{{ $competition.id }}/"
-      data-item-description="{{ with $competition.emplacement }}{{ . }}{{ end }}{{ with $competition.date }} – {{ (time .).Format "2006-01-02" }}{{ end }}">
-      {{ $nom | markdownify }} ({{ replace $frais "." "," }}$)
-    </button>
-    {{ else }}
-    <button
-      class="btn btn-primary snipcart-add-item"
-      data-item-id="{{ $competition.id }}"
-      data-item-name="{{ $competition.title }}"
-      data-item-price="{{ $competition.frais }}"
-      data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/{{ $competition.id }}/"
-      data-item-description="{{ with $competition.emplacement }}{{ . }}{{ end }}{{ with $competition.date }} – {{ (time .).Format "2006-01-02" }}{{ end }}">
-      Payer ({{ replace $competition.frais "." "," }}$)
-    {{ end }}
-
-  </section>
-  {{ end }}
-
-  {{ with .formulaire }}
+  {{ with $competition.Params.formulaireId }}
   <section>
     <h4>
-      Étape 2. Informations de l'athlète
+      Étape 1. Informations de l'athlète
     </h4>
-    {{ . | safeHTML }}
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id={{.}}"></script>
 
     <h4>
-      Étape 3. Envoyer
+      Étape 2. Envoyer
     </h4>
     <p>
-      Vous recevrez un courriel de confirmation.
+      Les inscriptions sont <strong>non remboursables</strong> après la date limite.
+    </p>
+
+    <h4>Étape 3. Vérification</h4>
+    <p>
       Avant la date limite, veuillez vérifier <strong>l’inscription officielle</strong> sur le site de l’événement pour vous assurer que les bonnes informations aient été transmises.
     </p>
-
     <p>
-      Les inscriptions sont non remboursables après la date limite.
+      <strong>Il est de votre responsabilité de vérifier sur la page de l’événement si vous avez été inscrit correctement, et ce avant la date limite.</strong>
     </p>
   </section>
-  {{ end }}
-  {{ end }}
+  {{ end }}{{/* with */}}
+  {{ end }}{{/* if */}}
 
 </section>
-{{ end }}

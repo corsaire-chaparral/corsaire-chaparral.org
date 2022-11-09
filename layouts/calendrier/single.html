@@ -1,9 +1,8 @@
 {{ define "article" }}
-<!--
-<div>
-  <a href="../" class="small strong">&larr; Retour au calendrier</a>
-</div>
--->
+<nav class="calendrier-nav">
+  <a href="{{ .Page.CurrentSection.Permalink }}" class="calendrier-nav-item">{{ partial "icon.html" (dict "name" "arrow-left-solid" "size" 11) }} Retour au calendrier</a>
+</nav>
+
 
 {{ .Content }}
 
