@@ -1,5 +1,5 @@
 ---
-title: "Classique Heloïse 2022"
+title: "Classique Héloïse 2022"
 date: 2022-12-10
 limite: 2022-12-01
 description:
