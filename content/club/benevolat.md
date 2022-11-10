@@ -1,3 +1,4 @@
+
 ---
 title: Affichage de bénévolat
 menu:
@@ -11,7 +12,7 @@ Il est attendu que chaque athlète (et sa famille) accomplisse [**20 heures**](/
 
 Inscrivez-vous à notre banque de bénévoles 2022&nbsp;:
 
-<a class="btn btn-primary btn--block -lg" href="https://docs.google.com/forms/d/e/1FAIpQLSet8H3-W4nDKtIq_ve5W47yl4Cqyhhz1zH2hhymB0uHWEB0FA/viewform">**Inscription des bénévoles** {{< icon "pencil-solid" >}}</a>
+<a class="btn btn-primary btn--block -lg" href="https://docs.google.com/forms/d/e/1FAIpQLSe1hQcHj5wl0GsxtXV17A38zwBPfGptu8f-bEsRZcPV4_SmAQ/viewform?usp=sf_link">**Inscription des bénévoles** {{< icon "pencil-solid" >}}</a>
 
 ## Événements
 
