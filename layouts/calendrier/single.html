@@ -27,18 +27,21 @@
       {{ with $competition.Params.frais }}
       <li><strong>Frais</strong> : {{ replace . "." "," }}$</li>
       {{- end -}}
-    </ul>
 
-    {{- with $competition.Params.information -}}
-    <a
-      href="{{ . }}"
-      target="_blank"
-      rel="noreferrer"
-      class="btn btn-primary"
-    >Informations sur la compétition
-      {{ partial "icon.html" (dict "name" "arrow-up-right-from-square-solid" )}}
-    </a>
-    {{- end -}}
+
+      {{- with $competition.Params.information -}}
+      <li>
+        <a
+          href="{{ . }}"
+          target="_blank"
+          rel="noreferrer"
+          class="strong"
+        >Informations sur la compétition
+          {{ partial "icon.html" (dict "name" "arrow-up-right-from-square-solid" )}}
+        </a>
+      </li>
+      {{- end -}}
+    </ul>
   </div>
 
   {{- if $limitCheck -}}
@@ -70,6 +73,7 @@
         </h2>
         <p>
           Les inscriptions sont <strong>non remboursables</strong> après la date limite.
+          Pour toute modification ou question concernant le traitement des inscriptions, écrivez à <a href="mailto:admin@corsaire-chaparral.org">admin@corsaire-chaparral.org</a>.
         </p>
 
         <h2>Étape 3. Vérification</h2>
