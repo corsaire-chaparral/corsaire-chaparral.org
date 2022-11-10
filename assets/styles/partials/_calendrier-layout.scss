@@ -3,17 +3,22 @@
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
-  margin-bottom: 2rem;
   gap: 1rem;
 }
 
 .calendrier-nav-item {
   font-size: $font-size-sm;
+  color: $gray;
+
+  &[href] {
+    text-decoration: none;
+    &:hover {
+      color: $color-link;
+      text-decoration: underline;
+    }
+  }
 }
 
 .calendrier-info-section {
-  margin: 1rem 0 3rem;
-  border-top: 1px solid $gray-light;
-  border-bottom: 1px solid $gray-light;
-  padding: 1.5rem 0;
+  margin: 1.5rem 0 3rem;
 }

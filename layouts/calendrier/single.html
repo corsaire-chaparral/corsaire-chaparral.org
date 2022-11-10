@@ -59,10 +59,15 @@
     {{ with $competition.Params.formulaireId }}
 
       <section>
-        <small class="text--gray">{{ partial "icon.html" (dict "name" "circle-info-solid" "size" 11) }} Instructions</small>
-        <p class="text--gray">
-          Remplissez le formulaire avec les informations de l’athlète. Vous recevrez une facture à régler via votre compte Qidigo du club.
-        </p>
+        <div class="well">
+          <h3 class="text--gray">{{ partial "icon.html" (dict "name" "circle-info-solid" "size" 21) }} Instructions</h3>
+          <p class="text--gray">
+            Cette page est réservée aux membres du club Corsaire-Chaparral seulement.
+            </p>
+          <p class="text--gray">
+            Remplissez le formulaire avec les informations de l’athlète. Vous recevrez une facture à régler via votre compte Qidigo du club.
+          </p>
+        </div>
         <h2>
           Étape 1. Informations de l'athlète
         </h2>
