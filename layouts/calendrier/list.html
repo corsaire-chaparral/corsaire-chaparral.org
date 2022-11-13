@@ -21,7 +21,7 @@
     <td>{{ $competition.Params.date | dateFormat "2006-01-02" }}</td>
 
     <td>
-      <a href="{{ $competition.Permalink }}/">
+      <a href="{{ $competition.Permalink }}">
         {{- if and $competition.Params.limite $limitCheck -}}
         <s>
           {{ $competition.Title | markdownify }}
