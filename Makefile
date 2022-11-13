@@ -12,7 +12,7 @@ serve:
 
 build:
 	rm -rf ./public
-	hugo '--minify'
+	hugo --minify --buildFuture
 
 build-staging:
 	rm -rf ./public
