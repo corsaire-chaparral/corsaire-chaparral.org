@@ -52,7 +52,7 @@ Pour les catégories fonctionnant **à la session** (colibri et minime), l’ins
 | Vétéran (–1987)       | 667 $      |
 | Affiliation seulement | 120 $      |
 
-{{< div class="well" }}
+{{< div class="well" >}}
 ### Note
 
 \* Les groupes colibri, minime, benjamin et cadet affichent complet jusqu’à l’été 2023.

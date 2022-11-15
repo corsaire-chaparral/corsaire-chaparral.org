@@ -2,22 +2,18 @@
 title: Entraînements
 categories: Club
 icon: stopwatch-solid
-#menu:
-#  main:
-#    identifier: entrainements-info
-#    parent: entrainements
-#    weight: 1
 layout: single
 ---
 
-{{< div class="well well-primary" >}}
-**Reprise des entraînements 2022-2023**
+{{< div class="well well-tertiary" >}}
+**Attention! Certains groupes affichent complet pour la saison intérieure**
 
-- Catégories colibris et minimes : le premier cours de la session sera le **samedi 1<sup>er</sup> octobre 2022**.
-- Catégories cadet, juvénile et plus vieux : reprise des entraînements à compter du **lundi 26 septembre 2022**.
-- Catégorie benjamin : reprise des entraînements à compter du **samedi 24 septembre 2022**.
+Les groupes suivants affichent complet jusqu’à l’été 2023 :
 
-L’inscription n’est pas nécessaire pour prendre part au premier entraînement.
+- colibri
+- minime
+- benjamin
+- cadet
 {{< /div >}}
 
 ## {{< icon name="map-solid" size="28" >}} Lieux d'entraînement
@@ -51,17 +47,40 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2014–2015) {#colibri}
 
+{{< div class="well well-tertiary small" >}}
+
+Note {{< icon "circle-exclamation-solid" 13 >}}
+
+Ce groupe est complet jusqu’à l’été 2023.
+{{< /div >}}
+
 Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
 
 - Samedi 9 h à 10 h 30
 
 ### Minime (2012–2013) {#minime}
 
+{{< div class="well well-tertiary small" >}}
+
+Note {{< icon "circle-exclamation-solid" 13 >}}
+
+Ce groupe est complet jusqu’à l’été 2023.
+{{< /div >}}
+
+
 Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
 
 - Samedi 9 h à 10 h 30
 
 ### Benjamin (2010–2011) {#benjamin}
+
+{{< div class="well well-tertiary small" >}}
+
+Note {{< icon "circle-exclamation-solid" 13 >}}
+
+Ce groupe est complet jusqu’à l’été 2023.
+{{< /div >}}
+
 
 - Jeudi 18 h à 19 h 30
 - Samedi 11 h à 12 h 30
@@ -71,6 +90,14 @@ Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/)
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
 ### Cadet (2008–2009) {#cadet}
+
+{{< div class="well well-tertiary small" >}}
+
+Note {{< icon "circle-exclamation-solid" 13 >}}
+
+Ce groupe est complet jusqu’à l’été 2023.
+{{< /div >}}
+
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30 <strong class="badge badge-default">Changement {{< icon name="stopwatch-solid" size="14" >}}</strong>
