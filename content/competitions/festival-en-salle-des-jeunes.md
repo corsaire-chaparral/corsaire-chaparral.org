@@ -11,11 +11,13 @@ icon: calendar-days-solid
 
 [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-festival-des-jeunes-coch-2022.pdf) _(en date du 4 novembre 2022)_
 
-[**Horaire provisoire**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-prelim-festival-des-jeunes-coch-2022.pdf) _(en date du 4 novembre 2022)_
+[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-final-festival-des-jeunes-coch-2022.pdf) _(en date du 1<sup>er</sup> décembre 2022)_
 
-![Les Premières Foulées Bruny Surin](/img/logo-premieres-foulees-bruny-surin.jpg)
+---
 
 ## Informations générales
+
+![Les Premières Foulées Bruny Surin](/img/logo-premieres-foulees-bruny-surin.jpg)
 
 Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Bruny Surin](http://www.athletisme-quebec.ca/evenements-en-gymnase). L'événement s'adresse aux jeunes de catégories coccinelle, colibri, minime et benjamin et prendra la forme d'un quadrathlon (quatre épreuves) pour tous. Cet événement est sanctionné par la Fédération québécoise d'athlétisme.
 
@@ -23,7 +25,7 @@ Responsable de la rencontre : [Nathalie Prince](mailto:nathalie.prince1@videotro
 
 ### Date
 
-Samedi 3 décembre 2022, de 9h à 16h.
+Samedi 3 décembre 2022, de 9h à 16h30.
 
 ### Lieu
 
