@@ -1,0 +1,13 @@
+{{- define "header-page" }}
+{{- $params := dict "subtitle" "Erreur" }}
+{{- $pageMetadata := dict "Title" "Page introuvable" "Params" $params }}
+{{- partial "header-page.html" $pageMetadata -}}
+{{ end -}}
+
+{{- define "article" }}
+{{ with .GetPage "404.md"}}
+{{ .Content }}
+{{ else }}
+La page demandée n’a pu être trouvée.
+{{ end -}}
+{{ end -}}
