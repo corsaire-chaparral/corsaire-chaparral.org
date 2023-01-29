@@ -2,15 +2,20 @@
 <main class="container container-full no-padding">
   <header class="splash">
     <div class="splash__background-layer"></div>
-    <div class="splash__content-layer">
-      <div class="splash__header">
-        <span class="h1 block">
-          {{ .Params.splash.title }}
-        </span>
-      </div>
 
-      <div class="splash__lead">
-        {{ .Params.splash.lead | markdownify }}
+    <div class="splash__content-layer">
+      <div class="container">
+        <div class="row">
+          <div class="col col-8 tablet-col-12">
+            <div class="splash__lead">
+              {{ $.Site.Params.description | markdownify }}
+            </div>
+
+            <div class="splash__buttons">
+              {{ .Params.splash.lead | markdownify }}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </header>
@@ -19,7 +24,41 @@
 
     <div class="row no-margin">
 
-      <div class="col no-push col-7 tablet-col-12">
+      <div class="col no-push col-7 tablet-col-6 phone-col-12">
+        <div class="card text-lg">
+          <h2 class="card__heading">Liens rapides</h2>
+
+          <ul class="list-unstyled">
+
+            <li class="row-xs">
+              <p class="strong"><a href="/club/entrainements/">Horaire des entraînements</a>
+              </p>
+            </li>
+
+            <li class="row-xs">
+              <p class="strong"><a href="/inscription/">Inscription au club</a>
+              </p>
+            </li>
+
+            <li class="row-xs">
+              <p class="strong"><a href="/calendrier/">Inscription aux compétitions</a> <em class="text--gray">(membres COCH seulement)</em>
+              </p>
+            </li>
+
+            <li class="row-xs">
+              <p><a href="/club/benevolat/" class="strong">Bénévolat</a> <em class="badge badge-tertiary">Inscrivez-vous!</em>
+              </p>
+            </li>
+
+            <li class="row-xs">
+              <p><a href="/club/vetements/" class="strong">Vêtements</a> <em class="badge badge-primary">Nouveau!</em>
+              </p>
+            </li>
+
+          </ul>
+        </div>
+
+
         <div class="card text-lg">
           <h2 class="card__heading">Dernières nouvelles</h2>
 
@@ -46,23 +85,51 @@
         </div>
       </div>
 
-
-      <div class="col no-push col-5 tablet-col-12">
-
+      <div class="col no-push col-5 tablet-col-6 phone-col-12">
+<!--
         <div class="well well-tertiary">
           <h2 class="card__heading">Je bénévole! 🧡</h2>
           <p>Inscrivez-vous dans notre banque de bénévoles et surveillez les événements du club à venir!</p>
 
           <p><a href="/club/benevolat/" class="btn btn-default">Bénévolat {{ partial "icon.html" (dict "name" "chevron-right-solid") }}</a></p>
         </div>
-<!--
+-->
         <div class="card">
-          <h2 class="card__heading">Le Demi-marathon de Blainville présenté par Via Capitale</h2>
+          <h2 class="card__heading">Nos courses sur route</h2>
 
-          <a href="https://www.demimarathondeblainville.com/" target="_blank" title="Inscrivez-vous!">
-            <figure>
+          <p>
+            Le Corsaire-Chaparral organisera deux événements de course sur route dans la région cette année. Découvrez-les!
+          </p>
+
+          <h3>
+            <a href="https://coursemarche.corsaire-chaparral.org/" target="_blank" title="Inscrivez-vous!">Dimanche 7 mai 2023 - Course et marche de Sainte-Thérèse</a>
+          </h3>
+
+          <a href="https://coursemarche.corsaire-chaparral.org/" target="_blank" title="Inscrivez-vous!">
+            <figure style="margin-bottom: 1rem;">
               <img
-                src="/img/dmb-vignette.jpg"
+                src="/img/course-marche-ste-therese-2023.jpg"
+                alt="Demi-marathon de Blainville"
+                class="img-responsive"
+              />
+            </figure>
+          </a>
+
+          <p>Le club est organisateur du Demi-marathon de Blainville qui se tiendra le dimanche 11 septembre 2022. Inscrivez-vous!</p>
+
+          <p>
+            <a href="https://coursemarche.corsaire-chaparral.org/" target="_blank" class="btn btn-secondary">Info et inscription {{ partial "icon" (dict "name" "chevron-right-solid")}}</a>
+          </p>
+
+          <hr>
+
+          <h3>
+            <a href="https://www.demimarathondeblainville.com/" target="_blank" title="Inscrivez-vous!">Dimanche 10 septembre 2023 – Le Demi-marathon de Blainville présenté par Via Capitale</a>
+          </h3>
+          <a href="https://www.demimarathondeblainville.com/" target="_blank" title="Inscrivez-vous!">
+            <figure style="margin-bottom: 1rem;">
+              <img
+                src="/img/dmb-vignette-2023.jpg"
                 alt="Demi-marathon de Blainville"
                 class="img-responsive"
               />
@@ -73,55 +140,11 @@
           <p>Le club est organisateur du Demi-marathon de Blainville qui se tiendra le dimanche 11 septembre 2022. Inscrivez-vous!</p>
 
           <p>
-            <a href="https://www.demimarathondeblainville.com/" target="_blank" class="btn btn-primary">Info et inscription</a>
+            <a href="https://www.demimarathondeblainville.com/" target="_blank" class="btn btn-tertiary">Info et inscription {{ partial "icon" (dict "name" "chevron-right-solid")}}</a>
           </p>
         </div>
--->
-        <div class="card text-lg">
-          <h2 class="card__heading">Liens rapides</h2>
-
-          <ul class="list-unstyled">
-
-            <li class="row-xs">
-              <p class="strong"><a href="/club/entrainements/">Horaire des entraînements</a>
-              </p>
-            </li>
-
-            <li class="row-xs">
-              <p class="strong"><a href="/inscription/">Inscription au club</a>
-              </p>
-            </li>
-
-            <li class="row-xs">
-              <p class="strong"><a href="/calendrier/">Inscription aux compétitions</a> <em class="text--gray">(membres COCH seulement)</em>
-              </p>
-            </li>
-
-            <!--
-            <li class="row-xs">
-              <p><a href="/club/benevolat/" class="strong">Bénévolat</a> <em class="badge badge-tertiary">Inscrivez-vous!</em>
-              </p>
-            </li>
-            -->
-
-            <li class="row-xs">
-              <p><a href="/club/vetements/" class="strong">Vêtements</a> <em class="badge badge-primary">Nouveau!</em>
-              </p>
-            </li>
-
-          </ul>
-        </div>
-
-        <!--
-        <div class="card text-lg">
-          <h2 class="card__heading">
-            TITRE
-          </h2>
-
-          <p class="strong">CORPS</p>
-        </div>
-        -->
       </div>
+
     </div>
 
     <div class="row no-margin">

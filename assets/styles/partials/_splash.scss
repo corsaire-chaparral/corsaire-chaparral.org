@@ -1,18 +1,16 @@
 // Splash page layout
 
 .splash {
-  padding: $spacing-xl $spacing;
+  padding: $spacing-xl 0;
 
   @media (min-width: $tablet-breakpoint) {
-    padding: 6rem $spacing-xl;
+    padding: 3rem 0;
   }
   @media (min-width: $lg-breakpoint) {
-    padding: 8rem $spacing-xl;
+    padding: 5rem 0;
   }
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   //background-image: linear-gradient(135deg, $color-primary, saturate(adjust-hue($color-primary, -12%), 10%));
   background-image: linear-gradient(135deg, lighten($color-primary, 20%), saturate(lighten($color-primary, 5%), 5%));
   color: check-background($color-primary);
@@ -54,29 +52,29 @@
 .splash__content-layer {
   position: relative;
   z-index: 2;
-  text-align: center;
 }
 
 .splash__header {
 
   > span {
-    font-size: 44px; // mobile-first size
-    margin: 0 0 25px;
+    font-size: 2.5rem; // mobile-first size
+    margin: 0 0 1.5rem;
     line-height: 0.88;
 
 
     @media (min-width: $tablet-breakpoint) {
       max-width: 18ch;
-      font-size: 6.5vw;
-      margin-bottom: 4rem;
+      font-size: 4rem;
+      margin-bottom: 2rem;
     }
   }
 }
 
 .splash__lead {
+  margin-bottom: 1.5rem;
 
   @media (min-width: $tablet-breakpoint) {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
 
     .btn {
       font-size: inherit;
@@ -84,8 +82,6 @@
   }
 
   .splash__buttons {
-    margin-top: 8vh;
-    margin-bottom: 8vh;
 
     .btn + .btn {
       margin-top: .75em;

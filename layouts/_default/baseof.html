@@ -3,9 +3,7 @@
   {{ partial "head.html" . }}
   <body {{if .IsHome}} class="landing-page"{{end}} x-data="{ sidebarOpen: false }">
 
-    {{- if not .IsHome}}
     {{- partial "header.html" . -}}
-    {{ end -}}
 
     {{- partial "navbar.html" . -}}
 
