@@ -13,7 +13,9 @@ icon: calendar-days-solid
 
 [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-final-festival-des-jeunes-coch-2022.pdf) _(en date du 1<sup>er</sup> décembre 2022)_
 
-[**Résultats**](https://resultats.corsaire-chaparral.org/meets/festival-coch-2022)
+[**Résultats compilés (PDF)**](/resultats/2022/festival-des-jeunes/)
+
+[**Résultats web**](https://resultats.corsaire-chaparral.org/meets/festival-coch-2022)
 
 ---
 
