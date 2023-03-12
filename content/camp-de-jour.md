@@ -7,9 +7,9 @@ images:
 - /img/camp-jour-athletisme.jpg
 ---
 
-{{< div class="well well-primary" >}}
+{{< div class="well" >}}
 
-**Le camp de jour 2022 est terminé, merci et à l’an prochain!**
+Informations pour le camp 2023 à venir au mois de mars 2023. Merci de votre patience!
 
 {{< /div >}}
 
@@ -17,7 +17,7 @@ images:
 
 Vocation du camp de jour : initiation aux diverses disciplines de l’athlétisme.
 
-[**Guide du parent**](/docs/campdejour-guide-parent-2022.pdf)
+[**Guide du parent (2022)**](/docs/campdejour-guide-parent-2022.pdf)
 
 Personne de contact : **Nicolas Riopel**, coordonnateur du camp
 
@@ -29,7 +29,7 @@ Personne de contact : **Nicolas Riopel**, coordonnateur du camp
 * **Service de garde** : 25$ par jour (en option)
 
 ### Dates
-
+<!--
 * **Semaine #1** – du 27 juin au 1 juillet 2022
 * **Semaine #2** – du 4 au 8 juillet 2022
 * **Semaine #3** – du 11 au 15 juillet 2022
@@ -38,6 +38,9 @@ Personne de contact : **Nicolas Riopel**, coordonnateur du camp
 * **Semaine #6** – du 1 au 5 août 2022
 * **Semaine #7** – du 8 au 12 août 2022
 * **Semaine #8** – du 15 au 19 août 2022
+-->
+
+_À venir._
 
 ### Jour
 

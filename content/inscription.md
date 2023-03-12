@@ -71,6 +71,11 @@ Du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
 
 Du 1<sup>er</sup> mai 2023 au 31 juillet 2023.
 
+{{< div class="well" >}}
+L’inscription pour la session d’été sera ouverte à compter du 1<sup>er</sup> avril 2023.
+{{< /div >}}
+
+
 | Catégorie             | Cotisation |
 |-----------------------|------------|
 | Colibri (2014–2015)   | 255 $      |
