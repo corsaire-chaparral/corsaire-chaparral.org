@@ -42,22 +42,17 @@ Pour les catégories fonctionnant **à la session** (colibri et minime), l’ins
 
 | Catégorie             | Cotisation |
 |-----------------------|------------|
-| ~~Colibri (2014–2015)~~ \* | 405 $      |
-| ~~Minime (2012–2013)~~ \* | 525 $      |
-| ~~Benjamin (2010–2011)~~ \*  | 556 $      |
-| ~~Cadet (2008–2009)~~ \* | 657 $      |
+| Colibri (2014–2015) | 405 $      |
+| Minime (2012–2013) | 525 $      |
+| Benjamin (2010–2011) | 556 $      |
+| Cadet (2008–2009) | 657 $      |
 | Juvénile (2006–2007)  | 667 $      |
 | Junior (2004–2005)    | 802 $      |
 | Senior (1988–2003)    | 812 $      |
 | Vétéran (–1987)       | 667 $      |
 | Affiliation seulement | 120 $      |
 
-{{< div class="well" >}}
-### Note
-
-\* Les groupes colibri, minime, benjamin et cadet affichent complet jusqu’à l’été 2023.
-{{< /div >}}
-
+<!--
 ### Session en gymnase (colibri et minime seulement)
 
 Du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
@@ -66,6 +61,7 @@ Du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
 |----------------------|------------|
 | Colibri (2014–2015) <em class="badge badge-danger">complet</span>  | 225 $      |
 | Minime (2012–2013) <em class="badge badge-danger">complet</span>     | 315 $      |
+-->
 
 ### Inscription estivale
 
