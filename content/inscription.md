@@ -150,6 +150,6 @@ Le paiement doit être fait en ligne, au moment même de l’inscription.
 
 {{< /div >}}
 
-<a class="btn btn-primary btn--block -lg" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships/1303">**Inscription 2022-2023** {{< icon "pencil-solid" >}}</a>
+<a class="btn btn-primary btn--block -lg" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">**Inscription 2022-2023** {{< icon "pencil-solid" >}}</a>
 
 Pour les groupes colibri et minime, vous pouvez plutôt choisir [l’inscription à la session](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session) au lieu de l’inscription annuelle.
