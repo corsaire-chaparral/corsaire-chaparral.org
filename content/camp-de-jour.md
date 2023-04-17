@@ -25,20 +25,18 @@ Personne de contact : **Nicolas Riopel**, coordonnateur du camp
 
 ### Tarifs
 
-* **Camp de jour** : 170$ par semaine
+* **Camp de jour** : 200$ par semaine
 * **Service de garde** : 25$ par jour (en option)
 
 ### Dates
-<!--
-* **Semaine #1** – du 27 juin au 1 juillet 2022
-* **Semaine #2** – du 4 au 8 juillet 2022
-* **Semaine #3** – du 11 au 15 juillet 2022
-* **Semaine #4** – du 18 au 22 juillet 2022
-* **Semaine #5** – du 25 au 29 juillet 2022
-* **Semaine #6** – du 1 au 5 août 2022
-* **Semaine #7** – du 8 au 12 août 2022
-* **Semaine #8** – du 15 au 19 août 2022
--->
+* **Semaine #1** – du 26 juin au 30 juin 2023
+* **Semaine #2** – du 3 au 7 juillet 2023
+* **Semaine #3** – du 10 au 14 juillet 2023
+* **Semaine #4** – du 17 au 21 juillet 2023
+* **Relâche (Jeux du Québec)** - semaine du 24 au 28 juillet 2023
+* **Semaine #5** – du 31 juillet au 4 août 2023
+* **Semaine #6** – du 7 au 11 août 2023
+* **Semaine #7** – du 14 au 18 août 2023
 
 _À venir._
 
@@ -49,7 +47,7 @@ _À venir._
 ### Heure
 
 - **Camp de jour** : de 9h à 16h
-- **Service de garde** : de 6h30 à 9h et de 16h à 18h
+- **Service de garde** : de 7h00 à 9h et de 16h à 18h (sur inscription)
 
 ### Endroit
 
@@ -71,11 +69,9 @@ J7E 4S4
 
 {{< /note >}}
 
-<!--
 ## Inscription
 
-<a href="https://campdejour.corsaire-chaparral.org/e/1/le-camp-de-jour-2022" class="btn btn-primary btn--block" target="_blank">
+<a href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activities/session" class="btn btn-primary btn--block" target="_blank">
 Inscription au camp de jour
 {{< icon "chevron-right-solid" >}}
 </a>
--->
