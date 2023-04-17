@@ -1,7 +1,7 @@
 ---
-title: "Camp de jour 2022"
+title: "Camp de jour 2023"
 description: >
-  Le Corsaire-Chaparral offre un camp de jour spécialisé en athlétisme à l’été 2022, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
+  Le Corsaire-Chaparral offre un camp de jour spécialisé en athlétisme à l’été 2023, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 
 images: 
 - /img/camp-jour-athletisme.jpg
