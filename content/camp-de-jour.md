@@ -7,12 +7,6 @@ images:
 - /img/camp-jour-athletisme.jpg
 ---
 
-{{< div class="well" >}}
-
-Informations pour le camp 2023 à venir au mois de mars 2023. Merci de votre patience!
-
-{{< /div >}}
-
 ## Informations 
 
 Vocation du camp de jour : initiation aux diverses disciplines de l’athlétisme.
