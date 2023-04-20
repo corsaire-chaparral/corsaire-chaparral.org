@@ -78,7 +78,7 @@ J7E 4S4
 
 ### Directeur de la rencontre
 
-Robert Lavoie
+[Robert Lavoie](mailto:robertlecoach@gmail.com)
 
 ### Responsables techniques
 
