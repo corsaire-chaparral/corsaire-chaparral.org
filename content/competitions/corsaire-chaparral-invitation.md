@@ -277,7 +277,7 @@ Vous devez faire vos inscriptions en ligne au plus tard le **lundi 23 mai 2023 �
 
 Le paiement intégral doit être fait en ligne et au plus tard au moment de la date limite d’inscription.
 
-**Aucune inscription sans paiement : les inscriptions impayées 24 heures après la date limite d’inscription seront rejetées.**
+**Aucune inscription sans paiement : les inscriptions impayées après la date limite d’inscription seront rejetées.**
 
 Absolument aucune inscription ni modification le jour même de l’événement.
 
