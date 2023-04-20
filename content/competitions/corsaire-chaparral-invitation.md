@@ -1,6 +1,6 @@
 ---
 title: Corsaire-Chaparral Invitation
-date: "2022-05-29"
+date: "2023-05-28"
 icon: calendar-days-solid
 description : >
   Le club d'athlétisme Corsaire-Chaparral organise son annuelle compétition estivale avec, au programme, un éventail d'épreuves pour les athlètes de catégories benjamin à vétéran, en passant par la finale régionale des Jeux du Québec.
