@@ -272,7 +272,7 @@ Limites d’inscription pour les épreuves de concours (cases orangées) :
 - **25,00 $** par épreuve individuelle.
 - **10,00 $** par équipe de relais.
 
-Vous devez faire vos inscriptions en ligne au plus tard le **lundi 23 mai 2023 à 23 h 59** en ligne, à l’adresse suivante :  
+Vous devez faire vos inscriptions en ligne au plus tard le **lundi 22 mai 2023 à 23 h 59** en ligne, à l’adresse suivante :  
 <https://www.trackie.com/inscription/evenement/corsaire-chaparral-invitation-2023/489633/>
 
 Le paiement intégral doit être fait en ligne et au plus tard au moment de la date limite d’inscription.
