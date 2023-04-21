@@ -39,7 +39,7 @@ Cette compétition est également désignée finale régionale des Jeux du Québ
 {{< /note >}}
 -->
 
-[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 20 avril 2023)_
+[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 21 avril 2023)_
 
 ## Emplacement
 
