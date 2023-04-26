@@ -13,7 +13,7 @@
   </thead>
 
   <tbody>
-  {{- range .Pages.ByDate.Reverse }}
+  {{- range .Pages.ByDate}}
   {{- $competition := . -}}
   {{- $limitCheck := false }}
   {{- if $competition.Params.limite }}
