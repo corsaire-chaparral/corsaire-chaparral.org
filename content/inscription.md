@@ -32,7 +32,7 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
 ### Inscription annuelle
 
-L’inscription annuelle est valide du 1<sup>er</sup> septembre au 31 août 2022.
+L’inscription annuelle est valide du 1<sup>er</sup> septembre au 31 août 2023.
 
 {{< div class="well" >}}
 **Note :** La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète, généralement autour du 31 juillet (relâche pendant le mois d’août).
