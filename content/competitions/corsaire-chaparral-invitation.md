@@ -238,17 +238,6 @@ J7E 4S4
     <td style="background-color: #fff7cc;"> 				X 			</td>
     <td style="background-color: #fff7cc;"> 				X 			</td>
   </tr>
-  <tr>
-    <td> 				Marteau 			</td>
-    <td> 				<br>  				 			</td>
-    <td> 				<br>  				 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
-  </tr>
 </tbody>
 </table>
 
@@ -260,7 +249,6 @@ Limites d’inscription pour les épreuves de concours (cases orangées) :
 * **Poids** : 24 athlètes (toutes catégories confondues)
 * **Disque** : 20 athlètes (toutes catégories confondues)
 * **Javelot** : 20 athlètes (toutes catégories confondues)
-* **Marteau** : 12 athlètes (toutes catégories confondues)
 
 ## Inscription et paiement
 
