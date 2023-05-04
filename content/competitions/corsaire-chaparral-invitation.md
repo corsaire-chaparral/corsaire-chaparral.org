@@ -23,6 +23,10 @@ images:
 
 [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 21 avril 2023)_
 
+[**Horaire provisoire - piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__provisoire.pdf)
+
+[**Horaire provisoire - pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-pelous-coch-invitation-2023__provisoire.pdf)
+
 {{< note >}}
 **Championnats nationaux de la Légion** <em class="badge badge-primary">Nouveau</em>
 
