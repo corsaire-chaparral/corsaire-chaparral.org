@@ -21,25 +21,14 @@ images:
 
 <!-- [**Résultats en direct**](https://resultats.corsaire-chaparral.org/meets/coch-inv-2023) -->
 
-<!--
+[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 21 avril 2023)_
+
 {{< note >}}
 **Championnats nationaux de la Légion** <em class="badge badge-primary">Nouveau</em>
 
 Le Corsaire-Chaparral Invitation 2023 sera la première d'une série compétitions permettant aux cadets et juvéniles de se qualifier sur l'Équipe du Québec pour les **Championnats nationaux de la Légion**. [En savoir plus](https://athletisme-quebec.ca/equipes-du-quebec)
 
 {{< /note >}}
-
-
-{{< note >}}
-
-**Finale régionale des Jeux du Québec**
-
-Cette compétition est également désignée finale régionale des Jeux du Québec pour la région des Laurentides. [En savoir plus](#finale-regionale)
-
-{{< /note >}}
--->
-
-[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 21 avril 2023)_
 
 ## Emplacement
 
@@ -60,6 +49,8 @@ J7E 4S4
 -   Vestiaire : tout équipé. Apportez votre cadenas. Les organisateurs déclinent toute responsabilité en cas de perte ou de vol.
 -   Chronométrage électronique
 -   Stationnement gratuit sur le site de la polyvalente
+
+![Pointes permises au stade d’athlétisme Richard-Garneau](/img/pointes-richard-garneau.jpg)
 
 ## Directeur de la rencontre
 
@@ -283,15 +274,21 @@ Absolument aucune inscription ni modification le jour même de l’événement.
 
 Aucune inscription par courriel. SVP ne pas utiliser un service de messagerie privé.
 
+
 ## Finale régionale des Jeux du Québec **2023** (Laurentides, Lanaudière) {#finale-regionale}
 
 Les épreuves de catégorie juvénile seront comptabilisées pour la finale régionale des Laurentides en vue des Jeux du Québec Laval 2023.
 
 Médaille aux 3 premiers athlètes de la région.
 
-> **Remarque importante** : tous les athlètes devront **obligatoirement** avoir une affiliation de type « compétitif » à la FQA pour participer à cette finale régionale.
+{{< note >}}
+**Remarque importante**
 
-Responsable de la finale régionale : Louis-Olivier Brassard louis@athlaurentides.ca
+Tous les athlètes devront **obligatoirement** avoir une affiliation de type « compétitif » à la FQA pour participer à cette finale régionale.
+{{< /note >}}
+
+Responsable de la finale régionale :  
+Louis-Olivier Brassard louis@athlaurentides.ca
 
 Informations supplémentaires sur la sélection régionale : [www.athlaurentides.ca](http://www.athlaurentides.ca/)
 
