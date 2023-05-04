@@ -21,11 +21,11 @@ images:
 
 <!-- [**Résultats en direct**](https://resultats.corsaire-chaparral.org/meets/coch-inv-2023) -->
 
-[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 21 avril 2023)_
+[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 4 mai 2023)_
 
-[**Horaire provisoire - piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__provisoire.pdf)
+[**Horaire provisoire - piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__provisoire.pdf) _(en date du 4 mai 2023)_
 
-[**Horaire provisoire - pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-pelous-coch-invitation-2023__provisoire.pdf)
+[**Horaire provisoire - pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-pelous-coch-invitation-2023__provisoire.pdf) _(en date du 4 mai 2023)_
 
 {{< note >}}
 **Championnats nationaux de la Légion** <em class="badge badge-primary">Nouveau</em>
