@@ -11,10 +11,9 @@ menu:
 
 **Club d’athlétisme Corsaire-Chaparral**  
 <address>
-C.P. 220<br />
-Succ. Dépôt Rive-Nord<br />
-Boisbriand, Québec<br />
-J7E 4J3
+37 rue Turgeon<br />
+Sainte-Thérèse, Québec<br />
+J7E 3H4
 </address>
 
 **Questions et informations générales**  
