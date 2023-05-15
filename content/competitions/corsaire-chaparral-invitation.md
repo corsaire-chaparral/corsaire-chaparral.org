@@ -21,9 +21,9 @@ images:
 
 <!-- [**Résultats en direct**](https://resultats.corsaire-chaparral.org/meets/coch-inv-2023) -->
 
-[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 4 mai 2023)_
+[**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 15 mai 2023 – ajout du 300m cadet)_
 
-[**Horaire provisoire - piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__provisoire.pdf) _(en date du 4 mai 2023)_
+[**Horaire provisoire - piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__provisoire.pdf) _(en date du 15 mai 2023 – ajout du 300m cadet)_
 
 [**Horaire provisoire - pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-pelouse-coch-invitation-2023__provisoire.pdf) _(en date du 4 mai 2023)_
 
@@ -94,6 +94,17 @@ J7E 4S4
     <td> 				X 			</td>
     <td> 				<br>  				 			</td>
     <td> 				<br>  				 			</td>
+  </tr>
+  <tr>
+    <td> 				300m 			</td>
+    <td> 				<br>  			</td>
+    <td> 				<br>  			</td>
+    <td> 				X  				</td>
+    <td> 				X  				</td>
+    <td> 				<br> 			</td>
+    <td> 				<br> 			</td>
+    <td> 				<br> 			</td>
+    <td> 				<br> 			</td>
   </tr>
   <tr>
     <td> 				400m 			</td>
