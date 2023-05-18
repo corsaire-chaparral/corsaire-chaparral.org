@@ -44,7 +44,7 @@ J7E 4S4
 ## Installations
 
 -   Piste de 400 m en revêtement synthétique, 8 couloirs au pourtour et 10 en ligne droite *(la configuration technique permet de tenir des épreuves à **9 couloirs** seulement)*
--   Pointes : 7 mm maximum
+-   Pointes : 7 mm maximum (forme pyramide – pas de forme aiguille ou sapin)
 -   2 aires de lancers
 -   Aires d'approche de sauts en revêtement synthétique
 -   4 fosses de sable
