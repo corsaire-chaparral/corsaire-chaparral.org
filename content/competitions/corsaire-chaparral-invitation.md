@@ -189,11 +189,11 @@ J7E 4S4
     <td> 				<br>  				 			</td>
     <td> 				<br>  				 			</td>
     <td> 				<br>  				 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
-    <td style="background-color: #fff7cc;"> 				X 			</td>
     <td> 				<br>  				 			</td>
     <td> 				<br>  				 			</td>
-  </tr>
+    <td style="background-color: #fff7cc;"> 				X 			</td>
+    <td style="background-color: #fff7cc;"> 				X 			</td>
+ </tr>
   <tr>
     <td> 				Perche 			</td>
     <td> 				<br>  				 			</td>
@@ -254,7 +254,7 @@ J7E 4S4
 
 Limites d’inscription pour les épreuves de concours (cases orangées) :
 
-* **Hauteur** : 12 athlètes par catégorie et par sexe
+* **Hauteur** : 12 athlètes par catégorie et par sexe (à noter que le saut en hauteur est désormais offert en **ouvert** au lieu de juvénile)
 * **Perche** : 20 athlètes (toutes catégories confondues)
 * **Longueur** : 12 athlètes par catégorie et par sexe
 * **Poids** : 24 athlètes (toutes catégories confondues)
