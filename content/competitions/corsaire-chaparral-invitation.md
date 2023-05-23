@@ -13,19 +13,15 @@ images:
 #    parent: competitions
 ---
 
-<!-- [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-coch-invitation-2023-vFINAL.pdf) -->
+[**Horaire piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023-final.pdf) | [**Horaire pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023-final.pdf)
 
-<!-- [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2023/Perflist__coch-inv.pdf)-->
+[**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2023/perflist-coch-inv2023.pdf)
 
 <!-- [**Composition des vagues**](https://assets.corsaire-chaparral.org/competitions/2023/MeetProgram__piste-coch-inv.pdf) -->
 
-<!-- [**Résultats en direct**](https://resultats.corsaire-chaparral.org/meets/coch-inv-2023) -->
+[**Résultats en direct**](https://resultats.corsaire-chaparral.org/meets/coch-inv-2023)
 
 [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2023/document-technique-coch-invitation-2023.pdf) _(dernière mise à jour le 15 mai 2023 – ajout du 300m cadet)_
-
-[**Horaire provisoire - piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__provisoire.pdf) _(en date du 15 mai 2023 – ajout du 300m cadet)_
-
-[**Horaire provisoire - pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-pelouse-coch-invitation-2023__provisoire.pdf) _(en date du 4 mai 2023)_
 
 {{< note >}}
 **Championnats nationaux de la Légion** <em class="badge badge-primary">Nouveau</em>
