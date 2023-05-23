@@ -13,7 +13,7 @@ images:
 #    parent: competitions
 ---
 
-[**Horaire piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__final.pdf) | [**Horaire pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__final.pdf)
+[**Horaire piste**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-piste-coch-invitation-2023__final.pdf) | [**Horaire pelouse**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-pelouse-coch-invitation-2023__final.pdf)
 
 [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2023/perflist-coch-inv2023.pdf)
 
