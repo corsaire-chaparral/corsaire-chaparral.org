@@ -4,8 +4,10 @@ date: 2023-05-28
 ---
 
 ```
+
+
 Licensed to Club D'Athletisme Corsaire - Chaparal
-                                      HY-TEK's Meet Manager 2023-05-29 08:25 PM
+                                      HY-TEK's Meet Manager 2023-05-30 04:11 PM
                   Corsaire-Chaparral Invitation - 2023-05-28                   
                    Finale régionale des Jeux du Québec (LAU)                   
                       Stade d'athlétisme Richard-Garneau                       
@@ -617,15 +619,15 @@ Finales
 ================================================================
     Nom                    Année Équipe                 Finales 
 ================================================================
-  1 Landry Nzambe-Busugu      67 Lasalle Athl            35.66m  
+  1 Landry Nzambe-Busugu      67 Lasalle Athl            35.66m   1kg
       35.66m  FOUL  FOUL  35.08m      
-  2 Patrick Painchaud         70 Corsaire-Cha            34.93m  
+  2 Patrick Painchaud         70 Corsaire-Cha            34.93m   1kg
       34.25m  33.15m  34.93m  FOUL       
-  3 Frederic Talbot           70 Lavironde               26.26m  
+  3 Frederic Talbot           70 Lavironde               26.26m   1kg
       24.66m  25.94m  FOUL  26.26m      
-  4 Philippe Ollivier         67 Saint-Lauren            24.40m  
+  4 Philippe Ollivier         67 Saint-Lauren            24.40m   1kg
       23.17m  FOUL  24.40m  24.19m      
-  5 André Dalpé               57 Kilomaîtres             21.98m  
+  5 André Dalpé               57 Kilomaîtres             21.98m   1kg
       21.75m  21.98m  21.23m  17.62m      
  
 Épreuve 134  Femmes Lancer du javelot 400g Benjamin
