@@ -20,7 +20,7 @@ salocin.lepoir@gmail.com
 ### Tarifs
 
 * **Camp de jour** : 200$ par semaine
-* **Service de garde** : 25$ par jour (en option)
+* **Service de garde** : 10$ par jour (en option)
 
 ### Dates
 * **Semaine #1** – du 26 juin au 30 juin 2023
