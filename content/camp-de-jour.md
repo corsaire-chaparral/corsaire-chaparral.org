@@ -11,11 +11,11 @@ images:
 
 Vocation du camp de jour : initiation aux diverses disciplines de l’athlétisme.
 
-[**Guide du parent (2022)**](/docs/campdejour-guide-parent-2022.pdf)
+[**Guide du parent (2023)**](/docs/campdejour-guide-parent-2023.pdf)
 
-Personne de contact : **Nicolas Riopel**, coordonnateur du camp
+Personne de contact : **Chase**, coordonnateur du camp
 
-<campdejour@corsaire-chaparral.org>
+salocin.lepoir@gmail.com
 
 ### Tarifs
 
