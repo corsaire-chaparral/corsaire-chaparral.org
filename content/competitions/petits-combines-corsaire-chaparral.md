@@ -1,6 +1,6 @@
 ---
 title: "Les petits combinés Corsaire-Chaparral"
-date: 2022-08-13
+date: 2023-08-06
 images: 
 - /img/banniere-petits-combines.jpg
 
@@ -11,17 +11,16 @@ aliases:
 
 ## Informations générales
 
-- **Date** : samedi 13 août 2022
-- **Responsable de la rencontre** : [Michel Parent](mailto:michelparent2404@gmail.com)
+- **Date** : dimanche 6 août 2023
+- **Responsable de la rencontre** : [Carole Crevier](mailto:caro.cre@outlook.com)
 - **Directrice technique** : Madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 - **Chronométrage et résultats** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
-- **Bénévoles** : Lina Lalonde, Karine Beauséjour
-- **Communications** : Stéphanie Parent
+- **Bénévoles** : Karine Beauséjour
 - **Secrétariat** : Nancy Boucher
-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf)
-- [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-petits-combines-2022-vfinal.pdf)
-- [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf)
-- [**Résultats en ligne**](https://resultats.corsaire-chaparral.org/meets/petits-combines-2022/)
+- **Document d’invitation** *(à venir)* <!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
+<!-- - [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-petits-combines-2023-vfinal.pdf) -->
+<!-- - [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf) -->
+<!-- - [**Résultats en ligne**](https://avs-sport.com/comp_main.php?comp=752) -->
 
 ## Emplacement
 
@@ -32,45 +31,58 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Épreuves offertes
 
-- **Coccinelle (2015-2016)** – Triathlon  
-  _maximum de 16 filles et 16 garçons_
-- **Colibri (2013-2014)** – Quadrathlon  
-  _maximum de 32 filles et 32 garçons_
-- **Minime (2011-2012)** – Quadrathlon  
-  _maximum de 32 filles et 32 garçons_
-- **Benjamin (2009-2010)** – Pentathlon  
-  _maximum de 40 filles et 40 garçons_
+#### Colibri (2014-2015) – Quadrathlon  
 
+- 80m
+- saut en longueur (zone)
+- lancer du javelot turbo 300g
+- 400m
+
+**Limite**: maximum de 32 filles et 32 garçons
+
+#### Minime (2012-2013) – Quadrathlon  
+
+- 80m
+- saut en longueur (zone)
+- lancer du javelot turbo 400g
+- 400m
+
+**Limite** : maximum de 32 filles et 32 garçons
+
+
+#### Benjamin (2010-2011) – Pentathlon  
+
+- 80m
+- saut en hauteur
+- saut en longueur (planche d’appel)
+- lancer du javelot turbo 400g
+- 600m
+
+**Limite**: maximum de 40 filles et 40 garçons
+
+<!--
 ### Relais
 
 Pour les équipes présentes sur place :
 
 - Minimes : 4x80m navette, mixte
 - Benjamins : 4x100m autour de l’oval, mixte (2 filles, 2 garçons)
-
-<!--
+-->
 
 ## Inscription
 
-Inscription sur le site [AVS-Sport](https://avs-sport.com/main.php) jusqu’au **11 août 2022 à 23h59**.
-Aucune inscription après cette date.
-
-Aucune inscription sur place.
-
--->
+Inscription sur le site [AVS-Sport](https://avs-sport.com/main.php) jusqu’au **1<sup>er</sup> août 2023 à 23h59**.
+Aucune inscription après cette date. Absolument aucune inscription sur place.
 
 ## À propos de l’événement
 
 Le club d’athlétisme Corsaire-Chaparral est fier de présenter la quatrième édition de ses _Petits combinés_ (anciennement le _Petit pentathlon de Nathalie_) dans le cadre du _Circuit estival des jeunes_ de la Fédération québécoise d’athlétisme.
 
-Cette compétition amicale s’adresse aux athlètes de catégorie coccinelle (triathlon), colibri (quadrathlon), minime (quadrathlon) et benjamin (pentathlon).
-
-
-![La Moisson](/img/partenaires/logo-la-moisson.png)
-
-_La Moisson Ste-Thérèse est partenaire de cet événement._
+Cette compétition amicale s’adresse aux athlètes de catégorie colibri (quadrathlon), minime (quadrathlon) et benjamin (pentathlon).
 
 ## Résultats
+
+[Résulats 2022]({{< ref "resultats/2022/petits-combines-coch" >}})
 
 [Résulats 2021]({{< ref "resultats/2021/petit-pentathlon-nathalie-2021" >}})
 
