@@ -17,7 +17,7 @@ aliases:
 - **Chronométrage et résultats** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
 - **Bénévoles** : Karine Beauséjour
 - **Secrétariat** : Nancy Boucher
-- **Document d’invitation** *(à venir)* <!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
+<!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
 <!-- - [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-petits-combines-2023-vfinal.pdf) -->
 <!-- - [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf) -->
 <!-- - [**Résultats en ligne**](https://avs-sport.com/comp_main.php?comp=752) -->
@@ -28,6 +28,19 @@ aliases:
 401 boul. du Domaine  
 Sainte-Thérèse, QC J7E 4S4
 
+## Installations
+
+- Piste de 400 m, 8 couloirs en revêtement synthétique
+- 2 aires de lancers
+- Aires d’approche de sauts en revêtement synthétique
+- 4 fosses de sable
+- Gradins 
+- Accès aux toilettes de la polyvalente
+- Vestiaire : aucun service de vestiaire ni de douche ne sera disponible. Les organisateurs déclinent toute responsabilité en cas de perte ou de vol.
+- Chronométrage électronique (systèmes Lynx)
+- Stationnement gratuit sur le site de la polyvalente
+
+![Stade d’athlétisme Richard-Garneau](/img/stade-richard-garneau.jpg)
 
 ## Épreuves offertes
 
@@ -49,7 +62,6 @@ Sainte-Thérèse, QC J7E 4S4
 
 **Limite** : maximum de 32 filles et 32 garçons
 
-
 #### Benjamin (2010-2011) – Pentathlon  
 
 - 80m
@@ -60,19 +72,69 @@ Sainte-Thérèse, QC J7E 4S4
 
 **Limite**: maximum de 40 filles et 40 garçons
 
-<!--
 ### Relais
 
-Pour les équipes présentes sur place :
+Pour les équipes présentes sur place (gratuit!) :
 
 - Minimes : 4x80m navette, mixte
 - Benjamins : 4x100m autour de l’oval, mixte (2 filles, 2 garçons)
--->
+
+## Programme <mark>(provisoire)</mark>
+
+### Colibris
+
+| Heure   | Épreuve              | Notes             |
+|---------|----------------------|-------------------|
+| 09 h 30 | Accueil des colibris |                   |
+|         | Échauffement dirigé  |                   |
+|         | 60 m                 |                   |
+|         | Longueur (zone)      | 2 fosses de saut  |
+|         | Javelot turbo (300g) | 2 aires de lancer |
+|         | 400 m                |                   |
+|         | Remise des médailles |                   |
+
+### Minimes
+
+| Heure   | Épreuve                 | Notes             |
+|---------|-------------------------|-------------------|
+| 10 h 30 | Accueil des minimes     |                   |
+|         | Échauffement dirigé     |                   |
+|         | 80 m                    |                   |
+|         | Longueur (zone)         | 2 fosses de saut  |
+|         | Javelot turbo (400g)    | 2 aires de lancer |
+|         | 400 m                   |                   |
+|         | Relais navette 4 x 80 m | Mixte             |
+|         | Remise des médailles    |                   |
+
+### Benjamins
+
+| Heure   | Épreuve                    | Notes             |
+|---------|----------------------------|-------------------|
+| 13 h 00 | Accueil des benjamins      |                   |
+|         | Échauffement dirigé        |                   |
+|         | 80 m                       |                   |
+|         | Saut en hauteur            |                   |
+|         | Longueur (planche d’appel) | 2 fosses de saut  |
+|         | Javelot turbo (400g)       | 2 aires de lancer |
+|         | 600 m                      |                   |
+|         | Relais 4 x 100 m           | Mixte (2F + 2G)   |
+|         | Remise des médailles       |                   |
 
 ## Inscription
 
 Inscription sur le site [AVS-Sport](https://avs-sport.com/main.php) jusqu’au **1<sup>er</sup> août 2023 à 23h59**.
+
 Aucune inscription après cette date. Absolument aucune inscription sur place.
+
+Tarif : **25,00$ par athlète** participant à un combiné.
+
+## Remboursement
+
+Aucun remboursement.
+
+## Affiliation
+
+L’affiliation à la Fédération québécoise d’athlétisme n’est pas requise.
 
 ## À propos de l’événement
 
