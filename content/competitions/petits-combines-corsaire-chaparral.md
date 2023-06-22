@@ -90,7 +90,7 @@ Pour les équipes présentes sur place (gratuit!) :
 |         | Échauffement dirigé  |                   |
 |         | 60 m                 |                   |
 |         | Longueur (zone)      | 2 fosses de saut  |
-|         | Javelot turbo (300g) | 2 aires de lancer |
+|         | Javelot turbo (300 g)| 2 aires de lancer |
 |         | 400 m                |                   |
 |         | Relais navette 4 x 80 m | Mixte          |
 |         | Remise des médailles |                   |
@@ -103,7 +103,7 @@ Pour les équipes présentes sur place (gratuit!) :
 |         | Échauffement dirigé     |                   |
 |         | 80 m                    |                   |
 |         | Longueur (zone)         | 2 fosses de saut  |
-|         | Javelot turbo (400g)    | 2 aires de lancer |
+|         | Javelot turbo (400 g)   | 2 aires de lancer |
 |         | 400 m                   |                   |
 |         | Relais navette 4 x 80 m | Mixte             |
 |         | Remise des médailles    |                   |
@@ -117,7 +117,7 @@ Pour les équipes présentes sur place (gratuit!) :
 |         | 80 m                       |                   |
 |         | Saut en hauteur            |                   |
 |         | Longueur (planche d’appel) | 2 fosses de saut  |
-|         | Javelot turbo (400g)       | 2 aires de lancer |
+|         | Javelot turbo (400 g)      | 2 aires de lancer |
 |         | 600 m                      |                   |
 |         | Relais 4 x 100 m           | Mixte (2F + 2G)   |
 |         | Remise des médailles       |                   |
