@@ -46,38 +46,39 @@ Sainte-Thérèse, QC J7E 4S4
 
 #### Colibri (2014-2015) – Quadrathlon  
 
-- 80m
+- 80 m
 - saut en longueur (zone)
-- lancer du javelot turbo 300g
-- 400m
+- lancer du javelot turbo 300 g
+- 400 m
 
-**Limite**: maximum de 32 filles et 32 garçons
+**Limite** : maximum de 32 filles et 32 garçons
 
 #### Minime (2012-2013) – Quadrathlon  
 
-- 80m
+- 80 m
 - saut en longueur (zone)
-- lancer du javelot turbo 400g
-- 400m
+- lancer du javelot turbo 400 g
+- 400 m
 
-**Limite** : maximum de 32 filles et 32 garçons
+**Limite** : maximum de 32 filles et 32 garçons
 
 #### Benjamin (2010-2011) – Pentathlon  
 
-- 80m
+- 80 m
 - saut en hauteur
 - saut en longueur (planche d’appel)
-- lancer du javelot turbo 400g
-- 600m
+- lancer du javelot turbo 400 g
+- 600 m
 
-**Limite**: maximum de 40 filles et 40 garçons
+**Limite** : maximum de 40 filles et 40 garçons
 
 ### Relais
 
 Pour les équipes présentes sur place (gratuit!) :
 
-- Minimes : 4x80m navette, mixte
-- Benjamins : 4x100m autour de l’oval, mixte (2 filles, 2 garçons)
+- Colibris : 4 x 80 m navette, mixte
+- Minimes : 4 x 80 m navette, mixte
+- Benjamins : 4 x 100 m autour de l’oval, mixte (2 filles, 2 garçons)
 
 ## Programme <mark>(provisoire)</mark>
 
@@ -91,6 +92,7 @@ Pour les équipes présentes sur place (gratuit!) :
 |         | Longueur (zone)      | 2 fosses de saut  |
 |         | Javelot turbo (300g) | 2 aires de lancer |
 |         | 400 m                |                   |
+|         | Relais navette 4 x 80 m | Mixte          |
 |         | Remise des médailles |                   |
 
 ### Minimes
