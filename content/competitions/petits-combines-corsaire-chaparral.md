@@ -126,7 +126,11 @@ Inscription sur le site [AVS-Sport](https://avs-sport.com/main.php) jusqu’au *
 
 Aucune inscription après cette date. Absolument aucune inscription sur place.
 
-Tarif : **25,00$ par athlète** participant à un combiné.
+Tarifs : 
+
+- quadrathlon (colibri, minime) : 25,00$
+- pentathlon (benjamin) : 30,00$
+- relais : gratuit
 
 ## Remboursement
 
