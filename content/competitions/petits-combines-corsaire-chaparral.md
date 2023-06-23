@@ -67,7 +67,7 @@ Sainte-Thérèse, QC J7E 4S4
 - 80 m
 - saut en hauteur
 - saut en longueur (planche d’appel)
-- lancer du javelot turbo 400 g
+- lancer du javelot 400 g (réglementaire, pas turbo!)
 - 600 m
 
 **Limite** : maximum de 40 filles et 40 garçons
@@ -117,7 +117,7 @@ Pour les équipes présentes sur place (gratuit!) :
 |         | 80 m                       |                   |
 |         | Saut en hauteur            |                   |
 |         | Longueur (planche d’appel) | 2 fosses de saut  |
-|         | Javelot turbo (400 g)      | 2 aires de lancer |
+|         | Javelot (400 g)            | 2 aires de lancer |
 |         | 600 m                      |                   |
 |         | Relais 4 x 100 m           | Mixte (2F + 2G)   |
 |         | Remise des médailles       |                   |
