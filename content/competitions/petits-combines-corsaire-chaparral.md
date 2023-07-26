@@ -9,9 +9,17 @@ aliases:
 
 ---
 
+<div class="well well-danger">
+
+**Avis d’annulation**
+
+En raison du nombre insuffisant de bénévoles ayant manifesté leur disponibilité, le club est contraint d’annuler l’édition 2023.
+
+</div>
+
 ## Informations générales
 
-- **Date** : dimanche 6 août 2023
+- **Date** : ~~dimanche 6 août 2023~~ <em class="badge badge-danger">ANNULÉ</em>
 - **Responsable de la rencontre** : [Carole Crevier](mailto:caro.cre@outlook.com)
 - **Directrice technique** : Madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 - **Chronométrage et résultats** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
