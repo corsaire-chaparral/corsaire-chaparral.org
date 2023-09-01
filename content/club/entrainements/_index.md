@@ -5,16 +5,13 @@ icon: stopwatch-solid
 layout: single
 ---
 
-{{< div class="well well-tertiary" >}}
-**Attention! Certains groupes affichent complet pour la saison intérieure**
+<div class="well well-tertiary">
 
-Les groupes suivants affichent complet jusqu’à l’été 2023 :
+**Inscription pour la saison 2023-2024 à venir.**
 
-- colibri
-- minime
-- benjamin
-- cadet
-{{< /div >}}
+Merci pour votre patience.
+
+</div>
 
 ## {{< icon name="map-solid" size="28" >}} Lieux d'entraînement
 
@@ -45,42 +42,19 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2014–2015) {#colibri}
-
-{{< div class="well well-tertiary small" >}}
-
-Note {{< icon "circle-exclamation-solid" 13 >}}
-
-Ce groupe est complet jusqu’à l’été 2023.
-{{< /div >}}
+### Colibri (2015–2016) {#colibri}
 
 Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
 
 - Samedi 9 h à 10 h 30
 
-### Minime (2012–2013) {#minime}
-
-{{< div class="well well-tertiary small" >}}
-
-Note {{< icon "circle-exclamation-solid" 13 >}}
-
-Ce groupe est complet jusqu’à l’été 2023.
-{{< /div >}}
-
+### Minime (2013–2014) {#minime}
 
 Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
 
 - Samedi 9 h à 10 h 30
 
-### Benjamin (2010–2011) {#benjamin}
-
-{{< div class="well well-tertiary small" >}}
-
-Note {{< icon "circle-exclamation-solid" 13 >}}
-
-Ce groupe est complet jusqu’à l’été 2023.
-{{< /div >}}
-
+### Benjamin (2011–2012) {#benjamin}
 
 - Jeudi 18 h à 19 h 30
 - Samedi 11 h à 12 h 30
@@ -89,15 +63,7 @@ Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/)
 
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
-### Cadet (2008–2009) {#cadet}
-
-{{< div class="well well-tertiary small" >}}
-
-Note {{< icon "circle-exclamation-solid" 13 >}}
-
-Ce groupe est complet jusqu’à l’été 2023.
-{{< /div >}}
-
+### Cadet (2009–2010) {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30 <strong class="badge badge-default">Changement {{< icon name="stopwatch-solid" size="14" >}}</strong>
@@ -105,13 +71,13 @@ Ce groupe est complet jusqu’à l’été 2023.
 
 <!--Consultez le [calendrier](cadets) pour les cadets.-->
 
-### Juvénile (2006–2007), junior (2004–2005) et sénior (1988–2003) {#juvenile-junior-senior}
+### Juvénile (2007–2008), junior (2005–2006) et sénior (1989–2004) {#juvenile-junior-senior}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran (–1987) {#veteran}
+### Vétéran (–1988) {#veteran}
 
 Horaire à confirmer lors de l'inscription.
 
@@ -131,8 +97,3 @@ Entraîneurs responsables :
 
 - 
 -->
-
-
-### Horaire d’entraînement – Lachute {#lachute}
-
-Les entraînements à Lachute sont suspendus pour une durée indéterminée.
