@@ -117,3 +117,37 @@ h6, .h6 {
 .article-lead {
   @extend .font-bold;
 }
+
+// details/summary
+details {
+  padding: $spacing;
+  margin: 1.5rem 0;
+
+  border-radius: $border-radius;
+  border: 2px solid $gray-dark;
+}
+details:not([open]) {
+  background-color: $gray-lighter;
+  opacity: .75;
+}
+details:not([open]):hover {
+  opacity: 1;
+}
+
+summary > h2, 
+summary > h3, 
+summary > h4,
+summary > h5,
+summary > h6 {
+  display: inline;
+  margin: 0;
+  font-size: inherit;
+}
+summary {
+  font-weight: 700;
+  font-size: $h4;
+  cursor: pointer;
+}
+details[open] > summary {
+  margin-bottom: 1.125rem;
+}

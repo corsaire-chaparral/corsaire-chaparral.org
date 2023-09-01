@@ -1,0 +1,46 @@
+{{/******************************************************
+  Shortcode accordéon
+  
+  Usage:
+
+  {{< accordeon entete="Mon en-tête" niveau="2" >}}
+  ## Contenu de l'accordéon
+
+  - plus
+  - de
+  - markdown
+
+  {{< /accordeon >}}
+
+  ******************************************************/}}
+
+{{ $entete := .Get "entete" }}
+{{ $id := .Get "id" }}
+{{ $open := .Get "ouvert" }}
+{{ $niveau := .Get "niveau" }}
+
+<details
+  {{if $id}}id="{{$id}}"{{end}}
+  {{if $open}}open{{end}}
+  >
+    <summary>
+      {{- if $niveau }}
+        {{- if eq $niveau "2" }}
+          <h2>{{ $entete }}</h2>
+        {{- end }}{{/* if */}}
+        {{- if eq $niveau "3" }}
+          <h3>{{ $entete }}</h4>
+        {{- end }}{{/* if */}}
+        {{- if eq $niveau "4" }}
+          <h4>{{ $entete }}</h4>
+        {{- end }}{{/* if */}}
+        {{- if eq $niveau "5" }}
+          <h5>{{ $entete }}</h5>
+        {{- end }}{{/* if */}}
+      {{- else }}{{/* niveau */}}
+      {{ $entete }}
+      {{- end }}{{/* if */}}
+    </summary>
+
+    {{ .Inner | markdownify }}
+</details>
