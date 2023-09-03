@@ -6,15 +6,6 @@ aliases:
   - /club/inscription/
 ---
 
-<div class="well well-tertiary">
-
-**Inscription pour la saison 2023-2024 à venir.**
-
-Merci pour votre patience.
-
-</div>
-
-
 {{< div class="well well-danger" >}}
 {{< icon "envelope-solid" >}} **Note importante sur les courriels**
 
@@ -25,7 +16,7 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{< /div >}}
 
-{{< accordeon entete="Informations générales et politiques d'inscription" niveau="2" >}}
+{{% accordeon entete="Informations générales et politiques d'inscription" niveau="2" %}}
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription.
 La cotisation de l’athlète comprend :
@@ -43,7 +34,7 @@ Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisa
   - 3e enfant : 50%
 - **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais de 50% sur sa cotisation annuelle à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
 
-{{< /accordeon >}}
+{{% /accordeon %}}
 
 <!--
 ### Session en gymnase (colibri et minime seulement)
@@ -79,7 +70,7 @@ L’inscription pour la session d’été sera ouverte à compter du 1<sup>er</s
 | Vétéran (–1987)       | 371 $      |
 -->
 
-{{< accordeon entete="Villes faisant partie de l’entente intermunicipale" niveau="2" id="entente-intermunicipal" >}}
+{{% accordeon entete="Villes faisant partie de l’entente intermunicipale" niveau="2" id="entente-intermunicipal" %}}
 
 Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
@@ -95,9 +86,9 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 - Saint-Sauveur
 - Sainte-Thérèse
 
-{{< /accordeon >}}
+{{% /accordeon %}}
 
-{{< accordeon entete="Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" >}}
+{{% accordeon entete="Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" %}}
 
 L’inscription annuelle est valide du 1<sup>er</sup> septembre 2023 au 31 août 2024.
 
@@ -119,9 +110,9 @@ Pour les catégories fonctionnant **à la session** (colibri et minime), l’ins
 **Note :** La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète, généralement autour du 31 juillet (relâche pendant le mois d’août).
 {{< /div >}}
 
-{{< /accordeon >}}
+{{% /accordeon %}}
 
-{{< accordeon entete="Bénévolat et activités de financement" id="benevolat" niveau="2" >}}
+{{% accordeon entete="Bénévolat et activités de financement" id="benevolat" niveau="2" %}}
 
 Une grande partie du financement du club provient des profits générés par les activités organisées annuellement. Afin d’assurer le bon déroulement ainsi que la réussite de ces événements, nous avons besoin de la participation des membres du club, c’est pourquoi un système de comptabilisation d’heures de bénévolat a été instauré.
 
@@ -136,27 +127,29 @@ La comptabilisation des heures de bénévolat se terminant le **31 août**, la c
 
 Consultez les [activités de bénévolat](/club/benevolat/).
 
-{{< /accordeon >}}
+{{% /accordeon %}}
 
-{{< accordeon entete="Inscription et paiement" id="inscription" niveau="2" >}}
+{{% accordeon entete="Inscription et paiement" id="inscription" niveau="2" %}}
 
 ![Logo Qidigo](/img/logo-qidigo.png)
 
 - **Paiement en ligne** : Le paiement doit être fait en ligne, au moment même de l’inscription, sur la plateforme de gestion d’activités Qidigo.
-- **Paiement par versements** : il est désormais possible de payer les inscriptions annuelles **en 2 versements** : le premier à l’automne (au moment de l’inscription), le deuxième en janvier 2023.
+- **Paiement par versements** : il est désormais possible de payer les inscriptions annuelles en 2 versements : le premier à l’automne (au moment de l’inscription), le deuxième en janvier 2024.
 - **Chèques et argent comptant** : Aucun paiement par argent comptant ou par chèque n’est accepté.
 - **Compte client** : vous devrez vous créer un compte pour utiliser la plateforme Qidigo. Il est recommandé d’utiliser un partenaire de connexion (compte Facebook, compte Google). Ce compte vous servira tout au long de l’année pour l’inscription à des activités ultérieures.
-- **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront **crédités** cette année (lorsque vous vous inscrirez à des compétitions, par exemple).
+- **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront crédités par les administrateurs (remboursement effectué sur la carte de crédit utilisée lors du paiement de l’inscription).
+
+<a class="btn btn-primary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription annuelle 2023-2024</a>
+
+<a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription cross-country (sept. 2023)</a>
 
 {{< note >}}
-_Inscription 2023-2024 à venir._
+_Inscription pour les groupes colibri et minime&nbsp;: à venir._
 {{< /note >}}
 
-{{< /accordeon >}}
+{{% /accordeon %}}
+
 
 <!--
-<a class="btn btn-primary btn--block -lg" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">**Inscription 2022-2023** {{< icon "pencil-solid" >}}</a>
-
-
 Pour les groupes colibri et minime, vous pouvez plutôt choisir [l’inscription à la session](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session) au lieu de l’inscription annuelle.
 -->

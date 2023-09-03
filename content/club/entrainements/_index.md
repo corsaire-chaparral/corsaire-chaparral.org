@@ -5,13 +5,21 @@ icon: stopwatch-solid
 layout: single
 ---
 
-<div class="well well-tertiary">
+{{% div class="well well-tertiary" %}}
+## Reprise automne 2023
 
-**Inscription pour la saison 2023-2024 à venir.**
+Les groupes réguliers (benjamin, cadet, juvénile et plus vieux) reprendront à compter du 1<sup>er</sup> octobre 2023.
 
-Merci pour votre patience.
+### Cross-country
 
-</div>
+<em class="badge badge-default">Nouveau!</em> Une session consacrée au cross-country est offerte tout au long du mois de septembre. Excellent pour la remise en forme de tous les athlètes!
+
+Horaire pour septembre :
+
+- Lundi (18h–19h30)
+- Mercredi (18h–19h30)
+- Samedi (9h–11h)
+{{% /div %}}
 
 ## {{< icon name="map-solid" size="28" >}} Lieux d'entraînement
 
@@ -44,15 +52,23 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2015–2016) {#colibri}
 
+<!--
 Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
+-->
 
 - Samedi 9 h à 10 h 30
+
+_Reprise de la session automne 2023 à venir (en attente de la disponibilité de personnel)._
 
 ### Minime (2013–2014) {#minime}
 
+<!--
 Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
+-->
 
 - Samedi 9 h à 10 h 30
+
+_Reprise de la session automne 2023 à venir (en attente de la disponibilité de personnel)._
 
 ### Benjamin (2011–2012) {#benjamin}
 

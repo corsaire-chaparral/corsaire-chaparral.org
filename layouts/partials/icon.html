@@ -9,5 +9,5 @@
 {{- $iconPartial := printf "icons/%s.svg" $name -}}
 
 <span class="svg-icon" style="--size: {{$size}}px">
-  {{ partial $iconPartial }}
+  {{- partial $iconPartial -}}
 </span>

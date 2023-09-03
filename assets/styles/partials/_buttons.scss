@@ -38,6 +38,7 @@
   width: 100%;
   display: block;
   text-align: center;
+  font-weight: 700;
 }
 
 .btn-default { @include btn-style($gray-lighter) }
