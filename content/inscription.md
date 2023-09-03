@@ -141,7 +141,7 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 <a class="btn btn-primary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription annuelle 2023-2024</a>
 
-<a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription cross-country (sept. 2023)</a>
+<a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/group/229526">Inscription cross-country (sept. 2023)</a>
 
 {{< note >}}
 _Inscription pour les groupes colibri et minime&nbsp;: à venir._
