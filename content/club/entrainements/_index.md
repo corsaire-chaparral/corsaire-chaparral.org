@@ -52,23 +52,15 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2015–2016) {#colibri}
 
-<!--
-Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
--->
+Automne 2023 : reprise le 9 septembre 2023 pour une session de 15 semaines.
 
 - Samedi 9 h à 10 h 30
-
-_Reprise de la session automne 2023 à venir (en attente de la disponibilité de personnel)._
 
 ### Minime (2013–2014) {#minime}
 
-<!--
-Session en gymnase : du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
--->
+Automne 2023 : reprise le 9 septembre 2023 pour une session de 15 semaines.
 
 - Samedi 9 h à 10 h 30
-
-_Reprise de la session automne 2023 à venir (en attente de la disponibilité de personnel)._
 
 ### Benjamin (2011–2012) {#benjamin}
 
