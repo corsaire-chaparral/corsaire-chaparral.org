@@ -95,10 +95,6 @@ L’inscription annuelle est valide du 1<sup>er</sup> septembre 2023 au 31 août
 | Vétéran (–1988)       | 667 $      |
 | Affiliation seulement | 120 $      |
 
-{{< note >}}
-Pour les catégories fonctionnant **à la session** (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
-{{< /note >}}
-
 ### Session en gymnase (colibri et minime seulement)
 
 Du 9 septembre 2023 au 15 décembre 2023.
@@ -107,6 +103,10 @@ Du 9 septembre 2023 au 15 décembre 2023.
 |----------------------|------------|
 | Colibri (2015–2016)  | 225 $      |
 | Minime (2013–2014)   | 315 $      |
+
+{{< note >}}
+Pour les catégories fonctionnant **à la session** (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
+{{< /note >}}
 
 ### Session estivale 2024
 
@@ -145,13 +145,8 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 <a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/group/229526">Inscription cross-country (sept. 2023)</a>
 
-{{< note >}}
-_Inscription pour les groupes colibri et minime&nbsp;: à venir._
-{{< /note >}}
+Pour les groupes colibri et minime, vous pouvez choisir [**l’inscription à la session**](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session) au lieu de l’inscription annuelle.
 
 {{% /accordeon %}}
 
 
-<!--
-Pour les groupes colibri et minime, vous pouvez plutôt choisir [l’inscription à la session](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session) au lieu de l’inscription annuelle.
--->
