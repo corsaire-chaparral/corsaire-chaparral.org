@@ -36,17 +36,6 @@ Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisa
 
 {{% /accordeon %}}
 
-<!--
-### Session en gymnase (colibri et minime seulement)
-
-Du 1<sup>er</sup> octobre 2022 au 30 avril 2023.
-
-| Catégorie            | Cotisation |
-|----------------------|------------|
-| Colibri (2014–2015) <em class="badge badge-danger">complet</span>  | 225 $      |
-| Minime (2012–2013) <em class="badge badge-danger">complet</span>     | 315 $      |
--->
-
 
 <!--
 ### Inscription estivale
@@ -90,9 +79,9 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
 {{% accordeon entete="Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" %}}
 
-L’inscription annuelle est valide du 1<sup>er</sup> septembre 2023 au 31 août 2024.
+L’inscription annuelle est valide du 1<sup>er</sup> septembre 2023 au 31 août 2024[^inscription-annuelle].
 
-Pour les catégories fonctionnant **à la session** (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
+[^inscription-annuelle]: **Note :** La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète, généralement autour du 31 juillet (relâche pendant le mois d’août).
 
 | Catégorie             | Cotisation |
 |-----------------------|------------|
@@ -106,9 +95,22 @@ Pour les catégories fonctionnant **à la session** (colibri et minime), l’ins
 | Vétéran (–1988)       | 667 $      |
 | Affiliation seulement | 120 $      |
 
-{{< div class="well" >}}
-**Note :** La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète, généralement autour du 31 juillet (relâche pendant le mois d’août).
-{{< /div >}}
+{{< note >}}
+Pour les catégories fonctionnant **à la session** (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
+{{< /note >}}
+
+### Session en gymnase (colibri et minime seulement)
+
+Du 9 septembre 2023 au 15 décembre 2023.
+
+| Catégorie            | Cotisation |
+|----------------------|------------|
+| Colibri (2015–2016)  | 225 $      |
+| Minime (2013–2014)   | 315 $      |
+
+### Session estivale 2024
+
+_À venir._
 
 {{% /accordeon %}}
 
