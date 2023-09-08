@@ -68,6 +68,7 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 - Lorraine
 - Pointe-Calumet
 - Rosemère
+- Sainte-Anne-des-Plaines
 - Saint-Jérôme
 - Saint-Joseph-du-Lac
 - Sainte-Marthe-sur-le-Lac
@@ -81,32 +82,43 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
 L’inscription annuelle est valide du 1<sup>er</sup> septembre 2023 au 31 août 2024[^inscription-annuelle].
 
-[^inscription-annuelle]: **Note :** La date de fin sera adaptée à la planification annuelle de l'entraîneur(e) attitré(e) à l'athlète, généralement autour du 31 juillet (relâche pendant le mois d’août).
+[^inscription-annuelle]: **Date de fin** : La date de fin du 10 août 2024 est indicative. Cette date peut être modifiée selon le calendrier individuel de compétitions qui sera établi par l’entraîneur.
 
-| Catégorie             | Cotisation |
-|-----------------------|------------|
-| Colibri (2015–2016)   | 405 $      |
-| Minime (2013–2014)    | 525 $      |
-| Benjamin (2011–2012)  | 556 $      |
-| Cadet (2009–2010)     | 657 $      |
-| Juvénile (2007–2008)  | 667 $      |
-| Junior (2005–2006)    | 802 $      |
-| Senior (1989–2004)    | 812 $      |
-| Vétéran (–1988)       | 667 $      |
-| Affiliation seulement | 120 $      |
+| Catégorie             | Cotisation | Mi-année |
+|-----------------------|------------|----------|
+| Benjamin (2011–2012)  | 556 $      | 356 $    |
+| Cadet (2009–2010)     | 657 $      | 420 $    |
+| Juvénile (2007–2008)  | 667 $      | 427 $    |
+| Junior (2005–2006)    | 802 $      | 513 $    |
+| Senior (1989–2004)    | 812 $      | 520 $    |
+| Vétéran (–1988)       | 667 $      | 427 $    |
+| Affiliation seulement | 120 $      | -        |
 
 ### Session en gymnase (colibri et minime seulement)
 
-Du 9 septembre 2023 au 15 décembre 2023.
+- **Session 1** : 9 septembre 2023 au 15 décembre 2023.
+- **Session 2** : 13 janvier au 27 avril 2024.
 
 | Catégorie            | Cotisation |
 |----------------------|------------|
-| Colibri (2015–2016)  | 225 $      |
-| Minime (2013–2014)   | 315 $      |
+| Colibri (2015–2016)  | 150 $      |
+| Minime (2013–2014)   | 150 $      |
 
+### Session de cross-country[^2]
+
+Du 4 septembre au 30 septembre 2023.
+
+| Catégorie            | Cotisation |
+|----------------------|------------|
+| Athlètes nés en 2012 et avant | 125 $      |
+
+[^2]: **Session de cross-country :** Les frais associés à cette session sont déductibles de la facture d’une inscription annuelle.
+
+<!--
 {{< note >}}
 Pour les catégories fonctionnant **à la session** (colibri et minime), l’inscription annuelle comprend la session en gymnase et la session estivale.
 {{< /note >}}
+-->
 
 ### Session estivale 2024
 
@@ -145,7 +157,7 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 <a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/group/229526">Inscription cross-country (sept. 2023)</a>
 
-Pour les groupes colibri et minime, vous pouvez choisir [**l’inscription à la session**](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session) au lieu de l’inscription annuelle.
+Pour les groupes colibri et minime : [**inscription à&nbsp;la&nbsp;session**](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session).
 
 {{% /accordeon %}}
 
