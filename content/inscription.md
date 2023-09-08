@@ -159,6 +159,8 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Pour les groupes colibri et minime : [**inscription à&nbsp;la&nbsp;session**](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session).
 
+Inscription mi-année : à venir.
+
 {{% /accordeon %}}
 
 
