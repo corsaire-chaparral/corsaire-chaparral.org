@@ -28,7 +28,7 @@ Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisa
 
 - **Chandail ou camisole obligatoire** : le port du [vêtement officiel](/club/vetements/) aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin. Le coût de ce vêtement n’est pas inclus dans la cotisation.
 - **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
-- **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste (voir la liste plus bas). Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels de **175 $** (non compris dans la cotisation). Nous vous invitons à réclamer ce montant auprès de votre municipalité.
+- **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste (voir la liste plus bas). Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels de **174,65 $** (non compris dans la cotisation). Nous vous invitons à réclamer ce montant auprès de votre municipalité.
 - **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription des membres de la famille doit être complétée en même temps pour bénéficier de ce rabais). Le rabais se fait sur la cotisation de l’athlète le plus jeune.
   - 2e enfant : 25%
   - 3e enfant : 50%
@@ -155,11 +155,13 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 <a class="btn btn-primary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription annuelle 2023-2024</a>
 
-<a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/group/229526">Inscription cross-country (sept. 2023)</a>
+<a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships/1727">Inscription mi-année (automne-hiver)</a>
+
+{{< note >}}
 
 Pour les groupes colibri et minime : [**inscription à&nbsp;la&nbsp;session**](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session).
 
-Inscription mi-année : à venir.
+{{< /note >}}
 
 {{% /accordeon %}}
 
