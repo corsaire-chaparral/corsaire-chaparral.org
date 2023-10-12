@@ -65,7 +65,7 @@ Automne 2023 : reprise le 9 septembre 2023 pour une session de 15 semaines.
 ### Benjamin (2011–2012) {#benjamin}
 
 - Jeudi 18 h à 19 h 30
-- Samedi 11 h à 12 h 30
+- Samedi 10 h 30 à 12 h 00
 
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/). 
 
