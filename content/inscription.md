@@ -143,6 +143,18 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 {{% /accordeon %}}
 
+{{% accordeon entete="Adhésion à Athlétisme Québec et Athlétisme Canada" %}}
+
+**À lire attentivement :**
+
+{{< note >}}
+Je comprends qu’en m’inscrivant aux activités du Club d'Athlétisme Corsaire-Chaparral, je deviens également membre d'Athlétisme Québec et Athlétisme Canada. Mon club prendra pour moi mon adhésion à ces deux organisations. Je recevrai par courriel dans les prochaines semaines une invitation à signer électroniquement des acceptations de conditions, je m'engage à compléter le processus dans les plus brefs délais. Je comprends que mon omission à compléter ces acceptations pourrait avoir des conséquences sur la conformité de mon club. Si vous avez des questions, merci de contacter :
+
+**Carole Crevier \<caro.cre@outlook.com\>**
+{{</ note >}}
+
+{{% /accordeon %}}
+
 {{% accordeon entete="Inscription et paiement" id="inscription" niveau="2" %}}
 
 ![Logo Qidigo](/img/logo-qidigo.png)
