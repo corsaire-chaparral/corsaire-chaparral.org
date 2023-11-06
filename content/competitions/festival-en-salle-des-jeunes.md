@@ -121,7 +121,9 @@ Les coccinelles suivront le même horaire que celui des colibris, mais il y aura
 
 Le club d'athlétisme Corsaire-Chaparral offrira un échauffement dirigé pour tous.
 
-### Horaire final
+### Horaire
+
+[**Horaire provisoire (PDF)**](https://assets.corsaire-chaparral.org/competitions/2023/festival-en-salle-jeunes-coch-2023.horaire-prelim.pdf)
 
 L'horaire final sera publié 48 heures avant la compétition, soit le 30 novembre 2023
 
