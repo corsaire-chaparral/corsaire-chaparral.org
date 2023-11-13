@@ -13,6 +13,8 @@ icon: calendar-days-solid
 
 <!-- [**Résultats web**](https://resultats.corsaire-chaparral.org/meets/festival-coch-2022) -->
 
+[Inscription au bénévolat](https://docs.google.com/forms/d/e/1FAIpQLSc1lYMxPhPXn--PCtzyVKlWmAsWtfbLnQIDIg4Z3fpCFtTgkg/viewform)
+
 ![Les Premières Foulées Bruny Surin](/img/logo-premieres-foulees-bruny-surin.jpg)
 
 Le Corsaire-Chaparral est fier de présenter la 6<sup>e</sup> édition de son *Festival en salle des jeunes*, dans le cadre du circuit [Les Premières Foulées Bruny Surin](https://www.athletisme-quebec.ca/athlete/jeunesse-initiation/) de la Fédération québécoise d'athlétisme.
