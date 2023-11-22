@@ -1,19 +1,4 @@
 
--
-  id: petits-combines-corsaire-chaparral-2022
-  title: Les petits combinés Corsaire-Chaparral
-  information: https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/
-  date: 2022-08-13
-  limite: 2022-08-07
-  emplacement: Sainte-Thérèse
-  frais: 20-30
-  structureFrais:
-    "Coccinelle": 20
-    "Colibri": 25
-    "Minime": 25
-    "Benjamin": 30
-  formulaire: <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=140"></script>
-
 # Template
 #- id: "2021"
 #  title: "2021"
