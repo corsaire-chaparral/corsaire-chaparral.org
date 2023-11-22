@@ -8,11 +8,7 @@ menu:
     weight: 100
 ---
 
-Il est attendu que chaque athlète (et sa famille) accomplisse [**20 heures**](/inscription/#benevolat) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
-
-Inscrivez-vous à notre banque de bénévoles 2022&nbsp;:
-
-<a class="btn btn-primary btn--block -lg" href="https://docs.google.com/forms/d/e/1FAIpQLSe1hQcHj5wl0GsxtXV17A38zwBPfGptu8f-bEsRZcPV4_SmAQ/viewform?usp=sf_link">**Inscription des bénévoles** {{< icon "pencil-solid" >}}</a>
+Il est attendu que chaque athlète (et sa famille) accomplisse [**10 heures**](/inscription/#benevolat) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
 
 ## Événements
 
