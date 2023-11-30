@@ -9,9 +9,9 @@ icon: calendar-days-solid
 #    parent: competitions
 ---
 
-<!-- [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2022/horaire-final-festival-des-jeunes-coch-2022.pdf) _(en date du 1<sup>er</sup> décembre 2022)_ -->
+[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/festival-en-salle-jeunes-coch-2023.horaire-final.pdf) _(en date du 30 novembre 2023)_
 
-<!-- [**Résultats web**](https://resultats.corsaire-chaparral.org/meets/festival-coch-2022) -->
+[**Résultats en ligne**](https://avs-sport.com/comp_main.php?comp=789&)
 
 [Inscription au bénévolat](https://docs.google.com/forms/d/e/1FAIpQLSc1lYMxPhPXn--PCtzyVKlWmAsWtfbLnQIDIg4Z3fpCFtTgkg/viewform)
 
@@ -125,9 +125,7 @@ Le club d'athlétisme Corsaire-Chaparral offrira un échauffement dirigé pour t
 
 ### Horaire
 
-[**Horaire provisoire (PDF)**](https://assets.corsaire-chaparral.org/competitions/2023/festival-en-salle-jeunes-coch-2023.horaire-prelim.pdf)
-
-L'horaire final sera publié 48 heures avant la compétition, soit le 30 novembre 2023
+L'horaire final sera publié 48 heures avant la compétition, soit le 30 novembre 2023.
 
 ### Remise des récompenses
 
