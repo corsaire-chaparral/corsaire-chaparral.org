@@ -1,0 +1,18 @@
+{{/******************************************************
+    Shortcode button
+    
+    Usage:
+  
+    {{< button href="http://example.com" size="lg" type="block" >}}
+    Texte du bouton
+    {{< /button >}}
+  
+    ******************************************************/}}
+
+{{- $href := .Get "href" }}
+{{- $attrs := .Get "attrs"}}
+{{- $variant := (.Get "variant") | default "primary" }}
+{{- $size := (.Get "size") | default "md" }}
+{{- $blockType := .Get "blockType" }}
+
+<a href="{{$href}}" {{$attrs}} class="btn btn-{{ $variant }} btn--{{$blockType}} -{{$size}}">{{- .Inner -}}</a>
