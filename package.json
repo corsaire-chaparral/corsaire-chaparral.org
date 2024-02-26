@@ -3,7 +3,7 @@
   "description": "Code source du site web du Corsaire-Chaparral.",
   "repository": "https://github.com/corsaire-chaparral/corsaire-chaparral.org.git",
   "devDependencies": {
-    "autoprefixer": "*",
+    "autoprefixer": "^10.4.17",
     "postcss-cli": "*"
   },
   "license": "MIT",
