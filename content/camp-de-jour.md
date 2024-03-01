@@ -94,37 +94,25 @@ Pour le camp de jour, votre enfant doit avoir avec lui les éléments suivants�
 
 Le Club d’athlétisme Corsaire-Chaparral a une politique de remboursement lui permettant de gérer efficacement les demandes reliées à la résiliation d’une inscription au camp de jour et à son remboursement.
 
-<details>
-<summary>
-<h3>Annulation ou modification</h3>
-</summary>
+{{% accordeon entete="Annulation ou modification" %}}
 
 Vous pouvez mettre fin en tout temps à une inscription à un camp en respectant certaines conditions. Vous devrez payer une pénalité uniquement si votre enfant a commencé à fréquenter le camp. Que vous ayez conclu votre contrat **en personne**, **par téléphone** ou **par Internet**, les règles sont les mêmes.
 
-</details>
+{{% /accordeon %}}
 
-<details>
-<summary>
-<h3>Annulation avant le début du camp</h3>
-</summary>
+{{% accordeon entete="Annulation avant le début du camp" %}}
 
 Vous pouvez annuler votre contrat avant le début du camp. Comme les services n’ont pas commencé à être fournis, l’annulation n’entraîne ni frais ni pénalité.
 
-</details>
+{{% /accordeon %}}
 
-<details>
-<summary>
-<h3>Annulation pendant le camp</h3>
-</summary>
+{{% accordeon entete="Annulation pendant le camp" %}}
 
 Vous pouvez annuler votre contrat au cours du séjour. Dans ce cas, vous devrez payer le coût des services déjà reçus. Le camp de jour peut aussi exiger une pénalité. Cette pénalité correspond à la plus petite de ces 2 sommes : 50 $ ou 10 % du coût des services qui n’ont pas été reçus.
 
-</details>
+{{% /accordeon %}}
 
-<details>
-<summary>
-<h3>Marche à suivre pour annuler l'inscription</h3>
-</summary>
+{{% accordeon entete="Marche à suivre pour annuler l'inscription" %}}
 
 Pour annuler l’inscription de votre enfant, vous devez transmettre au coordonnateur du camp de jour du club d’athlétisme Corsaire-Chaparral un avis écrit.
 
@@ -133,7 +121,7 @@ Nous vous conseillons de transmettre le document par courriel. Le contrat est an
 
 Courriel : <campdejour@corsaire-chaparral.org>
 
-</details>
+{{% /accordeon %}}
 
 ## Stationnement
 
