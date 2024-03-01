@@ -42,6 +42,7 @@ J7E 4S4
 
 {{< note >}}
 Un rabais de 10% sera appliqué pour le 2<sup>e</sup> enfant de la même famille pour une inscription dans la même semaine au camp de jour.
+Notez que l'inscription doit être faite lors de la même transaction pour que le rabais s'applique.
 {{< /note >}}
 
 **Service de garde** : 25 $ par semaine (en option)
