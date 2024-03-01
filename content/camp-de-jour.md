@@ -234,13 +234,8 @@ Nous n’offrons pas de service d’accompagnement. Votre enfant doit donc être
 
 ## Inscription
 
-{{< note >}}
-_L'inscription du camp de jour 2024 sera ouverte à compter du 1<sup>er</sup> mars 2024._
-{{< /note >}}
-
-<!--
 <a href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activities/session" class="btn btn-primary btn--block" target="_blank">
 Inscription au camp de jour
 {{< icon "chevron-right-solid" >}}
 </a>
--->
+
