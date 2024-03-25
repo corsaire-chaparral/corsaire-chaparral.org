@@ -4,9 +4,9 @@ date: "2024-04-27"
 icon: calendar-days-solid
 ---
 
-![Les Premières Foulées Bruny Surin](/img/logo-premieres-foulees-bruny-surin.jpg)
+![Circuit estival des jeunes](/img/cedj-logo.png)
 
-Le Corsaire-Chaparral est fier de présenter la 1<sup>re</sup> édition de son *Festival en salle des jeunes*, dans le cadre du circuit [Les Premières Foulées Bruny Surin](https://www.athletisme-quebec.ca/athlete/jeunesse-initiation/) d'Athlétisme Québec.
+Le Corsaire-Chaparral est fier de présenter la 1<sup>re</sup> édition de son *Festival printanier des jeunes*, dans le cadre du *Circuit estival* d'Athlétisme Québec.
 
 La formule est celle d'un **quadrathlon** (4 épreuves) pour les athlètes de catégories coccinelle, colibri, minime et benjamine.
 
