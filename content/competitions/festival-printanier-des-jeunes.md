@@ -4,6 +4,10 @@ date: "2024-04-27"
 icon: calendar-days-solid
 ---
 
+[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-festival-printanier-coch-2024.pdf) _(en date du 24 avril)_
+
+[**Résultats en ligne**](https://avs-sport.com/comp_main.php?comp=865)
+
 ![Circuit estival des jeunes](/img/cedj-logo.png)
 
 Le Corsaire-Chaparral est fier de présenter la 1<sup>re</sup> édition de son *Festival printanier des jeunes*, dans le cadre du *Circuit estival* d'Athlétisme Québec.
@@ -126,4 +130,8 @@ Le club d'athlétisme Corsaire-Chaparral offrira un échauffement dirigé pour t
 
 ### Horaire
 
+[Horaire final](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-festival-printanier-coch-2024.pdf)
+
+<!--
 L'horaire final sera publié 48 heures avant la compétition, soit le 25 avril 2024.
+-->
