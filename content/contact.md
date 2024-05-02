@@ -20,10 +20,6 @@ J7E 3H4
 {{< icon "envelope-solid" >}}
 <info@corsaire-chaparral.org>
 
-**Administration et traitement des inscriptions pour le secteur compétitif**  
-{{< icon "envelope-solid" >}}
-<admin@corsaire-chaparral.org>
-
 **Équipe de chronométrage**  
 {{< icon "envelope-solid" >}}
 <chronometrage@corsaire-chaparral.org>
