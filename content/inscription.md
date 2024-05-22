@@ -89,12 +89,7 @@ Veuillez noter que la cotisation ne comprend pas les frais de piste[^frais-de-pi
 
 ### Groupe d’entraînement pour adultes
 
-Du samedi 18 mai au mercredi 19 juin 2024.
-
-- **Mercredi** : de 18h00 à 19h15
-- **Samedi** : de 10h00 à 11h15
-
-Tarif : 150 $.
+**Groupe annulé.**
 
 {{% /accordeon %}}
 
@@ -141,9 +136,6 @@ Je comprends qu’en m’inscrivant aux activités du Club d'Athlétisme Corsair
 <a class="btn btn-primary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription annuelle 2023-2024</a>
 
 <a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships/1897">Inscription mi-année (printemps-été)</a>
-
-<a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/group/281048">Groupe d’entraînement pour adultes</a>
-
 
 {{< note >}}
 
