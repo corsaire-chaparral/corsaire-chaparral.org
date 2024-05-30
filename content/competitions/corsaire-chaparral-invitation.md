@@ -25,6 +25,11 @@ images:
 
 <!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2024/document-technique-coch-invitation-2024.pdf) -->
 
+<div style="max-width: 130px; float: inline-end; margin-inline-start: .75rem;">
+
+![Compétition de classement mondial - World Athletics](https://assets.corsaire-chaparral.org/competitions/2023/world-athletics-fr-2023.jpg)
+
+</div>
 
 ## Informations générales
 
