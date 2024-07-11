@@ -15,7 +15,7 @@ images:
 
 [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-coch-inv-2024.pdf) _mise à jour : 11 juillet, 9h27_
 
-<!-- [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2023/perflist-coch-inv2023.pdf) -->
+[**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2024/liste-de-performances-coch-inv-2024.pdf)
 
 <!-- [**Groupes de perche**](https://assets.corsaire-chaparral.org/competitions/2023/groupes-perche-cochinv2023.pdf) -->
 
