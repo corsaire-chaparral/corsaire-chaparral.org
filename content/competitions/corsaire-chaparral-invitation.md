@@ -13,7 +13,7 @@ images:
 #    parent: competitions
 ---
 
-[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-coch-inv-2024.pdf)
+[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-coch-inv-2024.pdf) _mise à jour : 11 juillet, 9h27_
 
 <!-- [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2023/perflist-coch-inv2023.pdf) -->
 
