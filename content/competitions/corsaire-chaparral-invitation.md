@@ -17,7 +17,7 @@ images:
 
 [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2024/liste-de-performances-coch-inv-2024.pdf)
 
-<!-- [**Groupes de perche**](https://assets.corsaire-chaparral.org/competitions/2023/groupes-perche-cochinv2023.pdf) -->
+[**Groupes de perche**](https://assets.corsaire-chaparral.org/competitions/2024/groupes-perche-coch-inv-2024.pdf)
 
 <!-- [**Composition des vagues**](https://assets.corsaire-chaparral.org/competitions/2023/MeetProgram__piste-coch-inv.pdf) -->
 
