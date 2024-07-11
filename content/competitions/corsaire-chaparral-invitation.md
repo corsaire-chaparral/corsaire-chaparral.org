@@ -35,7 +35,7 @@ images:
 
 ### Date et heure
 
-Samedi 13 juillet, de 13 h 00 à 20h 30.
+Samedi 13 juillet, de 13 h 00 à 21 h 00.
 
 ### Emplacement
 
