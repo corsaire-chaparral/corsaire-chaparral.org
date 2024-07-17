@@ -2,7 +2,7 @@
 title: "Les petits combinés Corsaire-Chaparral"
 date: 2024-08-10
 images: 
-- /img/banniere-petits-combines.jpg
+#- /img/banniere-petits-combines.jpg
 
 aliases:
 - /competitions/petit-pentathlon-nathalie
