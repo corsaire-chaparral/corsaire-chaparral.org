@@ -1,30 +1,63 @@
 ---
 title: "Les petits combinés Corsaire-Chaparral"
-date: 2023-08-06
+date: 2024-08-10
 images: 
 - /img/banniere-petits-combines.jpg
 
 aliases:
 - /competitions/petit-pentathlon-nathalie
 
+description: |
+  Le club d’athlétisme Corsaire-Chaparral est fier de présenter la première édition du Festival Provincial d’Athlétisme (Minime-Benjamin) à même sa cinquième édition de ses Petits Combinés (Coccinelle-Colibri). Cet événement a comme objectif de conclure la saison estivale dans une ambiance de FÊTE!
+
 ---
 
-<div class="well well-danger">
+<style>
+  :root {
+    --couleur-festival: #b91c8d;
+  }
 
-**Avis d’annulation**
+  .well--festival {
+    background-color: var(--couleur-festival);
+    color: #ffffff;
+  }
 
-En raison du nombre insuffisant de bénévoles ayant manifesté leur disponibilité, le club est contraint d’annuler l’édition 2023.
+  .festival {
+    color: var(--couleur-festival);
+  }
+</style>
+
+<div style="max-width: 300px; float: left;">
+
+![Festival provincial jeunesse Ouest](/img/festival-provincial-athletisme-ouest.png)
 
 </div>
 
+<div style="max-width: 260px; float: right;">
+
+![Premières foulées Bruny Surin](/img/premieres-foulees-bruny-surin.png)
+
+</div>
+
+<div class="well well--festival" style="clear:both;">
+
+Le **Festival Provincial d'Athlétisme (Ouest)** est une compétition d'envergure provinciale pour les athlètes des catégories Minime (10-11 ans) et Benjamin (12-13 ans). Il est la finalité du Circuit Régional Jeunesse d'Athlétisme (CRJA) qui se déroule durant l'été partout au Québec.
+
+</div>
+
+Les **Petits combinés** font partie du circuit des _Premières Foulées Bruny Surin (PFBS)_ d'Athlétisme Québec et s'adressent aux athlètes des catégorie coccinelle (6-7 ans) et colibri (8-9 ans).
+
 ## Informations générales
 
-- **Date** : ~~dimanche 6 août 2023~~ <em class="badge badge-danger">ANNULÉ</em>
-- **Responsable de la rencontre** : [Carole Crevier](mailto:caro.cre@outlook.com)
-- **Directrice technique** : Madame [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
-- **Chronométrage et résultats** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
-- **Bénévoles** : Karine Beauséjour
-- **Secrétariat** : Nancy Boucher
+- **Date** : samedi 10 août 2024
+- **Responsable de la rencontre** : Robert Lavoie
+- **Directrice technique** : Madame Nathalie Prince
+- **Chronométrage et résultats** : Louis-Olivier Brassard
+- **Bénévoles** : Gabrielle Rochon
+- **Communications** : Stéphanie Parent
+- **Secrétariat** : Carole Crevier
+- **Premiers soins** : Carol Desrosiers, Sauvetage A.G. des Moulins
+
 <!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
 <!-- - [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-petits-combines-2023-vfinal.pdf) -->
 <!-- - [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf) -->
@@ -32,8 +65,8 @@ En raison du nombre insuffisant de bénévoles ayant manifesté leur disponibili
 
 ## Emplacement
 
-**Stade Richard-Garneau**  
-401 boul. du Domaine  
+**Stade Richard-Garneau**\
+401 boul. du Domaine\
 Sainte-Thérèse, QC J7E 4S4
 
 ## Installations
@@ -44,117 +77,158 @@ Sainte-Thérèse, QC J7E 4S4
 - 4 fosses de sable
 - Gradins 
 - Accès aux toilettes de la polyvalente
-- Vestiaire : aucun service de vestiaire ni de douche ne sera disponible. Les organisateurs déclinent toute responsabilité en cas de perte ou de vol.
+- Vestiaire : aucun service de vestiaire ni de douche ne sera disponible. Les organisateurs déclinent toute responsabilité en cas de perte ou de vol.
 - Chronométrage électronique (systèmes Lynx)
 - Stationnement gratuit sur le site de la polyvalente
 
 ![Stade d’athlétisme Richard-Garneau](/img/stade-richard-garneau.jpg)
 
-## Épreuves offertes
+## Organismes responsables
 
-#### Colibri (2014-2015) – Quadrathlon  
+- Club d'athlétisme Corsaire-Chaparral
+- Athlétisme Québec
 
-- 80 m
-- saut en longueur (zone)
-- lancer du javelot turbo 300 g
-- 400 m
+## Inscriptions
 
-**Limite** : maximum de 32 filles et 32 garçons
+### Période d'inscription
 
-#### Minime (2012-2013) – Quadrathlon  
+Jusqu'au **lundi 5 août 2024, 23 h 59**.
 
-- 80 m
-- saut en longueur (zone)
-- lancer du javelot turbo 400 g
-- 400 m
+Aucun ajout ni modification après la date limite.
 
-**Limite** : maximum de 32 filles et 32 garçons
+### Coût d'inscription
 
-#### Benjamin (2010-2011) – Pentathlon  
+- Triathlon coccinelle : **30 \$** par athlète
+- Triathlon colibri : **30 \$** par athlète
+- Triathlon minime : **30 \$** par athlète
+- Triathlon benjamin : **30 \$** par athlète
+- Inscriptions pour les relais : gratuit
 
-- 80 m
-- saut en hauteur
-- saut en longueur (planche d’appel)
-- lancer du javelot 400 g (réglementaire, pas turbo!)
-- 600 m
+_Un rabais de 3\$ est appliqué aux athlètes affiliés à Athlétisme Québec._
 
-**Limite** : maximum de 40 filles et 40 garçons
+### Modalité d'inscription
 
-### Relais
+Inscription et paiement **en ligne** seulement sur site [avs-sport.com](https://avs-sport.com/) via PayPal ou carte de crédit.
 
-Pour les équipes présentes sur place (gratuit!) :
+Aucune inscription par courriel ni par messagerie privée.
 
-- Colibris : 4 x 80 m navette, mixte
-- Minimes : 4 x 80 m navette, mixte
-- Benjamins : 4 x 100 m autour de l’oval, mixte (2 filles, 2 garçons)
+### Remboursement
 
-## Programme <mark>(provisoire)</mark>
-
-### Colibris
-
-| Heure   | Épreuve              | Notes             |
-|---------|----------------------|-------------------|
-| 09 h 30 | Accueil des colibris |                   |
-|         | Échauffement dirigé  |                   |
-|         | 60 m                 |                   |
-|         | Longueur (zone)      | 2 fosses de saut  |
-|         | Javelot turbo (300 g)| 2 aires de lancer |
-|         | 400 m                |                   |
-|         | Relais navette 4 x 80 m | Mixte          |
-|         | Remise des médailles |                   |
-
-### Minimes
-
-| Heure   | Épreuve                 | Notes             |
-|---------|-------------------------|-------------------|
-| 10 h 30 | Accueil des minimes     |                   |
-|         | Échauffement dirigé     |                   |
-|         | 80 m                    |                   |
-|         | Longueur (zone)         | 2 fosses de saut  |
-|         | Javelot turbo (400 g)   | 2 aires de lancer |
-|         | 400 m                   |                   |
-|         | Relais navette 4 x 80 m | Mixte             |
-|         | Remise des médailles    |                   |
-
-### Benjamins
-
-| Heure   | Épreuve                    | Notes             |
-|---------|----------------------------|-------------------|
-| 13 h 00 | Accueil des benjamins      |                   |
-|         | Échauffement dirigé        |                   |
-|         | 80 m                       |                   |
-|         | Saut en hauteur            |                   |
-|         | Longueur (planche d’appel) | 2 fosses de saut  |
-|         | Javelot (400 g)            | 2 aires de lancer |
-|         | 600 m                      |                   |
-|         | Relais 4 x 100 m           | Mixte (2F + 2G)   |
-|         | Remise des médailles       |                   |
-
-## Inscription
-
-Inscription sur le site [AVS-Sport](https://avs-sport.com/main.php) jusqu’au **1<sup>er</sup> août 2023 à 23h59**.
-
-Aucune inscription après cette date. Absolument aucune inscription sur place.
-
-Tarifs : 
-
-- quadrathlon (colibri, minime) : 25,00$
-- pentathlon (benjamin) : 30,00$
-- relais : gratuit
-
-## Remboursement
-
-Aucun remboursement.
+Aucun remboursement d'inscription ne sera autorisé.
 
 ## Affiliation
 
-L’affiliation à la Fédération québécoise d’athlétisme n’est pas requise.
+L'affiliation à Athlétisme Québec n'est pas requise pour participer au Petit Combiné.
 
-## À propos de l’événement
+L'affiliation à Athlétisme Québec (récréative ou compétitive) est requise pour participer au Festival Provincial d'Athlétisme.
 
-Le club d’athlétisme Corsaire-Chaparral est fier de présenter la quatrième édition de ses _Petits combinés_ (anciennement le _Petit pentathlon de Nathalie_) dans le cadre du _Circuit estival des jeunes_ de la Fédération québécoise d’athlétisme.
+## Catégories
 
-Cette compétition amicale s’adresse aux athlètes de catégorie colibri (quadrathlon), minime (quadrathlon) et benjamin (pentathlon).
+-   Coccinelle (2017-2018) -- maximum de 32 filles et 32 garçons
+
+-   Colibri (2015-2016) -- maximum de 32 filles et 32 garçons
+
+-   Minime (2013-2014) -- maximum de 40 filles et 40 garçons
+
+-   Benjamin (2011-2012) -- maximum de 40 filles et 40 garçons
+
+## Épreuves offertes
+
+### Coccinelle
+
+**Triathlon** : 60m, lancer du javelot turbo (300g), saut en longueur *sans élan*.
+
+### Colibri
+
+**Triathlon** : 60m, lancer du javelot turbo (300g), saut en longueur *sans élan*.
+
+<div class="festival">
+
+### Minime
+
+**Triathlon** : (choix d'épreuves : 1 course + 1 lancer + 1 saut)
+
+-   **Courses** : Sprint 60m ou demi-fond 600m;
+-   **Lancers** : Poids (2kg) ou lancer du javelot turbo (400g);
+-   **Sauts** : Saut en longueur (*avec élan et zone d'impulsion 1 m*) ou saut en hauteur.
+-   **Relais navette** : 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
+
+</div>
+
+<div class="festival">
+
+### Benjamin
+
+**Triathlon** : (choix d'épreuves : 1 course + 1 lancer + 1 saut)
+
+-   **Courses** : Sprint 80m ou 80mH ou demi-fond 600m.
+-   **Lancers** : Poids (F : 2kg/ H : 3kg) ou lancer du javelot turbo (F : 400g/ H : 500g)
+-   **Sauts** : Saut en longueur ou saut en hauteur.
+-   **Relais navette** : 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
+
+</div>
+
+## Matériel
+
+Tout le matériel sera fourni par les organisateurs. Ce matériel sera le seul à pouvoir être utilisé.
+
+## Remise de médailles
+
+Il y aura une cérémonie de remise de médailles pour les 3 premières positions de chaque combiné.
+
+## Amusant et ... rafraîchissant!
+
+Une zone jeux et détente sera aménagée. Une surprise attend chacun·e des participant·e·s à la fin de leurs épreuves!
+
+
+## Informations techniques
+
+### Sanction
+
+Athlétisme Québec, sanction régionale
+
+### Chambre d'appel et arrivée
+
+Il n'y a pas de chambre d'appel pour cette compétition.
+
+Les athlètes devront se présenter à l'heure prévue pour l'échauffement de leur catégorie. Ils seront alors pris en charge par un animateur du Corsaire-Chaparral.
+
+### Horaire final
+
+Disponible à partir du jeudi 8 août 2024 à 12 h.
+
+### Surclassement
+
+Le surclassement sera autorisé selon les règlements en vigueur de la FQA.
+
+### Port du dossard
+
+Un dossard sera remis aux athlètes lors de leur arrivée. **Les athlètes devront le porter à l'avant, tout au long de la compétition**, jusqu'à leur dernière épreuve.
+
+### Saut en hauteur
+
+2 essais maximum par hauteur, avec reprise immédiatement après un essai raté.
+
+La barre commencera à la hauteur de 1m et progressera par incréments de 5 cm.
+
+### Saut en longueur
+
+Pour le saut en longueur sans élan : deux sauts consécutifs. Seul le meilleur saut sera mesuré.
+
+Pour le saut en longueur avec élan: sauts non consécutifs. Il y aura 2 ou 3 essais, selon l'horaire et le nombre d'inscriptions.
+
+## Lancer du javelot
+
+Trois lancers consécutifs. Seul le meilleur lancer sera mesuré.
+
+**Entraîneurs des clubs : les entraîneurs sont tous bienvenus pour aider à l'encadrement!**
+
+
+---
+
+## Programme <mark>(provisoire)</mark>
+
+_À venir._
 
 ## Résultats
 
