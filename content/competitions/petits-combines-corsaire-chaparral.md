@@ -49,14 +49,14 @@ Les **Petits combinés** font partie du circuit des _Premières Foulées Bruny S
 
 ## Informations générales
 
-- **Date** : samedi 10 août 2024
-- **Responsable de la rencontre** : Robert Lavoie
-- **Directrice technique** : Madame Nathalie Prince
-- **Chronométrage et résultats** : Louis-Olivier Brassard
-- **Bénévoles** : Gabrielle Rochon
-- **Communications** : Stéphanie Parent
-- **Secrétariat** : Carole Crevier
-- **Premiers soins** : Carol Desrosiers, Sauvetage A.G. des Moulins
+- **Date :** samedi 10 août 2024
+- **Responsable de la rencontre :** Robert Lavoie
+- **Directrice technique :** Madame Nathalie Prince
+- **Chronométrage et résultats :** Louis-Olivier Brassard
+- **Bénévoles :** Gabrielle Rochon
+- **Communications :** Stéphanie Parent
+- **Secrétariat :** Carole Crevier
+- **Premiers soins :** Carol Desrosiers, Sauvetage A.G. des Moulins
 
 <!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
 <!-- - [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-petits-combines-2023-vfinal.pdf) -->
@@ -121,7 +121,7 @@ Inscription et paiement **en ligne** seulement.
 Aucune inscription par courriel ni par messagerie privée.
 
 - [**Inscription aux _Petits combinés_ (AVS-Sport)**](https://avs-sport.com/)
-- <a href="https://www.trackie.com/fr/evenement/festival-provincial-jeunesse-d-athletisme-ouest/1014343/" target="_blank" style="border-bottom-color: currentColor;" class="festival"><strong>Inscription au <em>Festival provincial d’athlétisme</em> (Trackie)<strong></a>
+- <a href="https://www.trackie.com/fr/evenement/festival-provincial-jeunesse-d-athletisme-ouest/1014343/" target="_blank" style="border-bottom-color: currentColor;" class="festival"><strong>Inscription au <em>Festival provincial d’athlétisme</em> (Trackie)</strong></a>
 
 
 ### Remboursement
@@ -130,7 +130,7 @@ Aucun remboursement d'inscription ne sera autorisé.
 
 ## Affiliation
 
-- L'affiliation à Athlétisme Québec n'est pas requise pour participer aux *Petits combinés* (coccinelle-colibri).
+- L'affiliation à Athlétisme Québec n'est pas requise pour participer aux *Petits combinés* (coccinelle et colibri).
 - <strong class="festival">L'affiliation à Athlétisme Québec (récréative ou compétitive) est requise pour participer au <em>Festival provincial d'athlétisme</em> (minime et benjamin).</strong>
 
 ## Catégories
@@ -149,22 +149,22 @@ Aucun remboursement d'inscription ne sera autorisé.
 
 ### Coccinelle
 
-**Triathlon** : 60m, lancer du javelot turbo (300g), saut en longueur *sans élan*.
+**Triathlon :** 60m, lancer du javelot turbo (300g), saut en longueur *sans élan*.
 
 ### Colibri
 
-**Triathlon** : 60m, lancer du javelot turbo (300g), saut en longueur *sans élan*.
+**Triathlon :** 60m, lancer du javelot turbo (300g), saut en longueur *sans élan*.
 
 <div class="festival">
 
 ### Minime
 
-**Triathlon** : (choix d'épreuves : 1 course + 1 lancer + 1 saut)
+**Triathlon :** (choix d'épreuves : 1 course + 1 lancer + 1 saut)
 
-- **Courses** : Sprint 60m ou demi-fond 600m;
-- **Lancers** : Poids (2kg) ou lancer du javelot turbo (400g);
-- **Sauts** : Saut en longueur (*avec élan et zone d'impulsion 1 m*) ou saut en hauteur.
-- **Relais navette** : 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
+- **Courses :** Sprint 60m ou demi-fond 600m;
+- **Lancers :** Poids (2kg) ou lancer du javelot turbo (400g);
+- **Sauts :** Saut en longueur (*avec élan et zone d'impulsion 1 m*) ou saut en hauteur.
+- **Relais navette :** 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
 
 </div>
 
@@ -174,10 +174,10 @@ Aucun remboursement d'inscription ne sera autorisé.
 
 **Triathlon** : (choix d'épreuves : 1 course + 1 lancer + 1 saut)
 
--   **Courses** : Sprint 80m ou 80mH (hauteur: 30po, dist 1<sup>re</sup> : 12m, dist. entre : 7,5m) ou demi-fond 600m.
--   **Lancers** : Poids (F : 2kg/ H : 3kg) ou lancer du javelot turbo (F : 400g/ H : 500g)
--   **Sauts** : Saut en longueur ou saut en hauteur.
--   **Relais navette** : 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
+- **Courses :** Sprint 80m ou 80mH (hauteur: 30po, dist 1<sup>re</sup> : 12m, dist. entre : 7,5m) ou demi-fond 600m.
+- **Lancers :** Poids (F : 2kg/ H : 3kg) ou lancer du javelot turbo (F : 400g/ H : 500g)
+- **Sauts :** Saut en longueur ou saut en hauteur.
+- **Relais navette :** 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
 
 ### Statut d'identification
 Résultats valides pour le statut Espoir régional.
