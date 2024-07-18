@@ -27,6 +27,14 @@ description: |
   }
 </style>
 
+<!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
+<!-- - [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-petits-combines-2023-vfinal.pdf) -->
+<!-- - [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf) -->
+
+[**Horaire provisoire (PDF)**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-provisoire-petits-combines-coch-2024.pdf)
+
+[**Résultats en ligne**](https://resultats.corsaire-chaparral.org/meets/festival-jeunesse-athletisme-ouest-2024)
+
 <div style="max-width: 300px; float: left;">
 
 ![Festival provincial jeunesse Ouest](/img/festival-provincial-athletisme-ouest.png)
@@ -57,11 +65,6 @@ Les **Petits combinés** font partie du circuit des _Premières Foulées Bruny S
 - **Communications :** Stéphanie Parent
 - **Secrétariat :** Carole Crevier
 - **Premiers soins :** Carol Desrosiers, Sauvetage A.G. des Moulins
-
-<!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
-<!-- - [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-petits-combines-2023-vfinal.pdf) -->
-<!-- - [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf) -->
-<!-- - [**Résultats en ligne**](https://avs-sport.com/comp_main.php?comp=752) -->
 
 ## Emplacement
 
@@ -209,6 +212,11 @@ Il n'y a pas de chambre d'appel pour cette compétition.
 
 Les athlètes devront se présenter à l'heure prévue pour l'échauffement de leur catégorie. Ils seront alors pris en charge par un animateur du Corsaire-Chaparral.
 
+<div class="well well-secondary" style="text-align: center; font-size: 1.5rem; font-style: italic;">
+Entraîneurs de clubs : les entraîneurs sont tous bienvenus pour aider à l’encadrement !
+</div>
+
+
 ### Horaire final
 
 Disponible à partir du jeudi 8 août 2024 à 12 h.
@@ -237,18 +245,13 @@ Pour le saut en longueur avec élan: sauts non consécutifs. Il y aura 2 ou 3 es
 
 Trois lancers consécutifs. Seul le meilleur lancer sera mesuré.
 
-## Programme de la journée
-
-[**Horaire provisoire (PDF)**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-provisoire-petits-combines-coch-2024.pdf)
-
-<div class="well well-secondary" style="text-align: center; font-size: 1.5rem; font-style: italic;">
-Entraîneurs de clubs : les entraîneurs sont tous bienvenus pour aider à l’encadrement !
-</div>
-
-## Résultats
+## Résultats antérieurs
 
 [Résulats 2022]({{< ref "resultats/2022/petits-combines-coch" >}})
 
 [Résulats 2021]({{< ref "resultats/2021/petit-pentathlon-nathalie-2021" >}})
 
 [Résultats 2020]({{< ref "resultats/2020/petit-pentathlon-nathalie" >}})
+
+[Résultats 2019]({{< ref "resultats/2019/petit-combine-de-nathalie" >}})
+
