@@ -212,9 +212,10 @@ Il n'y a pas de chambre d'appel pour cette compétition.
 
 Les athlètes devront se présenter à l'heure prévue pour l'échauffement de leur catégorie. Ils seront alors pris en charge par un animateur du Corsaire-Chaparral.
 
-<div class="well well-secondary" style="text-align: center; font-size: 1.5rem; font-style: italic;">
-Entraîneurs de clubs : les entraîneurs sont tous bienvenus pour aider à l’encadrement !
-</div>
+{{< note >}}
+**Entraîneurs de clubs**\
+Les entraîneurs sont tous bienvenus pour aider à l’encadrement !
+{{< /note >}}
 
 
 ### Horaire final
