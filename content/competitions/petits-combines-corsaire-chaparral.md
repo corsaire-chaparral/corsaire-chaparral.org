@@ -159,7 +159,7 @@ Aucun remboursement d'inscription ne sera autorisé.
 
 ### Minime
 
-**Triathlon :** (choix d'épreuves : 1 course + 1 lancer + 1 saut)
+**Triathlon :** choix d'épreuves entre 1 course + 1 lancer + 1 saut.
 
 - **Courses :** Sprint 60m ou demi-fond 600m;
 - **Lancers :** Poids (2kg) ou lancer du javelot turbo (400g);
