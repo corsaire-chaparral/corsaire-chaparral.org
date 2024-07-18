@@ -121,7 +121,7 @@ Inscription et paiement **en ligne** seulement.
 Aucune inscription par courriel ni par messagerie privée.
 
 - [**Inscription aux _Petits combinés_ (AVS-Sport)**](https://avs-sport.com/)
-- <a href="https://www.trackie.com/fr/evenement/festival-provincial-jeunesse-d-athletisme-ouest/1014343/" target="_blank" class="festival"><strong>Festival provincial d’athlétisme (Trackie)<strong></a>
+- <a href="https://www.trackie.com/fr/evenement/festival-provincial-jeunesse-d-athletisme-ouest/1014343/" target="_blank" style="border-bottom-color: currentColor;" class="festival"><strong>Inscription au <em>Festival provincial d’athlétisme</em> (Trackie)<strong></a>
 
 
 ### Remboursement
