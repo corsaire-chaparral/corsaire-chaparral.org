@@ -8,7 +8,7 @@ aliases:
 - /competitions/petit-pentathlon-nathalie
 
 description: |
-  Le club d’athlétisme Corsaire-Chaparral est fier de présenter la première édition du Festival Provincial d’Athlétisme (Minime-Benjamin) à même sa cinquième édition de ses Petits Combinés (Coccinelle-Colibri). Cet événement a comme objectif de conclure la saison estivale dans une ambiance de FÊTE!
+  Le club d’athlétisme Corsaire-Chaparral est fier de présenter la première édition du _Festival provincial d’athlétisme_ (minime-benjamin) à même sa cinquième édition de ses Petits Combinés (coccinelle-colibri). Cet événement a comme objectif de conclure la saison estivale dans une ambiance de FÊTE!
 
 ---
 
@@ -41,7 +41,7 @@ description: |
 
 <div class="well well--festival" style="clear:both;">
 
-Le **Festival Provincial d'Athlétisme (Ouest)** est une compétition d'envergure provinciale pour les athlètes des catégories Minime (10-11 ans) et Benjamin (12-13 ans). Il est la finalité du Circuit Régional Jeunesse d'Athlétisme (CRJA) qui se déroule durant l'été partout au Québec.
+Le **Festival provincial d'athlétisme (Ouest)** est une compétition d'envergure provinciale pour les athlètes des catégories minime (10-11 ans) et benjamin (12-13 ans). Il est la finalité du _Circuit régional jeunesse d'athlétisme (CRJA)_ qui se déroule durant l'été partout au Québec.
 
 </div>
 
@@ -94,7 +94,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 Jusqu'au **lundi 5 août 2024, 23 h 59**.
 
-Aucun ajout ni modification après la date limite.
+<mark>Aucun ajout ni modification après la date limite.</mark>
 
 ### Coût d'inscription
 
@@ -118,19 +118,20 @@ Aucun remboursement d'inscription ne sera autorisé.
 
 ## Affiliation
 
-L'affiliation à Athlétisme Québec n'est pas requise pour participer au Petit Combiné.
-
-L'affiliation à Athlétisme Québec (récréative ou compétitive) est requise pour participer au Festival Provincial d'Athlétisme.
+- L'affiliation à Athlétisme Québec n'est pas requise pour participer aux *Petits combinés* (coccinelle-colibri).
+- <strong class="festival">L'affiliation à Athlétisme Québec (récréative ou compétitive) est requise pour participer au <em>Festival provincial d'athlétisme</em> (minime et benjamin).</strong>
 
 ## Catégories
 
--   Coccinelle (2017-2018) -- maximum de 32 filles et 32 garçons
+- **Coccinelle (2017-2018)** -- maximum de 32 filles et 32 garçons
+- **Colibri (2015-2016)** -- maximum de 32 filles et 32 garçons
 
--   Colibri (2015-2016) -- maximum de 32 filles et 32 garçons
+<div class="festival">
 
--   Minime (2013-2014) -- maximum de 40 filles et 40 garçons
+- **Minime (2013-2014)** -- maximum de 40 filles et 40 garçons
+- **Benjamin (2011-2012)** -- maximum de 40 filles et 40 garçons
 
--   Benjamin (2011-2012) -- maximum de 40 filles et 40 garçons
+</div>
 
 ## Épreuves offertes
 
@@ -148,10 +149,10 @@ L'affiliation à Athlétisme Québec (récréative ou compétitive) est requise 
 
 **Triathlon** : (choix d'épreuves : 1 course + 1 lancer + 1 saut)
 
--   **Courses** : Sprint 60m ou demi-fond 600m;
--   **Lancers** : Poids (2kg) ou lancer du javelot turbo (400g);
--   **Sauts** : Saut en longueur (*avec élan et zone d'impulsion 1 m*) ou saut en hauteur.
--   **Relais navette** : 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
+- **Courses** : Sprint 60m ou demi-fond 600m;
+- **Lancers** : Poids (2kg) ou lancer du javelot turbo (400g);
+- **Sauts** : Saut en longueur (*avec élan et zone d'impulsion 1 m*) ou saut en hauteur.
+- **Relais navette** : 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
 
 </div>
 
@@ -161,10 +162,13 @@ L'affiliation à Athlétisme Québec (récréative ou compétitive) est requise 
 
 **Triathlon** : (choix d'épreuves : 1 course + 1 lancer + 1 saut)
 
--   **Courses** : Sprint 80m ou 80mH ou demi-fond 600m.
+-   **Courses** : Sprint 80m ou 80mH (hauteur: 30po, dist 1<sup>re</sup> : 12m, dist. entre : 7,5m) ou demi-fond 600m.
 -   **Lancers** : Poids (F : 2kg/ H : 3kg) ou lancer du javelot turbo (F : 400g/ H : 500g)
 -   **Sauts** : Saut en longueur ou saut en hauteur.
 -   **Relais navette** : 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
+
+### Statut d'identification
+Résultats valides pour le statut Espoir régional.
 
 </div>
 
