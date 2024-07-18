@@ -237,14 +237,13 @@ Pour le saut en longueur avec élan: sauts non consécutifs. Il y aura 2 ou 3 es
 
 Trois lancers consécutifs. Seul le meilleur lancer sera mesuré.
 
-**Entraîneurs des clubs : les entraîneurs sont tous bienvenus pour aider à l'encadrement!**
+## Programme de la journée
 
+[**Horaire provisoire (PDF)**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-provisoire-petits-combines-coch-2024.pdf)
 
----
-
-## Programme <mark>(provisoire)</mark>
-
-[**Horaire provisoire**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-provisoire-petits-combines-coch-2024.pdf)
+<div class="well well-secondary" style="text-align: center; font-size: 1.5rem; font-style: italic;">
+Entraîneurs de clubs : les entraîneurs sont tous bienvenus pour aider à l’encadrement !
+</div>
 
 ## Résultats
 
