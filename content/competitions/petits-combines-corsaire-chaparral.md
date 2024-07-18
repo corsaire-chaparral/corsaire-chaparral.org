@@ -8,7 +8,7 @@ aliases:
 - /competitions/petit-pentathlon-nathalie
 
 description: |
-  Le club d’athlétisme Corsaire-Chaparral est fier de présenter la première édition du _Festival provincial d’athlétisme_ (minime-benjamin) à même sa cinquième édition de ses Petits Combinés (coccinelle-colibri). Cet événement a comme objectif de conclure la saison estivale dans une ambiance de FÊTE!
+  Le club d’athlétisme Corsaire-Chaparral est fier de présenter la première édition du <em class="festival">Festival provincial d’athlétisme</em> (minime-benjamin) à même sa cinquième édition de ses _Petits combinés_ (coccinelle-colibri). Cet événement a comme objectif de conclure la saison estivale dans une ambiance de FÊTE !
 
 ---
 
@@ -107,7 +107,7 @@ _Un rabais de 3\$ est appliqué aux athlètes affiliés à Athlétisme Québec._
 
 <div class="festival">
 
-Festival provincial jeunesse (affiliation obligatoire) :
+_Festival provincial jeunesse_ (affiliation obligatoire) :
 
 - Triathlon minime : **45 \$** par athlète
 - Triathlon benjamin : **45 \$** par athlète
