@@ -17,7 +17,7 @@ description: |
     --couleur-festival: #b91c8d;
   }
 
-  .well--festival {
+  .well-festival {
     background-color: var(--couleur-festival);
     color: #ffffff;
   }
@@ -47,13 +47,15 @@ description: |
 
 </div>
 
-<div class="well well--festival" style="clear:both;">
+<div class="well well-festival" style="clear:both;">
 
 Le **Festival provincial d'athlétisme (Ouest)** est une compétition d'envergure provinciale pour les athlètes des catégories minime (10-11 ans) et benjamin (12-13 ans). Il est la finalité du _Circuit régional jeunesse d'athlétisme (CRJA)_ qui se déroule durant l'été partout au Québec.
 
 </div>
 
+{{< note >}}
 Les **Petits combinés** font partie du circuit des _Premières Foulées Bruny Surin (PFBS)_ d'Athlétisme Québec et s'adressent aux athlètes des catégorie coccinelle (6-7 ans) et colibri (8-9 ans).
+{{< /note >}}
 
 ## Informations générales
 
