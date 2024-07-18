@@ -175,7 +175,7 @@ Aucun remboursement d'inscription ne sera autorisé.
 **Triathlon** : (choix d'épreuves : 1 course + 1 lancer + 1 saut)
 
 - **Courses :** Sprint 80m ou 80mH (hauteur: 30po, dist 1<sup>re</sup> : 12m, dist. entre : 7,5m) ou demi-fond 600m.
-- **Lancers :** Poids (F : 2kg/ H : 3kg) ou lancer du javelot turbo (F : 400g/ H : 500g)
+- **Lancers :** Poids (F : 2kg/ H : 3kg) ou lancer du javelot (F : 400g turbo / H : 500g vrai javelot)
 - **Sauts :** Saut en longueur ou saut en hauteur.
 - **Relais navette :** 4x60m (maximum 1-2 équipes mixtes par club ceci en fonction du nombre d'inscriptions).
 
