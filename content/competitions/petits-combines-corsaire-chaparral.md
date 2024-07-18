@@ -232,7 +232,7 @@ Trois lancers consécutifs. Seul le meilleur lancer sera mesuré.
 
 ## Programme <mark>(provisoire)</mark>
 
-![**Horaire provisoire**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-provisoire-petits-combines-coch-2024.pdf)
+[**Horaire provisoire**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-provisoire-petits-combines-coch-2024.pdf)
 
 ## Résultats
 
