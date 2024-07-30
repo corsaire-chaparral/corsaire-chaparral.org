@@ -69,7 +69,7 @@ Robert Lavoie
 ### Responsables techniques
 
 -   **Nathalie Prince**
--   **Natalia Statulat**
+-   **Natalia Stratulat**
 
 ### Catégories
 
@@ -77,6 +77,8 @@ Robert Lavoie
 -   Juvénile
 -   Junior
 -   Sénior
+
+Le surclassement est autorisé selon le règlement en vigueur d'Athlétisme Québec.
 
 ### Affiliation
 
@@ -103,7 +105,7 @@ Sera rendu disponible 48 heures avant la compétition sur le site web du Corsair
 
 ### Matériel
 
-Tout le matériel sera fourni par les organisateurs. Ce matériel sera le seul à pouvoir être utilisé, à l'exception des perches.
+Tout le matériel sera fourni par les organisateurs. Ce matériel sera le seul à pouvoir être utilisé.
 
 ### Port du dossard
 
