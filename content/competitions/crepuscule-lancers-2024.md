@@ -68,8 +68,8 @@ Robert Lavoie
 
 ### Responsables techniques
 
--   **Nathalie Prince**
--   **Natalia Stratulat**
+-   Nathalie Prince
+-   Natalia Stratulat
 
 ### Catégories
 
