@@ -93,8 +93,6 @@ Tous les athlètes doivent être affiliés à Athlétisme Québec ou sous la ban
 L'inscription doit être faite en ligne au plus tard le **dimanche 11 août 2024 à 23 h 59** en ligne, à l'adresse suivante :\
 <https://www.trackie.com/fr/evenement/crepuscule-de-lancers-corsaire-chaparral-2024/1014610/>
 
-Le paiement intégral doit être fait en ligne et au plus tard au moment de la date limite d'inscription.
-
 ### Remboursement
 
 Aucun remboursement d'inscription ne sera autorisé, sauf dans le cas d'une annulation d'épreuve.
