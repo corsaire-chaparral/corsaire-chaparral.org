@@ -17,7 +17,7 @@ description: |
     --couleur-festival: #b91c8d;
   }
 
-  .well-festival {
+  .well--festival {
     background-color: var(--couleur-festival);
     color: #ffffff;
   }
@@ -28,10 +28,9 @@ description: |
 </style>
 
 <!-- [**Document d’invitation**](https://assets.corsaire-chaparral.org/competitions/2022/document-technique-petits-combines-2022.pdf) -->
-<!-- - [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2023/horaire-petits-combines-2023-vfinal.pdf) -->
-<!-- - [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf) -->
+<!-- [**Liste des athlètes inscrits**](https://assets.corsaire-chaparral.org/competitions/2022/inscriptions-par-epreuve-petits-combines-2022.pdf) -->
 
-[**Horaire provisoire (PDF)**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-provisoire-petits-combines-coch-2024.pdf)
+[**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-petits-combines-coch-2024.pdf)
 
 [**Résultats en ligne**](https://resultats.corsaire-chaparral.org/meets/festival-jeunesse-athletisme-ouest-2024)
 
