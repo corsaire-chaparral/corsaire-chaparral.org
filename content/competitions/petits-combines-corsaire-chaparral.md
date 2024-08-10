@@ -34,6 +34,10 @@ description: |
 
 [**Résultats en ligne**](https://resultats.corsaire-chaparral.org/meets/festival-jeunesse-athletisme-ouest-2024)
 
+[**Dossards par club (PDF)**](https://fichiers.corsaire-chaparral.org/s/8HTwAf8k4JcjN6m)
+
+[**Formulaire de relais (PDF)**](https://fichiers.corsaire-chaparral.org/s/ybSzXXMoXzK4zqr)
+
 <div style="max-width: 300px; float: left;">
 
 ![Festival provincial jeunesse Ouest](/img/festival-provincial-athletisme-ouest.png)
