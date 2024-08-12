@@ -13,8 +13,6 @@ images:
 #    parent: competitions
 ---
 
-<!-- [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-coch-inv-2024.pdf) -->
-
 [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2024/liste-perf-crepuscule-lancers-coch-2024-08-14.pdf)
 
 Feuilles de terrain : [**poids**](https://assets.corsaire-chaparral.org/competitions/2024/feuilles-lancer-du-poids.pdf) | [**disque**](https://assets.corsaire-chaparral.org/competitions/2024/feuilles-lancer-du-disque.pdf) | [**javelot**](https://assets.corsaire-chaparral.org/competitions/2024/feuilles-lancer-du-javelot.pdf)
@@ -23,12 +21,22 @@ Feuilles de terrain : [**poids**](https://assets.corsaire-chaparral.org/compet
 
 <!-- [**Résultats compilés (PDF**)](https://assets.corsaire-chaparral.org/competitions/2024/coch-invitation-2024-resultas.pdf) -->
 
+<!-- [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-coch-inv-2024.pdf) -->
+
+## Horaire final
+
+| Heure   | Épreuve                     |
+|---------|-----------------------------|
+| 18 h 00  | Disque (toutes catégories)  |
+| 18 h 45  | Poids (toutes catégories)   |
+| 19 h 45  | Javelot (toutes catégories) |
+| 20 h 30  | Fin des épreuves            |
+
 <div style="max-width: 130px; float: inline-end; margin-inline-start: .75rem;">
 
 ![Compétition de classement mondial - World Athletics](https://assets.corsaire-chaparral.org/competitions/2023/world-athletics-fr-2023.jpg)
 
 </div>
-
 
 ## Informations générales
 
