@@ -15,8 +15,6 @@ images:
 
 [**Liste des performances**](https://assets.corsaire-chaparral.org/competitions/2024/liste-perf-crepuscule-lancers-coch-2024-08-14.pdf)
 
-Feuilles de terrain : [**poids**](https://assets.corsaire-chaparral.org/competitions/2024/feuilles-lancer-du-poids.pdf) | [**disque**](https://assets.corsaire-chaparral.org/competitions/2024/feuilles-lancer-du-disque.pdf) | [**javelot**](https://assets.corsaire-chaparral.org/competitions/2024/feuilles-lancer-du-javelot.pdf)
-
 [**Résultats en ligne**](https://resultats.corsaire-chaparral.org/meets/crepuscule-lancers-2024)
 
 [**Résultats compilés (PDF)**](https://assets.corsaire-chaparral.org/competitions/2024/resultats-crepuscule-lancers-coch-2024.pdf)
