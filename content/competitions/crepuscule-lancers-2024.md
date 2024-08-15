@@ -19,6 +19,8 @@ Feuilles de terrain : [**poids**](https://assets.corsaire-chaparral.org/compet
 
 [**Résultats en ligne**](https://resultats.corsaire-chaparral.org/meets/crepuscule-lancers-2024)
 
+[**Résultats compilés (PDF)**](https://assets.corsaire-chaparral.org/competitions/2024/resultats-crepuscule-lancers-coch-2024.pdf)
+
 <!-- [**Résultats compilés (PDF**)](https://assets.corsaire-chaparral.org/competitions/2024/coch-invitation-2024-resultas.pdf) -->
 
 <!-- [**Horaire final**](https://assets.corsaire-chaparral.org/competitions/2024/horaire-final-coch-inv-2024.pdf) -->
