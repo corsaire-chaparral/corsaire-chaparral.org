@@ -36,11 +36,6 @@ Trésorière
 {{< icon "envelope-solid" >}}
 <nanzzou@outlook.com>
 
-**Olivier Lavoie**  
-Entraîneur-chef  
-{{< icon "envelope-solid" >}}
-<olivier.gabriel.lavoie@gmail.com>
-
 **Louis-Olivier Brassard**  
 Webmestre  
 {{< icon "envelope-solid" >}}
