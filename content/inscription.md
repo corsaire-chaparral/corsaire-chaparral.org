@@ -24,19 +24,16 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 {{< /div >}}
 -->
 
-{{% accordeon entete="Informations générales et politiques d'inscription" niveau="2" %}}
+{{% accordeon entete="Informations générales et politiques d'inscription" niveau="2" ouvert="yes" %}}
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription.
-La cotisation de l’athlète comprend :
-
-- les frais d’entraînements;
-- l’affiliation à la Fédération québécoise d'athlétisme;
+La cotisation de l’athlète comprend les frais d’entraînements, mais ne comprend pas l'adhésion à Athlétisme Canada / Athlétisme Québec.
 
 Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.
 
 - **Chandail ou camisole obligatoire** : le port du [vêtement officiel](/club/vetements/) aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin. Le coût de ce vêtement n’est pas inclus dans la cotisation.
 - **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
-- **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste (voir la liste plus bas). Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels de **174,65 $** par année (non compris dans la cotisation). Nous vous invitons à réclamer ce montant auprès de votre municipalité.
+- **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste (voir la liste plus bas). Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels (non compris dans la cotisation). Nous vous invitons à réclamer ce montant auprès de votre municipalité.
 - **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription des membres de la famille doit être complétée en même temps pour bénéficier de ce rabais). Le rabais se fait sur la cotisation de l’athlète le plus jeune.
   - 2e enfant : 25%
   - 3e enfant : 50%
@@ -70,38 +67,11 @@ L’inscription annuelle est valide du 1<sup>er</sup> septembre 2023 au 31 août
 L'inscription de mi-année est valide du 1<sup>er</sup> avril au 10 août 2024. \
 Veuillez noter que la cotisation ne comprend pas les frais de piste[^frais-de-piste].
 
+_Tarifs 2024-2025 à venir._
+
 [^inscription-annuelle]: **Date de fin** : La date de fin du 10 août 2024 est indicative. Cette date peut être modifiée selon le calendrier individuel de compétitions qui sera établi par l’entraîneur.
 
 [^frais-de-piste]: **Frais de piste et cotisation** : les frais de piste s'appliquent à **50%** pour les inscriptions de mi-année et à **33%** pour les sessions d'initiation.
-
-<!--
-| Catégorie             | Cotisation | Mi-année |
-|-----------------------|------------|----------|
-| Benjamin (2011–2012)  | 556 $      | 356 $    |
-| Cadet (2009–2010)     | 657 $      | 420 $    |
-| Juvénile (2007–2008)  | 667 $      | 427 $    |
-| Junior (2005–2006)    | 802 $      | 513 $    |
-| Senior (1989–2004)    | 812 $      | 520 $    |
-| Vétéran (–1988)       | 667 $      | 427 $    |
-| Affiliation seulement | 120 $      | -        |
--->
-
-<!--
-### Session initiation (colibri et minime seulement)
-
-- **Session 1** : 9 septembre 2023 au 15 décembre 2023.
-- **Session 2** : 13 janvier au 27 avril 2024.
-- **Session 3** : 4 mai au 10 août 2024.
-
-| Catégorie            | Cotisation |
-|----------------------|------------|
-| Colibri (2015–2016)  | 150 $      |
-| Minime (2013–2014)   | 150 $      |
-
-### Groupe d’entraînement pour adultes
-
-**Groupe annulé.**
--->
 
 {{% /accordeon %}}
 
@@ -135,6 +105,8 @@ Revenez nous voir à ce moment-là!
 - **Compte client** : vous devrez vous créer un compte pour utiliser la plateforme Qidigo. Il est recommandé d’utiliser un partenaire de connexion (compte Facebook, compte Google). Ce compte vous servira tout au long de l’année pour l’inscription à des activités ultérieures.
 - **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront crédités par les administrateurs (le remboursement sera effectué sur la carte de crédit utilisée lors du paiement de l’inscription).
 
+-->
+
 <a class="btn btn-primary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription annuelle 2023-2024</a>
 
 <a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships/1897">Inscription mi-année (printemps-été)</a>
@@ -150,7 +122,6 @@ Pour les groupes colibri et minime : [**inscription à&nbsp;la&nbsp;session**]
 Vous cherchez le camp de jour ? [**C'est par ici.**](/camp-de-jour/)
 
 {{< /note >}}
--->
 
 {{% /accordeon %}}
 
