@@ -5,6 +5,13 @@ icon: stopwatch-solid
 layout: single
 ---
 
+{{% div class="well well-primary" %}}
+**Saison 2024-2025** \
+\
+Le club est en préparation pour la nouvelle saison 2024-2025. L'inscription ouvrira à compter de la **première semaine de septembre 2024** et les entraînements reprendront à partir de la **mi-septembre**. Revenez nous voir à ce moment-là!
+{{% /div %}}
+
+
 ## {{< icon name="map-solid" size="28" >}} Lieux d'entraînement
 
 Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sportif de la **Polyvalente Sainte-Thérèse** qui lui est adjacent.

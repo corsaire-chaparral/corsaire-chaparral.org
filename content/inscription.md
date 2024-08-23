@@ -6,8 +6,15 @@ aliases:
   - /club/inscription/
 ---
 
+{{% div class="well well-primary" %}}
+**Saison 2024-2025** \
+\
+Le club est en préparation pour la nouvelle saison 2024-2025. L'inscription ouvrira à compter de la **première semaine de septembre 2024** et les entraînements reprendront à partir de la **mi-septembre**. Revenez nous voir à ce moment-là!
+{{% /div %}}
+
+<!--
 {{< div class="well well-danger" >}}
-{{< icon "envelope-solid" >}} **Note importante sur les courriels**
+**Note importante sur les courriels**
 
 Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
@@ -15,6 +22,7 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
 à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{< /div >}}
+-->
 
 {{% accordeon entete="Informations générales et politiques d'inscription" niveau="2" %}}
 
@@ -66,6 +74,7 @@ Veuillez noter que la cotisation ne comprend pas les frais de piste[^frais-de-pi
 
 [^frais-de-piste]: **Frais de piste et cotisation** : les frais de piste s'appliquent à **50%** pour les inscriptions de mi-année et à **33%** pour les sessions d'initiation.
 
+<!--
 | Catégorie             | Cotisation | Mi-année |
 |-----------------------|------------|----------|
 | Benjamin (2011–2012)  | 556 $      | 356 $    |
@@ -75,7 +84,9 @@ Veuillez noter que la cotisation ne comprend pas les frais de piste[^frais-de-pi
 | Senior (1989–2004)    | 812 $      | 520 $    |
 | Vétéran (–1988)       | 667 $      | 427 $    |
 | Affiliation seulement | 120 $      | -        |
+-->
 
+<!--
 ### Session initiation (colibri et minime seulement)
 
 - **Session 1** : 9 septembre 2023 au 15 décembre 2023.
@@ -90,6 +101,7 @@ Veuillez noter que la cotisation ne comprend pas les frais de piste[^frais-de-pi
 ### Groupe d’entraînement pour adultes
 
 **Groupe annulé.**
+-->
 
 {{% /accordeon %}}
 
@@ -111,22 +123,12 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Adhésion à Athlétisme Québec et Athlétisme Canada" %}}
-
-**À lire attentivement :**
-
-{{< note >}}
-Je comprends qu’en m’inscrivant aux activités du Club d'Athlétisme Corsaire-Chaparral, je deviens également membre d'Athlétisme Québec et Athlétisme Canada. Mon club prendra pour moi mon adhésion à ces deux organisations. Je recevrai par courriel dans les prochaines semaines une invitation à signer électroniquement des acceptations de conditions, je m'engage à compléter le processus dans les plus brefs délais. Je comprends que mon omission à compléter ces acceptations pourrait avoir des conséquences sur la conformité de mon club. Si vous avez des questions, merci de contacter :
-
-**Carole Crevier \<<caro.cre@outlook.com>\>**
-{{</ note >}}
-
-{{% /accordeon %}}
-
 {{% accordeon entete="Inscription et paiement" id="inscription" niveau="2" %}}
 
-![Logo Qidigo](/img/logo-qidigo.png)
+Les inscriptions ouvriront à compter de la **première semaine de septembre 2024**.
+Revenez nous voir à ce moment-là!
 
+<!--
 - **Paiement en ligne** : Le paiement doit être fait en ligne, au moment même de l’inscription, sur la plateforme de gestion d’activités Qidigo.
 - **Paiement par versements** : il est désormais possible de payer les inscriptions annuelles en 2 versements : le premier à l’automne (au moment de l’inscription), le deuxième en janvier 2024.
 - **Chèques et argent comptant** : Aucun paiement par argent comptant ou par chèque n’est accepté.
@@ -148,6 +150,7 @@ Pour les groupes colibri et minime : [**inscription à&nbsp;la&nbsp;session**]
 Vous cherchez le camp de jour ? [**C'est par ici.**](/camp-de-jour/)
 
 {{< /note >}}
+-->
 
 {{% /accordeon %}}
 
