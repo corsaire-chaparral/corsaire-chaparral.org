@@ -20,8 +20,7 @@
 {{ $niveau := .Get "niveau" }}
 
 <details
-  {{if $id}}id="{{$id}}"{{end}}
-  {{if $open}}open{{end}}
+  {{if $id}}id="{{$id}}"{{end}} {{if $open}}open=""{{end}}
 >
   <summary>
     {{- if $niveau }}
