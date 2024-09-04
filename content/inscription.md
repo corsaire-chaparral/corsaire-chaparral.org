@@ -6,13 +6,27 @@ aliases:
   - /club/inscription/
 ---
 
-{{% div class="well well-primary" %}}
-**Saison 2024-2025** \
-\
-Le club est en préparation pour la nouvelle saison 2024-2025. L'inscription ouvrira à compter de la **première semaine de septembre 2024** et les entraînements reprendront à partir de la **mi-septembre**. Revenez nous voir à ce moment-là!
-{{% /div %}}
+{{% accordeon entete="Informations générales et politiques d'inscription" niveau="2" ouvert="yes" %}}
 
-<!--
+Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription.
+La cotisation de l’athlète comprend les frais d’entraînements, mais ne comprend pas l'adhésion à Athlétisme Canada / Athlétisme Québec.
+
+Veuillez noter que les frais de compétitions ne sont pas inclus dans la cotisation.
+
+- **Chandail ou camisole obligatoire** : le port du [vêtement officiel](/club/vetements/) aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin. Le coût de ce vêtement n’est pas inclus dans la cotisation.
+- **Bénévolat** : un dépôt de 200 $ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
+- **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste (voir la liste plus bas). Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels (non compris dans la cotisation). Nous vous invitons à réclamer ce montant auprès de votre municipalité.
+- **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription des membres de la famille doit être complétée en même temps pour bénéficier de ce rabais).
+  - **Pour deux enfants inscrits annuellement :** 65 $ de moins sur chaque inscription
+  - **Pour trois enfants inscrits annuellement :** 145 $ de moins sur chacune des trois inscriptions
+- **Étudiant athlète** : un athlète membre d'une équipe universitaire recevra un rabais de 50% sur les frais d'inscription.
+- **Annulation/remboursement** : dans le cas d’une annulation, en raison d’une situation majeure, les lois et règlements de l’OPC s’appliquent. Les frais d’affiliation à la Fédération Québécoise d’athlétisme ne sont pas remboursables.
+- **Athlète identifié** : un athlète identifié par Athlétisme Québec ou Athlétisme Canada reçoit un rabais selon son niveau d'identification.
+  - Relève: 25%
+  - Élite: 50%
+  - Excellence: 100%
+- **Groupe élite** : un athlète de catégorie cadet ou juvénile, qui répond aux différents critères et qui désire joindre la section élite devra payer des frais supplémentaires de 150 $. _Critères : à venir_
+
 {{< div class="well well-danger" >}}
 **Note importante sur les courriels**
 
@@ -22,23 +36,54 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
 à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{< /div >}}
--->
 
-{{% accordeon entete="Informations générales et politiques d'inscription" niveau="2" ouvert="yes" %}}
+{{% /accordeon %}}
 
-Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription.
-La cotisation de l’athlète comprend les frais d’entraînements, mais ne comprend pas l'adhésion à Athlétisme Canada / Athlétisme Québec.
+{{% accordeon entete="Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" %}}
 
-Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.
+{{< note >}}
 
-- **Chandail ou camisole obligatoire** : le port du [vêtement officiel](/club/vetements/) aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin. Le coût de ce vêtement n’est pas inclus dans la cotisation.
-- **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
-- **Frais de piste** : plusieurs villes partenaires ont signé une entente pour couvrir les frais de piste (voir la liste plus bas). Toutefois, les citoyens en provenance des municipalités ne faisant pas partie de cette entente seront facturés des frais additionnels (non compris dans la cotisation). Nous vous invitons à réclamer ce montant auprès de votre municipalité.
-- **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit **annuellement** au club (l’inscription des membres de la famille doit être complétée en même temps pour bénéficier de ce rabais). Le rabais se fait sur la cotisation de l’athlète le plus jeune.
-  - 2e enfant : 25%
-  - 3e enfant : 50%
-- **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais de 50% sur sa cotisation annuelle à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
-- **Annulation/remboursement** : dans le cas d’une annulation, en raison d’une situation majeure, les lois et règlements de l’OPC s’appliquent. Les frais d’affiliation à la Fédération Québécoise d’athlétisme ne sont pas remboursables.
+Veuillez noter que la cotisation **ne comprend pas les frais de piste**, dont les résidents des villes partenaires sont exemptés. Voir la liste des villes plus bas.
+
+{{< /note >}}
+
+### Groupes annuels et mi-annuels
+
+**L’inscription annuelle** est valide du 21 septembre 2024 au 9 août 2025[^inscription-annuelle].\
+**L'inscription de mi-année** est valide du 15 mars 2024 au 9 août 2025.
+
+| Catégorie                | Frais (annuel)  | Frais (mi-année) |
+|--------------------------|-----------------|------------------|
+| Benjamin (2012-2013)     | 520$ + Aff 40$  | 310$ + Aff 30$   |
+| Cadet (2010-2011)        | 620$ + Aff 80$  | 360$ + Aff 60$   |
+| Juvénile (2008-2009)     | 620$ + Aff 80$  | 360$ + Aff 60$   |
+| Junior (2006-2007)       | 770$ + Aff 105$ | 435$ + Aff 80$   |
+| Senior (1989-2005)       | 770$ + Aff 105$ | 435$ + Aff 80$   |
+| Vétéran (1988 et avant)  | 620$ + Aff 105$ | 360$ + Aff 80$   |
+
+### Groupes à la session
+
+- **Session 1 :** 21 septembre au 7 décembre 2024
+- **Session 2 :** 15 mars au 24 mai 2025
+- **Session 3 :** 31 mai au 9 août 2025
+
+| Catégorie                            | Frais          |
+|--------------------------------------|----------------|
+| Coccinelle (2018-2019)               | 140$ + Aff 14$ |
+| Colibri (2016-2017)                  | 140$ + Aff 14$ |
+| Minime (2014-2015)                   | 140$ + Aff 14$ |
+| Athlétisme Fit 18 ans et +           | 150$ + Aff 14$ |
+| Cross-country (nés en 2012 et avant) | 50 $           |
+
+### Frais de piste
+
+| Cycle d'inscription  | Frais    |
+|----------------------|----------|
+| Annuel               | 174,65 $ |
+| Mi-année             | 87,33 $  |
+| À la session         | 58,22 $  |
+
+[^inscription-annuelle]: **Date de fin** : La date de fin du 9 août 2025 est indicative. Cette date peut être modifiée selon le calendrier individuel de compétitions qui sera établi par l’entraîneur.
 
 {{% /accordeon %}}
 
@@ -61,33 +106,18 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" %}}
-
-L’inscription annuelle est valide du 1<sup>er</sup> septembre 2023 au 31 août 2024[^inscription-annuelle]. \
-L'inscription de mi-année est valide du 1<sup>er</sup> avril au 10 août 2024. \
-Veuillez noter que la cotisation ne comprend pas les frais de piste[^frais-de-piste].
-
-_Tarifs 2024-2025 à venir._
-
-[^inscription-annuelle]: **Date de fin** : La date de fin du 10 août 2024 est indicative. Cette date peut être modifiée selon le calendrier individuel de compétitions qui sera établi par l’entraîneur.
-
-[^frais-de-piste]: **Frais de piste et cotisation** : les frais de piste s'appliquent à **50%** pour les inscriptions de mi-année et à **33%** pour les sessions d'initiation.
-
-{{% /accordeon %}}
-
 {{% accordeon entete="Bénévolat et activités de financement" id="benevolat" niveau="2" %}}
 
-Une grande partie du financement du club provient des profits générés par les activités organisées annuellement. Afin d’assurer le bon déroulement ainsi que la réussite de ces événements, nous avons besoin de la participation des membres du club, c’est pourquoi un système de comptabilisation d’heures de bénévolat a été instauré.
+Une organisation comme celle du club d'athlétisme Corsaire-Chaparral doit organiser différentes compétitions pour son financement. 
+Grâce à ces événements, nous sommes en mesure d'offrir des occasions de compétitions à nos membres sans déplacements.
+Les sommes amassées lors de ces événements nous permettent d'offrir de meilleures conditions à nos entraîneurs.
+Pour tenir ces événements, nous avons besoins de la contribution de nombreux bénévoles.
+Il est donc impératif que les parents/athlètes/familles contribuent à la réalisation de ces organisations en s'engageant à réaliser des périodes de bénévolat.
+Des frais additionnels de **200 $** s'additionnent  aux frais annuelles et des frais **100 $** s'addititionnent aux frais mi-annuels.
 
-- **Inscriptions annuelles** : chaque famille doit accomplir un minimum de **10 heures** au cours de la saison, **c’est-à-dire entre le 1<sup>er</sup> septembre et le 31 août**.  Une contribution financière d’un montant de **200&nbsp;$** est ajoutée sur la facturation d’un enfant de la famille seulement.
-- **Inscriptions mi-année** : la famille doit compléter **5 heures** ou assurer sa présence à 1 événement. Le dépôt est de **100&nbsp;$**.
-- **Inscriptions à la session** : la famille doit compléter **5 heures** ou assurer sa présence à 1 événement. Le dépôt est de **100&nbsp;$**.
+Si 3 blocs d'une demi-journée (inscriptions annuelles) ou 2 blocs d'une demi-journée sont réalisés, les frais de bénévolat ne sont pas chargés l'année suivante. 
 
-Les heures de bénévolat peuvent être accomplies par l’athlète et/ou par un parent de la même famille. Les heures de bénévolat effectuées par plusieurs membres d’une même famille seront additionnées ; par contre, elles ne peuvent être transférées à un autre athlète.
-
-Pour chacune des heures comptabilisées, le club déduira **20,00&nbsp;$** de la contribution initiale jusqu’à concurrence du dépôt de 200 $. Au-delà de 10 heures de bénévolat, l’athlète est acquitté de ses devoirs et ses heures ne seront plus comptabilisées. Les heures de bénévolat ne peuvent être fractionnées ou transférées sur deux saisons différentes.
-
-La comptabilisation des heures de bénévolat se terminant le **31 août**, la contribution du bénévolat est appliquée au crédit lors de la réinscription ou sera remboursée sur demande.
+Pour les inscriptions par session, 1 bloc d'une demi-jounée / session est demandé aux parents.
 
 Consultez les [activités de bénévolat](/club/benevolat/).
 
@@ -103,17 +133,35 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 - **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront crédités par les administrateurs (le remboursement sera effectué sur la carte de crédit utilisée lors du paiement de l’inscription).
 -->
 
-Pour les catégories benjamin, cadet, juvénile, junior, sénior, vétéran et le sport-études, veuillez choisir l'inscription annuelle.
+{{< note >}}
+
+**Inscription annuelle**
+
+Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **sénior**, **vétéran** et le **sport-études**, veuillez choisir l'inscription annuelle.
 
 <a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/club-dathletisme-corsaire-chaparral-2025-annuel">Inscription annuelle 2024-2025</a>
 
-Pour les athlètes coccinelle et colibri, utilisez plutôt l'inscription à la session.
+{{< /note >}}
+
+{{< note >}}
+
+**Inscription à la session**
+
+Pour les athlètes **coccinelle** et **colibri**, choisissez plutôt l'inscription à la session.
 
 <a class="btn btn-tertiary btn--block" href="https://athleticsreg.ca/#!/events/1611-club-dathletisme-corsaire-chaparral-2025-session">Inscription à la session</a>
+
+{{< /note >}}
+
+{{< note >}}
+
+**Entraîneurs et personnel**
 
 Les entraîneurs, membres du conseil d'administration doivent s'enregistrer via le lien suivant :
 
 <a class="btn btn-secondary btn--block" href="https://athleticsreg.ca/#!/events/1827-club-dathletisme-corsaire-chaparral-2025-entraineurs-et-administrateurs">Inscription des entraîneurs et membres du personnel</a>
+
+{{< /note >}}
 
 {{% /accordeon %}}
 
