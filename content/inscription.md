@@ -103,11 +103,17 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 - **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront crédités par les administrateurs (le remboursement sera effectué sur la carte de crédit utilisée lors du paiement de l’inscription).
 -->
 
+Pour les catégories benjamin, cadet, juvénile, junior, sénior, vétéran et le sport-études, veuillez choisir l'inscription annuelle.
+
 <a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/club-dathletisme-corsaire-chaparral-2025-annuel">Inscription annuelle 2024-2025</a>
+
+Pour les athlètes coccinelle et colibri, utilisez plutôt l'inscription à la session.
 
 <a class="btn btn-tertiary btn--block" href="https://athleticsreg.ca/#!/events/1611-club-dathletisme-corsaire-chaparral-2025-session">Inscription à la session</a>
 
-<a class="btn btn-secondary btn--block" href="https://athleticsreg.ca/#!/events/1827-club-dathletisme-corsaire-chaparral-2025-entraineurs-et-administrateurs">Inscription des entraîneurs</a>
+Les entraîneurs, membres du conseil d'administration doivent s'enregistrer via le lien suivant :
+
+<a class="btn btn-secondary btn--block" href="https://athleticsreg.ca/#!/events/1827-club-dathletisme-corsaire-chaparral-2025-entraineurs-et-administrateurs">Inscription des entraîneurs et membres du personnel</a>
 
 {{% /accordeon %}}
 
