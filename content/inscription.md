@@ -95,33 +95,19 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 {{% accordeon entete="Inscription et paiement" id="inscription" niveau="2" %}}
 
-Les inscriptions ouvriront à compter de la **première semaine de septembre 2024**.
-Revenez nous voir à ce moment-là!
-
 <!--
 - **Paiement en ligne** : Le paiement doit être fait en ligne, au moment même de l’inscription, sur la plateforme de gestion d’activités Qidigo.
 - **Paiement par versements** : il est désormais possible de payer les inscriptions annuelles en 2 versements : le premier à l’automne (au moment de l’inscription), le deuxième en janvier 2024.
 - **Chèques et argent comptant** : Aucun paiement par argent comptant ou par chèque n’est accepté.
 - **Compte client** : vous devrez vous créer un compte pour utiliser la plateforme Qidigo. Il est recommandé d’utiliser un partenaire de connexion (compte Facebook, compte Google). Ce compte vous servira tout au long de l’année pour l’inscription à des activités ultérieures.
 - **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront crédités par les administrateurs (le remboursement sera effectué sur la carte de crédit utilisée lors du paiement de l’inscription).
-
 -->
 
-<a class="btn btn-primary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships">Inscription annuelle 2023-2024</a>
+<a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/club-dathletisme-corsaire-chaparral-2025-annuel">Inscription annuelle 2024-2025</a>
 
-<a class="btn btn-tertiary btn--block" href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/memberships/1897">Inscription mi-année (printemps-été)</a>
+<a class="btn btn-tertiary btn--block" href="https://athleticsreg.ca/#!/events/1611-club-dathletisme-corsaire-chaparral-2025-session">Inscription à la session</a>
 
-{{< note >}}
-
-Pour les groupes colibri et minime : [**inscription à&nbsp;la&nbsp;session**](https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activity/15348/session).
-
-{{< /note >}}
-
-{{< note >}}
-
-Vous cherchez le camp de jour ? [**C'est par ici.**](/camp-de-jour/)
-
-{{< /note >}}
+<a class="btn btn-secondary btn--block" href="https://athleticsreg.ca/#!/events/1827-club-dathletisme-corsaire-chaparral-2025-entraineurs-et-administrateurs">Inscription des entraîneurs</a>
 
 {{% /accordeon %}}
 
