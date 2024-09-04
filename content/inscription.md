@@ -6,7 +6,7 @@ aliases:
   - /club/inscription/
 ---
 
-{{% accordeon entete="Informations générales et politiques d'inscription" niveau="2" ouvert="yes" %}}
+{{% accordeon entete="1. Informations générales et politiques d'inscription" niveau="2" ouvert="yes" id="informations-generales" %}}
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription.
 La cotisation de l’athlète comprend les frais d’entraînements, mais ne comprend pas l'adhésion à Athlétisme Canada / Athlétisme Québec.
@@ -39,7 +39,7 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" %}}
+{{% accordeon entete="2. Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" %}}
 
 {{< note >}}
 
@@ -87,7 +87,7 @@ Veuillez noter que la cotisation **ne comprend pas les frais de piste**, dont le
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Villes faisant partie de l’entente intermunicipale" niveau="2" id="entente-intermunicipal" %}}
+{{% accordeon entete="3. Villes faisant partie de l’entente intermunicipale" niveau="2" id="entente-intermunicipal" %}}
 
 Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
@@ -106,7 +106,7 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Bénévolat et activités de financement" id="benevolat" niveau="2" %}}
+{{% accordeon entete="4. Bénévolat et activités de financement" id="benevolat" niveau="2" %}}
 
 Une organisation comme celle du club d'athlétisme Corsaire-Chaparral doit organiser différentes compétitions pour son financement. 
 Grâce à ces événements, nous sommes en mesure d'offrir des occasions de compétitions à nos membres sans déplacements.
@@ -123,7 +123,7 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Inscription et paiement" id="inscription" niveau="2" %}}
+{{% accordeon entete="5. Inscription et paiement" id="inscription" niveau="2" %}}
 
 <!--
 - **Paiement en ligne** : Le paiement doit être fait en ligne, au moment même de l’inscription, sur la plateforme de gestion d’activités Qidigo.

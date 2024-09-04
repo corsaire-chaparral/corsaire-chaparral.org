@@ -8,7 +8,8 @@ layout: single
 {{% div class="well well-primary" %}}
 **Saison 2024-2025** \
 \
-Le club est en préparation pour la nouvelle saison 2024-2025. L'inscription ouvrira à compter de la **première semaine de septembre 2024** et les entraînements reprendront à partir de la **mi-septembre**. Revenez nous voir à ce moment-là!
+Les entraînements pour toutes les catégories reprendront à compter du **samedi 21 septembre 2024**.
+Au plaisir de vous retrouver pour une autre belle année d'athlétisme!
 {{% /div %}}
 
 
@@ -41,48 +42,95 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2015–2016) {#colibri}
 
-- **Session 1** : 9 septembre au 15 décembre 2023
-- **Session 2** : 13 janvier au 27 avril 2024
-- **Session 3** : 04 mai au 10 août 2024
+{{% accordeon entete="Coccinelle (2018–2019)" id="coccinelle" niveau="3" %}}
 
-- Samedi 9 h à 10 h 30
+**Session #1 :** 21 septembre au 7 décembre 2024 \
+**Session #2 :** 15 mars au 24 mai 2025 \
+**Session #3 :** 31 mai au 9 août 2025
 
-### Minime (2013–2014) {#minime}
+- Samedi 9 h 30 à 11 h 00
 
-- **Session 1** : 9 septembre au 15 décembre 2023
-- **Session 2** : 13 janvier au 27 avril 2024
-- **Session 3** : 04 mai au 10 août 2024
+{{% /accordeon %}}
 
-- Samedi 9 h à 10 h 30
+{{% accordeon entete="Colibri (2016–2017)" id="colibri" niveau="3" %}}
 
-### Benjamin (2011–2012) {#benjamin}
+**Session #1 :** 21 septembre au 7 décembre 2024 \
+**Session #2 :** 15 mars au 24 mai 2025 \
+**Session #3 :** 31 mai au 9 août 2025
 
-- Jeudi 18 h à 19 h 30
-- Samedi 10 h 30 à 12 h 00
+- Samedi 9 h 30 à 11 h 00
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Minime (2014–2015)" id="minime" niveau="3" %}}
+
+**Session #1 :** 21 septembre au 7 décembre 2024 \
+**Session #2 :** 15 mars au 24 mai 2025 \
+**Session #3 :** 31 mai au 9 août 2025
+
+- Samedi 9 h 30 à 11 h 00
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Benjamin (2012–2013)" id="benjamin" niveau="3" %}}
+
+- Mercredi 18h15-19h45
+- Samedi 9h30-11h00
 
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/). 
 
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
-### Cadet (2009–2010) {#cadet}
+{{% /accordeon %}}
 
-- Lundi 18 h à 19 h 30
-- Mercredi 18 h à 19 h 30 <strong class="badge badge-default">Changement {{< icon name="stopwatch-solid" size="14" >}}</strong>
-- Samedi 10 h 30 à 12 h
+{{% accordeon entete="Cadet (2010–2011)" id="cadet" niveau="3" %}}
 
-<!--Consultez le [calendrier](cadets) pour les cadets.-->
+- Lundi 18h15-19h45
+- Mercredi 18h15-19h45
+- Samedi 9h30-11h00
 
-### Juvénile (2007–2008), junior (2005–2006) et sénior (1989–2004) {#juvenile-junior-senior}
+{{% /accordeon %}}
 
-- Lundi 18 h à 19 h 30
-- Mercredi 18 h à 19 h 30
-- Samedi 10 h 30 à 12 h
+{{% accordeon entete="Juvénile (2008–2009), junior (2006-2007) et sénior (1990–2005)" id="juvenile-junior-senior" niveau="3" %}}
 
-### Vétéran (–1988) {#veteran}
+- Lundi 18h15-19h45
+- Mercredi 18h15-19h45
+- Samedi 9h30-11h00
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Vétéran (–1989)" id="veteran" niveau="3" %}}
 
 Horaire à confirmer lors de l'inscription.
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Cross-country nés en 2012 et avant" id="cross-country" niveau="3" %}}
+
+Du 31 août au 18 septembre 2024.
+
+- Lundi 18h15-19h45 
+- Mercredi 18h15-19h45
+- Samedi 9h30-11h00
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Athlétisme Fit 18 ans et +" id="athletisme-fit" niveau="3" %}}
+
+**Session #1 :** du 18 septembre au 26 octobre 2024 \
+**Session #2 :** du 4 juin au 12 juillet 2025
+
+- Mercredi 18h15-19h45
+- Samedi 9h30-11h00
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Vétéran (–1989)" id="veteran" niveau="3" %}}
+
+Horaire à confirmer lors de l'inscription.
+
+{{% /accordeon %}}
 
 <!--
 
