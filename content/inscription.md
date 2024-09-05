@@ -147,7 +147,7 @@ Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **séni
 
 **Inscription à la session**
 
-Pour les athlètes **coccinelle** et **colibri**, choisissez plutôt l'inscription à la session.
+Pour les athlètes **coccinelle**, **colibri** et **minime**, choisissez plutôt l'inscription à la session.
 
 <a class="btn btn-tertiary btn--block" href="https://athleticsreg.ca/#!/events/1611-club-dathletisme-corsaire-chaparral-2025-session">Inscription à la session</a>
 
