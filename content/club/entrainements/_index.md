@@ -49,7 +49,7 @@ Selon les catégories (voir ci-bas).
 **Session #2 :** 15 mars au 24 mai 2025 \
 **Session #3 :** 31 mai au 9 août 2025
 
-- Samedi 9 h 30 à 11 h 00
+- Samedi 11 h à 12  h 30
 
 {{% /accordeon %}}
 
@@ -59,7 +59,7 @@ Selon les catégories (voir ci-bas).
 **Session #2 :** 15 mars au 24 mai 2025 \
 **Session #3 :** 31 mai au 9 août 2025
 
-- Samedi 9 h 30 à 11 h 00
+- Samedi 11 h à 12  h 30
 
 {{% /accordeon %}}
 
@@ -69,7 +69,7 @@ Selon les catégories (voir ci-bas).
 **Session #2 :** 15 mars au 24 mai 2025 \
 **Session #3 :** 31 mai au 9 août 2025
 
-- Samedi 9 h 30 à 11 h 00
+- Samedi 11 h à 12  h 30
 
 {{% /accordeon %}}
 
