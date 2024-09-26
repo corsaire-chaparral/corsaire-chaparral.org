@@ -155,6 +155,16 @@ Pour les athlètes **coccinelle**, **colibri** et **minime**, choisissez plutôt
 
 {{< note >}}
 
+**Affiliation seulement**
+
+Certains athlètes peuvent s'affilier au club sans recevoir de services (cas particuliers seulement, sous réserve d'approbation) :
+
+<a class="btn btn-secondary btn--block" href="https://athleticsreg.ca/#!/events/1864-corsaire-chaparral-2025-affiliation-seulement">Affiliation seulement</a>
+
+{{< /note >}}
+
+{{< note >}}
+
 **Entraîneurs et personnel**
 
 Les entraîneurs, membres du conseil d'administration doivent s'enregistrer via le lien suivant :
