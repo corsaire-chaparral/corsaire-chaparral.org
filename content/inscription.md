@@ -74,6 +74,8 @@ Veuillez noter que la cotisation **ne comprend pas les frais de piste**, dont le
 | Athlétisme Fit 18 ans et +           | 150$ + Aff 14$ |
 | Cross-country (nés en 2012 et avant) | 50 $           |
 
+\* Veuillez noter que la catégorie coccinelle (2018-2019) n'est plus offerte.
+
 ### Frais de piste
 
 | Cycle d'inscription  | Frais    |
