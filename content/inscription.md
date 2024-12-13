@@ -69,7 +69,6 @@ Veuillez noter que la cotisation **ne comprend pas les frais de piste**, dont le
 
 | Catégorie                            | Frais          |
 |--------------------------------------|----------------|
-| Coccinelle (2018-2019)               | 140$ + Aff 14$ |
 | Colibri (2016-2017)                  | 140$ + Aff 14$ |
 | Minime (2014-2015)                   | 140$ + Aff 14$ |
 | Athlétisme Fit 18 ans et +           | 150$ + Aff 14$ |
@@ -147,7 +146,8 @@ Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **séni
 
 **Inscription à la session**
 
-Pour les athlètes **coccinelle**, **colibri** et **minime**, choisissez plutôt l'inscription à la session.
+Pour les athlètes **colibri** et **minime**, choisissez plutôt l'inscription à la session.
+Veuillez noter que la catégorie coccinnelle n'est plus offerte.
 
 <a class="btn btn-tertiary btn--block" href="https://athleticsreg.ca/#!/events/1611-club-dathletisme-corsaire-chaparral-2025-session">Inscription à la session</a>
 
