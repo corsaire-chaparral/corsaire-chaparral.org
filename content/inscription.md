@@ -141,7 +141,7 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **sénior** et **vétéran**, vous pouvez choisir l’inscription mi-année.
 (Le tarif annuel n’est plus disponible.)
 
-<a class="btn btn-primary btn--block" href="://athleticsreg.ca/#!/events/club-dathletisme-corsaire-chaparral-2025-annuel">Inscription mi-année 2024-2025</a>
+<a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/club-dathletisme-corsaire-chaparral-2025-annuel">Inscription mi-année 2024-2025</a>
 
 {{< /note >}}
 
