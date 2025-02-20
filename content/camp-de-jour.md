@@ -1,7 +1,7 @@
 ---
-title: "Camp de jour 2024"
+title: "Camp de jour 2025"
 description: >
-  Le Corsaire-Chaparral est fier de vous offrir un camp de jour spécialisé en athlétisme à l’été 2024, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
+  Le Corsaire-Chaparral est fier de vous offrir un camp de jour spécialisé en athlétisme à l’été 2025, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 
 images: 
 - /img/camp-jour-athletisme.jpg
@@ -9,7 +9,7 @@ images:
 
 ![Camp de jour COCH](/img/camp-de-jour-photo-couverture.jpg)
 
-## Informations 
+## Informations
 
 ### Camp de jour du COCH pour les enfants de 7 à 12 ans
 
@@ -38,14 +38,14 @@ J7E 4S4
 
 ### Tarifs
 
-**Camp de jour** : 190 $ par semaine  
+**Camp de jour** : 200 $ par semaine  
 
 {{< note >}}
 Un rabais de 10% sera appliqué pour le 2<sup>e</sup> enfant de la même famille pour une inscription dans la même semaine au camp de jour.
 Notez que l'inscription doit être faite lors de la même transaction pour que le rabais s'applique.
 {{< /note >}}
 
-**Service de garde** : 25 $ par semaine (en option)
+**Service de garde** : 30 $ par semaine (en option)
 
 {{< note >}}
 Pour le service de garde, inscription obligatoire **avant midi le vendredi**, pour la semaine suivante.
@@ -53,14 +53,14 @@ Pour le service de garde, inscription obligatoire **avant midi le vendredi**, po
 
 ### Dates (du lundi au vendredi)
 
-* **Semaine #1** : 25 juin 2024 (24 juin, congé férié)
-* **Semaine #2** : 2 juillet 2024 (1<sup>er</sup> juillet, congé férié)
-* **Semaine #3** : 8 juillet 20234
-* **Semaine #4** : 15 juillet 2024
-* **Semaine #5** : 22 juillet 2024
-* **Semaine #6** : 29 juillet 2024
-* **Semaine #7** : 5 août 2024
-* **Semaine #8** : 12 août 2024
+* **Semaine #1** : 23–27 juin 2025 (congé le 24 juin)
+* **Semaine #2** : 30 juin – 4 juillet 2025 (congé le 1<sup>er</sup> juillet)
+* **Semaine #3** : 7–11 juillet 20234
+* **Semaine #4** : 14–18 juillet 2025
+* **Semaine #5** : 21–25 juillet 2025
+* **Semaine #6** : 28 juillet – 1<sup>er</sup> août 2025
+* **Semaine #7** : 4–8 août 2025
+* **Semaine #8** : 11–15 août 2025
 
 ## Horaire-type d'une journée
 
@@ -136,14 +136,14 @@ Merci de votre collaboration.
 <details>
 <summary>Quand puis-je m’inscrire au camp de jour ?</summary>
 
-Les inscriptions débutent le 1<sup>er</sup> mars 2024 et se poursuivent jusqu’à ce que le camp soit complet.
+Les inscriptions débutent le 22 février 2025 et se poursuivent jusqu’à ce que le camp soit complet.
 
 </details>
 
 <details>
 <summary>Où dois-je m'inscrire ?</summary>
 
-Les inscriptions se font seulement en ligne, via la plateforme Qidigo au :  
+Les inscriptions se font seulement en ligne, à l’adresse suivante :  
 <https://www.corsaire-chaparral.org/camp-de-jour/> (voir le bas de cette page).
 Si vous éprouvez des difficultés techniques, écrivez-nous au :  
 <campdejour@corsaire-chaparral.org>
@@ -223,8 +223,10 @@ Nous n’offrons pas de service d’accompagnement. Votre enfant doit donc être
 
 ## Inscription
 
-<a href="https://www.qidigo.com/u/Club-dathletisme-Corsaire-Chaparral/activities/session" class="btn btn-primary btn--block" target="_blank">
+_À venir._
+
+<!-- <a href="#" class="btn btn-primary btn--block" target="_blank">
 Inscription au camp de jour
 {{< icon "chevron-right-solid" >}}
-</a>
+</a> -->
 
