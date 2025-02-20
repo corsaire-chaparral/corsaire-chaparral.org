@@ -71,7 +71,7 @@ Pour le service de garde, inscription obligatoire **avant midi le vendredi**, po
 | 15h30 à 16h00 | retour et relaxation |
 | 16h00         | **départ**           |
 
-Personne de contact : **Karine Beauséjour**, coordonnatrice du camp de jour
+Personne de contact : **Simon Prince-Desjardins**, coordonnateur du camp de jour
 <campdejour@corsaire-chaparral.org>
 
 ## Quel équipement mon enfant doit-il apporter avec lui au camp ?
