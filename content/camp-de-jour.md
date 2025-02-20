@@ -38,12 +38,7 @@ J7E 4S4
 
 ### Tarifs
 
-**Camp de jour** : 200 $ par semaine  
-
-{{< note >}}
-Un rabais de 10% sera appliqué pour le 2<sup>e</sup> enfant de la même famille pour une inscription dans la même semaine au camp de jour.
-Notez que l'inscription doit être faite lors de la même transaction pour que le rabais s'applique.
-{{< /note >}}
+**Camp de jour** : 200 $ par semaine
 
 **Service de garde** : 30 $ par semaine (en option)
 
@@ -158,7 +153,7 @@ Oui. Le camp de jour du club d’athlétisme Corsaire-Chaparral est ouvert à to
 <details>
 <summary>Y a-t-il un rabais si j’inscris plus d’un enfant au camp de jour du club d’athlétisme Corsaire-Chaparral ?</summary>
 
-Oui, un rabais de 10% est applicable au 2<sup>e</sup> enfant de la même famille, quand les enfants sont inscrits la même semaine.
+Non, aucun rabais familial n’est offert.
 </details>
 
 <details>
