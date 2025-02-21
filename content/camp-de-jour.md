@@ -49,7 +49,7 @@ Pour le service de garde, inscription obligatoire **avant midi le vendredi**, po
 ### Dates (du lundi au vendredi)
 
 * **Semaine #1** : 23–27 juin 2025 (congé le 24 juin)
-* **Semaine #2** : 30 juin – 4 juillet 2025 (congé le 1<sup>er</sup> juillet)
+* **Semaine #2** : 30 juin – 4 juillet 2025
 * **Semaine #3** : 7–11 juillet 20234
 * **Semaine #4** : 14–18 juillet 2025
 * **Semaine #5** : 21–25 juillet 2025
@@ -218,10 +218,8 @@ Nous n’offrons pas de service d’accompagnement. Votre enfant doit donc être
 
 ## Inscription
 
-_À venir._
-
-<!-- <a href="#" class="btn btn-primary btn--block" target="_blank">
+<a href="https://athleticsreg.ca/#!/events/2640-corsaire-chaparral-camp-de-jour-2025" class="btn btn-primary btn--block" target="_blank">
 Inscription au camp de jour
 {{< icon "chevron-right-solid" >}}
-</a> -->
+</a>
 
