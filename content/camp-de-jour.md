@@ -38,7 +38,7 @@ J7E 4S4
 
 ### Tarifs
 
-**Camp de jour** : 200 $ par semaine
+**Camp de jour** : 200 $ par semaine (frais d’affiliation de 14$ auprès de la fédération en sus)
 
 **Service de garde** : 30 $ par semaine (en option)
 
