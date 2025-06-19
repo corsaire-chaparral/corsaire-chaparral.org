@@ -16,7 +16,8 @@ formation:
 - Formation d’entraîneur niveau 1 (entraîneur sportif)
 - Athlète spécialisé en demi-fond
 
----
+published: false
+----
 
 J'ai suivi la formation d’entraîneur niveau 1.
 

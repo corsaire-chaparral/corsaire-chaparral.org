@@ -12,7 +12,8 @@ formation:
 - Athlète de 2001-2015
 - Entraîneur au club d’athlètisme de Sherbrooke 2011-2015
 
----
+published: false
+----
 
 - Participation aux championnats du monde jeunesse (2007)
 - Participation aux championnats du monde junior (2008)

@@ -12,6 +12,7 @@ formation:
 - 2011 : Athlétisme Canada Formation entraineur sportif Athlétisme Québec/NCCP
 - 2014 : Formation en Haltérophilie avec Kendrick Farris
 
+published: false
 ---
 
 Lanceur de javelot au Club depuis 2012, Charles a eu la piqure pour l'athlétisme depuis qu'il a 12 ans. Il a notamment remporté les titres de champion du Québec au lancé du javelot benjamin en 2009 et champion du Québec au relais 4x100m cadet en 2009 et 4x100m juvénile en 2011.

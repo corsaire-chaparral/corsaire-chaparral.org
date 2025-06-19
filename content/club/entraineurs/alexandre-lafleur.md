@@ -14,6 +14,7 @@ formation:
 - Lanceur de javelot depuis 2015
 - Sauteur à la perche depuis 2016
 
+published: false
 ---
 
 A participé deux fois au Jeux du Québec en saut en hauteur, lancer du javelot et saut à la perche.

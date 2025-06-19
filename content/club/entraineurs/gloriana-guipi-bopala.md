@@ -17,4 +17,6 @@ formation:
 - Membre du club depuis minime
 - Expérience en compétition dans les épreuves de 60 m, 100 m, 200 m, 400 m et du saut en longueur
 - Sprinteuse du club-élite, Gloriana compétitionne présentement comme athlète dans les épreuves de 200 m et 400 m. 
+
+published: false
 ---

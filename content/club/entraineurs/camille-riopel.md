@@ -17,6 +17,7 @@ formation:
 - Niveau 2 formé depuis 2018
 - Athlète au club depuis 2008
 
+published: false
 ---
 
 Athlète au club depuis 2008, Camille a été à la fois une sauteuse et une demi-fondeuse jusqu'au niveau junior, à partir duquel elle s'est spécialisée en 800 et 1500m. Identifiée relève sur 1500m depuis 2017, Camille participe à de nombreuses compétitions provinciales et nationales, et représente le club d'athlétisme de l'université McGill pendant la saison hivernale.

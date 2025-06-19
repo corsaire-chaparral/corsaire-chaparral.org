@@ -16,7 +16,9 @@ formation:
   - Athlète au club depuis 2015.
 
 courriel: sab.gamin@hotmail.ca
----
+
+published: false
+----
 
 Participation au Jeux du Québec en 2016. Membre de l'équipe championne canadienne de cross country collégial en novembre 2017 avec les Nordiques du Collège Lionel-Groulx. 
 

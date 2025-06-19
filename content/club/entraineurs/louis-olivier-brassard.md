@@ -20,6 +20,7 @@ formation:
   - Webmestre du club
   - Athlète universitaire au sein des Carabins de l'Université de Montréal en cross-country et en athlétisme
 
+published: false
 ---
 
 Dès son premier entraînement au club, Louis-Olivier a eu la piqûre pour l'athlétisme : c'était le début d'une grande passion.
