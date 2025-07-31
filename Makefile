@@ -24,7 +24,9 @@ build-staging:
 styles: static/styles/main.css
 
 static/styles/%.css: _assets/styles/%.scss _assets/styles/**/*.scss
-	sass $< $@
+	pnpm sass $< $@
+	@echo Post-processing directly on the target CSS file...
+	pnpm postcss $@ -o $@
 
 .PHONY: deploy
 deploy:
