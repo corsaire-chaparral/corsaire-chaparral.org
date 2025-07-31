@@ -15,7 +15,7 @@ Pour construire ce site, assurez-vous d'avoir installé les logiciels suivants :
 - [Hugo](https://gohugo.io/) (v0.63+)
 - [Make](https://www.gnu.org/software/make/) (variante GNU de préférence)
 
-Pour le développement (styles, etc.), assurez-vous d’avoir également les outils suivants :
+Pour le développement et la production des feuilles de style CSS (non gérées avec la fonctionnalité [Hugo Resources](https://gohugo.io/functions/resources/tocss/)), assurez-vous d’avoir également les outils suivants :
 
 - [Node.js](https://nodejs.org/) (v18+) environnement de programmation en JavaScript, pour l’outillage de développement.
 - [`pnpm`](https://pnpm.io/) (v10+) utilitaire plus efficient en consommation de ressources disque que `npm`, le gestionnaire traditionnel de Node.js. C’est avec celui-ci que seront appelées les bibliothèques de développement CSS (`sass`, `postcss` et `autoprefixer`)
@@ -49,15 +49,15 @@ Vous pouvez prévisualiser le site en local, avec les changements en temps réel
 make serve  # démarre un serveur local à l'adresse locale http://localhost:1313
 ```
 
-Pour les styles (requiert l’installation de `sass`) :
+Pour produire les feuilles de styles dans `static/styles/` (dont les sources sont dans `_assets/styles/`) :
 
 ```bash
-make styles
+make styles  # production des feuilles dans le dossier static/styles/
 ```
 
 ### Configuration
 
-La configuration pour le site Hugo sont dans le fichier `config.yml`.
+La [configuration pour le site Hugo](https://gohugo.io/configuration/) sont dans le fichier `config.yml`.
 
 ## Partage de photos
 
