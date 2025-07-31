@@ -1,7 +1,7 @@
 # Site web du club d'athlétisme Corsaire-Chaparral
 
 Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparral](https://corsaire-chaparral.org).
-Il est généré avec [Hugo](https://gohugo.io/), un générateur de sites web statiques écrit en Go.
+Il est généré avec [Hugo](https://gohugo.io/), un générateur de site statique écrit en Go.
 
 ## Installation
 
@@ -35,7 +35,7 @@ npm install
 Vous pouvez à présent construire le site :
 
 ```bash
-make build  # génère le site dans le dossier public/ 
+make build  # génère le site dans le dossier public/
 ```
 
 Vous pouvez prévisualiser le site en local, avec les changements en temps réel :
@@ -51,8 +51,6 @@ La configuration pour le site Hugo sont dans le fichier `config.yml`.
 ## Partage de photos
 
 ~~Les photos sont partagées à l'adresse `http://corsaire-chaparral.org/photos-partage/`.~~ Solution à étudier.
-
-Voir une installation Chevereto : https://photos.corsaire-chaparral.org
 
 ## Soutien
 
