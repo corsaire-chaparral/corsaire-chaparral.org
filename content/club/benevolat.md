@@ -19,7 +19,7 @@ _Il n’y a pas d’événements de bénévolat à venir pour l’instant._
 -->
 | Date         | Événement                                                                                           |
 | ------------ |-----------------------------------------------------------------------------------------------------|
-| 2023-12-13   | _Le festival en salle du Corsaire-Chaparral_ - [Infos](/competitions/festival-en-salle-des-jeunes/) |
+| 2025-09-07   | _Le Demi-marathon de Blainville_ - [Inscription](https://www.demimarathondeblainville.com/benevoles) |
 
 
 ## Tâches régulières
