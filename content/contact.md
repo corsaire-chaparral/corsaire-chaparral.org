@@ -9,12 +9,15 @@ menu:
     weight: 110
 ---
 
-**Club d’athlétisme Corsaire-Chaparral**  
-<address>
+*Pour l’adresse des plateaux d’entraînement, référez-vous à la page [Entraînements](/club/entrainements/).*
+
+<p><address>
+<strong>Adresse postale</strong><br>
 37 rue Turgeon<br />
 Sainte-Thérèse, Québec<br />
 J7E 3H4
-</address>
+</address></p>
+
 
 **Questions et informations générales**  
 {{< icon "envelope-solid" >}}
