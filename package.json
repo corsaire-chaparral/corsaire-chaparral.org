@@ -4,11 +4,9 @@
   "repository": "https://github.com/corsaire-chaparral/corsaire-chaparral.org.git",
   "devDependencies": {
     "autoprefixer": "^10.4.17",
+    "postcss": "^8.3.11",
     "postcss-cli": "^9.0.1",
     "sass": "^1.89.2"
   },
-  "license": "MIT",
-  "dependencies": {
-    "postcss": "^8.3.11"
-  }
+  "license": "MIT"
 }
