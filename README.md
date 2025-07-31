@@ -13,7 +13,12 @@ Assurez-vous de disposer d'un **terminal** (interface en ligne de commande).
 Pour construire ce site, assurez-vous d'avoir installé les logiciels suivants :
 
 - [Hugo](https://gohugo.io/) (v0.63+)
-- [Node.js](https://nodejs.org/) (v10+)
+- [Make](https://www.gnu.org/software/make/) (variante GNU de préférence)
+
+Pour le développement et la production des feuilles de style CSS (non gérées avec la fonctionnalité [Hugo Resources](https://gohugo.io/functions/resources/tocss/)), assurez-vous d’avoir également les outils suivants :
+
+- [Node.js](https://nodejs.org/) (v18+) environnement de programmation en JavaScript, pour l’outillage de développement.
+- [`pnpm`](https://pnpm.io/) (v10+) utilitaire plus efficient en consommation de ressources disque que `npm`, le gestionnaire traditionnel de Node.js. C’est avec celui-ci que seront appelées les bibliothèques de développement CSS (`sass`, `postcss` et `autoprefixer`)
 
 ### Instructions détaillées
 
@@ -24,13 +29,13 @@ git clone https://github.com/corsaire-chaparral/corsaire-chaparral.org.git
 cd corsaire-chaparral.org
 ```
 
-Installez les dépendances :
+Pour développer les styles CSS, installez les dépendances avec `pnpm` (sautez si vous ne développez pas de styles) :
 
 ```bash
-npm install
+pnpm install
 ```
 
-**npm** installe les outils de développement Node.js pour générer les feuilles de style du site ([postcss](https://github.com/postcss/postcss-cli/), [autoprefixer](https://github.com/postcss/autoprefixer/)).
+`pnpm` installe les outils de développement Node.js pour générer les feuilles de style du site ([`sass`](https://sass-lang.com/), [postcss](https://github.com/postcss/postcss-cli/), [autoprefixer](https://github.com/postcss/autoprefixer/)).
 
 Vous pouvez à présent construire le site :
 
@@ -38,15 +43,21 @@ Vous pouvez à présent construire le site :
 make build  # génère le site dans le dossier public/
 ```
 
-Vous pouvez prévisualiser le site en local, avec les changements en temps réel :
+Vous pouvez prévisualiser le site en local, avec les changements en temps réel :
 
 ```bash
 make serve  # démarre un serveur local à l'adresse locale http://localhost:1313
 ```
 
+Pour produire les feuilles de styles dans `static/styles/` (dont les sources sont dans `_assets/styles/`) :
+
+```bash
+make styles  # production des feuilles dans le dossier static/styles/
+```
+
 ### Configuration
 
-La configuration pour le site Hugo sont dans le fichier `config.yml`.
+La [configuration pour le site Hugo](https://gohugo.io/configuration/) sont dans le fichier `config.yml`.
 
 ## Partage de photos
 

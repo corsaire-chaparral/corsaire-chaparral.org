@@ -5,11 +5,9 @@
   <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
   <meta name="description" content="{{ if .Description }}{{ .Description }}{{else}}{{ $.Site.Params.description  }}{{end}}">
 
-
-  {{- $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.PostCSS -}}
-  <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" />
+  <link rel="stylesheet" type="text/css" href="/styles/main.css" />
   <link rel="icon" type="image/png" href="/img/favicon-64x64.png" sizes="64">
-  <link rel="canonical" href="{{ .Site.BaseURL }}">
+  <link rel="canonical" href="{{ .Page.Permalink }}">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
   <meta name="msapplication-TileColor" content="{{ $.Site.Params.themeColor | default "#ff6900" }}">
 
