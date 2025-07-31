@@ -32,10 +32,3 @@ Il y a toujours des choses à faire! Venez donner un coup de main le samedi mati
 
 ![Officiels](/img/officiels.jpg)
 
-## Communications et réseaux sociaux
-
-Tu aimes gérer des médias sociaux? Tu voudrais prendre les commandes ou en apprendre plus dans le domaine? Écrire des articles? Faire des photos? Contribuer aux infolettres? **L'équipe des communications du COCH recrute!**
-
-Pour faire partie de l’équipe, envoie un courriel à [admin@corsaire-chaparral.org](mailto:admin@corsaire-chaparral.org)! _(Psst, nous sommes aussi sur [Facebook](https://www.facebook.com/CorsaireChaparral/), [Twitter](https://twitter.com/CorsaireC) et [Instagram](https://www.instagram.com/corsairechaparral/).)_
-
-![Médias sociaux](/img/medias-sociaux.jpg)
