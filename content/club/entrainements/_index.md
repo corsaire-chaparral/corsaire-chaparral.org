@@ -8,7 +8,7 @@ layout: single
 {{% div class="well well-primary" %}}
 **Saison 2024-2025** \
 \
-Les entraînements pour toutes les catégories reprendront à compter du **samedi 21 septembre 2024**.
+Le club fait relâche pendant le mois d’août. Reprise de la saison 2025-2026 à compter de la **mi-septembre**.
 Au plaisir de vous retrouver pour une autre belle année d'athlétisme!
 {{% /div %}}
 
