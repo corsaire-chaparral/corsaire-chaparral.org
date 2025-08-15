@@ -1,64 +1,49 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Lang }}">
-  {{ partial "head.html" . }}
+  <head>
+    {{- partial "head.html" . -}}
+  </head>
   <body {{if .IsHome}} class="landing-page"{{end}} x-data="{ sidebarOpen: false }">
 
+    {{- block "global-header" . -}}
     {{- partial "header.html" . -}}
+    {{- end -}}
 
+    {{- block "global-navbar" . -}}
     {{- partial "navbar.html" . -}}
+    {{- end -}}
 
     {{- block "main" . }}
       <main class="container container-main">
-        {{- if .IsHome }}
+        {{ block "header-page" . }}
+        {{- partial "header-page.html" . -}}
+        {{ end }}
 
-          {{- .Content -}}
+        <article class="container article-container">
 
-          {{ with .Site.Params.annonce }}
-          {{- partial "announcement.html" . -}}
-          {{ end }}
-
-        {{- else -}}
-
-          {{ block "header-page" . }}
-          {{- partial "header-page.html" . -}}
-          {{ end }}
-
-          <article class="container article-container">
-
-            {{ block "article" . }}
-              {{ with .Params.description }}
-              <p class="article-lead">
-                {{ . }}
-              </p>
-              {{ end }}
-
-              {{ .Content }}
+          {{- block "article" . }}
+            {{- with .Params.description }}
+            <p class="article-lead">
+              {{ . }}
+            </p>
             {{ end }}
-          {{ end -}}
+
+            {{- .Content }}
+          {{- end -}}
         </article>
       </main>
     {{- end }}
 
+    {{- block "global-footer" . -}}
     {{- partial "footer.html" . -}}
+    {{- end -}}
 
+    {{- block "global-sidebar" . -}}
     {{- partial "aside.html" . -}}
+    {{- end -}}
 
     {{ with .Site.Params.annonce }}
     {{- partial "announcement.html" . -}}
     {{ end }}
-
-    <script type="text/javascript">
-      // Globals
-      window.STRIPE_PK = {{ $.Site.Params.stripePublicKey }};
-      window.COCH_API_URL = {{ $.Site.Params.apiUrl }};
-    </script>
-
-    {{ if or .Params.snipcart (eq .Page.Section "calendrier") }}
-      <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-
-      <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="{{ $.Site.Params.snipcartApiKey }}"></script>
-
-      <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
-    {{ end }}
-    </body>
+  </body>
 </html>

@@ -1,0 +1,360 @@
+---
+title: Guide de style
+layout: styleguide
+---
+
+<section class="StyleguideSection">
+  <h2>Familles typographique</h2>
+
+  <div class="StyleguideTypographie">
+    <div style="
+      font-family: Averta, serif;
+      font-style: normal;
+      font-weight: normal;
+    ">
+      Averta régulier
+    </div>
+
+    <div style="
+      font-family: Averta, serif;
+      font-style: italic;
+      font-weight: normal;
+    ">
+      Averta italique
+    </div>
+
+    <div style="
+      font-family: Averta, serif;
+      font-style: normal;
+      font-weight: 700;
+    ">
+      Averta gras
+    </div>
+
+    <div style="
+      font-family: Averta, serif;
+      font-style: italic;
+      font-weight: 700;
+    ">
+      Averta gras italique
+    </div>
+
+    <div style="
+      font-family: monospace;
+      font-style: normal;
+      font-weight: normal;
+    ">
+      Police monochasse
+    </div>
+  </div>
+</section>
+
+
+<section class="StyleguideSection">
+  <h2>Couleurs</h2>
+
+  <div class="StyleguideCouleurs__cartons">
+
+    <figure class="StyleguideCouleurs__carton">
+      <div class="StyleguideCouleurs__carton__pastille" style="--bg: #FF6900;"></div>
+      <figcaption>
+        Orange <br>
+        #FF6900
+      </figcaption>
+    </figure>
+    <figure class="StyleguideCouleurs__carton">
+      <div class="StyleguideCouleurs__carton__pastille" style="--bg: #212721;"></div>
+      <figcaption>
+        Noir charbon <br>
+        #212721
+      </figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="StyleguideSection">
+  <h2>Prose</h2>
+
+  <div class="prose">
+    <p>
+      Sem condimentum parturient hendrerit lacinia scelerisque sed a placerat quis semper taciti condimentum lectus in a a libero in amet elementum penatibus maecenas a lorem inceptos est senectus. Scelerisque ante vestibulum metus ante sem scelerisque ad dui ac class mus.
+    </p>
+    <h1 id="en-tête-de-niveau-1">
+      En-tête de niveau 1
+    </h1>
+    <h2 id="en-tête-de-niveau-2">
+      En-tête de niveau 2
+    </h2>
+    <h3 id="en-tête-de-niveau-3">
+      En-tête de niveau 3
+    </h3>
+    <h4 id="en-tête-de-niveau-4">
+      En-tête de niveau 4
+    </h4>
+    <h5 id="en-tête-de-niveau-5">
+      En-tête de niveau 5
+    </h5>
+    <h6 id="en-tête-de-niveau-6">
+      En-tête de niveau 6
+    </h6>
+
+    <p>
+      Un paragraphe. La taille de base pour la prose est de <code> 1.25rem</code> (soit <code> 20px</code> avec les préférences par défaut des navigateurs).
+    </p>
+
+    <p>
+      Paragraphe avec du <strong> gras</strong> et de l’<em> italique</em> . Il pourrait y avoir du <mark> texte en surbrillance</mark> , quelques exposants<sup> x,y</sup> et même… du <code> code</code> . Voici une <a href="https://www.athletisme-quebec.ca/" target="_blank"> ancre</a> qui pointe vers un site externe.
+    </p>
+
+    <blockquote>
+      <p>
+        Une citation longue, automatiquement mise en retrait.
+      </p>
+      <p>
+        Deuxième paragraphe d’une citation longue.
+      </p>
+    </blockquote>
+
+    <p>
+      Deux types de listes :
+    </p>
+
+    <ol>
+      <li>
+        une
+      </li>
+      <li>
+        liste
+      </li>
+      <li>
+        numérotée
+      </li>
+    </ol>
+    <ul>
+        <li>
+          une
+        </li>
+        <li>
+          liste (blah) (bla)
+        </li>
+        <li>
+          non ordonnée<ul>
+            <li>
+              et une autre
+              <ul>
+                <li>
+                  imbriquée
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+    </ul>
+
+    <p>
+      Une ligne horizontale.
+    </p>
+
+    <hr>
+
+    <figure>
+      <img src="/img/bloc-depart-mini-effets.jpg" alt="Une figure.">
+      <figcaption>
+        <p>
+          Une figure.
+        </p>
+      </figcaption>
+    </figure>
+  </div>
+
+  {{% accordeon entete="Une section compressible (un « accordéon »)" %}}
+Sem condimentum parturient hendrerit lacinia scelerisque sed a placerat quis semper taciti condimentum lectus in a a libero in amet elementum penatibus maecenas a lorem inceptos est senectus. Scelerisque ante vestibulum metus ante sem scelerisque ad dui ac class mus.
+  {{% /accordeon %}}
+  {{% accordeon entete="Une autre section compressible" %}}
+Sem condimentum parturient hendrerit lacinia scelerisque sed a placerat quis semper taciti condimentum lectus in a a libero in amet elementum penatibus maecenas a lorem inceptos est senectus. Scelerisque ante vestibulum metus ante sem scelerisque ad dui ac class mus.
+  {{% /accordeon %}}
+  {{% accordeon entete="Une section compressible déjà ouverte" ouvert="oui" %}}
+Sem condimentum parturient hendrerit lacinia scelerisque sed a placerat quis semper taciti condimentum lectus in a a libero in amet elementum penatibus maecenas a lorem inceptos est senectus. Scelerisque ante vestibulum metus ante sem scelerisque ad dui ac class mus.
+  {{% /accordeon %}}
+
+</section>
+
+
+<section class="StyleguideSection">
+  <h2>Boutons</h2>
+
+  <button class="btn btn-primary">Bouton primaire</button>
+  <button class="btn btn-secondary">Bouton secondaire</button>
+  <button class="btn btn-tertiary">Bouton tertiaire</button>
+  <button class="btn btn-default">Bouton ordinaire</button>
+  <button class="btn btn-danger">Bouton danger</button>
+  <button class="btn btn-default" disabled>Bouton désactivé</button>
+
+  <hr>
+
+  <button class="btn btn-primary btn--block">Bouton bloc</button>
+  <br>
+  <button class="btn btn-secondary btn--block">Bouton bloc</button>
+  <br>
+  <button class="btn btn-tertiary btn--block">Bouton bloc avec icône {{% icon "chevron-right-solid" %}}</button>
+
+  <hr>
+
+  <button class="btn btn-primary -sm">Petit bouton</button>
+  <button class="btn btn-primary -lg">Gros bouton</button>
+
+</section>
+
+<section class="StyleguideSection">
+  <h2>Icônes</h2>
+
+  {{< icon size="40" name="arrow-down-solid" >}}
+  {{< icon size="40" name="arrow-up-solid" >}}
+  {{< icon size="40" name="arrow-left-solid" >}}
+  {{< icon size="40" name="arrow-right-solid" >}}
+
+  {{< icon size="40" name="chevron-down-solid" >}}
+  {{< icon size="40" name="chevron-up-solid" >}}
+  {{< icon size="40" name="chevron-left-solid" >}}
+  {{< icon size="40" name="chevron-right-solid" >}}
+
+  {{< icon size="40" name="arrow-up-from-bracket-solid" >}}
+  {{< icon size="40" name="asterisk-solid" >}}
+  {{< icon size="40" name="bars-solid" >}}
+  {{< icon size="40" name="bell-solid" >}}
+  {{< icon size="40" name="calendar-days-solid" >}}
+  {{< icon size="40" name="calendar-regular" >}}
+  {{< icon size="40" name="calendar-solid" >}}
+  {{< icon size="40" name="cart-shopping-solid" >}}
+  {{< icon size="40" name="check-solid" >}}
+  {{< icon size="40" name="circle-exclamation-solid" >}}
+  {{< icon size="40" name="circle-info-solid" >}}
+  {{< icon size="40" name="circle-user-solid" >}}
+  {{< icon size="40" name="clipboard-solid" >}}
+  {{< icon size="40" name="clock-solid" >}}
+  {{< icon size="40" name="comment-solid" >}}
+  {{< icon size="40" name="compass-solid" >}}
+  {{< icon size="40" name="credit-card-solid" >}}
+  {{< icon size="40" name="database-solid" >}}
+  {{< icon size="40" name="download-solid" >}}
+  {{< icon size="40" name="envelope-solid" >}}
+  {{< icon size="40" name="face-smile-regular" >}}
+  {{< icon size="40" name="file-solid" >}}
+  {{< icon size="40" name="gear-solid" >}}
+  {{< icon size="40" name="hashtag-solid" >}}
+  {{< icon size="40" name="heart-solid" >}}
+  {{< icon size="40" name="house-solid" >}}
+  {{< icon size="40" name="image-solid" >}}
+  {{< icon size="40" name="link-solid" >}}
+  {{< icon size="40" name="list-solid" >}}
+  {{< icon size="40" name="location-dot-solid" >}}
+  {{< icon size="40" name="magnifying-glass-solid" >}}
+  {{< icon size="40" name="map-location-dot-solid" >}}
+  {{< icon size="40" name="map-solid" >}}
+  {{< icon size="40" name="paper-plane-solid" >}}
+  {{< icon size="40" name="paperclip-solid" >}}
+  {{< icon size="40" name="pen-to-square-solid" >}}
+  {{< icon size="40" name="pencil-solid" >}}
+  {{< icon size="40" name="phone-solid" >}}
+  {{< icon size="40" name="receipt-solid" >}}
+  {{< icon size="40" name="snowflake-regular" >}}
+  {{< icon size="40" name="snowflake-solid" >}}
+  {{< icon size="40" name="star-regular" >}}
+  {{< icon size="40" name="star-solid" >}}
+  {{< icon size="40" name="stopwatch-solid" >}}
+  {{< icon size="40" name="tag-solid" >}}
+  {{< icon size="40" name="thumbs-down-solid" >}}
+  {{< icon size="40" name="thumbs-up-solid" >}}
+  {{< icon size="40" name="trash-solid" >}}
+  {{< icon size="40" name="triangle-exclamation-solid" >}}
+  {{< icon size="40" name="user-regular" >}}
+  {{< icon size="40" name="user-solid" >}}
+  {{< icon size="40" name="warehouse-solid" >}}
+  {{< icon size="40" name="xmark-solid" >}}
+</section>
+
+<section class="StyleguideSection">
+  <h2>Formulaires</h2>
+
+  <form>
+    <fieldset>
+      <legend>Légende du groupe de champs</legend>
+
+      <div class="form-group">
+        <label for="champ-texte">Champ texte</label>
+        <input id="champ-texte" type="text" placeholder="Texte à saisir…">
+      </div>
+
+      <div class="form-group">
+        <label for="champ-nombre">Champ nombre</label>
+        <input id="champ-nombre" type="number" placeholder="1234">
+      </div>
+
+      <div class="form-group">
+        <label for="champ-deroulant">Champ déroulant</label>
+        <select>
+          <option value="">Choisissez une valeur…</option>
+          <option value="valeur1">Valeur #1</option>
+          <option value="valeur2">Valeur #2</option>
+          <option value="valeur3">Valeur #3</option>
+        </select>
+      </div>
+    </fieldset>
+
+    <button type="submit" class="btn btn-primary">Bouton soumettre</button>
+  </form>
+
+</section>
+
+
+<style>
+.StyleguideSection {
+  margin: 1.5rem;
+  padding: 1rem;
+
+  background-color: #fff;
+  box-shadow: 0 5px 6px rgba(0, 0, 0, .15);
+}
+  .StyleguideSection > h2 {
+    margin: 0 0 1rem;
+    font-size: 1.25rem;
+  }
+
+  .StyleguideTypographie {
+    display: grid;
+    grid-template-columns: 1fr;
+    font-size: 24px;
+  }
+  @media (min-width: 768px) {
+    .StyleguideTypographie {
+      font-size: 40px;
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .StyleguideCouleurs__cartons {
+    display: flex;
+    flex-direction: row;
+    gap: .5rem;
+  }
+
+  .StyleguideCouleurs__carton {
+    flex-basis: 200px;
+
+    overflow: hidden;
+    border-radius: 5px;
+
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .25);
+  }
+  .StyleguideCouleurs__carton__pastille {
+    aspect-ratio: 1 / 1;
+    background-color: var(--bg);
+    min-width: 1px;
+  }
+  .StyleguideCouleurs__carton figcaption {
+    padding: 2rem .35rem .5rem;
+    color: inherit;
+  }
+</style>
+
+

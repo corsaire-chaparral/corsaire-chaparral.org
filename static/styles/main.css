@@ -589,6 +589,16 @@ pre {
   box-shadow: 0 0.12em 0 0 #993f00, 0 4px 0.8em rgba(0, 0, 0, 0.5);
 }
 
+.btn-danger {
+  box-shadow: 0 0.12em 0 0 rgb(157.0826446281, 8.9173553719, 19.2066115702), 0 3px 4px 1px rgba(0, 0, 0, 0.5);
+  background-color: #f21a29;
+  background-image: linear-gradient(-45deg, #f21a29, rgb(254.1, 13.9, 78.6205555556));
+  color: #fff;
+}
+.btn-danger:hover, .btn-danger:focus {
+  box-shadow: 0 0.12em 0 0 rgb(157.0826446281, 8.9173553719, 19.2066115702), 0 4px 0.8em rgba(0, 0, 0, 0.5);
+}
+
 .btn[disabled],
 .btn.disabled {
   opacity: 0.7;
@@ -1859,7 +1869,6 @@ li:hover > .dropdown-list {
 }
 
 .footer-main {
-  margin-top: -1em;
   padding-top: 2.5em;
   background-color: #222721;
   color: #EDEDED;
@@ -2277,6 +2286,7 @@ ol a:focus {
 }
 
 .container-main {
+  margin-bottom: -1em;
   padding-left: 0;
   padding-right: 0;
   position: relative;

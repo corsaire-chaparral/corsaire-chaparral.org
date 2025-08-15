@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main class="StyleguideLayout">
+  <header class="StyleguideLayout__header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{ .Content }}
+</main>
+<style>
+.StyleguideLayout__header {
+  margin: 1.5rem;
+}
+.StyleguideLayout__header h1 {
+  margin: 0;
+}
+</style>
+{{ end }}{{/* main */}}

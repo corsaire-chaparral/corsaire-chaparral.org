@@ -57,6 +57,7 @@ ol a
 }
 
 .container-main {
+  margin-bottom: -$spacing;
   @include horizontal-padding(0);
   position: relative;
   margin-top: $spacing;
