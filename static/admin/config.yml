@@ -1,0 +1,31 @@
+backend:
+  name: github
+  repo: corsaire-chaparral/corsaire-chaparral.org # Path to your GitHub repository
+  branch: main
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Corps', name: 'body', widget: 'markdown' }
+  - name: 'nouvelles'
+    label: 'Nouvelles'
+    folder: 'content/nouvelles'
+    create: true
+    slug: '{{year}}/{{month}}/{{day}}/{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Image de couverture', name: 'images', widget: 'list' }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
