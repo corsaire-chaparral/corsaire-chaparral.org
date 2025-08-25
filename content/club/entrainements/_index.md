@@ -56,10 +56,6 @@ La date du 8 août 2026 est indicative : cette date peut être modifiée selon l
 - Mercredi 18 h 15-19 h 45
 - Samedi 9 h 30-11 h
 
-Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/). 
-
-_Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
-
 {{% /accordeon %}}
 
 {{% accordeon entete="Cadet (2011–2012)" id="cadet" niveau="3" %}}
@@ -131,7 +127,6 @@ Du 30 août au 17 septembre 2025.
 
 **Heures :**
 
-- Mercredi 18 h 15 à 19 h 45
 - Samedi 9 h 30 à 11 h
 
 {{% /accordeon %}}

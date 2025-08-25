@@ -61,10 +61,10 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 |--------------------------|--------------------:|--------------------:|
 | Benjamin (2013–2014)     | 545 $ <br><small>+ affiliation  40,92 $</small> | 325 $ <br><small>+ affiliation 30,69 $</small> |
 | Cadet (2011–2012)        | 650 $ <br><small>+ affiliation  81,34 $</small> | 375 $ <br><small>+ affiliation 61,38 $</small> |
-| Juvénile (2009–2010)     | 650 $ <br><small>+ affiliation  81,34 $</small> | 360 $ <br><small>+ affiliation 61,38 $</small> |
+| Juvénile (2009–2010)     | 650 $ <br><small>+ affiliation  81,34 $</small> | 375 $ <br><small>+ affiliation 61,38 $</small> |
 | Junior (2007–2008)       | 805 $ <br><small>+ affiliation 107,42 $</small> | 435 $ <br><small>+ affiliation 81,84 $</small> |
 | Senior (1992–2006)       | 805 $ <br><small>+ affiliation 107,42 $</small> | 435 $ <br><small>+ affiliation 81,84 $</small> |
-| Vétéran (1991 et avant)  | 650 $ <br><small>+ affiliation 107,42 $</small> | 360 $ <br><small>+ affiliation 81,84 $</small> |
+| Vétéran (1991 et avant)  | 650 $ <br><small>+ affiliation 107,42 $</small> | 375 $ <br><small>+ affiliation 81,84 $</small> |
 
 ### Groupes jeunesse à la session
 
@@ -142,14 +142,15 @@ Les citoyens des villes ci-dessous seront **exemptés** des frais de piste.
 
 {{% accordeon entete="4. Bénévolat et activités de financement" id="benevolat" niveau="2" %}}
 
-Une organisation comme celle du club d'athlétisme Corsaire-Chaparral doit organiser différentes compétitions pour son financement. 
+Une organisation comme celle du club d'athlétisme Corsaire-Chaparral doit organiser différentes compétitions pour son financement.
 Grâce à ces événements, nous sommes en mesure d'offrir des occasions de compétitions à nos membres sans déplacements.
 Les sommes amassées lors de ces événements nous permettent d'offrir de meilleures conditions à nos entraîneurs.
 Pour tenir ces événements, nous avons besoins de la contribution de nombreux bénévoles.
 Il est donc impératif que les parents/athlètes/familles contribuent à la réalisation de ces organisations en s'engageant à réaliser des périodes de bénévolat.
-Des frais additionnels de **200 $** s'additionnent  aux frais annuelles et des frais **100 $** s'addititionnent aux frais mi-annuels.
+Des frais additionnels de **200 $** s'additionnent  aux frais annuels, payables une fois seulement.
+Si l’athlète quitte le club et que son bénévolat a été accompli, ce montant lui est remboursé.
 
-Si 3 blocs d'une demi-journée (inscriptions annuelles) ou 2 blocs d'une demi-journée sont réalisés, les frais de bénévolat ne sont pas chargés l'année suivante. 
+Si 3 blocs d'une demi-journée (inscriptions annuelles) ou 2 blocs d'une demi-journée sont réalisés, les frais de bénévolat ne sont pas chargés l'année suivante.
 
 Pour les inscriptions par session, 1 bloc d'une demi-jounée / session est demandé aux parents.
 
