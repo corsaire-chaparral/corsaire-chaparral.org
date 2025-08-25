@@ -50,7 +50,7 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
 {{% /accordeon %}}
 
-{{% accordeon entete="2. Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" ouvert="yes" %}}
+{{% accordeon entete="2. Catégories d'âge et tarifs d'inscription" id="tarifs" niveau="2" %}}
 
 ### Groupes annuels et mi-annuels
 
