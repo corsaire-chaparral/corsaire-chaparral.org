@@ -6,12 +6,12 @@ layout: single
 ---
 
 {{% div class="well well-primary" %}}
-**Saison 2024-2025** \
-\
-Le club fait relâche pendant le mois d’août. Reprise de la saison 2025-2026 à compter de la **mi-septembre**.
-Au plaisir de vous retrouver pour une autre belle année d'athlétisme!
-{{% /div %}}
 
+**Reprise des entraînements le samedi 20 septembre 2025**
+
+Ouverture des inscriptions à compter du 25 août 2025.
+
+{{% /div %}}
 
 ## {{< icon name="map-solid" size="28" >}} Lieux d'entraînement
 
@@ -22,118 +22,112 @@ Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sport
 Sainte-Thérèse, QC J7E 4S4
 ```
 
-<!--
-Dans le but d'alléger les plateaux sportifs de la polyvalente durant la session d'hiver, certains entraînements des athlètes de catégorie **juvénile et plus vieux** peuvent se donner à l'**école Saint-Pierre**.
-
-```
-201 Rue Saint-Pierre  
-Sainte-Thérèse, QC J7E 2S3
-```
-
-<em class="badge badge-primary">Nouveau!</em> Club satellite à **Lachute** : les entraînements ont lieu sur la piste d’athlétisme de la **Polyvalente Lavigne**.
-
-```
-452 Avenue d’Argenteuil  
-Lachute, Quebec J8H 1W9
-```
--->
-
 ## {{< icon name="stopwatch-solid" size="28" >}} Horaire d'entraînement {#horaire}
 
 Selon les catégories (voir ci-bas).
 
-{{% accordeon entete="Colibri (2016–2017)" id="colibri" niveau="3" %}}
+La période annuelle est du **20 septembre 2025 au 8 août 2026**.
+La date du 8 août 2026 est indicative : cette date peut être modifiée selon le calendrier de compétitions établi avec l’entraîneur.
 
-**Session #1 :** 21 septembre au 7 décembre 2024 \
-**Session #2 :** 15 mars au 24 mai 2025 \
-**Session #3 :** 31 mai au 9 août 2025
+{{% accordeon entete="Colibri (2017–2018)" id="colibri" niveau="3" %}}
 
-- Samedi 11 h à 12  h 30
+**Session #1 :** 20 septembre au 6 décembre 2025 \
+**Session #2 :** 14 mars au 23 mai 2026 \
+**Session #3 :** 30 mai au 8 août 2026
 
-{{% /accordeon %}}
-
-{{% accordeon entete="Minime (2014–2015)" id="minime" niveau="3" %}}
-
-**Session #1 :** 21 septembre au 7 décembre 2024 \
-**Session #2 :** 15 mars au 24 mai 2025 \
-**Session #3 :** 31 mai au 9 août 2025
-
-- Samedi 11 h à 12  h 30
+**Heure :** Samedi 11 h à 12 h 30
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Benjamin (2012–2013)" id="benjamin" niveau="3" %}}
+{{% accordeon entete="Minime (2015–2016)" id="minime" niveau="3" %}}
 
-- Mercredi 18h15-19h45
-- Samedi 9h30-11h00
+**Session #1 :** 20 septembre au 6 décembre 2025 \
+**Session #2 :** 14 mars au 23 mai 2026 \
+**Session #3 :** 30 mai au 8 août 2026
 
-Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/). 
-
-_Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
-
-{{% /accordeon %}}
-
-{{% accordeon entete="Cadet (2010–2011)" id="cadet" niveau="3" %}}
-
-- Lundi 18h15-19h45
-- Mercredi 18h15-19h45
-- Samedi 9h30-11h00
+**Heure :** Samedi 11 h à 12 h 30
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Juvénile (2008–2009), junior (2006-2007) et sénior (1990–2005)" id="juvenile-junior-senior" niveau="3" %}}
+{{% accordeon entete="Benjamin (2013–2014)" id="benjamin" niveau="3" %}}
 
-- Lundi 18h15-19h45
-- Mercredi 18h15-19h45
-- Samedi 9h30-11h00
+**Heures :**
 
-{{% /accordeon %}}
-
-{{% accordeon entete="Vétéran (–1989)" id="veteran" niveau="3" %}}
-
-Horaire à confirmer lors de l'inscription.
+- Mercredi 18 h 15-19 h 45
+- Samedi 9 h 30-11 h
 
 {{% /accordeon %}}
 
-{{% accordeon entete="Cross-country nés en 2012 et avant" id="cross-country" niveau="3" %}}
+{{% accordeon entete="Cadet (2011–2012)" id="cadet" niveau="3" %}}
 
-Du 31 août au 18 septembre 2024.
+**Heures :**
 
-- Lundi 18h15-19h45 
-- Mercredi 18h15-19h45
-- Samedi 9h30-11h00
+- Lundi 18 h 15 à 19 h 45
+- Mercredi 18 h 15 à 19 h 45
+- Samedi 9 h 30 à 11 h
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Juvénile (2009–2010)" id="juvenile" niveau="3" %}}
+
+**Heures :**
+
+- Lundi 18 h 15 à 19 h 45
+- Mercredi 18 h 15 à 19 h 45
+- Samedi 9 h 30 à 11 h
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Junior (2007-2008)" id="junior" niveau="3" %}}
+
+**Heures :**
+
+- Lundi 18 h 15 à 19 h 45
+- Mercredi 18 h 15 à 19 h 45
+- Samedi 9 h 30 à 11 h
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Sénior (1992–2006)" id="senior" niveau="3" %}}
+
+**Heures :**
+
+- Lundi 18 h 15 à 19 h 45
+- Mercredi 18 h 15 à 19 h 45
+- Samedi 9 h 30 à 11 h
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Vétéran (1991 et avant)" id="veteran" niveau="3" %}}
+
+**Heures :**
+
+- Lundi 18 h 15 à 19 h 45
+- Mercredi 18 h 15 à 19 h 45
+- Samedi 9 h 30 à 11 h
+
+{{% /accordeon %}}
+
+{{% accordeon entete="Cross-country (2014 et avant)" id="cross-country" niveau="3" %}}
+
+Du 30 août au 17 septembre 2025.
+
+**Heures :**
+
+- Lundi 18 h 15 à 19 h 45
+- Mercredi 18 h 15 à 19 h 45
+- Samedi 9 h 30 à 11 h
 
 {{% /accordeon %}}
 
 {{% accordeon entete="Athlétisme Fit 18 ans et +" id="athletisme-fit" niveau="3" %}}
 
-**Session #1 :** du 18 septembre au 26 octobre 2024 \
-**Session #2 :** du 4 juin au 12 juillet 2025
+**Session #1 :** du 20 septembre au 25 octobre 2025 \
+**Session #2 :** du 6 juin au 25 juillet 2026
 
-- Mercredi 18h15-19h45
-- Samedi 9h30-11h00
+**Heures :**
 
-{{% /accordeon %}}
-
-{{% accordeon entete="Vétéran (–1989)" id="veteran" niveau="3" %}}
-
-Horaire à confirmer lors de l'inscription.
+- Samedi 9 h 30 à 11 h
 
 {{% /accordeon %}}
 
-<!--
-
-### Demi-fond (cadet, juvénile et plus vieux) {#demi-fond}
-
-Les athlètes de catégorie **cadette** et **juvénile** peuvent suivre la planification spécialisée pour le demi-fond.
-
-- Lundi 18 h à 19 h 30
-- Mercredi 18 h à 19 h 30
-- Samedi 10 h 30 à 12 h
-
-Consultez le [calendrier](demi-fond) pour les entraînements de demi-fond.
-
-Entraîneurs responsables :
-
-- 
--->
