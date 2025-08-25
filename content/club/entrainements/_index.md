@@ -9,7 +9,7 @@ layout: single
 
 **Reprise des entraînements le samedi 20 septembre 2025**
 
-Ouverture des inscriptions à compter du 26 août 2025.
+Ouverture des inscriptions à compter du 25 août 2025.
 
 {{% /div %}}
 
