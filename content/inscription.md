@@ -62,8 +62,8 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 | Benjamin (2013–2014)     | 545 $ <br><small>+ affiliation  40,92 $</small> | 325 $ <br><small>+ affiliation 30,69 $</small> |
 | Cadet (2011–2012)        | 650 $ <br><small>+ affiliation  81,34 $</small> | 375 $ <br><small>+ affiliation 61,38 $</small> |
 | Juvénile (2009–2010)     | 650 $ <br><small>+ affiliation  81,34 $</small> | 375 $ <br><small>+ affiliation 61,38 $</small> |
-| Junior (2007–2008)       | 805 $ <br><small>+ affiliation 107,42 $</small> | 435 $ <br><small>+ affiliation 81,84 $</small> |
-| Senior (1992–2006)       | 805 $ <br><small>+ affiliation 107,42 $</small> | 435 $ <br><small>+ affiliation 81,84 $</small> |
+| Junior (2007–2008)       | 805 $ <br><small>+ affiliation 107,42 $</small> | 455 $ <br><small>+ affiliation 81,84 $</small> |
+| Senior (1992–2006)       | 805 $ <br><small>+ affiliation 107,42 $</small> | 455 $ <br><small>+ affiliation 81,84 $</small> |
 | Vétéran (1991 et avant)  | 650 $ <br><small>+ affiliation 107,42 $</small> | 375 $ <br><small>+ affiliation 81,84 $</small> |
 
 ### Groupes jeunesse à la session
