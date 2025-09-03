@@ -176,6 +176,9 @@ Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **séni
 
 <a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/3636-corsaire-chaparral-2026-inscriptions-annuels">Inscription annuelle 2025–2026</a>
 
+<a class="btn btn-secondary btn--block" href="https://athleticsreg.ca/#!/events/3652-corsaire-chaparral-2026-sport-etudes">Sport-études 2025–2026</a>
+
+
 {{< /note >}}
 
 <!--
