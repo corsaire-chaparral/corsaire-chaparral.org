@@ -52,6 +52,20 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Icône', name: 'icon', widget: 'string' }
       - { label: 'Corps', name: 'body', widget: 'markdown' }
+  - name: 'partenaires'
+    label: 'Partenaires'
+    files:
+      - name: 'partenaires_data'
+        label: 'Partenaires (données)'
+        file: 'data/partenaires.yml'
+        fields:
+          - label: 'Liste des partenaires'
+            name: 'entries'
+            widget: list
+            fields:
+              - {label: Nom, name: name, widget: string}
+              - {label: URL, name: url, widget: string}
+              - {label: Image, name: image, widget: string}
   - name: 'resultats'
     label: 'Résultats'
     folder: 'content/resultats'
