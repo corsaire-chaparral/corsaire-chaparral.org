@@ -1,11 +1,6 @@
 ---
 title: Records et statistiques
 icon: stopwatch-solid
-menu:
-  main:
-    identifier: records-statistiques
-    parent: club
-    weight: 0
 ---
 
 _Les records ci-bas ont été compilés par Émile Brassard._

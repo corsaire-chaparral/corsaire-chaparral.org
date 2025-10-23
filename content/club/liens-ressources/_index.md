@@ -1,10 +1,6 @@
 ---
 title: Liens et ressources
 icon: list-solid
-menu:
-  main:
-    identifier: liens-ressources
-    parent: club
 ---
 
 Vous trouverez sur cette page des liens vers des ressources utiles.

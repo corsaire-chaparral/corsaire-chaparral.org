@@ -5,6 +5,41 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
+  - name: 'club'
+    label: 'Club'
+    folder: 'content/club'
+    create: true
+    slug: 'club/{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Icône', name: 'icon', widget: 'string' }
+      - { label: 'Corps', name: 'body', widget: 'markdown' }
+  - name: 'competitions'
+    label: 'Compétitions'
+    folder: 'content/competitions'
+    create: true
+    slug: 'competitions/{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Icône', name: 'icon', widget: 'string', default: "calendar-days-solid" }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
+  - name: 'nouvelles'
+    label: 'Nouvelles'
+    folder: 'content/nouvelles'
+    create: true
+    slug: '{{year}}/{{month}}/{{day}}/{{slug}}'
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Image de couverture', name: 'images', widget: 'list' }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
@@ -15,17 +50,16 @@ collections:
     fields:
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Icône', name: 'icon', widget: 'string' }
       - { label: 'Corps', name: 'body', widget: 'markdown' }
-  - name: 'nouvelles'
-    label: 'Nouvelles'
-    folder: 'content/nouvelles'
+  - name: 'resultats'
+    label: 'Résultats'
+    folder: 'content/resultats'
     create: true
-    slug: '{{year}}/{{month}}/{{day}}/{{slug}}'
+    slug: 'resultats/{{year}}/{{slug}}'
     editor:
       preview: false
     fields:
       - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
-      - { label: 'Image de couverture', name: 'images', widget: 'list' }
       - { label: 'Corps de la page', name: 'body', widget: 'markdown' }

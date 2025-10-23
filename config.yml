@@ -25,12 +25,8 @@ params:
   email: info@corsaire-chaparral.org
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
-  stripePublicKey: pk_live_ccR6ujsv04d7TjBjRvVBgFvn
-  snipcartApiKey: ZTllOTFkYTgtOWVhZS00MTQ3LWE0YWEtYTA0NjVjNTA3NTA2NjM3MDYwOTcwMTYzNzkwNDEw
-  apiUrl: https://api.corsaire-chaparral.org/v1/payment/new
 #  annonce: >
 #   Championnats 2019 Champs <a href="/resultats/direct/" class="btn btn-primary -sm">Résultats 🔥</a>
-#sectionPagesMenu: main
 
 paginate: 12
 paginatePath: page
@@ -41,15 +37,9 @@ markup:
   goldmark:
     renderer:
         unsafe: true
-#  defaultMarkdownHandler: blackfriday
 
 menu:
   main:
-#  - identifier: home
-#    title: Accueil
-#    url: '/'
-#    weight: -110
-
   - identifier: club
     title: Club
     url: '/club/'
@@ -74,86 +64,47 @@ menu:
     title: Entraîneurs
     parent: club
     weight: 40
-#  - identifier: liens-ressources
-#    url: '/club/liens-ressources/'
-#    title: Liens et ressources
-#    parent: club
-#  - identifier: records-statistiques
-#    url: '/club/records-statistiques/'
-#    title: Records et statistiques
-#    parent: club
+  - identifier: benevolat
+    url: '/club/benevolat/'
+    title: Bénévolat
+    parent: club
+    weight: 50
   - identifier: vetements
     url: '/club/vetements/'
     title: Vêtements
     parent: club
-    weight: 50
-
-  - identifier: competitions
-    title: Compétitions
-    url: '/competitions/'
     weight: 60
+  - identifier: partenaires
+    url: '/partenaires/'
+    title: Partenaires
+    parent: club
+    weight: 70
+  - identifier: liens-ressources
+    url: '/club/liens-ressources/'
+    title: Liens et ressources
+    parent: club
+    weight: 80
+  - identifier: records-statistiques
+    url: '/club/records-statistiques/'
+    title: Records et statistiques
+    parent: club
+    weight: 90
 
   - identifier: nouvelles
     url: '/nouvelles/'
     title: Nouvelles
     weight: 20
 
+  - identifier: competitions
+    title: Compétitions
+    url: '/competitions/'
+    weight: 30
+
   - identifier: plan
     url: '/plan-du-site/'
     title: Plan du site
     weight: 50
 
-#  - identifier: coch-invitation
-#    title: Corsaire-Chaparral Invitation
-#    url: '/competitions/corsaire-chaparral-invitation/'
-#    weight: 0
-#    parent: competitions
-#  - identifier: challenge-andre-harel
-#    title: Challenge André-Harel
-#    url: '/competitions/challenge-andre-harel/'
-#    weight: 0
-#    parent: competitions
-#  - identifier: crepuscules
-#    title: Crépuscules
-#    url: '/competitions/crepuscules/'
-#    weight: 0
-#    parent: competitions
-#  - identifier: festival-jeunes
-#    title: Festival en salle pour jeunes
-#    url: '/competitions/festival-en-salle-pour-jeunes/'
-#    weight: 0
-#    parent: competitions
-#  - identifier: challenge-jean-paul-baert
-#    title: Challenge Jean-Paul-Baert
-#    url: '/competitions/challenge-jean-paul-baert/'
-#    weight: 0
-#    parent: competitions
-#  - identifier: finale-regionale
-#    title: Finale régionale des Jeux du Québec
-#    url: '/competitions/finale-regionale/'
-#    weight: 0
-#    parent: competitions
-
-#  - identifier: camp-de-jour
-#    title: Camp de jour
-#    url: '/camp-de-jour/'
-#    weight: 50
-#    active: true
-#
-#  - identifier: photos
-#    title: Photos
-#    url: '/photos/'
-#    weight: 80
-
-#  - identifier: partenaires
-#    title: Partenaires
-#    url: '/partenaires/'
-#    weight: 90
-
-#  - identifier: contact
-#    title: Contact
-#    url: '/contact/'
-#    weight: 110
   membres:
     - identifier: courriels
       title: Courriel web
