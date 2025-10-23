@@ -2075,6 +2075,15 @@ li:hover > .dropdown-list {
     transform: scale(1);
   }
 }
+.bloc-partenaires {
+  padding: 1rem;
+}
+
+.bloc-partenaires__items {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .splash {
   padding: 4em 0;
   display: flex;
@@ -2184,6 +2193,10 @@ li:hover > .dropdown-list {
   .section-large-type {
     font-size: 2.5vw;
   }
+}
+
+.home-layout {
+  background-color: #fff;
 }
 
 .list-layout {

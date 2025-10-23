@@ -1,0 +1,6 @@
+<div class="bloc-cartes">
+  {{- if .Params.entete }}
+  <h2 class="bloc-cartes__entete">{{ .Params.entete }}</h2>
+  {{- end}}
+  {{ .Inner }}
+</div>

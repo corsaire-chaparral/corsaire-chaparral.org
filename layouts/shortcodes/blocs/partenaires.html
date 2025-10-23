@@ -1,0 +1,17 @@
+<div class="bloc-partenaires">
+  {{- if .Params.entete }}
+  <h2 class="bloc-partenaires__entete">{{ .Params.entete }}</h2>
+  {{- end}}
+
+  <div class="bloc-partenaires__items">
+    {{- if .Inner }}
+    <!-- insérer des blocs enfants bloc/partenaire.html dans le corps de ce shortcode -->
+    {{ .Inner }}
+    {{- else -}}
+    {{/* Par défaut, charger les partenaires depuis les données du site */}}
+    {{ range .Site.Data.partenaires.entries }}
+    {{ partial "partenaire.html" . }}
+    {{ end }}
+    {{ end -}}
+  </div>
+</div>
