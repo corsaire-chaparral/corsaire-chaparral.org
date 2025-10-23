@@ -1,0 +1,79 @@
+backend:
+  name: github
+  repo: corsaire-chaparral/corsaire-chaparral.org # Path to your GitHub repository
+  branch: main
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'club'
+    label: 'Club'
+    folder: 'content/club'
+    create: true
+    slug: 'club/{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Icône', name: 'icon', widget: 'string' }
+      - { label: 'Corps', name: 'body', widget: 'markdown' }
+  - name: 'competitions'
+    label: 'Compétitions'
+    folder: 'content/competitions'
+    create: true
+    slug: 'competitions/{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Icône', name: 'icon', widget: 'string', default: "calendar-days-solid" }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
+  - name: 'nouvelles'
+    label: 'Nouvelles'
+    folder: 'content/nouvelles'
+    create: true
+    slug: '{{year}}/{{month}}/{{day}}/{{slug}}'
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Image de couverture', name: 'images', widget: 'list' }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Icône', name: 'icon', widget: 'string' }
+      - { label: 'Corps', name: 'body', widget: 'markdown' }
+  - name: 'partenaires'
+    label: 'Partenaires'
+    files:
+      - name: 'partenaires_data'
+        label: 'Partenaires (données)'
+        file: 'data/partenaires.yml'
+        fields:
+          - label: 'Liste des partenaires'
+            name: 'entries'
+            widget: list
+            fields:
+              - {label: Nom, name: name, widget: string}
+              - {label: URL, name: url, widget: string}
+              - {label: Image, name: image, widget: string}
+  - name: 'resultats'
+    label: 'Résultats'
+    folder: 'content/resultats'
+    create: true
+    slug: 'resultats/{{year}}/{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }

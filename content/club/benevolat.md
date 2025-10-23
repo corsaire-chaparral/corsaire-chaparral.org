@@ -1,26 +1,14 @@
-
 ---
-title: Affichage de bénévolat
-menu:
-  main:
-    parent: club
-    title: Bénévolat
-    weight: 100
+title: "Affichage de bénévolat"
 ---
 
 Il est attendu que chaque athlète (et sa famille) accomplisse [**10 heures**](/inscription/#benevolat) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
 
 ## Événements
 
-<!--
-{{< note >}}
-_Il n’y a pas d’événements de bénévolat à venir pour l’instant._
-{{< /note >}}
--->
 | Date         | Événement                                                                                           |
 | ------------ |-----------------------------------------------------------------------------------------------------|
 | 2025-09-07   | _Le Demi-marathon de Blainville_ - [Inscription](https://www.demimarathondeblainville.com/benevoles) |
-
 
 ## Tâches régulières
 

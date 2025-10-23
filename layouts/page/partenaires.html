@@ -1,6 +1,6 @@
 {{ define "article" }}
   {{ .Content }}
-  {{ range .Site.Data.partenaires }}
+  {{ range .Site.Data.partenaires.entries }}
   {{ partial "partenaire.html" . }}
   {{ end }}
 {{ end }}
