@@ -32,8 +32,9 @@ La date du 8 août 2026 est indicative : cette date peut être modifiée selon l
 {{% accordeon entete="Colibri (2017–2018)" id="colibri" niveau="3" %}}
 
 **Session #1 :** 20 septembre au 6 décembre 2025 \
-**Session #2 :** 14 mars au 23 mai 2026 \
-**Session #3 :** 30 mai au 8 août 2026
+**Session #2 :** 10 janvier au 14 mars 2026 *(relâche le 7 mars)* <em class="badge badge-primary">Nouveau !</em> \
+**Session #3 :** 14 mars au 23 mai 2026 \
+**Session #4 :** 30 mai au 8 août 2026
 
 **Heure :** Samedi 11 h à 12 h 30
 
@@ -42,8 +43,9 @@ La date du 8 août 2026 est indicative : cette date peut être modifiée selon l
 {{% accordeon entete="Minime (2015–2016)" id="minime" niveau="3" %}}
 
 **Session #1 :** 20 septembre au 6 décembre 2025 \
-**Session #2 :** 14 mars au 23 mai 2026 \
-**Session #3 :** 30 mai au 8 août 2026
+**Session #2 :** 10 janvier au 14 mars 2026 *(relâche le 7 mars)* <em class="badge badge-primary">Nouveau !</em> \
+**Session #3 :** 14 mars au 23 mai 2026 \
+**Session #4 :** 30 mai au 8 août 2026
 
 **Heure :** Samedi 11 h à 12 h 30
 
@@ -108,6 +110,17 @@ La date du 8 août 2026 est indicative : cette date peut être modifiée selon l
 
 {{% /accordeon %}}
 
+{{% accordeon entete="Récréatif (juvénile, junior, sénior, vétéran)" id="recreatif" niveau="3" %}}
+
+**Heures :**
+
+- Mercredi 18 h 00 à 19 h 30
+- Samedi 9 h 30 à 11 h
+
+{{% /accordeon %}}
+
+
+<!--
 {{% accordeon entete="Cross-country (2014 et avant)" id="cross-country" niveau="3" %}}
 
 Du 30 août au 17 septembre 2025.
@@ -119,6 +132,7 @@ Du 30 août au 17 septembre 2025.
 - Samedi 9 h 30 à 11 h
 
 {{% /accordeon %}}
+-->
 
 {{% accordeon entete="Athlétisme Fit 18 ans et +" id="athletisme-fit" niveau="3" %}}
 

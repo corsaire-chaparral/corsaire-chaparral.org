@@ -69,8 +69,9 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 ### Groupes jeunesse à la session
 
 - **Session 1 :** 20 septembre au 6 décembre 2025
-- **Session 2 :** 14 mars au 23 mai 2026
-- **Session 3 :** 30 mai au 8 août 2026
+- **Session 2 :** 10 janvier au 14 mars 2026 (relâche le 7 mars)
+- **Session 3 :** 14 mars au 23 mai 2026
+- **Session 4 :** 30 mai au 8 août 2026
 
 | Catégorie                            | Tarif              |
 |--------------------------------------|-------------------:|
