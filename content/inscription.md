@@ -68,17 +68,25 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 
 ### Groupes jeunesse à la session
 
-- **Session 1 :** 20 septembre au 6 décembre 2025
-- **Session 2 :** 10 janvier au 14 mars 2026 (relâche le 7 mars)
-- **Session 3 :** 14 mars au 23 mai 2026
-- **Session 4 :** 30 mai au 8 août 2026
+- **Session #1 :** 20 septembre au 6 décembre 2025
+- **Session #2 :** 10 janvier au 14 mars 2026 (relâche le 7 mars) <em class="badge badge-primary">tarif réduit</em>
+- **Session #3 :** 14 mars au 23 mai 2026
+- **Session #4 :** 30 mai au 8 août 2026
 
-| Catégorie                            | Tarif              |
-|--------------------------------------|-------------------:|
-| Colibri (2017–2018)                  | 145 $ <br><small>+ affiliation 14,32 $</small> |
-| Minime (2015–2016)                   | 145 $ <br><small>+ affiliation 14,32 $</small> |
+| Catégorie                            | Tarif <br>(session régulière) | Tarif <br>(session #2)
+|--------------------------------------|-------------------:|-------------------:|
+| Colibri (2017–2018)                  | 145 $ <br><small>+ affiliation 14,32 $</small> | 100 $ <br><small>+ affiliation 14,32 $</small> |
+| Minime (2015–2016)                   | 145 $ <br><small>+ affiliation 14,32 $</small> | 100 $ <br><small>+ affiliation 14,32 $</small> |
 
 \* Veuillez noter que la catégorie coccinelle (2019–2020) n'est plus offerte.
+
+### Groupe récréatif
+
+Ce tarif peut être sélectionné dans la catégorie « Inscription à la session ».
+
+| Catégorie                | Tarif |
+|--------------------------|------:|
+| Récréatif                | 545 $ |
 
 ### Session cross-country
 
@@ -195,8 +203,8 @@ Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **séni
 
 **Inscription à la session**
 
-Pour les athlètes **colibri** et **minime**, ainsi que les sessions de **cross-country** et **Athlétisme Fit** choisissez plutôt l'inscription à la session.
-Veuillez noter que la catégorie coccinnelle n'est plus offerte.
+Pour les athlètes **colibri** et **minime**, l’inscription dans le volet **récréatif** ainsi que les sessions de **cross-country** et **Athlétisme Fit**, choisissez plutôt l'inscription à la session.
+Veuillez noter que la catégorie coccinelle n'est plus offerte.
 
 <a class="btn btn-tertiary btn--block" href="https://athleticsreg.ca/#!/events/3646-corsaire-chaparral-2026-inscriptions-par-session">Inscription à la session</a>
 
