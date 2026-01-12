@@ -1,6 +1,11 @@
 backend:
-  name: github
-  repo: corsaire-chaparral/corsaire-chaparral.org # Path to your GitHub repository
+  # https://decapcms.org/docs/backends-overview/
+  name: gitea
+  app_id: c90d405d-4d53-4066-a419-03673242e5f0
+  api_root: https://codeberg.org/api/v1
+  base_url: https://codeberg.org
+  auth_endpoint: https://codeberg.org/login/oauth/authorize
+  repo: corsaire-chaparral/corsaire-chaparral.org
   branch: main
 media_folder: static/img
 public_folder: /img
