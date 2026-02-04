@@ -1,7 +1,7 @@
 ---
-title: "Camp de jour 2025"
+title: "Camp de jour 2026"
 description: >
-  Le Corsaire-Chaparral est fier de vous offrir un camp de jour spécialisé en athlétisme à l’été 2025, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
+  Le Corsaire-Chaparral est fier de vous offrir un camp de jour spécialisé en athlétisme à l’été 2026, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 
 images: 
 - /img/camp-jour-athletisme.jpg
@@ -38,9 +38,7 @@ J7E 4S4
 
 ### Tarifs
 
-**Camp de jour** : 200 $ par semaine (frais d’affiliation de 14$ auprès de la fédération en sus)
-
-**Service de garde** : 30 $ par semaine (en option)
+- **245 $ par semaine** incluant le service de garde (réservation nécessaire). À noter que les frais d’affiliation de 14$ auprès de la fédération sont en sus, pour prendre part à des événements sanctionnés.
 
 {{< note >}}
 Pour le service de garde, inscription obligatoire **avant midi le vendredi**, pour la semaine suivante.
@@ -48,14 +46,14 @@ Pour le service de garde, inscription obligatoire **avant midi le vendredi**, po
 
 ### Dates (du lundi au vendredi)
 
-* **Semaine #1** : 23–27 juin 2025 (congé le 24 juin)
-* **Semaine #2** : 30 juin – 4 juillet 2025
-* **Semaine #3** : 7–11 juillet 20234
-* **Semaine #4** : 14–18 juillet 2025
-* **Semaine #5** : 21–25 juillet 2025
-* **Semaine #6** : 28 juillet – 1<sup>er</sup> août 2025
-* **Semaine #7** : 4–8 août 2025
-* **Semaine #8** : 11–15 août 2025
+* **Semaine #1** : 22–26 juin 2025 (congé le 24 juin)
+* **Semaine #2** : 29 juin – 5 juillet 2025 (ouvert le 1<sup>er</sup> juillet)
+* **Semaine #3** : 6–10 juillet 20234
+* **Semaine #4** : 13–17 juillet 2025
+* **Semaine #5** : 20–24 juillet 2025
+* **Semaine #6** : 27–31 juillet  2025
+* **Semaine #7** : 3–7 août 2025
+* **Semaine #8** : 10–14 août 2025
 
 ## Horaire-type d'une journée
 
@@ -71,8 +69,7 @@ Pour le service de garde, inscription obligatoire **avant midi le vendredi**, po
 | 15h30 à 16h00 | retour et relaxation |
 | 16h00         | **départ**           |
 
-Personne de contact : **Simon Prince-Desjardins**, coordonnateur du camp de jour
-<campdejour@corsaire-chaparral.org>
+Pour plus d’information : <campdejour@corsaire-chaparral.org>
 
 ## Quel équipement mon enfant doit-il apporter avec lui au camp ?
 
