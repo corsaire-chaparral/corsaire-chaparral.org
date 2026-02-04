@@ -46,14 +46,14 @@ Pour le service de garde, inscription obligatoire **avant midi le vendredi**, po
 
 ### Dates (du lundi au vendredi)
 
-* **Semaine #1** : 22–26 juin 2025 (congé le 24 juin)
-* **Semaine #2** : 29 juin – 5 juillet 2025 (ouvert le 1<sup>er</sup> juillet)
-* **Semaine #3** : 6–10 juillet 20234
-* **Semaine #4** : 13–17 juillet 2025
-* **Semaine #5** : 20–24 juillet 2025
-* **Semaine #6** : 27–31 juillet  2025
-* **Semaine #7** : 3–7 août 2025
-* **Semaine #8** : 10–14 août 2025
+* **Semaine #1** : 22–26 juin 2026 (congé le 24 juin)
+* **Semaine #2** : 29 juin – 5 juillet 2026 (ouvert le 1<sup>er</sup> juillet)
+* **Semaine #3** : 6–10 juillet 2026
+* **Semaine #4** : 13–17 juillet 2026
+* **Semaine #5** : 20–24 juillet 2026
+* **Semaine #6** : 27–31 juillet  2026
+* **Semaine #7** : 3–7 août 2026
+* **Semaine #8** : 10–14 août 2026
 
 ## Horaire-type d'une journée
 
@@ -128,7 +128,7 @@ Merci de votre collaboration.
 <details>
 <summary>Quand puis-je m’inscrire au camp de jour ?</summary>
 
-Les inscriptions débutent le 22 février 2025 et se poursuivent jusqu’à ce que le camp soit complet.
+Les inscriptions débutent le 6 février 2026 et se poursuivent jusqu’à ce que le camp soit complet.
 
 </details>
 
@@ -215,8 +215,8 @@ Nous n’offrons pas de service d’accompagnement. Votre enfant doit donc être
 
 ## Inscription
 
-<a href="#" class="btn btn-primary btn--block" target="_blank">
+<a href="#" class="btn btn-default btn--block" target="_blank">
 Inscription au camp de jour (à venir)
-{{< icon "chevron-right-solid" >}}
+<!--{{< icon "chevron-right-solid" >}}-->
 </a>
 
