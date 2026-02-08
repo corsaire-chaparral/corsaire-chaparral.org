@@ -215,8 +215,8 @@ Nous n’offrons pas de service d’accompagnement. Votre enfant doit donc être
 
 ## Inscription
 
-<a href="#" class="btn btn-default btn--block" target="_blank">
-Inscription au camp de jour (à venir)
-<!--{{< icon "chevron-right-solid" >}}-->
+<a href="https://athleticsreg.ca/#!/events/corsaire-chaparral-camp-de-jour-2026" class="btn btn-primary btn--block" target="_blank">
+Inscription au camp de jour
+{{< icon "chevron-right-solid" >}}
 </a>
 

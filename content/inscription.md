@@ -69,7 +69,7 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter :
 ### Groupes jeunesse à la session
 
 - **Session #1 :** 20 septembre au 6 décembre 2025
-- **Session #2 :** 10 janvier au 14 mars 2026 (relâche le 7 mars) <em class="badge badge-primary">tarif réduit</em>
+- **Session #2 :** 10 janvier au 14 mars 2026 (relâche le 7 mars)
 - **Session #3 :** 14 mars au 23 mai 2026
 - **Session #4 :** 30 mai au 8 août 2026
 
@@ -177,6 +177,7 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 - **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront crédités par les administrateurs (le remboursement sera effectué sur la carte de crédit utilisée lors du paiement de l’inscription).
 -->
 
+<!--
 {{< note >}}
 
 **Inscription annuelle**
@@ -186,18 +187,17 @@ Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **séni
 <a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/3636-corsaire-chaparral-2026-inscriptions-annuels">Inscription annuelle 2025–2026</a>
 
 {{< /note >}}
+-->
 
-<!--
 {{< note >}}
 
 **Inscription mi-année (14 mars – 8 août 2026)**
 
 Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **sénior** et **vétéran**, vous pouvez choisir l’inscription mi-année.
 
-<a class="btn btn-tertiary btn--block" href="">Inscription mi-année 2024-2025</a>
+<a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/club-dathletisme-corsaire-chaparral-2026-inscriptions-par-session-et-mi-annuel-fn2fl">Inscription mi-année 2025-2026</a>
 
 {{< /note >}}
--->
 
 {{< note >}}
 
