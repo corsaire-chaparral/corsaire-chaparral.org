@@ -241,6 +241,8 @@ Les entraîneurs, membres du conseil d'administration doivent s'enregistrer via 
 
 {{< /note >}}
 
+Vous cherchez le camp de jour estival ? [C’est par ici](/camp-de-jour/).
+
 {{% /accordeon %}}
 
 
