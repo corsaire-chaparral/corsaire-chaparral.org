@@ -220,3 +220,7 @@ Inscription au camp de jour
 {{< icon "chevron-right-solid" >}}
 </a>
 
+{{< note >}}
+**Aide à l’inscription en ligne :** au besoin, consultez le [**guide d’inscription du camp de jour (PDF)**](/camp-de-jour-guide-inscription.pdf).
+{{< /note >}}
+
