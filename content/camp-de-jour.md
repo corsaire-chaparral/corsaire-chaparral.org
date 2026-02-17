@@ -4,7 +4,7 @@ description: >
   Le Corsaire-Chaparral est fier de vous offrir un camp de jour spécialisé en athlétisme à l’été 2026, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 
 images: 
-- /img/camp-de-jour-coch-2026.jpg
+- /img/camp-de-jour-coch-2026.png
 ---
 
 ![Camp de jour COCH](/img/camp-de-jour-photo-couverture.jpg)
