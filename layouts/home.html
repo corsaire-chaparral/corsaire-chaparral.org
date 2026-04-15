@@ -1,0 +1,52 @@
+{{/*
+  Disposition de la page d’accueil
+  
+  Modèle de données:
+
+  - title - titre de la page
+  - une
+*/}}
+
+
+{{ define "main" }}
+<main class="home-layout">
+  <header class="home-une">
+    <div class="home-une-content"> 
+      <p class="home-une-texte">
+        {{ .Params.lead | markdownify }}
+      </p>
+
+      <div class="home-une-boutons">
+        {{- range .Params.buttons }}
+        <a href="{{ .href }}" class="btn {{ if .button_type }}{{.button_type}}{{else}}btn-default{{ end }}">
+          {{- if .icon }}
+          {{- partial "icon.html" (dict
+              "name" .icon
+              "size" "16"
+          ) -}}
+          {{ end -}}
+          {{ .text }}
+        </a>
+        {{ end -}}
+      </div>
+    </div>
+
+    <div class="home-une-visual">
+      <img
+        class="home-une-image"
+        src="/img/coch-dos.jpg"
+        alt=""
+      >
+    </div>
+  </header>
+
+  <article class="home-article">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </article>
+</main>
+
+{{ end }}
+
+

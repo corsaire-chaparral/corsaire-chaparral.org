@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* -----------------------------------------------
 
 Andy.SCSS: Open-Source Collection of Useful SASS Mixins Library.
@@ -265,8 +266,7 @@ a.footnote-ref {
 
 p {
   margin: 0 0 1em 0;
-  -webkit-hyphens: auto;
-          hyphens: auto;
+  hyphens: auto;
 }
 
 pre {
@@ -1354,6 +1354,130 @@ input::-moz-focus-inner {
     padding-bottom: 20%;
   }
 }
+/* Home.css */
+/**
+ * Le bandeau d’en-tête (la « une ») est divisé en deux régions:
+ * contenu (texte, boutons) et visuel (une image).
+ * Sur mobile (par défaut), c’est l’un par-dessus l’autre;
+ * sur de plus grands écrans, c’est l’un à côté de l’autre.
+ *
+ */
+.home-une {
+  position: relative; /* requis pour le fond*/
+  margin: calc(1rem + 1vw); /* espacement semi-proportionnel autour de la boîte*/
+  border-radius: 1rem; /* bordures arrondies, bonbon visuel */
+  overflow: hidden; /* le contenu qui déborde est masqué, cf. bordures arrondies*/
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto auto;
+  align-items: end;
+  background-color: #ff6900;
+  color: #ffffff;
+  background-image: url("/img/coch-logo-accueil-fond.svg");
+  background-size: auto 12rem;
+  background-position: 90% -3rem;
+  background-repeat: no-repeat;
+}
+@media (min-width: 60rem) {
+  .home-une {
+    grid-template-columns: 3fr 2fr;
+    grid-template-rows: auto;
+  }
+}
+@media (min-width: 60rem) {
+  .home-une {
+    background-size: auto 80%;
+    background-position: -2rem -2rem;
+  }
+}
+
+.home-une-content {
+  padding-block: 2.5rem 1.5rem; /* espacement du bas moindre car décoration */
+  padding-inline: 1.25rem;
+  position: relative;
+  z-index: 2;
+}
+@media (min-width: 60rem) {
+  .home-une-content {
+    padding-block: 2rem;
+  }
+}
+
+.home-une-texte {
+  margin: 0; /* pas de marges autour du paragraphe */
+  font-size: 28px;
+  line-height: 1.15; /* normaliser interlignage (<p>)*/
+  hyphens: none; /* gros texte d’en-tête, pas de césure*/
+  font-weight: bold;
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.15);
+}
+@media (min-width: 60rem) {
+  .home-une-texte {
+    font-size: 48px;
+  }
+}
+@media (min-width: 80rem) {
+  .home-une-texte {
+    font-size: 60px;
+  }
+}
+
+/* wrapper for image */
+.home-une-visual {
+  position: relative;
+  overflow: hidden;
+  align-self: stretch; /* malgré l’alignement grid, prendre toute la hauteur */
+  max-height: 300px;
+}
+@media (min-width: 60rem) {
+  .home-une-visual {
+    max-height: none;
+    min-height: 300px;
+  }
+}
+.home-une-visual::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 100%;
+  transform: skewY(-3deg) translateY(0);
+  transform-origin: 0 50%;
+  background-color: #ff6900;
+}
+@media (min-width: 60rem) {
+  .home-une-visual::before {
+    height: 100%;
+    width: 100px;
+    transform: skewX(6deg);
+    transform-origin: 50% 100%;
+  }
+}
+
+.home-une-image {
+  display: block; /* éviter problèmes d’alignement */
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+/* Règion contenant des boutons*/
+.home-une-boutons {
+  margin-block-start: 1.5rem; /* séparation avec contenu au-dessus*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 0.5rem; /* espacement horizontal entre les boutons */
+}
+
+.home-article {
+  /* espacement vertical (horizontal géré avec container) */
+  padding: 2rem;
+}
+
 figure > figcaption {
   padding: 0.5em;
   font-size: 0.75em;
@@ -2006,184 +2130,6 @@ li:hover > .dropdown-list {
   background-color: #ff6900;
   background-image: linear-gradient(-45deg, #EDEDED, white);
   opacity: 1;
-}
-
-.clock {
-  font-family: Averta, Verdana, sans-serif;
-  /*  padding: 16px;*/
-}
-
-.clock__title {
-  font-size: 1.35em;
-  margin: 1em 0;
-  font-weight: bold;
-}
-
-.clock__title .icon {
-  font-size: 40px;
-  animation: pulse 0.5s infinite ease;
-  display: inline-block;
-}
-
-.clock__items {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-.clock__items > div {
-  padding: 0.5em;
-  border-radius: 0.15em;
-  background-color: #ff6a13;
-  font-size: 20px;
-  text-align: center;
-  color: #fff;
-}
-
-@media screen and (min-width: 640px) {
-  .clock__items > div {
-    font-size: 36px;
-  }
-}
-.clock__items > div > span {
-  padding: 8px 12px;
-  border-radius: 3px;
-  background-color: rgba(0, 0, 0, 0.15);
-  background-blend-mode: color-burn;
-  display: inline-block;
-}
-
-.clock__items .smalltext {
-  margin-top: 5px;
-  font-size: 12px;
-}
-
-@media screen and (min-width: 768px) {
-  .clock__items .smalltext {
-    font-size: 16px;
-  }
-}
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-.splash {
-  padding: 4em 0;
-  display: flex;
-  flex-direction: column;
-  background-image: linear-gradient(135deg, #ffa566, rgb(255, 120, 25.5));
-  color: #fff;
-  position: relative;
-}
-@media (min-width: 768px) {
-  .splash {
-    padding: 3rem 0;
-  }
-}
-@media (min-width: 1400px) {
-  .splash {
-    padding: 5rem 0;
-  }
-}
-.splash a:not(.btn) {
-  color: #fff;
-  border-color: #fff;
-}
-
-.splash__background-layer {
-  z-index: 1;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-image: url("/img/COCH_Seul_4C.svg");
-  background-repeat: no-repeat;
-  background-position: 60vw 2rem;
-  background-size: 90vw auto;
-  opacity: 0.35;
-}
-@media (min-width: 768px) {
-  .splash__background-layer {
-    background-position: 60vw 1rem;
-    background-size: 50vw auto;
-  }
-}
-
-.splash__content-layer {
-  position: relative;
-  z-index: 2;
-}
-
-.splash__header > span {
-  font-size: 2.5rem;
-  margin: 0 0 1.5rem;
-  line-height: 0.88;
-}
-@media (min-width: 768px) {
-  .splash__header > span {
-    max-width: 18ch;
-    font-size: 4rem;
-    margin-bottom: 2rem;
-  }
-}
-
-.splash__lead {
-  margin-bottom: 1.5rem;
-}
-@media (min-width: 768px) {
-  .splash__lead {
-    font-size: 1.125rem;
-  }
-  .splash__lead .btn {
-    font-size: inherit;
-  }
-}
-.splash__lead .splash__buttons .btn + .btn {
-  margin-top: 0.75em;
-}
-
-.section-large-type {
-  font-size: 20px;
-}
-.section-large-type hr {
-  background-color: #B2B4B8;
-}
-@media (min-width: 768px) {
-  .section-large-type .container {
-    padding-left: 4vw;
-    padding-right: 4vw;
-  }
-}
-.section-large-type p > a {
-  border-bottom-width: 0.1em;
-}
-@media (min-width: 550px) {
-  .section-large-type {
-    font-size: 3.75vh;
-  }
-  .section-large-type h1, .section-large-type .h1 {
-    font-size: 1.8em;
-  }
-  .section-large-type h2, .section-large-type .h2 {
-    font-size: 1.5em;
-  }
-  .section-large-type h3, .section-large-type .h3 {
-    font-size: 1.33em;
-  }
-}
-@media (min-width: 768px) {
-  .section-large-type {
-    font-size: 2.5vw;
-  }
 }
 
 .list-layout {
