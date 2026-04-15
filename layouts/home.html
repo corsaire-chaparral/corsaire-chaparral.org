@@ -4,7 +4,8 @@
   Modèle de données:
 
   - title - titre de la page
-  - une
+  - headline - courte ligne de texte
+  - buttons - série de boutons avec leurs champs { text, href, button_type?, icon? }
 */}}
 
 
@@ -13,7 +14,7 @@
   <header class="home-une">
     <div class="home-une-content"> 
       <p class="home-une-texte">
-        {{ .Params.lead | markdownify }}
+        {{ .Params.headline | markdownify }}
       </p>
 
       <div class="home-une-boutons">
@@ -41,9 +42,11 @@
   </header>
 
   <article class="home-article">
-    <div class="container">
-      {{ .Content }}
-    </div>
+    {{/*
+      Astuce: utiliser des shortcodes de type « blocs »
+      pour permettre une composition indépendante
+    */}}
+    {{- .Content }}
   </article>
 </main>
 

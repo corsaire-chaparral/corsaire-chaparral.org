@@ -1,0 +1,28 @@
+{{/*
+  Bloc section rubriques
+
+  Usage:
+
+  {{< section-rubriques entete="Quelques thématiques" >}}
+
+    {{< rubrique entete="Rubrique 1" href="#rubrique1" icone="" >}}
+    {{< rubrique entete="Rubrique 2" href="#rubrique2" icone="" >}}
+    {{< rubrique entete="Rubrique 3" href="#rubrique3" icone="" >}}
+
+  {{< /section-rubriques >}}
+
+*/}}
+
+{{- $heading := (.Get "entete") }}
+
+<section class="section-rubriques">
+  <div class="section-rubriques-inner">
+    {{- if ne 0 (len $heading) }}
+    <h2 class="section-rubriques-heading">{{ $heading }}</h2>
+    {{ end -}}
+
+    <div class="section-rubriques-items">
+      {{ .Inner }}
+    </div>
+  </div>
+</section>

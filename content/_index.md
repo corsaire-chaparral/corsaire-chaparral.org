@@ -1,7 +1,7 @@
 ---
 title: Accueil
 
-lead: >
+headline: >
   Passionnés d’athlétisme depuis 1976 !
 
 buttons:
@@ -14,17 +14,44 @@ buttons:
   button_type: "btn-primary"
   icon: pencil-solid
 
-#splash:
-#  title: "Club d’athlétisme Corsaire-Chaparral"
-#  lead : >
-#
-#    <div>
-#      <a href="/club/entrainements/" class="btn btn-default">Horaire {{< icon "calendar-days-solid" >}}</a>
-#      <a href="/inscription/" class="btn btn-primary">Inscription {{< icon "pencil-solid" >}}</a>
-#    </div>
 ---
 
+{{< prose >}}
 ## Test
 
 Contenu de la page d’accueil.
+{{< /prose >}}
+
+{{< section-rubriques entete="Liens rapides" >}}
+{{< rubrique
+    entete="Inscription"
+    href="/inscription/"
+    icone="pencil-solid"
+>}}
+{{< rubrique
+    entete="Horaire des entraînements"
+    href="/club/entrainements/"
+    icone="stopwatch-solid"
+>}}
+{{< rubrique
+    entete="Bénévolat"
+    icone="heart-solid"
+    href="/club/benevolat/"
+>}}
+{{< rubrique
+    entete="Histoire du club"
+    href="#"
+    icone="logo-coch-ancien"
+>}}
+{{< rubrique
+    entete="Les disciplines"
+    href="#"
+    icone="3-disciplines"
+>}}
+{{< rubrique
+    entete="Nous joindre"
+    href="/contact/"
+    icone="phone-solid"
+>}}
+{{< /section-rubriques >}}
 

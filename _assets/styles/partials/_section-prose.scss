@@ -1,0 +1,16 @@
+/* _prose.css - pour le bloc section-prose */
+/* .section-prose {} */
+
+.section-prose-content {
+  padding: $spacing;
+  margin-block: 1.5rem;
+  margin-inline: auto;
+  max-width: $desktop-container;
+  background-color: #fff;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+}
+
+/* Fix: enlever l’espacement excédentaire au début */
+.section-prose-content > :first-child {
+  margin-block-start: 0;
+}

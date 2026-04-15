@@ -1,0 +1,35 @@
+{{/*
+  Rubrique - pour une rubrique individuelle dans une section rubriques
+
+  Usage:
+
+  {{< section-rubriques entete="Quelques thématiques" >}}
+
+    {{< rubrique entete="Rubrique 1" href="#rubrique1" icone="" >}}
+    {{< rubrique entete="Rubrique 2" href="#rubrique2" icone="" >}}
+    {{< rubrique entete="Rubrique 3" href="#rubrique3" icone="" >}}
+
+  {{< /section-rubriques >}}
+
+*/}}
+
+{{ $icon := (.Get "icone") }}
+{{ $href := (.Get "href") }}
+{{ $heading := (.Get "entete") }}
+<article class="rubrique {{ if $href }} --with-href{{end}}">
+
+  {{- if $icon }}
+  <div class="rubrique-icon">
+    {{- partial "icon.html" (dict "name" $icon "size" "40") -}}
+  </div>
+  {{ end -}}
+  <h3 class="rubrique-heading">{{ $heading }}</h3>
+
+  {{- if ne 0 (len $href) }}
+  <footer class="rubrique-pied">
+    {{ partial "icon.html" (dict "name" "arrow-right-solid" "size" "16") }}
+  </footer>
+
+  <a href="{{ $href }}" class="rubrique-anchor"></a>
+  {{ end -}}
+</article>
