@@ -1,0 +1,29 @@
+{{/*
+  Bannière - afficher un graphisme large dans une disposition de blocs
+
+  Usage:
+
+      {{< banniere src="chemin/vers/image.png"
+                   alt="texte de substitution"
+                   href="http://lien externe"
+      >}}
+*/}}
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $href := .Get "href" }}
+
+<section class="section-banniere">
+  <div class="section-banniere-inner">
+    {{- if $href}}
+    <a href="{{ $href }}">
+    {{ end -}}
+    <img
+      src="{{ $src }}"
+      alt="{{ $alt }}"
+      class="section-banniere-image"
+    >
+    {{- if $href}}
+    </a>
+    {{ end -}}
+  </div>
+</section>

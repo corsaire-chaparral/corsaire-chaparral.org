@@ -40,7 +40,7 @@ Contenu de la page d’accueil.
 >}}
 {{< rubrique
     entete="Histoire du club"
-    href="#"
+    href="/club/histoire-mission/"
     icone="logo-coch-ancien"
 >}}
 {{< rubrique
@@ -54,4 +54,10 @@ Contenu de la page d’accueil.
     icone="phone-solid"
 >}}
 {{< /section-rubriques >}}
+
+{{< banniere
+    src="/img/banniere-ephemeros.png"
+    alt="Ephemeros"
+    href="#"
+>}}
 

@@ -2236,6 +2236,22 @@ li:hover > .dropdown-list {
   color: #fff;
 }
 
+/* _section-banniere.css - pour le bloc section-banniere */
+/* .section-banniere {} */
+.section-banniere-inner {
+  max-width: 737.28px;
+  margin-inline: auto;
+  margin-block: 2.5em;
+  /* Bordures arrondies */
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.section-banniere-image {
+  /* éviter alignements étranges */
+  display: block;
+}
+
 /* _prose.css - pour le bloc section-prose */
 /* .section-prose {} */
 .section-prose-content {

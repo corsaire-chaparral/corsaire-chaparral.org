@@ -1,0 +1,18 @@
+/* _section-banniere.css - pour le bloc section-banniere */
+/* .section-banniere {} */
+
+.section-banniere-inner {
+  max-width: $desktop-container;
+  margin-inline: auto;
+  margin-block: $spacing-lg;
+
+  /* Bordures arrondies */
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.section-banniere-image {
+  /* éviter alignements étranges */
+  display: block;
+}
+
