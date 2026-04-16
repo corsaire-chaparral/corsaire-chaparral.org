@@ -1,0 +1,58 @@
+// Wells
+// ------------------------------
+
+.well-primary {
+  background-color: $color-primary;
+  color: check-background($color-primary);
+  a {
+    color: check-background($color-primary);
+    border-color: check-background($color-primary);
+  }
+}
+
+.well {
+  @include vertical-margin($spacing);
+  padding: $spacing;
+  border-radius: 5px;
+
+  // Default color
+  background-color: $gray-lighter;
+  color: $gray-dark;
+}
+
+.well-primary {
+  background-color: $color-primary;
+  color: check-background($color-primary);
+
+  &.feedback-box {
+    .icon--feedback.icon-thumb_up {
+      display: block;
+    }
+  }
+}
+
+.well-secondary {
+  background-color: $color-secondary;
+  color: check-background($color-secondary);
+
+  &.feedback-box {
+    .icon--feedback.icon-warning {
+      display: block;
+    }
+  }
+}
+
+.well-tertiary {
+  background-color: $color-tertiary;
+  color: check-background($color-tertiary);
+}
+
+.well-success {
+  background-color: $color-success;
+  color: check-background($color-success);
+}
+.well-danger {
+  background-color: $color-danger;
+  color: check-background($color-danger);
+}
+
