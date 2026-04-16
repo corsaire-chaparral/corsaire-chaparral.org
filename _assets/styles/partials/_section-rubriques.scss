@@ -1,5 +1,8 @@
 /* _bloc-rubriques.css */
-.section-rubriques {}
+.section-rubriques {
+  /* Espacement vertical (avant et après) */
+  margin-block: $spacing;
+}
 
 .section-rubriques-inner {
   max-width: 80rem;

@@ -2239,7 +2239,7 @@ li:hover > .dropdown-list {
 /* _section-banniere.css - pour le bloc section-banniere */
 /* .section-banniere {} */
 .section-banniere-inner {
-  max-width: 737.28px;
+  max-width: 80rem;
   margin-inline: auto;
   margin-block: 2.5em;
   /* Bordures arrondies */
@@ -2252,6 +2252,54 @@ li:hover > .dropdown-list {
   display: block;
   width: 100%;
   height: auto;
+}
+
+/* _section-infos.scss - composant pour de courtes infos saillantes */
+.section-infos {
+  --section-infos-fond: #EDEDED;
+  --section-infos-texte: #222721;
+  --section-infos-max-width: 737.28px;
+  --section-infos-couleur-ancres: #ff6900;
+  /* Variantes */
+  /* Espacement vertical (avant et après) */
+  margin-block: 1em;
+}
+.section-infos--primaire {
+  --section-infos-fond: #ff6900;
+  --section-infos-texte: #fff;
+  --section-infos-couleur-ancres: #fff;
+}
+.section-infos--secondaire {
+  --section-infos-fond: #525354;
+  --section-infos-texte: #fff;
+  --section-infos-couleur-ancres: #fff;
+}
+.section-infos--tertiaire {
+  --section-infos-fond: #305AFF;
+  --section-infos-texte: #fff;
+  --section-infos-couleur-ancres: #fff;
+}
+.section-infos--danger {
+  --section-infos-fond: #f21a29;
+  --section-infos-texte: #fff;
+  --section-infos-couleur-ancres: #fff;
+}
+
+.section-infos-content {
+  padding: 1em;
+  max-width: var(--section-infos-max-width);
+  margin-inline: auto;
+  color: var(--section-infos-texte);
+  background-color: var(--section-infos-fond);
+  border-radius: 0.75rem;
+}
+.section-infos-content > :first-child {
+  /* annuler l’espace supérieur sur le premier élément de contenu*/
+  margin-block-start: 0;
+}
+.section-infos-content a {
+  color: var(--section-infos-couleur-ancres);
+  border-color: var(--section-infos-couleur-ancres);
 }
 
 /* _prose.css - pour le bloc section-prose */
@@ -2271,6 +2319,11 @@ li:hover > .dropdown-list {
 }
 
 /* _bloc-rubriques.css */
+.section-rubriques {
+  /* Espacement vertical (avant et après) */
+  margin-block: 1em;
+}
+
 .section-rubriques-inner {
   max-width: 80rem;
   margin-inline: auto;

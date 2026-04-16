@@ -1,0 +1,53 @@
+/* _section-infos.scss - composant pour de courtes infos saillantes */
+.section-infos {
+  --section-infos-fond: #{$gray-lighter};
+  --section-infos-texte: #{$font-color};
+  --section-infos-max-width: #{$desktop-container};
+  --section-infos-couleur-ancres: #{$color-link};
+
+  /* Variantes */
+  &--primaire {
+    --section-infos-fond: #{$color-primary};
+    --section-infos-texte: #fff;
+    --section-infos-couleur-ancres: #fff;
+  }
+  &--secondaire {
+    --section-infos-fond: #{$color-secondary};
+    --section-infos-texte: #fff;
+    --section-infos-couleur-ancres: #fff;
+  }
+  &--tertiaire {
+    --section-infos-fond: #{$color-tertiary};
+    --section-infos-texte: #fff;
+    --section-infos-couleur-ancres: #fff;
+  }
+  &--danger {
+    --section-infos-fond: #{$color-danger};
+    --section-infos-texte: #fff;
+    --section-infos-couleur-ancres: #fff;
+  }
+  
+  /* Espacement vertical (avant et après) */
+  margin-block: $spacing;
+}
+
+.section-infos-content {
+  padding: $spacing;
+  max-width: var(--section-infos-max-width);
+  margin-inline: auto;
+
+  color: var(--section-infos-texte);
+  background-color: var(--section-infos-fond);
+
+  border-radius: .75rem;
+
+  & > :first-child {
+    /* annuler l’espace supérieur sur le premier élément de contenu*/
+    margin-block-start: 0;
+  }
+
+  a {
+    color: var(--section-infos-couleur-ancres);
+    border-color: var(--section-infos-couleur-ancres);
+  }
+}
