@@ -56,7 +56,7 @@ Contenu de la page d’accueil.
 {{< /section-rubriques >}}
 
 {{< banniere
-    src="/img/banniere-ephemeros.png"
+    src="/img/camp-de-jour-coch-2026.png"
     alt="Ephemeros"
     href="#"
 >}}
