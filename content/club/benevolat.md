@@ -1,5 +1,7 @@
 ---
 title: "Affichage de bénévolat"
+
+icon: heart-solid
 ---
 
 Il est attendu que chaque athlète (et sa famille) accomplisse [**10 heures**](/inscription/#benevolat) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
