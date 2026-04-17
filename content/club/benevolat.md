@@ -8,7 +8,9 @@ Il est attendu que chaque athlète (et sa famille) accomplisse [**10 heures**](/
 
 | Date         | Événement                                                                                           |
 | ------------ |-----------------------------------------------------------------------------------------------------|
-| 2025-09-07   | _Le Demi-marathon de Blainville_ - [Inscription](https://www.demimarathondeblainville.com/benevoles) |
+| 2026-05-03   | _Course et marche Ste-Thérèse_ - [Inscription](https://coursemarche.corsaire-chaparral.org/benevoles) |
+| 2026-05-30   | _Coupe excellence #1_ (Laval)  |
+| 2026-09-13   | _Le Demi-marathon de Blainville_ - [Inscription](https://www.demimarathondeblainville.com/benevoles) |
 
 ## Tâches régulières
 
@@ -16,7 +18,7 @@ Il y a toujours des choses à faire! Venez donner un coup de main le samedi mati
 
 ## Officiel de compétition
 
-**Devenir officiel, c'est possible!** _(Et nous en avons besoin lors de nos propres compétitions!)_ Il ne vous faut qu'une petite formation lors d'une [compétition d'athlétisme](athletisme-quebec.ca/calendrier-et-resultats.php) sanctionnée.
+**Devenir officiel, c'est possible!** _(Et nous en avons besoin lors de nos propres compétitions!)_ Il ne vous faut qu'une petite formation lors d'une [compétition d'athlétisme](https://athletisme-quebec.ca/evenements/) sanctionnée.
 
 ![Officiels](/img/officiels.jpg)
 
