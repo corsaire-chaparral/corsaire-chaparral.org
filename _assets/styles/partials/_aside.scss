@@ -3,10 +3,7 @@
 
 .navbar-side {
   display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: $height-navbar 0 0;
+  position: relative;
   width: 100%;
   overflow: auto;
   background-color: $gray-darker;
@@ -14,8 +11,6 @@
   z-index: $z-index-menu;
   font-size: $font-size-sm;
   box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
-  animation: .5s slide;
-//  transition: transform .6s cubic-bezier(0.55, 0.055, 0.675, 0.19); // easeInCubic
 
   @include mquery($tablet-breakpoint) {
     &.is-visible {
@@ -42,19 +37,29 @@
     flex-basis: 100%;
     flex-grow: 0;
     text-align: left;
-    font-size: $font-size * 1.5;
+    font-size: $font-size;
 
-    > a {
+    > a,
+    > button {
       @include transition(background-color .3s);
-      padding: $spacing;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
+      padding: $spacing-sm;
+      display: block;
+      width: 100%; /* besoin de spécifier pour <button> */
 
-//      &:hover {
-//        background-color: $color-primary;
-//        color: check-background($color-primary);
-//      }
+      background: none;
+      appearance: none; /* annuler les styles par défaut du bouton */
+      font: inherit; /* cause de <button> */
+      color: inherit; /* idenm */
+      border: 0;
+      cursor: pointer;
+    }
+
+    > a[href]:hover,
+    > a[href]:focus
+    {
+      /* accessiblité visuelle */
+      background-color: $color-primary;
+      color: check-background($color-primary);
     }
 
     &.active {
@@ -64,18 +69,42 @@
     }
 
     ul {
+      list-style: none outside none;
+      margin: .5rem 0 0; /* ajout léger espace au-dessus pour équilibrer */
+      padding: 0;
       li {
         a {
+          display: block;
           padding: $spacing;
-          padding-left: $spacing-lg;
+          text-align: start;
           font-size: $font-size-sm;
+          color: inherit;
+          border: 0;
+
+          &:hover,
+          &:focus {
+            background-color: $color-primary;
+            color: check-background($color-primary);
+          }
         }
       }
     }
   }
 }
 
-@keyframes slide {
-  from { transform: translateY(-100%); opacity: 0; }
-  to { transform: translateY(0); opacity: 1 }
+.nav-button-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* alignement vertical icône */
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
+
+.is-open .nav-button-icon {
+  transform: rotateX(180deg);
+}
+
+.nav-item-end {
+  margin-inline-start: auto;
+}
+

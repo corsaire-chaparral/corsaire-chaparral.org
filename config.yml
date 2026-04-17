@@ -40,8 +40,21 @@ markup:
 
 menu:
   main:
+  - identifier: horaire-inscription
+    title: Horaire et inscription
+    weight: 10
+  - identifier: inscription
+    title: Inscription
+    url: '/inscription/'
+    parent: horaire-inscription
+    weight: 20
+  - identifier: entrainements
+    url: '/club/entrainements/'
+    title: Horaire des entraînements
+    parent: horaire-inscription
+    weight: 20
   - identifier: club
-    title: Club
+    title: Le club
     url: '/club/'
     weight: 10
   - identifier: histoire-mission
@@ -49,16 +62,6 @@ menu:
     url: '/club/histoire-mission/'
     weight: 10
     parent: club
-  - identifier: inscription
-    parent: club
-    title: Inscription
-    url: '/inscription/'
-    weight: 20
-  - identifier: entrainements
-    url: '/club/entrainements/'
-    title: Entraînements
-    parent: club
-    weight: 30
   - identifier: entraineurs
     url: '/club/entraineurs/'
     title: Entraîneurs
@@ -90,23 +93,75 @@ menu:
     parent: club
     weight: 90
 
+  - identifier: nouvelles-evenements
+    title: Nouvelles et événements
+    weight: 30
+
   - identifier: nouvelles
     url: '/nouvelles/'
     title: Nouvelles
+    parent: nouvelles-evenements
     weight: 20
-
   - identifier: competitions
-    title: Compétitions
     url: '/competitions/'
+    title: Nos compétitions
+    parent: nouvelles-evenements
     weight: 30
+
+  - identifier: camp-de-jour
+    url: '/camp-de-jour/'
+    title: Camp de jour
+    weight: 50
 
   - identifier: plan
     url: '/plan-du-site/'
     title: Plan du site
+    weight: 60
+
+  pied:
+  - identifier: histoire-mission
+    title: Histoire et mission
+    url: '/club/histoire-mission/'
+    weight: 10
+  - identifier: inscription
+    title: Inscription
+    url: '/inscription/'
+    weight: 20
+  - identifier: entrainements
+    url: '/club/entrainements/'
+    title: Horaire des entraînements
+    weight: 20
+  - identifier: benevolat
+    url: '/club/benevolat/'
+    title: Bénévolat
     weight: 50
+  - identifier: vetements
+    url: '/club/vetements/'
+    title: Vêtements
+    weight: 60
+  - identifier: partenaires
+    url: '/partenaires/'
+    title: Partenaires
+    weight: 70
+  - identifier: liens-ressources
+    url: '/club/liens-ressources/'
+    title: Liens et ressources
+    weight: 80
+  - identifier: records-statistiques
+    url: '/club/records-statistiques/'
+    title: Records et statistiques
+    weight: 90
+  - identifier: plan
+    url: '/plan-du-site/'
+    title: Plan du site
+    weight: 99
 
   membres:
+    - identifier: fichiers
+      title: Fichiers partagés
+      url: https://fichiers.corsaire-chaparral.org/
+      weight: 10
     - identifier: courriels
       title: Courriel web
       url: https://mail.corsaire-chaparral.org/
-      weight: 80
+      weight: 20

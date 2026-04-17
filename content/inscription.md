@@ -177,7 +177,6 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 - **Crédits de bénévolat** : si vos heures ont déjà été complétées, n’ayez crainte : les dépôts en surplus vous seront crédités par les administrateurs (le remboursement sera effectué sur la carte de crédit utilisée lors du paiement de l’inscription).
 -->
 
-<!--
 {{< note >}}
 
 **Inscription annuelle**
@@ -187,7 +186,6 @@ Pour les catégories **benjamin**, **cadet**, **juvénile**, **junior**, **séni
 <a class="btn btn-primary btn--block" href="https://athleticsreg.ca/#!/events/3636-corsaire-chaparral-2026-inscriptions-annuels">Inscription annuelle 2025–2026</a>
 
 {{< /note >}}
--->
 
 {{< note >}}
 

@@ -1,0 +1,55 @@
+{{/*
+  Disposition de la page d’accueil
+  
+  Modèle de données:
+
+  - title - titre de la page
+  - headline - courte ligne de texte
+  - buttons - série de boutons avec leurs champs { text, href, button_type?, icon? }
+*/}}
+
+
+{{ define "main" }}
+<main class="home-layout">
+  <header class="home-une">
+    <div class="home-une-content"> 
+      <p class="home-une-texte">
+        {{ .Params.headline | markdownify }}
+      </p>
+
+      <div class="home-une-boutons">
+        {{- range .Params.buttons }}
+        <a href="{{ .href }}" class="btn {{ if .button_type }}{{.button_type}}{{else}}btn-default{{ end }}">
+          {{- if .icon }}
+          {{- partial "icon.html" (dict
+              "name" .icon
+              "size" "16"
+          ) -}}
+          {{ end -}}
+          {{ .text }}
+        </a>
+        {{ end -}}
+      </div>
+    </div>
+
+    <div class="home-une-visual">
+      <img
+        class="home-une-image"
+        src="{{ .Params.background_image }}"
+        alt=""
+      >
+    </div>
+  </header>
+
+  <article class="home-article">
+    {{/*
+      Astuce: utiliser des shortcodes de type « blocs »
+      pour permettre une composition indépendante
+    */}}
+    {{- .Content }}
+  </article>
+</main>
+
+{{ end }}
+
+

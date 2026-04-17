@@ -1,0 +1,20 @@
+/* _bloc-rubriques.css */
+.section-rubriques {
+  /* Espacement vertical (avant et après) */
+  margin-block: $spacing;
+}
+
+.section-rubriques-inner {
+  max-width: 80rem;
+  margin-inline: auto;
+}
+
+.section-rubriques-heading {
+  margin-block: 0 1rem;
+}
+
+.section-rubriques-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+  gap: 1rem;
+}

@@ -98,11 +98,11 @@
 }
 
 .header--main {
-  @include mquery($tablet-breakpoint) {
-    display: none;
-  }
+  //@include mquery($tablet-breakpoint) {
+  //  display: none;
+  //}
   background-color: $color-primary;
-  padding: $spacing $spacing-lg;
+  padding: .5rem 1.5rem;
   vertical-align: middle;
   &__title {
     display: inline-block;
@@ -117,8 +117,12 @@
 
   &__logo {
     display: inline-block;
-    height: $font-size * 4;
-    width:  $font-size * 4;
+    height: 4rem;
+    width:  4rem;
+    @media (min-width: #{$tablet-breakpoint}) {
+      height: 5rem;
+      width:  5rem;
+    }
     display: inline-block;
     margin-right: $spacing;
     vertical-align: middle;
@@ -131,6 +135,11 @@
   }
 }
 
+.header-brand-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
 
 //.icon-landing {
 //  @include opacity(0.7);

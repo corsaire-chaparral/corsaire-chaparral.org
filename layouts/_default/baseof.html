@@ -13,6 +13,10 @@
     {{- partial "navbar.html" . -}}
     {{- end -}}
 
+    {{- block "global-sidebar" . -}}
+    {{- partial "aside.html" . -}}
+    {{- end -}}
+
     {{- block "main" . }}
       <main class="container container-main">
         {{ block "header-page" . }}
@@ -36,10 +40,6 @@
 
     {{- block "global-footer" . -}}
     {{- partial "footer.html" . -}}
-    {{- end -}}
-
-    {{- block "global-sidebar" . -}}
-    {{- partial "aside.html" . -}}
     {{- end -}}
 
     {{ with .Site.Params.annonce }}

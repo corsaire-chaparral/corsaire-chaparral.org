@@ -11,22 +11,30 @@
 
   // Components
   "partials/alerts",
+  "partials/badges",
   "partials/blockquotes",
   "partials/code",
   "partials/buttons",
   "partials/forms",
   "partials/layout", // includes mobile + tablet layouts
+  "partials/home",
   //"partials/lightbox",
   "partials/media",
   "partials/nav",
   "partials/aside",
+  "partials/partenaires",
   "partials/header",
   "partials/footer",
   "partials/slider",
-  "partials/clock",
+  "partials/wells",
+  //"partials/clock",
 
-  // layout: splash page
-  "partials/splash",
+  // blocs
+  "partials/section-banniere",
+  "partials/section-infos",
+  "partials/section-prose",
+  "partials/section-rubriques",
+  "partials/section-rubriques-item",
 
   "partials/list-layout",
   "partials/calendrier-layout",

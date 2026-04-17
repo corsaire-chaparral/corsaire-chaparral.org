@@ -1,0 +1,26 @@
+{{/*
+  Section infos - Présenter un bloc d’informations dans une boîte colorée.
+
+  Usage:
+
+    {{< section-infos variante="primaire" >}}
+      ## Texte d’en-tête
+
+      Paragraphe au format *Markdown*.
+    {{< /section-infos >}}
+*/}}
+{{- $variant := .Get "variante" | default false }}
+{{- $possibleVariants := slice "primaire" "secondaire" "tertiaire" "danger" }}
+
+<div
+  {{ if in $possibleVariants $variant }}
+  class="section-infos section-infos--{{ $variant }}"
+  {{else}}
+  class="section-infos"
+  data-section-info="{{printf "Invalide: %s" $variant}}"
+  {{ end -}}
+>
+  <div class="section-infos-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

@@ -8,9 +8,34 @@
   <ul class="nav nav-side">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main.ByWeight }}
-    <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
+    <li
+        class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}"
+        x-data="{ open: false }"
+      >
+      {{- if .HasChildren }}
+      <button
+          @click="open = !open"
+          :class="open ? 'is-open' : ''"
+      >
+        <span class="nav-button-label">
+        {{- .Title }} 
+        <span class="nav-button-icon">{{ partial "icon.html" (dict "name" "chevron-down-solid" "size" 18) -}}</span>
+        </span>
+
+        <ul
+          class="aside-dropdown-list"
+          x-show="open"
+        >
+          {{- range .Children.ByWeight }}
+          <li>
+            <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-right-solid" "size" 12) }}{{ end }}</a>
+          </li>{{ end }}{{/* range Children */}}
+        </ul>
+      </button>
+      {{- else }}
       <a href="{{ .URL }}">{{ .Title }}</a>
+      {{ end -}}{{/* if HasChildren*/}}
     </li>
-    {{ end }}
+    {{ end }}{{/* range */}}
   </ul>
 </aside>

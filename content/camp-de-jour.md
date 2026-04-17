@@ -4,7 +4,7 @@ description: >
   Le Corsaire-Chaparral est fier de vous offrir un camp de jour spécialisé en athlétisme à l’été 2026, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 
 images: 
-- /img/camp-jour-athletisme.jpg
+- /img/camp-de-jour-coch-2026.png
 ---
 
 ![Camp de jour COCH](/img/camp-de-jour-photo-couverture.jpg)
@@ -46,14 +46,14 @@ Pour le service de garde, inscription obligatoire **avant midi le vendredi**, po
 
 ### Dates (du lundi au vendredi)
 
-* **Semaine #1** : 22–26 juin 2026 (congé le 24 juin)
-* **Semaine #2** : 29 juin – 5 juillet 2026 (ouvert le 1<sup>er</sup> juillet)
-* **Semaine #3** : 6–10 juillet 2026
-* **Semaine #4** : 13–17 juillet 2026
-* **Semaine #5** : 20–24 juillet 2026
-* **Semaine #6** : 27–31 juillet  2026
-* **Semaine #7** : 3–7 août 2026
-* **Semaine #8** : 10–14 août 2026
+* **Semaine annulée** : 22–26 juin 2026
+* **Semaine #1** : 29 juin – 5 juillet 2026 (ouvert le 1<sup>er</sup> juillet)
+* **Semaine #2** : 6–10 juillet 2026
+* **Semaine #3** : 13–17 juillet 2026
+* **Semaine #4** : 20–24 juillet 2026
+* **Semaine #5** : 27–31 juillet  2026
+* **Semaine #6** : 3–7 août 2026
+* **Semaine #7** : 10–14 août 2026
 
 ## Horaire-type d'une journée
 

@@ -2,11 +2,6 @@
 title: "Résultats"
 icon: clipboard-solid
 type: "by-date"
-menu:
-  main:
-    identifier: resultats-all
-    title: "Résultats"
-    weight: 20
 ---
 
 <!--

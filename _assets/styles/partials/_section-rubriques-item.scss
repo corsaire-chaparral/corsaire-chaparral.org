@@ -1,0 +1,59 @@
+/* _section-rubriques-item.scss */
+.rubrique {
+  /* Variable CSS pour faciliter le changement de couleur au survol */
+  --rubrique-color: #{$font-color};
+
+  padding: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: .75rem;
+
+  /* `relative` for floating anchor */
+  position: relative;
+
+  border-radius: 0.5rem;
+  background-color: #fff;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, .2);
+  color: var(--rubrique-color);
+
+  &.--with-href {
+    transition: box-shadow .2s, color .2s;
+
+    &:hover,
+    &:focus {
+      --rubrique-color: #{$color-primary};
+      box-shadow: 0 1px 20px rgba(0, 0, 0, .25);
+    }
+  }
+}
+
+/* Fix: enlever l’espacement excédentaire au début */
+.rubrique > :first-child {
+  margin-block-start: 0;
+}
+
+.rubrique-heading {
+  margin: 0;
+  font-size: $h4;
+  color: inherit; /* permettre de prendre la couleur de survol */
+}
+
+.rubrique-icon {
+  /* rétrécir horizontalement - ne pas étirer <--> */
+  align-self: start;
+}
+
+.rubrique-anchor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.rubrique-pied {
+  margin-block-start: auto; /* pousser en bas */
+  color: $color-primary;
+  text-align: end;
+}

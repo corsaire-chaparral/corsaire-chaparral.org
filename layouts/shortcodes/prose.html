@@ -1,0 +1,17 @@
+{{/*
+  Shortcode 'prose', pour insérer un bloc de contenu Markdown dans sa propre boîte. 
+  Utiliser sur la page d’accueil, mais pas dans des pages régulières (la boîte de contenu existe déjà).
+
+  Usage:
+
+      {{< section-prose >}}
+        ## Exemple d’en-tête
+
+        De la prose au format **Markdown**.
+      {{< /sectionprose >}}
+*/}}
+<section class="section-prose">
+  <article class="section-prose-content">
+    {{ .Inner | markdownify }}
+  </article>
+</section>
