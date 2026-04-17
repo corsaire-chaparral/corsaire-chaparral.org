@@ -52,11 +52,14 @@
       color: inherit; /* idenm */
       border: 0;
       cursor: pointer;
+    }
 
-//      &:hover {
-//        background-color: $color-primary;
-//        color: check-background($color-primary);
-//      }
+    > a[href]:hover,
+    > a[href]:focus
+    {
+      /* accessiblité visuelle */
+      background-color: $color-primary;
+      color: check-background($color-primary);
     }
 
     &.active {
@@ -77,6 +80,12 @@
           font-size: $font-size-sm;
           color: inherit;
           border: 0;
+
+          &:hover,
+          &:focus {
+            background-color: $color-primary;
+            color: check-background($color-primary);
+          }
         }
       }
     }

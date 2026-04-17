@@ -19,6 +19,12 @@
   &:hover, &:focus {
     box-shadow: 0 2px $spacing-sm rgba(0, 0, 0, 0.5);
   }
+
+  &:focus {
+    /* accessibility! */
+    outline: 4px solid currentColor; /* outline-color set on button variants */
+    outline-offset: 5px;
+  }
   
   &:active {
     transition-duration: 0.05s;

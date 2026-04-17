@@ -155,7 +155,10 @@
   color: $gray-lighter;
   z-index: $z-index-menu; // old IE needs a z-index on parent
 
-  li:hover > & {
+  li:hover > &,
+  li:focus > &,
+  &:focus-within
+  {
     opacity: 1;
     visibility: visible;
     transition: visibility 0s, opacity .25s;
@@ -170,7 +173,8 @@
       color: $gray-lighter;
       border: none;
 
-      &:hover {
+      &:hover,
+      &:focus {
         background-color: $color-primary;
         color: check-background($color-primary);
       }

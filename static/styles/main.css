@@ -252,7 +252,11 @@ a:hover {
   text-decoration: none;
 }
 a:focus {
-  outline: none;
+  /* accessibility! */
+  outline-style: solid;
+  outline-width: 3px;
+  outline-offset: 5px;
+  border-radius: 3px;
 }
 a:active, a a:hover {
   outline: none;
@@ -570,6 +574,11 @@ pre {
 .btn:hover, .btn:focus {
   box-shadow: 0 2px 0.8em rgba(0, 0, 0, 0.5);
 }
+.btn:focus {
+  /* accessibility! */
+  outline: 4px solid currentColor; /* outline-color set on button variants */
+  outline-offset: 5px;
+}
 .btn:active {
   transition-duration: 0.05s;
   box-shadow: inset 0 2px 3px 1px rgba(0, 0, 0, 0.6) !important;
@@ -594,9 +603,14 @@ pre {
   background-color: #EDEDED;
   background-image: linear-gradient(-45deg, #EDEDED, rgb(238.8, 235.2, 235.2));
   color: #222721;
+  outline-color: #EDEDED;
 }
 .btn-default:hover, .btn-default:focus {
   box-shadow: 0 0.12em 0 0 #bababa, 0 4px 0.8em rgba(0, 0, 0, 0.5);
+}
+.btn-default:focus {
+  /* accessibility: follow button background (there is an offset on the outline) */
+  outline-color: #EDEDED;
 }
 
 .btn-primary {
@@ -604,9 +618,14 @@ pre {
   background-color: #ff6900;
   background-image: linear-gradient(-45deg, #ff6900, #ff3600);
   color: #fff;
+  outline-color: #ff6900;
 }
 .btn-primary:hover, .btn-primary:focus {
   box-shadow: 0 0.12em 0 0 #993f00, 0 4px 0.8em rgba(0, 0, 0, 0.5);
+}
+.btn-primary:focus {
+  /* accessibility: follow button background (there is an offset on the outline) */
+  outline-color: #ff6900;
 }
 
 .btn-secondary {
@@ -614,9 +633,14 @@ pre {
   background-color: #525354;
   background-image: linear-gradient(-45deg, #525354, rgb(73.7, 86.72, 92.3));
   color: #fff;
+  outline-color: #525354;
 }
 .btn-secondary:hover, .btn-secondary:focus {
   box-shadow: 0 0.12em 0 0 rgb(31.6144578313, 32, 32.3855421687), 0 4px 0.8em rgba(0, 0, 0, 0.5);
+}
+.btn-secondary:focus {
+  /* accessibility: follow button background (there is an offset on the outline) */
+  outline-color: #525354;
 }
 
 .btn-tertiary {
@@ -624,9 +648,14 @@ pre {
   background-color: #305AFF;
   background-image: linear-gradient(-45deg, #305AFF, rgb(48, 131.4, 255));
   color: #fff;
+  outline-color: #305AFF;
 }
 .btn-tertiary:hover, .btn-tertiary:focus {
   box-shadow: 0 0.12em 0 0 rgb(0, 40.7826086957, 201), 0 4px 0.8em rgba(0, 0, 0, 0.5);
+}
+.btn-tertiary:focus {
+  /* accessibility: follow button background (there is an offset on the outline) */
+  outline-color: #305AFF;
 }
 
 .btn-link {
@@ -634,9 +663,14 @@ pre {
   background-color: #ff6900;
   background-image: linear-gradient(-45deg, #ff6900, #ff3600);
   color: #fff;
+  outline-color: #ff6900;
 }
 .btn-link:hover, .btn-link:focus {
   box-shadow: 0 0.12em 0 0 #993f00, 0 4px 0.8em rgba(0, 0, 0, 0.5);
+}
+.btn-link:focus {
+  /* accessibility: follow button background (there is an offset on the outline) */
+  outline-color: #ff6900;
 }
 
 .btn-danger {
@@ -644,9 +678,14 @@ pre {
   background-color: #f21a29;
   background-image: linear-gradient(-45deg, #f21a29, rgb(254.1, 13.9, 78.6205555556));
   color: #fff;
+  outline-color: #f21a29;
 }
 .btn-danger:hover, .btn-danger:focus {
   box-shadow: 0 0.12em 0 0 rgb(157.0826446281, 8.9173553719, 19.2066115702), 0 4px 0.8em rgba(0, 0, 0, 0.5);
+}
+.btn-danger:focus {
+  /* accessibility: follow button background (there is an offset on the outline) */
+  outline-color: #f21a29;
 }
 
 .btn[disabled],
@@ -1829,7 +1868,7 @@ figure > figcaption {
   color: #EDEDED;
   z-index: 30;
 }
-li:hover > .dropdown-list {
+li:hover > .dropdown-list, li:focus > .dropdown-list, .dropdown-list:focus-within {
   opacity: 1;
   visibility: visible;
   transition: visibility 0s, opacity 0.25s;
@@ -1841,7 +1880,7 @@ li:hover > .dropdown-list {
   color: #EDEDED;
   border: none;
 }
-.dropdown-list > li > a:hover {
+.dropdown-list > li > a:hover, .dropdown-list > li > a:focus {
   background-color: #ff6900;
   color: #fff;
 }
@@ -1928,6 +1967,12 @@ li:hover > .dropdown-list {
   border: 0;
   cursor: pointer;
 }
+.nav-side > li > a[href]:hover,
+.nav-side > li > a[href]:focus {
+  /* accessiblité visuelle */
+  background-color: #ff6900;
+  color: #fff;
+}
 .nav-side > li.active > a {
   background-color: rgb(46.0416666667, 52.8125, 44.6875);
 }
@@ -1943,6 +1988,10 @@ li:hover > .dropdown-list {
   font-size: 0.75em;
   color: inherit;
   border: 0;
+}
+.nav-side > li ul li a:hover, .nav-side > li ul li a:focus {
+  background-color: #ff6900;
+  color: #fff;
 }
 
 .nav-button-label {

@@ -22,7 +22,13 @@ a {
   text-decoration: none;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   &:hover { text-decoration: none; }
-  &:focus { outline: none; }
+  &:focus {
+    /* accessibility! */
+    outline-style: solid;
+    outline-width: 3px;
+    outline-offset: 5px;
+    border-radius: 3px;
+  }
   &:active, a:hover { outline: none; }
 }
 // footnote

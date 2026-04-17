@@ -24,15 +24,31 @@
       {{ $currentPage := . }}
       {{ range .Site.Menus.main.ByWeight }}
       <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}{{ if .HasChildren }} dropdown{{ end }}
-        {{ if findRE "highlight" .Identifier }} highlight{{ end }}">
+        {{ if findRE "highlight" .Identifier }} highlight{{ end }}"
+        {{- if .HasChildren }}
+        tabindex="0"
+        {{ end -}}
+        >
         <a {{ if not .HasChildren}}href="{{ .URL }}"{{end}}>{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-down-solid" "size" 12) }}{{ end }}</a>
         {{ if .HasChildren }}
-        <ul class="dropdown-list">
+        <ul
+          class="dropdown-list"
+          tabindex="0"
+        >
           {{ range .Children.ByWeight }}
-          <li {{ if .HasChildren }}class="dropdown"{{end}}>
-            <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-right-solid" "size" 12) }}{{ end }}</a>
+          <li
             {{ if .HasChildren }}
-            <ul class="dropdown-list">
+              class="dropdown"
+            {{ end }}
+          >
+            <a
+              href="{{ .URL }}"
+            >{{ .Title }}{{ if .HasChildren }} {{ partial "icon.html" (dict "name" "chevron-right-solid" "size" 12) }}{{ end }}</a>
+            {{ if .HasChildren }}
+            <ul
+              class="dropdown-list"
+              tabindex="0"
+            >
               {{ range .Children.ByWeight }}
               <li><a href="{{ .URL }}">{{ .Title }}</a></li>
               {{ end }}
