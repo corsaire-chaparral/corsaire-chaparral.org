@@ -5,13 +5,13 @@
   @include list-reset;
   display: flex;
   flex-direction: row;
+  justify-content: center; /* aligner à gauche, ne pas grossir */
 
   > li {
     text-align: center;
-    flex-grow: 1;
 
     > a {
-      padding: $spacing-xs;
+      padding: $spacing-xs $spacing;
       display: block;
       border: none;
     }
@@ -58,7 +58,6 @@
   background-color: $color-navbar;
 
   .nav {
-
 //    &.nav-responsive { float: right; }
 
     > li {
@@ -67,11 +66,10 @@
         transition: background-color .3s;
         padding: $spacing-navbar;
         color: check-background($color-navbar);
-
-        &:hover, &:focus {
-          background-color: $color-primary;
-          color: check-background($color-primary);
-        }
+      }
+      &:hover > a, > a:focus {
+        background-color: $color-primary;
+        color: check-background($color-primary);
       }
 
       &.highlight {
@@ -86,8 +84,14 @@
       }
     }
   }
-
 }
+
+/* comme un container, mais pour la navbar */
+.navbar-inner {
+  margin-inline: auto;
+  max-width: 80rem;
+}
+
 
 .logo-navbar {
   display: block;

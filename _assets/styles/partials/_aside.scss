@@ -3,10 +3,7 @@
 
 .navbar-side {
   display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: $height-navbar 0 0;
+  position: relative;
   width: 100%;
   overflow: auto;
   background-color: $gray-darker;
@@ -14,8 +11,6 @@
   z-index: $z-index-menu;
   font-size: $font-size-sm;
   box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
-  animation: .5s slide;
-//  transition: transform .6s cubic-bezier(0.55, 0.055, 0.675, 0.19); // easeInCubic
 
   @include mquery($tablet-breakpoint) {
     &.is-visible {
@@ -72,7 +67,7 @@
 
     ul {
       list-style: none outside none;
-      margin: 0;
+      margin: .5rem 0 0; /* ajout léger espace au-dessus pour équilibrer */
       padding: 0;
       li {
         a {
@@ -100,7 +95,7 @@
   transform: rotateX(180deg);
 }
 
-@keyframes slide {
-  from { transform: translateY(-100%); opacity: 0; }
-  to { transform: translateY(0); opacity: 1 }
+.nav-item-end {
+  margin-inline-start: auto;
 }
+

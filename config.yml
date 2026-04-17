@@ -108,10 +108,15 @@ menu:
     parent: nouvelles-evenements
     weight: 30
 
+  - identifier: camp-de-jour
+    url: '/camp-de-jour/'
+    title: Camp de jour
+    weight: 50
+
   - identifier: plan
     url: '/plan-du-site/'
     title: Plan du site
-    weight: 50
+    weight: 60
 
   pied:
   - identifier: histoire-mission

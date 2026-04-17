@@ -4,6 +4,9 @@ title: Accueil
 headline: >
   Passionnés d’athlétisme depuis 1976 !
 
+# Image pour le widget d’accueil
+background_image: /img/coch-dos.redim.jpg
+
 buttons:
 - text: Horaire
   href: /club/entrainements/
@@ -37,14 +40,14 @@ Les distances offertes sont : 1 km, 2 km, 5 km et 10 km.
     icone="stopwatch-solid"
 >}}
 {{< rubrique
-    entete="Bénévolat"
-    icone="heart-solid"
-    href="/club/benevolat/"
->}}
-{{< rubrique
     entete="Camp de jour"
     href="/camp-de-jour/"
     icone="sun-solid"
+>}}
+{{< rubrique
+    entete="Bénévolat"
+    icone="heart-solid"
+    href="/club/benevolat/"
 >}}
 {{< rubrique
     entete="Vêtements"
