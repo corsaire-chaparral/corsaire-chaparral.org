@@ -144,10 +144,14 @@ menu:
     url: '/club/vetements/'
     title: Vêtements
     weight: 60
+  - identifier: marque
+    url: '/logo-marque/'
+    title: Logo et marque
+    weight: 70
   - identifier: partenaires
     url: '/partenaires/'
     title: Partenaires
-    weight: 70
+    weight: 80
   - identifier: liens-ressources
     url: '/club/liens-ressources/'
     title: Liens et ressources
@@ -162,15 +166,11 @@ menu:
     weight: 99
 
   membres:
-    - identifier: marque
-      url: '/logo-marque/'
-      title: Logo et marque
-      weight: 10
     - identifier: fichiers
       title: Fichiers partagés
       url: https://fichiers.corsaire-chaparral.org/
-      weight: 20
+      weight: 10
     - identifier: courriels
       title: Courriel web
       url: https://mail.corsaire-chaparral.org/
-      weight: 30
+      weight: 20
