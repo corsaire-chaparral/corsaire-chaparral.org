@@ -1,0 +1,41 @@
+// screen readers
+// -----------------------------------------------------
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+.sr-only-focusable {
+  &:focus {
+    height: auto;
+    overflow: visible;
+    position: static;
+    width: auto;
+    clip: auto;
+  }
+}
+
+/* accessibility: jump to main content*/
+.a11y-bouton-contenu {
+  &:focus {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+
+    margin: .5rem;
+    padding: .5rem;
+
+    background-color: $color-tertiary;
+    color: check-background($color-tertiary);
+    outline-color: check-background($color-tertiary);
+    outline-offset: 0;
+    display: inline-block;
+  }
+}

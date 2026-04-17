@@ -5,6 +5,11 @@
   </head>
   <body {{if .IsHome}} class="landing-page"{{end}} x-data="{ sidebarOpen: false }">
 
+    <a
+      href="#contenu-principal"
+      class="sr-only sr-only-focusable a11y-bouton-contenu"
+    >Aller au contenu principal</a>
+
     {{- block "global-header" . -}}
     {{- partial "header.html" . -}}
     {{- end -}}
@@ -18,7 +23,7 @@
     {{- end -}}
 
     {{- block "main" . }}
-      <main class="container container-main">
+      <main class="container container-main" id="contenu-principal">
         {{ block "header-page" . }}
         {{- partial "header-page.html" . -}}
         {{ end }}

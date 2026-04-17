@@ -66,10 +66,23 @@
         transition: background-color .3s;
         padding: $spacing-navbar;
         color: check-background($color-navbar);
+        &:focus {
+          outline: 3px solid $color-primary;
+          outline-offset: 0;
+          border-radius: 0;
+        }
       }
-      &:hover > a, > a:focus {
+      &:hover > a {
         background-color: $color-primary;
         color: check-background($color-primary);
+      }
+
+      &:focus {
+        /* accessiblity: match same-level anchors */
+        //background-color: $color-primary;
+        color: check-background($color-primary);
+        outline: 3px solid $color-primary;
+        outline-offset: 0;
       }
 
       &.highlight {
@@ -177,6 +190,12 @@
       &:focus {
         background-color: $color-primary;
         color: check-background($color-primary);
+      }
+      &:focus {
+        color: check-background($color-primary);
+        outline: 1px solid $color-primary;
+        outline-offset: 0;
+        border-radius: 0;
       }
     }
 

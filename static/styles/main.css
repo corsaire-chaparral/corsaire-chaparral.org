@@ -1795,9 +1795,20 @@ figure > figcaption {
   padding: 1em;
   color: #fff;
 }
-.navbar-main .nav > li:hover > a, .navbar-main .nav > li > a:focus {
+.navbar-main .nav > li > a:focus {
+  outline: 3px solid #ff6900;
+  outline-offset: 0;
+  border-radius: 0;
+}
+.navbar-main .nav > li:hover > a {
   background-color: #ff6900;
   color: #fff;
+}
+.navbar-main .nav > li:focus {
+  /* accessiblity: match same-level anchors */
+  color: #fff;
+  outline: 3px solid #ff6900;
+  outline-offset: 0;
 }
 .navbar-main .nav > li.highlight {
   background-color: #ff6900;
@@ -1883,6 +1894,12 @@ li:hover > .dropdown-list, li:focus > .dropdown-list, .dropdown-list:focus-withi
 .dropdown-list > li > a:hover, .dropdown-list > li > a:focus {
   background-color: #ff6900;
   color: #fff;
+}
+.dropdown-list > li > a:focus {
+  color: #fff;
+  outline: 1px solid #ff6900;
+  outline-offset: 0;
+  border-radius: 0;
 }
 .dropdown-list > li .dropdown-list {
   top: 0;
@@ -2699,6 +2716,40 @@ ol a:focus {
     right: 8px;
   }
 }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.sr-only-focusable:focus {
+  height: auto;
+  overflow: visible;
+  position: static;
+  width: auto;
+  clip: auto;
+}
+
+/* accessibility: jump to main content*/
+.a11y-bouton-contenu:focus {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background-color: #305AFF;
+  color: #fff;
+  outline-color: #fff;
+  outline-offset: 0;
+  display: inline-block;
+}
+
 /*
 
 @font-face {
