@@ -1909,22 +1909,50 @@ li:hover > .dropdown-list {
   flex-basis: 100%;
   flex-grow: 0;
   text-align: left;
-  font-size: 24px;
+  font-size: 16px;
 }
-.nav-side > li > a {
+.nav-side > li > a,
+.nav-side > li > button {
   transition: background-color 0.3s;
-  padding: 1em;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  padding: 0.8em;
+  display: block;
+  width: 100%; /* besoin de spécifier pour <button> */
+  background: none;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none; /* annuler les styles par défaut du bouton */
+  font: inherit; /* cause de <button> */
+  color: inherit; /* idenm */
+  border: 0;
+  cursor: pointer;
 }
 .nav-side > li.active > a {
   background-color: rgb(46.0416666667, 52.8125, 44.6875);
 }
+.nav-side > li ul {
+  list-style: none outside none;
+  margin: 0;
+  padding: 0;
+}
 .nav-side > li ul li a {
+  display: block;
   padding: 1em;
-  padding-left: 2.5em;
+  text-align: start;
   font-size: 0.75em;
+  color: inherit;
+  border: 0;
+}
+
+.nav-button-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* alignement vertical icône */
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.is-open .nav-button-icon {
+  transform: rotateX(180deg);
 }
 
 @keyframes slide {

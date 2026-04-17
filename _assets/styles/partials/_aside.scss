@@ -42,14 +42,21 @@
     flex-basis: 100%;
     flex-grow: 0;
     text-align: left;
-    font-size: $font-size * 1.5;
+    font-size: $font-size;
 
-    > a {
+    > a,
+    > button {
       @include transition(background-color .3s);
-      padding: $spacing;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
+      padding: $spacing-sm;
+      display: block;
+      width: 100%; /* besoin de spécifier pour <button> */
+
+      background: none;
+      appearance: none; /* annuler les styles par défaut du bouton */
+      font: inherit; /* cause de <button> */
+      color: inherit; /* idenm */
+      border: 0;
+      cursor: pointer;
 
 //      &:hover {
 //        background-color: $color-primary;
@@ -64,15 +71,33 @@
     }
 
     ul {
+      list-style: none outside none;
+      margin: 0;
+      padding: 0;
       li {
         a {
+          display: block;
           padding: $spacing;
-          padding-left: $spacing-lg;
+          text-align: start;
           font-size: $font-size-sm;
+          color: inherit;
+          border: 0;
         }
       }
     }
   }
+}
+
+.nav-button-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* alignement vertical icône */
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.is-open .nav-button-icon {
+  transform: rotateX(180deg);
 }
 
 @keyframes slide {

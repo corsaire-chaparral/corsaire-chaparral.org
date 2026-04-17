@@ -17,12 +17,12 @@ buttons:
 ---
 
 {{< section-infos variante="tertiaire" >}}
-## Courses sur route
+## Prochain événement sur route : dimanche 3 mai 2026
 
-Découvrez nos courses sur route !
+La **Course et marche de Ste-Thérèse** aura lieu dimanche 3 mai au stade d’athlétisme Richard-Garneau.
+Les distances offertes sont : 1 km, 2 km, 5 km et 10 km.
 
-- [Le Demi-marathon de Blainville](https://www.demimarathondeblainville.com/) - dimanche 13 septembre 2026
-- Course et marche de Ste-Thérèse - dimanche 3 mai 2026
+[**Information et inscription &rarr;**](https://coursemarche.corsaire-chaparral.org/)
 {{< /section-infos >}}
 
 {{< section-rubriques entete="Liens rapides" >}}
@@ -44,7 +44,7 @@ Découvrez nos courses sur route !
 {{< rubrique
     entete="Camp de jour"
     href="/camp-de-jour/"
-    icone="course"
+    icone="sun-solid"
 >}}
 {{< rubrique
     entete="Vêtements"
@@ -71,8 +71,4 @@ Situé dans les Basses-Laurentides, le club d’athlétisme Corsaire-Chaparral e
 
 [**En savoir plus &rarr;**](/club/histoire-mission/)
 {{< /prose >}}
-
-{{< section-infos variante="danger" >}}
-## Section infos
-{{< /section-infos >}}
 
