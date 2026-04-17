@@ -113,8 +113,50 @@ menu:
     title: Plan du site
     weight: 50
 
+  pied:
+  - identifier: histoire-mission
+    title: Histoire et mission
+    url: '/club/histoire-mission/'
+    weight: 10
+  - identifier: inscription
+    title: Inscription
+    url: '/inscription/'
+    weight: 20
+  - identifier: entrainements
+    url: '/club/entrainements/'
+    title: Horaire des entraînements
+    weight: 20
+  - identifier: benevolat
+    url: '/club/benevolat/'
+    title: Bénévolat
+    weight: 50
+  - identifier: vetements
+    url: '/club/vetements/'
+    title: Vêtements
+    weight: 60
+  - identifier: partenaires
+    url: '/partenaires/'
+    title: Partenaires
+    weight: 70
+  - identifier: liens-ressources
+    url: '/club/liens-ressources/'
+    title: Liens et ressources
+    weight: 80
+  - identifier: records-statistiques
+    url: '/club/records-statistiques/'
+    title: Records et statistiques
+    weight: 90
+  - identifier: plan
+    url: '/plan-du-site/'
+    title: Plan du site
+    weight: 99
+
   membres:
+    - identifier: fichiers
+      title: Fichiers partagés
+      url: https://fichiers.corsaire-chaparral.org/
+      weight: 10
     - identifier: courriels
       title: Courriel web
       url: https://mail.corsaire-chaparral.org/
-      weight: 80
+      weight: 20

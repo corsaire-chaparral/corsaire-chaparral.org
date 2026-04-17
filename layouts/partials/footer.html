@@ -40,7 +40,7 @@
         <div class="h5 footer__heading">Navigation</div>
         <ul class="list-footer">
           {{ $currentPage := . }}
-          {{ range .Site.Menus.main.ByWeight }}
+          {{ range .Site.Menus.pied.ByWeight }}
           <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
             <a href="{{ .URL }}">{{ .Title }}</a>
           </li>
