@@ -5,17 +5,17 @@
 $assets-url: "/"; // add site baseurl if needed
 
 // Colours
-$orange:				  #ff6900;
+$orange:          #ff6900;
 $blue:                    #305AFF;
 $green:                   #56ffa5;
-$red:					  #f21a29; // Warning color
+$red:           #f21a29; // Warning color
 
 // Grays
 $gray-darker:             #222721;
-$gray-dark:			      #525354;
-$gray:				      #5C5E5E;
-$gray-light:		      #B2B4B8;
-$gray-lighter:		      #EDEDED;
+$gray-dark:           #525354;
+$gray:              #5C5E5E;
+$gray-light:          #B2B4B8;
+$gray-lighter:          #EDEDED;
 
 // Theming
 $color-primary:           $orange;
@@ -40,14 +40,14 @@ $h4:                      $font-size * 1.15;
 $h5:                      $font-size * 1.1;
 $h6:                      $font-size * 1.1;
 
-$h1-phone: 			      $font-size * 1.8;
-$h2-phone: 			      $font-size * 1.5;
-$h3-phone: 			      $font-size * 1.33;
-$h4-phone: 			      $font-size * 1.15;
-$h5-phone: 			      $font-size * 1.1;
-$h6-phone: 			      $font-size * 1.1;
+$h1-phone:            $font-size * 1.8;
+$h2-phone:            $font-size * 1.5;
+$h3-phone:            $font-size * 1.33;
+$h4-phone:            $font-size * 1.15;
+$h5-phone:            $font-size * 1.1;
+$h6-phone:            $font-size * 1.1;
 
-$font-color:		      $gray-darker;
+$font-color:          $gray-darker;
 
 // Animations
 $easeInOutQuad: cubic-bezier(0.455, 0.03, 0.515, 0.955);
@@ -56,23 +56,23 @@ $easeInOutCubic: cubic-bezier(0.645, 0.045, 0.355, 1);
 // Layout
 
 // Resonsive Design Break Points
-$phone-breakpoint:	      550px;
-$tablet-breakpoint:	      768px;
-$lg-breakpoint:		      1400px;
+$phone-breakpoint:        550px;
+$tablet-breakpoint:       768px;
+$lg-breakpoint:         1400px;
 
 // Container
 $desktop-container:       $tablet-breakpoint * .96;
 
 // Grid
-$columns:			      12;
-$gutter:			      1.5%;
+$columns:           12;
+$gutter:            1.5%;
 
-$spacing-xs:		      0.5em;
-$spacing-sm:		      0.8em;
-$spacing:			      1em;
-$spacing-md:              1.5rem;
-$spacing-lg:		      2.5em;
-$spacing-xl:		      4em;
+$spacing-xs:          0.5em;
+$spacing-sm:          0.8em;
+$spacing:             1em;
+$spacing-md:          1.5rem;
+$spacing-lg:          2.5em;
+$spacing-xl:          4em;
 
 $border-radius:           5px;
 
@@ -101,3 +101,26 @@ $z-index-page:            5;
 $z-index-overlay:         10;
 $z-index-modal:           20;
 $z-index-menu:            30;
+
+:root {
+  --conteneur-largeur-max: 80rem;
+  --conteneur-gouttiere: 1.5rem;
+  
+  /* Couleurs */
+  --orange:             #{$orange};
+  --bleu:               #{$blue};
+  --vert:               #{$green};
+  --rouge:              #{$red};
+  --gris-charbon:       #{$gray-darker};
+  --gris-sombre:        #{$gray-dark};
+  --gris:               #{$gray};
+  --gris-moyen:         #{$gray-light};
+  --gris-pale:          #{$gray-lighter};
+
+  --couleur-primaire:   #{$color-primary};
+  --couleur-secondaire: #{$color-secondary};
+  --couleur-tertiaire:  #{$color-tertiary};
+  --couleur-danger:     #{$color-danger};
+  --couleur-succes:     #{$color-success};
+  --couleur-lien:       #{$color-link};
+}

@@ -10,7 +10,11 @@
 .home-une {
   position: relative; /* requis pour le fond*/
 
-  margin: calc(1rem + 1vw); /* espacement semi-proportionnel autour de la boîte*/
+  margin-block: calc(1rem + 1vw); /* espacement semi-proportionnel autour de la boîte*/
+  margin-inline: auto; /* centrer */
+  width: 94%; /* au cas où `calc` n’est pas supporté */
+  width: calc(100% - calc(2rem + 2vw)); /* conserver la même marge horizontale que verticale*/
+  max-width: 80rem; /* largeur du conteneur */
   border-radius: 1rem; /* bordures arrondies, bonbon visuel */
   overflow: hidden; /* le contenu qui déborde est masqué, cf. bordures arrondies*/
 

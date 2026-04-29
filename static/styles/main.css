@@ -1,4 +1,25 @@
 @charset "UTF-8";
+:root {
+  --conteneur-largeur-max: 80rem;
+  --conteneur-gouttiere: 1.5rem;
+  /* Couleurs */
+  --orange: #ff6900;
+  --bleu: #305AFF;
+  --vert: #56ffa5;
+  --rouge: #f21a29;
+  --gris-charbon: #222721;
+  --gris-sombre: #525354;
+  --gris: #5C5E5E;
+  --gris-moyen: #B2B4B8;
+  --gris-pale: #EDEDED;
+  --couleur-primaire: #ff6900;
+  --couleur-secondaire: #525354;
+  --couleur-tertiaire: #305AFF;
+  --couleur-danger: #f21a29;
+  --couleur-succes: #56ffa5;
+  --couleur-lien: #ff6900;
+}
+
 /* -----------------------------------------------
 
 Andy.SCSS: Open-Source Collection of Useful SASS Mixins Library.
@@ -1453,7 +1474,11 @@ input::-moz-focus-inner {
  */
 .home-une {
   position: relative; /* requis pour le fond*/
-  margin: calc(1rem + 1vw); /* espacement semi-proportionnel autour de la boîte*/
+  margin-block: calc(1rem + 1vw); /* espacement semi-proportionnel autour de la boîte*/
+  margin-inline: auto; /* centrer */
+  width: 94%; /* au cas où `calc` n’est pas supporté */
+  width: calc(100% - (2rem + 2vw)); /* conserver la même marge horizontale que verticale*/
+  max-width: 80rem; /* largeur du conteneur */
   border-radius: 1rem; /* bordures arrondies, bonbon visuel */
   overflow: hidden; /* le contenu qui déborde est masqué, cf. bordures arrondies*/
   display: grid;
