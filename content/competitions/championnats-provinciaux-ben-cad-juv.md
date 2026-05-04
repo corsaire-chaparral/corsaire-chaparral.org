@@ -2,12 +2,7 @@
 title: "Championnats provinciaux benjamins-cadets-juvéniles"
 date: "2017-07-15"
 icon: calendar-days-solid
-#menu:
-#  main:
-#    identifier: championnats-provinciaux
-#    weight: 0
-#    parent: competitions
-published: false
+draft: true
 ---
 
 Le club d'ahtlétisme Corsaire-Chaparral est l'organisateur cette année des championnats provinciaux en plein air regroupant les catégories **benjamine**, **cadette** et **juvénile**.

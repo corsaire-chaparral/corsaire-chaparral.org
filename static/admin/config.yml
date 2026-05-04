@@ -1,4 +1,14 @@
+---
+##
+## Decap CMS Config
+## https://decapcms.org/docs/intro/
+##
+
+##
+## Backend
+##
 backend:
+  # Gitea / Forgejo backend (works with Codeberg)
   # https://decapcms.org/docs/backends-overview/
   name: gitea
   app_id: c90d405d-4d53-4066-a419-03673242e5f0
@@ -7,61 +17,63 @@ backend:
   auth_endpoint: https://codeberg.org/login/oauth/authorize
   repo: corsaire-chaparral/corsaire-chaparral.org
   branch: main
+
+# The `media_folder` option specifies the folder path where uploaded files
+# should be saved, relative to the base of the repo.
 media_folder: static/img
+
+# The `public_folder` option specifies the folder path where the files uploaded
+# by the media library will be accessed, relative to the base of the built
+# site.
 public_folder: /img
+
+# default locale (otherwise English strings are used)
+locale: 'fr'
+
+##
+## Collections
+##
 collections:
-  - name: 'club'
-    label: 'Club'
-    folder: 'content/club'
-    create: true
-    slug: 'club/{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Icône', name: 'icon', widget: 'string' }
-      - { label: 'Corps', name: 'body', widget: 'markdown' }
-  - name: 'competitions'
-    label: 'Compétitions'
-    folder: 'content/competitions'
-    create: true
-    slug: 'competitions/{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
-      - { label: 'Icône', name: 'icon', widget: 'string', default: "calendar-days-solid" }
-      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
-  - name: 'nouvelles'
-    label: 'Nouvelles'
-    folder: 'content/nouvelles'
-    create: true
-    slug: '{{year}}/{{month}}/{{day}}/{{slug}}'
-    fields:
-      - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
-      - { label: 'Image de couverture', name: 'images', widget: 'list' }
-      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
-  - name: 'pages'
-    label: 'Pages'
-    folder: 'content'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Icône', name: 'icon', widget: 'string' }
-      - { label: 'Corps', name: 'body', widget: 'markdown' }
-  - name: 'partenaires'
-    label: 'Partenaires'
-    editor:
-      preview: false
+  - name: 'special'
+    label: Pages spéciales
     files:
+      - name: 'homepage'
+        label: 'Page d’accueil'
+        # separate dir for homepage, avoid generic 'pages' collection below
+        file: content/_index.md
+        editor:
+          preview: false
+        fields:
+          - { name: title, label: 'Titre (meta)', widget: string }
+          - { name: headline, label: 'Texte à la une', widget: string }
+          - { name: background_image, label: 'Image à la une', widget: image }
+          - name: buttons
+            label: 'Boutons à la une'
+            widget: list
+            fields:
+              - name: text
+                label: 'Texte du bouton'
+                widget: string
+              - name: href
+                label: 'Chemin du lien'
+                widget: string
+              - name: button_type
+                label: 'Type du bouton'
+                widget: select
+                options: ['btn-default', 'btn-primary', 'btn-secondary', 'btn-tertiary']
+              - name: icon
+                label: 'Icône du bouton'
+                widget: string
+          - { name: body, label: 'Corps', widget: 'richtext', modes: ['raw'], buttons: ['bold', 'italic'] }
+      - name: '404-page'
+        label: 'Page 404'
+        # separate dir for homepage, avoid generic 'pages' collection below
+        file: content/404.md
+        editor:
+          preview: false
+        fields:
+          - { name: title, label: 'Titre', widget: string }
+          - { name: body, label: 'Corps', widget: 'richtext', modes: ['raw'], buttons: ['bold', 'italic'] }
       - name: 'partenaires_data'
         label: 'Partenaires (données)'
         file: 'data/partenaires.yml'
@@ -73,14 +85,76 @@ collections:
               - {label: Nom, name: name, widget: string}
               - {label: URL, name: url, widget: string}
               - {label: Image, name: image, widget: string}
+  - name: 'pages'
+    label: 'Pages régulières'
+    folder: 'content/pages'
+    create: true
+    delete: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Brouillon', name: 'draft', widget: 'boolean', default: true }
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Icône', name: 'icon', widget: 'string' }
+      - { label: 'Corps', name: 'body', widget: 'markdown' }
+  - name: 'nouvelles'
+    label: 'Nouvelles'
+    label_singular: 'Nouvelle'
+    folder: 'content/nouvelles'
+    summary: '{{ date }} – {{ title }}'
+    create: true
+    delete: true
+    slug: '{{year}}/{{month}}/{{day}}/{{slug}}'
+    sortable_fields: [ 'date', 'commit_date', 'title' ]
+    view_filters:
+      # date non vide
+      - label: Date
+        field: date
+        pattern: '.+'
+    fields:
+      - { label: 'Brouillon', name: 'draft', widget: 'boolean', default: true }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Image de couverture', name: 'images', widget: 'list' }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
+  - name: 'competitions'
+    label: 'Compétitions'
+    folder: 'content/competitions'
+    create: true
+    delete: true
+    slug: 'competitions/{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Brouillon', name: 'draft', widget: 'boolean', default: true }
+      - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Icône', name: 'icon', widget: 'string', default: "calendar-days-solid" }
+      - { label: 'Corps de la page', name: 'body', widget: 'markdown' }
   - name: 'resultats'
     label: 'Résultats'
     folder: 'content/resultats'
     create: true
+    delete: true
     slug: 'resultats/{{year}}/{{slug}}'
     editor:
       preview: false
+    nested:
+      subfolders: true
+      depth: 10
+      # Summary inferred from the `_index.md` at the root of each sub-collection
+      summary: '{{ title }}'
+    meta:
+      path:
+        widget: string
+        # each year has its own subfolder – label it to make path explcit
+        label: 'Année'
+        index_file: '_index'
     fields:
-      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Brouillon', name: 'draft', widget: 'boolean', default: true }
       - { label: 'Date', name: 'date', widget: 'datetime', default: "{{now}}", date_format: "YYYY-MM-DD" }
+      - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Corps de la page', name: 'body', widget: 'markdown' }

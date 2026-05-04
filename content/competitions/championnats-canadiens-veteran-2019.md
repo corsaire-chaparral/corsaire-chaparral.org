@@ -10,6 +10,7 @@ description: >
 #    identifier: championnats-canadiens-veteran
 #    weight: 0
 #    parent: competitions
+draft: true
 ---
 
 [Résultats / Results](/resultats/2019/championnats-can-masters/)

@@ -1,13 +1,25 @@
 {{- define "header-page" }}
-{{- $params := dict "subtitle" "Erreur" }}
+{{- $params := dict "subtitle" "Erreur 404" }}
+{{ with $.Site.GetPage "404.md"}}
+{{- $params := dict "subtitle" (.Params.subtitle) }}
+{{ end -}}
 {{- $pageMetadata := dict "Title" "Page introuvable" "Params" $params }}
 {{- partial "header-page.html" $pageMetadata -}}
 {{ end -}}
 
 {{- define "article" }}
-{{ with .GetPage "404.md"}}
-{{ .Content }}
+{{ with $.Site.GetPage "404.md" }}
+{{ .Content  }}
 {{ else }}
-La page demandée n’a pu être trouvée.
+{{ .Params.subtitle }}
+<div class="row">
+  <div class="col col-6 phone-col-12">
+    <h2>Faux départ!</h2>
+    <p>Il semble que la page que vous recherchez est introuvable. Veuillez retourner à <a href="/">l'accueil</a> ou utilisez la navigation.</p>
+  </div>
+  <div class="col col-6 phone-col-12">
+    <img class="img-responsive" src="/img/bloc.jpg" alt="Bloc de départ">
+  </div>
+</div>
 {{ end -}}
 {{ end -}}

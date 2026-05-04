@@ -1,39 +1,33 @@
+# Spécifier le chemin de la page d’erreur à afficher en cas
+# d’erreur 404 (Not Found)
 ErrorDocument 404 /404.html
 
-RewriteEngine On
-
-# redirect from HTTP://www to non-www
-RewriteCond %{HTTPS} !=on
-RewriteCond %{HTTP_HOST}        ^www\.(.+)$ [NC]
-RewriteRule ^                   http://%1%{REQUEST_URI}  [R=301,L]
-
-# rewrite / to /accueil/
-#RewriteRule ^/?$ /accueil/ [R]
-
-RewriteRule ^accueil\/?$ / [R]
-
 # Encodings
+AddType text/css css
 AddType image/svg+xml svg
 AddType image/svg+xml svgz
 AddEncoding x-gzip .svgz
 
 # Deflate
 <IfModule mod_deflate.c>
-	AddOutputFilterByType DEFLATE image/svg+xml
-	AddOutputFilterByType DEFLATE text/css
-	AddOutputFilterByType DEFLATE text/html
-	AddOutputFilterByType DEFLATE text/javascript
-	AddOutputFilterByType DEFLATE image/jpg
-	AddOutputFilterByType DEFLATE image/jpeg 
-	AddOutputFilterByType DEFLATE image/png
-	AddOutputFilterByType DEFLATE application/x-font-woff
+        AddOutputFilterByType DEFLATE image/svg+xml
+        AddOutputFilterByType DEFLATE text/css
+        AddOutputFilterByType DEFLATE text/html
+        AddOutputFilterByType DEFLATE text/javascript
+        AddOutputFilterByType DEFLATE image/jpg
+        AddOutputFilterByType DEFLATE image/jpeg
+        AddOutputFilterByType DEFLATE image/png
+        AddOutputFilterByType DEFLATE application/x-font-woff
 </IfModule>
 
 # Expires headers for client-side caching
 <IfModule mod_expires.c>
-  ExpiresActive On
 
-  ExpiresByType text/html "access plus 1 minute"
+  # Les pages HTML ne devraient pas être mises en cache, ou si peu
+  # Syntax: ExpiresByType MIME-type <code>seconds
+  ExpiresByType text/html 30
+
+  # Les ressource externes les images peuvent être mises en cache
   ExpiresByType image/svg+xml "access plus 1 week"
   ExpiresByType audio/ogg "access plus 1 week"
   ExpiresByType audio/mpeg "access plus 1 week"
@@ -59,14 +53,12 @@ AddEncoding x-gzip .svgz
 ########################################################
 RewriteEngine On
 
-# Invert this rule eventually to point to challenge-andre-harel
-RewriteRule ^competitions\/classique-hivernale\/?$ /competitions/challenge-andre-harel/ [R,L]
-RewriteRule ^competitions\/rencontre-hivernale-andre-harel\/?$ /competitions/challenge-andre-harel/ [R,L]
+# Ancienne page /accueil/ -> rediriger vers l’accueil /
+RewriteRule ^accueil\/?(.*)$ "/" [R=301,L]
 
+# Anciennes pages sous /club/
+# Ex. /club/histoire-mission/ -> /histoire-mission/
+RewriteRule "^club/(.+)" "/$1"  [R=301,L]
+# La page /club/, qui n’est plus utilisée – rediriger à l’accueil /
+RewriteRule "^club\/$" "/" [R,L]
 
-# Rewrite old URL to new (new name) for Corsaire-Chaparral Invitation
-RewriteRule ^competitions\/corsaire-chaparal-invitation\/?$ /competitions/corsaire-chaparral-invitation/ [R,L]
-
-
-# Update Marc-Olivier Guindon-Gibeault
-RewriteRule ^club\/entraineurs\/marc-olivier-guindon\/?$ /club/entraineurs/marc-olivier-guindon-gibeault/ [R,L]

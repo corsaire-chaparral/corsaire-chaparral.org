@@ -1,5 +1,7 @@
 ---
 title: Accueil
+#layout: home
+url: /
 
 headline: >
   Passionnés d’athlétisme depuis 1976 !
@@ -19,13 +21,12 @@ buttons:
 
 ---
 
-{{< section-infos variante="tertiaire" >}}
-## Prochain événement sur route : dimanche 3 mai 2026
+{{< section-infos variante="primaire" >}}
+## Prochaine compétition : le *Corsaire-Chaparral Invitation*, 30-31 mai
 
-La **Course et marche de Ste-Thérèse** aura lieu dimanche 3 mai au stade d’athlétisme Richard-Garneau.
-Les distances offertes sont : 1 km, 2 km, 5 km et 10 km.
+Le Corsaire-Chaparral tiendra sa compétition annuelle extérieure au stade Claude-Ferragne, à Laval, les 30 et 31 mai prochains.
 
-[**Information et inscription &rarr;**](https://coursemarche.corsaire-chaparral.org/)
+Le club a besoin de bénévoles pour cet événement.  [**Je m’implique &rarr;**](/benevolat)
 {{< /section-infos >}}
 
 {{< section-rubriques entete="Liens rapides" >}}

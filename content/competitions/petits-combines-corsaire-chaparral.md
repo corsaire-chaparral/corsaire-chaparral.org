@@ -253,11 +253,11 @@ Trois lancers consécutifs. Seul le meilleur lancer sera mesuré.
 
 ## Résultats antérieurs
 
-[Résulats 2022]({{< ref "resultats/2022/petits-combines-coch" >}})
+[Résulats 2022](/resultats/2022/petits-combines-coch/)
 
-[Résulats 2021]({{< ref "resultats/2021/petit-pentathlon-nathalie-2021" >}})
+[Résulats 2021](/resultats/2021/petit-pentathlon-nathalie-2021/)
 
-[Résultats 2020]({{< ref "resultats/2020/petit-pentathlon-nathalie" >}})
+[Résultats 2020](/resultats/2020/petit-pentathlon-nathalie/)
 
-[Résultats 2019]({{< ref "resultats/2019/petit-combine-de-nathalie" >}})
+[Résultats 2019](/resultats/2019/petit-combine-de-nathalie/)
 
