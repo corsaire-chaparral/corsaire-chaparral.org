@@ -11,7 +11,7 @@ Il est attendu que chaque athlète (et sa famille) accomplisse [**10 heures**](/
 | Date         | Événement                                                                                           |
 | ------------ |-----------------------------------------------------------------------------------------------------|
 | 2026-05-03   | _Course et marche Ste-Thérèse_ - [Inscription](https://coursemarche.corsaire-chaparral.org/benevoles) |
-| 2026-05-30   | _Coupe excellence #1_ (Laval)  |
+| 2026-05-30   | _Coupe excellence #1_ (Laval) - [Inscription](https://docs.google.com/forms/d/e/1FAIpQLSesKtR_qc3reneBqBXcP5eDTlgzOQzJWTs2dKd3LL595n8Dyw/viewform?usp=publish-editor) |
 | 2026-09-13   | _Le Demi-marathon de Blainville_ - [Inscription](https://www.demimarathondeblainville.com/benevoles) |
 
 ## Tâches régulières
